@@ -1,0 +1,42 @@
+#!/bin/bash
+
+JAR=/home/barb/Working/Git/Crawler4J/target/bbt-crawler4j-1.0.0-SNAPSHOT.jar
+CRAWL_CONFIG=/home/barb/Working/Git/Scripts/config_JobBoards.txt
+LOGGING_CONFIG=-Djava.util.logging.config.file=/home/barb/Working/Git/Scripts/logger.txt
+
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=2"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=1"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=2"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=3"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=4"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=5"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=6"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=7"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=8"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=9"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=11"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=12"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=13"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=14"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=15"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=16"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=17"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=18"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=19"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=20"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=2&page=2"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monster.com/jobs/search/?q=Blockchain&stpage=7&page=2"
+
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "https://www.monsterindia.com/srp/results?query=blockchain"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "monsterindia.com/srp/results?start=25&sort=1&limit=25&query=blockchain"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "monsterindia.com/srp/results?start=50&sort=1&limit=25&query=blockchain"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "monsterindia.com/srp/results?start=75&sort=1&limit=25&query=blockchain"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "monsterindia.com/srp/results?start=100&sort=1&limit=25&query=blockchain"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "monsterindia.com/srp/results?start=125&sort=1&limit=25&query=blockchain"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "monsterindia.com/srp/results?start=150&sort=1&limit=25&query=blockchain"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "monsterindia.com/srp/results?start=175&sort=1&limit=25&query=blockchain"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "monsterindia.com/srp/results?start=200&sort=1&limit=25&query=blockchain"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "monsterindia.com/srp/results?start=225&sort=1&limit=25&query=blockchain"
+java -jar $LOGGING_CONFIG $JAR $CRAWL_CONFIG "monsterindia.com/srp/results?start=250&sort=1&limit=25&query=blockchain"
