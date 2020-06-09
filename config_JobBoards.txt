@@ -1,8 +1,0 @@
-documentType:JobBoards
-maxDepthOfCrawling:3
-maxPagesToFetch:1000
-crawlStorageFolder:/home/barb/Working/Data/
-blackList:stackoverflow,github,blog,explorer.blockstack,docs,favicon,logout,help,legal,cloudflare,stylesheet,advice,consensys,vopay,articles,pasona,feed,matchplace,marketplace,resume,jobseaker,learning,template,example,signup,login,twitter,communityfeedback,facebook,dropbox,cloudflare,fonts,dashboard,products,browse,browsesalary,cookie,cover letters,questions,resources,about,sign in to stay updated
-tackit:true
-delayInSecs:1
-requiredList:bitcoin,stablecoin,bitcoin,blockchain,blockstack,chaincode,consensus,corda,cosmos,crypto,cryptoasset,cryptoassets,cryptocurrencies,cryptocurrency,parachain,dao,dapps,decentralized,decentralised,encryption,encryption,ethereum,ganache,geth,hyperledger,infura,ipfs,kotlin,kovan,layer-2,litecoin,mainnet,metamask,monero,multichain,off-chain,peertopeer,proof of work,proof of stake,quorum,corda,remix,ripple,rootstock,ropsten,rust,serenity,smartcontract,side-chain,solidity,staker,stellar,substrate,tendermint,terraform,testnet,tokenization,viper,vyper,waffle,z-cash,zcash

@@ -1,8 +1,0 @@
-documentType:JobBoard
-required:blockchain
-maxDepthOfCrawling:20000
-maxPagesToFetch:100
-crawlStorageFolder:/home/barb/Working/Data/Crawled
-blackList:login,twitter,facebook,dropbox,cloudflare,fonts,dashboard,products
-tackit:true
-delayInSecs:1
