@@ -7,8 +7,8 @@ Jobs:
   Objective -- Collect the data from job postings
                Post process the data to determine statistics and track trends
 
-  Four flavors of files.  Original idea was to not overwrite the original data
-               But to keep adding information in subsequent files.
+  There are a few different types of files.  Original idea was to not overwrite the 
+               unprocessed, scraped data but to keep adding information in subsequent files.
 
                All data is in Json format
 
@@ -24,4 +24,27 @@ Jobs:
                             NLP rules classified this document as linkList as opposed to 
                             a unique job posting
 
+   Statistics are in the Statistics subdirectory.
+              For the job boards, the stats are in dated directories with the most recent
+              (as of June 11th...) being Jun07
+              The file that shows the 8 vectors is final-stats-keyterms-Jobs.txt
+              The stats for the phrases are relatively meaningless, currently 
 
+    ML Binary Classifier:  Is it a Job posting or is it not?
+              *_     -->  These are files that the crawler thought might be job postings
+                          based on very basic checking techniques 
+              *_no_good  --> These are files that the crawler either thought were NOT
+                             job postings OR they were job postings that have nothing 
+                             to do with Blockchain
+              *_linkList --> These are documents that the crawler thought were lists
+                             of job postings, as opposed to the unique job postings themselves 
+
+               Notes:
+                 -- The data is not completely generic.  We only scrape about a dozen or so
+                    domains for job postings.  Every domain has a distinct structure and the documents
+                    from any given domain should have somewhat consistent characteristics.
+                 -- linkedIn and Monster would be good domains to start with
+                    Here is an example of real job posting:
+                         linkedin/01D7AA9FB97AE7EB027A0DD58F758B9B_
+                    Here is an example of bad document:
+                         linkedin/054492338C502E5711D1525A96C76137_
