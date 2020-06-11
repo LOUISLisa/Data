@@ -31,6 +31,9 @@ Jobs:
               The stats for the phrases are relatively meaningless, currently 
 
     ML Binary Classifier:  Is it a Job posting or is it not?
+
+              The data for this tasks is in the Jobs subdirectory
+
               *_     -->  These are files that the crawler thought might be job postings
                           based on very basic checking techniques 
               *_no_good  --> These are files that the crawler either thought were NOT
@@ -48,3 +51,19 @@ Jobs:
                          linkedin/01D7AA9FB97AE7EB027A0DD58F758B9B_
                     Here is an example of bad document:
                          linkedin/054492338C502E5711D1525A96C76137_
+
+                  -- Jobs/crypto is a good set of data to study to see well defined characteristics
+                     Try this:
+                     grep Title *_ | grep -v Body | grep -e " at " | more
+                     check a few of those documents against real data (this means to get the Url
+                     out of the data file and load it into a browser).
+                     Almost all of the documents that have titles that fall into the above
+                     pattern are real job postings
+
+                     Now try this:
+                     grep Title *_ | grep -v Body | grep -e " in " | more
+                     check a few of those documents.  You will see that almost none of the
+                     documents that have a title that follows that pattern are real job postings 
+                     So, w.r.t. labeling documents for supervised training, these would all be
+                     in the "no" or "false" set
+                   
