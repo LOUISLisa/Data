@@ -1,0 +1,33 @@
+Total Index Files in Path: 18
+Num Index Files Containing Key Terms: 18
+
+full time	17	94.44
+proof of talent	16	88.89
+cryptocurrency	13	72.22
+financial	12	66.67
+remote	7	38.89
+blockchain research	5	27.78
+business development	5	27.78
+exchanges	5	27.78
+bitcoin	4	22.22
+decentralized	4	22.22
+defi	4	22.22
+ethereum	4	22.22
+product manager	4	22.22
+smart contract	4	22.22
+trading	4	22.22
+cryptoasset	3	16.67
+devops	3	16.67
+hedge funds	2	11.11
+kubernetes	2	11.11
+startup	2	11.11
+artificial intelligence	1	5.56
+capital markets	1	5.56
+clarity	1	5.56
+collaboration	1	5.56
+compliance	1	5.56
+cryptoassets	1	5.56
+fraud	1	5.56
+internet of things	1	5.56
+solidity	1	5.56
+web-3	1	5.56

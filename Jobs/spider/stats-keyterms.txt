@@ -1,0 +1,307 @@
+Total Index Files in Path: 730
+Num Index Files Containing Key Terms: 720
+
+financial	341	47.36
+privacy	272	37.78
+cryptocurrency	244	33.89
+decentralized	228	31.67
+bitcoin	226	31.39
+ethereum	222	30.83
+trading	183	25.42
+wallet	165	22.92
+digital asset	159	22.08
+cryptocurrencies	139	19.31
+full time	121	16.81
+smart contract	111	15.42
+compliance	110	15.28
+exchanges	109	15.14
+github	108	15.00
+javascript	99	13.75
+startup	94	13.06
+dapps	74	10.28
+remote	74	10.28
+banking	72	10.00
+peer to peer	62	8.61
+protocols	61	8.47
+marketplace	58	8.06
+collaboration	57	7.92
+web-3	57	7.92
+algorithms	53	7.36
+consensus	53	7.36
+defi	51	7.08
+cloud	50	6.94
+python	50	6.94
+android	49	6.81
+analytical	47	6.53
+staking	44	6.11
+cryptography	43	5.97
+back end	39	5.42
+business development	39	5.42
+artificial intelligence	38	5.28
+litecoin	38	5.28
+react	38	5.28
+fraud	37	5.14
+dlt	36	5.00
+html	36	5.00
+kyc	35	4.86
+agile	34	4.72
+testnet	34	4.72
+front end	32	4.44
+anti money laundering	31	4.31
+sdk	31	4.31
+stable coin	31	4.31
+encryption	30	4.17
+java	30	4.17
+tokenization	30	4.17
+frameworks	29	4.03
+gaming	28	3.89
+product manager	28	3.89
+asset management	27	3.75
+distributed systems	27	3.75
+linux	27	3.75
+mainnet	27	3.75
+capital markets	26	3.61
+internet of things	26	3.61
+real estate	26	3.61
+crypto wallet	25	3.47
+cyber	25	3.47
+health care	25	3.47
+interoperability	25	3.47
+interoperable	25	3.47
+solidity	25	3.47
+supply chain	25	3.47
+devops	24	3.33
+sql	24	3.33
+stellar	24	3.33
+aws	23	3.19
+loans	23	3.19
+hedge funds	22	3.06
+machine learning	22	3.06
+cryptoassets	21	2.92
+private keys	21	2.92
+docker	20	2.78
+nodejs	20	2.78
+proof of stake	20	2.78
+risk management	20	2.78
+voting	20	2.78
+css	19	2.64
+full stack	19	2.64
+ico	19	2.64
+advertising	18	2.50
+blockchain developer	18	2.50
+cosmos	18	2.50
+disruptive	18	2.50
+mobile apps	18	2.50
+ripple	18	2.50
+e-commerce	17	2.36
+lightning network	17	2.36
+ui ux	17	2.36
+embedded	15	2.08
+monero	15	2.08
+rust	15	2.08
+git	14	1.94
+swift	14	1.94
+typescript	14	1.94
+cryptoasset	13	1.81
+data analytics	13	1.81
+kubernetes	13	1.81
+off-chain	13	1.81
+wireframes	13	1.81
+zcash	13	1.81
+angular	12	1.67
+crowdfunding	12	1.67
+jira	12	1.67
+proof of work	12	1.67
+blockchain platforms	11	1.53
+code review	11	1.53
+custodial	11	1.53
+dao	11	1.53
+data science	11	1.53
+golang	11	1.53
+microservices	11	1.53
+scripting	11	1.53
+validator	11	1.53
+web applications	11	1.53
+clarity	10	1.39
+digital asset exchange	10	1.39
+distributed application	10	1.39
+scala	10	1.39
+social network	10	1.39
+utility token	10	1.39
+application development	9	1.25
+big data	9	1.25
+blockstack	9	1.25
+decentralized systems	9	1.25
+information technology	9	1.25
+metamask	9	1.25
+network security	9	1.25
+permissioned	9	1.25
+pharmaceutical	9	1.25
+truffle	9	1.25
+azure	8	1.11
+backbone	8	1.11
+cross-chain	8	1.11
+data structures	8	1.11
+design patterns	8	1.11
+nosql	8	1.11
+sto	8	1.11
+websocket	8	1.11
+blockchain based	7	0.97
+blockchain research	7	0.97
+information systems	7	0.97
+ipfs	7	0.97
+json	7	0.97
+kafka	7	0.97
+layer-2	7	0.97
+npm	7	0.97
+parity	7	0.97
+postgres	7	0.97
+proof of concept	7	0.97
+ruby	7	0.97
+tendermint	7	0.97
+terraform	7	0.97
+tokenomics	7	0.97
+visualization	7	0.97
+webpack	7	0.97
+asset tokenization	6	0.83
+ci cd	6	0.83
+consensus algorithms	6	0.83
+financial application	6	0.83
+forensic	6	0.83
+functional program	6	0.83
+genetic	6	0.83
+kotlin	6	0.83
+spark	6	0.83
+substrate	6	0.83
+blockchain architecture	5	0.69
+blockchain services	5	0.69
+chef	5	0.69
+cloud computing	5	0.69
+continuous integration	5	0.69
+corda	5	0.69
+crypto enthusiast	5	0.69
+cryptographic protocols	5	0.69
+hyperledger	5	0.69
+mongodb	5	0.69
+mysql	5	0.69
+sass	5	0.69
+social impact	5	0.69
+web-2	5	0.69
+zero knowledge	5	0.69
+ansible	4	0.56
+business intelligence	4	0.56
+digital banking	4	0.56
+emerging technologies	4	0.56
+fabric	4	0.56
+gambling	4	0.56
+geth	4	0.56
+graphql	4	0.56
+investment funds	4	0.56
+jquery	4	0.56
+lending platforms	4	0.56
+pgp	4	0.56
+prediction markets	4	0.56
+rpc	4	0.56
+scrum	4	0.56
+smart cities	4	0.56
+strategic planning	4	0.56
+tableau	4	0.56
+unit test	4	0.56
+virtual reality	4	0.56
+analytical and problem solving	3	0.42
+beacon	3	0.42
+beacon chain	3	0.42
+blockchain agnostic	3	0.42
+blockchain interoperability	3	0.42
+cloud services	3	0.42
+django	3	0.42
+ecmascript	3	0.42
+elasticsearch	3	0.42
+ganache	3	0.42
+hadoop	3	0.42
+insurtech	3	0.42
+mobile payments	3	0.42
+multi-chain	3	0.42
+numpy	3	0.42
+rsk	3	0.42
+tdd	3	0.42
+automated testing	2	0.28
+cannabis	2	0.28
+containers	2	0.28
+digital collectible	2	0.28
+enterprise software	2	0.28
+etl	2	0.28
+fraud detection	2	0.28
+gpus	2	0.28
+identity management	2	0.28
+infura	2	0.28
+intellectual curiosity	2	0.28
+json-rpc	2	0.28
+kovan	2	0.28
+mesh	2	0.28
+middleware	2	0.28
+nlp	2	0.28
+object oriented	2	0.28
+object oriented programming	2	0.28
+platform developer	2	0.28
+privacy tech	2	0.28
+proof of identity	2	0.28
+proof of your	2	0.28
+protocol developer	2	0.28
+puppet	2	0.28
+quality engineer	2	0.28
+quorum	2	0.28
+remix	2	0.28
+ropsten	2	0.28
+serenity	2	0.28
+spring boot	2	0.28
+vyper	2	0.28
+wasm	2	0.28
+augmented reality	1	0.14
+babel	1	0.14
+chaincode	1	0.14
+containerization	1	0.14
+data warehousing	1	0.14
+decentralised systems	1	0.14
+digital asset platform	1	0.14
+disruptive solutions	1	0.14
+disruptive technologies	1	0.14
+edtech	1	0.14
+erlang	1	0.14
+fpga	1	0.14
+functional test	1	0.14
+haskell	1	0.14
+intellij	1	0.14
+interoperability platform	1	0.14
+j2ee	1	0.14
+js frameworks	1	0.14
+libra network	1	0.14
+lisp	1	0.14
+loyalty programs	1	0.14
+non custodial	1	0.14
+online games	1	0.14
+open source technologies	1	0.14
+opensource	1	0.14
+privacy compliance	1	0.14
+proof of accessstorage	1	0.14
+proof of age	1	0.14
+proof of bandwidth	1	0.14
+proof of bitcoin	1	0.14
+proof of history	1	0.14
+proof of immunity	1	0.14
+proof of performance	1	0.14
+proof of reserves	1	0.14
+proof of space	1	0.14
+proof of spacetime	1	0.14
+proof of verification	1	0.14
+quantum computing	1	0.14
+rancher	1	0.14
+rdbms	1	0.14
+restful apis	1	0.14
+side chain	1	0.14
+social good	1	0.14
+staker	1	0.14
+teneo	1	0.14
+test automation	1	0.14
+user facing	1	0.14
+verilog	1	0.14

@@ -1,0 +1,276 @@
+Total Index Files in Path: 576
+Num Index Files Containing Key Terms: 575
+
+privacy	246	42.78
+financial	222	38.61
+remote	219	38.09
+cloud	210	36.52
+artificial intelligence	179	31.13
+supply chain	145	25.22
+cryptocurrency	143	24.87
+internet of things	141	24.52
+full time	125	21.74
+compliance	97	16.87
+java	93	16.17
+analytical	90	15.65
+sql	89	15.48
+javascript	84	14.61
+python	84	14.61
+agile	78	13.57
+collaboration	68	11.83
+frameworks	66	11.48
+aws	63	10.96
+machine learning	60	10.43
+smart contract	59	10.26
+ethereum	57	9.91
+product manager	55	9.57
+startup	55	9.57
+bitcoin	54	9.39
+digital asset	54	9.39
+decentralized	53	9.22
+react	53	9.22
+business development	52	9.04
+data science	45	7.83
+nodejs	44	7.65
+health care	43	7.48
+protocols	42	7.30
+trading	42	7.30
+back end	41	7.13
+encryption	35	6.09
+exchanges	35	6.09
+azure	34	5.91
+cryptocurrencies	33	5.74
+linux	33	5.74
+consensus	32	5.57
+banking	31	5.39
+data analytics	31	5.39
+scripting	31	5.39
+front end	30	5.22
+full stack	30	5.22
+scrum	30	5.22
+typescript	30	5.22
+algorithms	29	5.04
+distributed systems	29	5.04
+html	29	5.04
+information technology	29	5.04
+ci cd	28	4.87
+solidity	28	4.87
+cryptography	27	4.70
+docker	27	4.70
+android	26	4.52
+business intelligence	26	4.52
+devops	26	4.52
+etl	24	4.17
+jira	24	4.17
+swift	24	4.17
+dapps	23	4.00
+ripple	23	4.00
+rust	23	4.00
+angular	22	3.83
+fraud	22	3.83
+git	22	3.83
+golang	22	3.83
+information systems	22	3.83
+kubernetes	22	3.83
+application development	21	3.65
+blockchain developer	21	3.65
+css	21	3.65
+cyber	21	3.65
+github	21	3.65
+ruby	21	3.65
+fabric	20	3.48
+hyperledger	20	3.48
+peer to peer	20	3.48
+stellar	20	3.48
+big data	19	3.30
+digital asset exchange	19	3.30
+genetic	19	3.30
+sales manager	19	3.30
+visualization	19	3.30
+web applications	19	3.30
+code review	17	2.96
+nosql	17	2.96
+sdlc	17	2.96
+wallet	17	2.96
+dlt	16	2.78
+json	16	2.78
+unit test	16	2.78
+web-3	16	2.78
+microservices	15	2.61
+data structures	14	2.43
+emerging technologies	14	2.43
+mongodb	14	2.43
+continuous integration	13	2.26
+j2ee	13	2.26
+kafka	13	2.26
+mysql	13	2.26
+spark	13	2.26
+spring boot	13	2.26
+webpack	13	2.26
+cloud services	12	2.09
+design patterns	12	2.09
+enterprise software	12	2.09
+hadoop	12	2.09
+litecoin	12	2.09
+network security	12	2.09
+scala	12	2.09
+terraform	12	2.09
+anti money laundering	11	1.91
+backbone	11	1.91
+cloud computing	11	1.91
+real estate	11	1.91
+risk management	11	1.91
+tableau	11	1.91
+corda	10	1.74
+e-commerce	10	1.74
+identity management	10	1.74
+jquery	10	1.74
+marketplace	10	1.74
+sdk	10	1.74
+test automation	10	1.74
+acceptance test	9	1.57
+functional test	9	1.57
+gaming	9	1.57
+mobile apps	9	1.57
+off-chain	9	1.57
+restful apis	9	1.57
+advertising	8	1.39
+automated testing	8	1.39
+clarity	8	1.39
+interoperability	8	1.39
+analytical and problem solving	7	1.22
+containerization	7	1.22
+defi	7	1.22
+financial application	7	1.22
+kotlin	7	1.22
+kyc	7	1.22
+middleware	7	1.22
+postgres	7	1.22
+quality engineer	7	1.22
+ansible	6	1.04
+blockchain based	6	1.04
+functional program	6	1.04
+maven	6	1.04
+rdbms	6	1.04
+senior consultant	6	1.04
+tdd	6	1.04
+asset management	5	0.87
+capital markets	5	0.87
+elasticsearch	5	0.87
+geth	5	0.87
+hardware engineer	5	0.87
+hedge funds	5	0.87
+pharmaceutical	5	0.87
+blockchain architecture	4	0.70
+blockchain platforms	4	0.70
+blockchain research	4	0.70
+consensus algorithms	4	0.70
+containers	4	0.70
+continuous deployment	4	0.70
+cryptographic protocols	4	0.70
+data warehousing	4	0.70
+disruptive	4	0.70
+distributed application	4	0.70
+embedded	4	0.70
+graphql	4	0.70
+ipfs	4	0.70
+object oriented	4	0.70
+permissioned	4	0.70
+puppet	4	0.70
+tokenization	4	0.70
+chef	3	0.52
+cosmos	3	0.52
+django	3	0.52
+encryption signatures	3	0.52
+hash functions	3	0.52
+hbase	3	0.52
+intellectual curiosity	3	0.52
+intellij	3	0.52
+laravel	3	0.52
+libra network	3	0.52
+lisp	3	0.52
+loans	3	0.52
+nlp	3	0.52
+npm	3	0.52
+object model	3	0.52
+predictive analytics	3	0.52
+private keys	3	0.52
+rancher	3	0.52
+rpc	3	0.52
+smart cities	3	0.52
+ui ux	3	0.52
+waffle	3	0.52
+zcash	3	0.52
+asset tokenization	2	0.35
+circuit design	2	0.35
+cloud experience	2	0.35
+crowdfunding	2	0.35
+custodial	2	0.35
+decentralized systems	2	0.35
+gradle	2	0.35
+ico	2	0.35
+js frameworks	2	0.35
+loyalty programs	2	0.35
+matlab	2	0.35
+mesh	2	0.35
+mqtt	2	0.35
+multithreading	2	0.35
+numpy	2	0.35
+parity	2	0.35
+platform developer	2	0.35
+proof of concept	2	0.35
+proof of work	2	0.35
+quantum computing	2	0.35
+social network	2	0.35
+stable coin	2	0.35
+standards protocols	2	0.35
+strategic planning	2	0.35
+threat modeling	2	0.35
+tokenomics	2	0.35
+unit and functional test	2	0.35
+vyper	2	0.35
+wasm	2	0.35
+web-2	2	0.35
+babel	1	0.17
+beacon	1	0.17
+blockchain interoperability	1	0.17
+blockstack	1	0.17
+cannabis	1	0.17
+cognitive automation	1	0.17
+cryptoasset	1	0.17
+cryptoassets	1	0.17
+digital banking	1	0.17
+digital collectible	1	0.17
+disruptive technologies	1	0.17
+ecr	1	0.17
+forensic	1	0.17
+haskell	1	0.17
+insurtech	1	0.17
+interoperable	1	0.17
+investment funds	1	0.17
+kanban	1	0.17
+kendo ui	1	0.17
+layer-2	1	0.17
+lightning network	1	0.17
+mainnet	1	0.17
+merkle tree	1	0.17
+multi-chain	1	0.17
+nethermind	1	0.17
+object oriented design	1	0.17
+proof of authority	1	0.17
+proof of either	1	0.17
+proof of stake	1	0.17
+quorum	1	0.17
+sass	1	0.17
+serenity	1	0.17
+social impact	1	0.17
+solr	1	0.17
+sto	1	0.17
+tcl	1	0.17
+tendermint	1	0.17
+utility token	1	0.17
+voting	1	0.17
+websocket	1	0.17
+wireframes	1	0.17
+zero knowledge	1	0.17
+zookeeper	1	0.17

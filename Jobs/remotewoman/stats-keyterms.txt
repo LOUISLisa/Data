@@ -1,0 +1,146 @@
+Total Index Files in Path: 160
+Num Index Files Containing Key Terms: 160
+
+remote	160	100.00
+full time	142	88.75
+privacy	142	88.75
+cloud	111	69.38
+github	73	45.63
+terraform	70	43.75
+smart contract	56	35.00
+collaboration	49	30.63
+javascript	47	29.38
+product manager	46	28.75
+ruby	41	25.62
+aws	34	21.25
+elasticsearch	34	21.25
+cloud services	32	20.00
+back end	31	19.38
+java	30	18.75
+distributed systems	26	16.25
+linux	26	16.25
+python	24	15.00
+react	22	13.75
+startup	21	13.13
+devops	20	12.50
+internet of things	20	12.50
+parity	20	12.50
+analytical	18	11.25
+full stack	18	11.25
+kubernetes	17	10.63
+protocols	17	10.63
+compliance	16	10.00
+front end	16	10.00
+git	16	10.00
+html	16	10.00
+azure	15	9.38
+financial	14	8.75
+frameworks	14	8.75
+golang	14	8.75
+typescript	14	8.75
+web applications	14	8.75
+consensus	13	8.13
+docker	13	8.13
+agile	12	7.50
+algorithms	12	7.50
+continuous integration	12	7.50
+clarity	11	6.88
+sql	11	6.88
+stellar	11	6.88
+health care	10	6.25
+nodejs	10	6.25
+data science	9	5.63
+encryption	9	5.63
+angular	8	5.00
+ansible	8	5.00
+automated testing	8	5.00
+kotlin	8	5.00
+code review	7	4.38
+machine learning	7	4.38
+swift	7	4.38
+application development	6	3.75
+css	6	3.75
+sdk	6	3.75
+visualization	6	3.75
+etl	5	3.13
+identity management	5	3.13
+mongodb	5	3.13
+nosql	5	3.13
+solidity	5	3.13
+unit test	5	3.13
+android	4	2.50
+cryptocurrency	4	2.50
+cyber	4	2.50
+design patterns	4	2.50
+django	4	2.50
+layer-2	4	2.50
+mysql	4	2.50
+rust	4	2.50
+scala	4	2.50
+scripting	4	2.50
+tdd	4	2.50
+chef	3	1.88
+continuous deployment	3	1.88
+dapps	3	1.88
+decentralized	3	1.88
+enterprise software	3	1.88
+genetic	3	1.88
+graphql	3	1.88
+information technology	3	1.88
+intellectual curiosity	3	1.88
+jira	3	1.88
+js frameworks	3	1.88
+microservices	3	1.88
+open source tools	3	1.88
+postgres	3	1.88
+puppet	3	1.88
+risk management	3	1.88
+sales manager	3	1.88
+web-3	3	1.88
+advertising	2	1.25
+backbone	2	1.25
+banking	2	1.25
+big data	2	1.25
+business development	2	1.25
+ci cd	2	1.25
+consensus algorithms	2	1.25
+cryptography	2	1.25
+data structures	2	1.25
+developing and deploying	2	1.25
+ethereum	2	1.25
+fraud	2	1.25
+information systems	2	1.25
+laravel	2	1.25
+network security	2	1.25
+open source technologies	2	1.25
+restful apis	2	1.25
+spark	2	1.25
+strategic planning	2	1.25
+test automation	2	1.25
+user facing	2	1.25
+business intelligence	1	0.63
+cloud computing	1	0.63
+data analytics	1	0.63
+data warehousing	1	0.63
+e-commerce	1	0.63
+embedded	1	0.63
+fabric	1	0.63
+forensic	1	0.63
+gaming	1	0.63
+hadoop	1	0.63
+jquery	1	0.63
+kafka	1	0.63
+middleware	1	0.63
+mobile apps	1	0.63
+numpy	1	0.63
+off-chain	1	0.63
+quality engineer	1	0.63
+real estate	1	0.63
+sass	1	0.63
+scrum	1	0.63
+sdlc	1	0.63
+social impact	1	0.63
+staking	1	0.63
+subscription based	1	0.63
+supply chain	1	0.63
+voting	1	0.63
