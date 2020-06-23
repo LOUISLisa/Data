@@ -1,0 +1,289 @@
+Total Index Files in Path: 1805
+Num Index Files Containing Key Terms: 1802
+
+financial	759	42.12
+java	654	36.29
+cloud	636	35.29
+aws	538	29.86
+ethereum	534	29.63
+nodejs	486	26.97
+cryptography	482	26.75
+python	452	25.08
+smart contract	441	24.47
+full time	422	23.42
+javascript	412	22.86
+algorithms	393	21.81
+frameworks	392	21.75
+hyperledger	390	21.64
+decentralized	383	21.25
+agile	377	20.92
+cryptocurrency	367	20.37
+docker	367	20.37
+startup	341	18.92
+distributed systems	336	18.65
+react	336	18.65
+privacy	332	18.42
+remote	315	17.48
+angular	309	17.15
+consensus	301	16.70
+bitcoin	300	16.65
+back end	287	15.93
+artificial intelligence	273	15.15
+fabric	270	14.98
+collaboration	265	14.71
+protocols	263	14.59
+dlt	261	14.48
+golang	260	14.43
+compliance	245	13.60
+kubernetes	243	13.49
+analytical	233	12.93
+digital asset	231	12.82
+solidity	227	12.60
+azure	213	11.82
+linux	211	11.71
+sql	205	11.38
+devops	196	10.88
+encryption	189	10.49
+full stack	188	10.43
+scripting	186	10.32
+blockchain developer	180	9.99
+corda	180	9.99
+dapps	179	9.93
+git	178	9.88
+front end	177	9.82
+cryptocurrencies	176	9.77
+trading	176	9.77
+rust	160	8.88
+typescript	159	8.82
+exchanges	154	8.55
+wallet	154	8.55
+nosql	152	8.44
+banking	151	8.38
+application development	149	8.27
+github	148	8.21
+product manager	146	8.10
+data structures	142	7.88
+css	137	7.60
+peer to peer	137	7.60
+microservices	135	7.49
+html	134	7.44
+consensus algorithms	132	7.33
+off-chain	126	6.99
+encryption signatures	124	6.88
+hash functions	124	6.88
+j2ee	124	6.88
+supply chain	124	6.88
+genetic	123	6.83
+internet of things	121	6.71
+permissioned	121	6.71
+data analytics	113	6.27
+business development	109	6.05
+continuous integration	106	5.88
+ripple	105	5.83
+machine learning	104	5.77
+sdlc	103	5.72
+code review	102	5.66
+web-3	101	5.60
+blockchain platforms	100	5.55
+object oriented	99	5.49
+android	97	5.38
+health care	97	5.38
+cloud computing	88	4.88
+mongodb	87	4.83
+sdk	87	4.83
+distributed application	85	4.72
+information technology	83	4.61
+cloud services	81	4.50
+functional program	81	4.50
+identity management	80	4.44
+mysql	78	4.33
+design patterns	76	4.22
+terraform	76	4.22
+data science	75	4.16
+kafka	75	4.16
+ci cd	73	4.05
+json	72	4.00
+graphql	71	3.94
+scrum	70	3.88
+swift	70	3.88
+web applications	69	3.83
+blockchain based	67	3.72
+ruby	67	3.72
+kotlin	66	3.66
+geth	65	3.61
+stellar	65	3.61
+big data	63	3.50
+cryptoasset	63	3.50
+disruptive	61	3.39
+webpack	60	3.33
+blockchain architecture	58	3.22
+scala	57	3.16
+ipfs	55	3.05
+containerization	53	2.94
+capital markets	51	2.83
+cosmos	51	2.83
+enterprise software	51	2.83
+object oriented design	51	2.83
+jira	50	2.77
+tokenization	49	2.72
+digital asset exchange	48	2.66
+postgres	46	2.55
+npm	45	2.50
+automated testing	44	2.44
+quorum	44	2.44
+unit test	44	2.44
+ui ux	43	2.39
+blockchain research	42	2.33
+cryptographic protocols	40	2.22
+laravel	40	2.22
+rabbit mq	40	2.22
+tendermint	40	2.22
+marketplace	39	2.16
+spring boot	39	2.16
+cryptoassets	38	2.11
+defi	37	2.05
+fraud	37	2.05
+haskell	37	2.05
+ansible	36	2.00
+cyber	36	2.00
+gaming	35	1.94
+restful apis	35	1.94
+rpc	33	1.83
+sales manager	33	1.83
+interoperability	31	1.72
+real estate	31	1.72
+anti money laundering	30	1.66
+emerging technologies	29	1.61
+hadoop	29	1.61
+lightning network	29	1.61
+middleware	29	1.61
+parity	29	1.61
+private keys	29	1.61
+spark	29	1.61
+mobile apps	28	1.55
+proof of stake	28	1.55
+containers	27	1.50
+functional test	27	1.50
+decentralized systems	26	1.44
+multithreading	26	1.44
+nlp	25	1.39
+rdbms	25	1.39
+risk management	25	1.39
+tdd	25	1.39
+hedge funds	23	1.28
+interoperable	23	1.28
+maven	23	1.28
+custodial	22	1.22
+e-commerce	22	1.22
+proof of work	22	1.22
+truffle	22	1.22
+cloud experience	21	1.17
+embedded	21	1.17
+numpy	21	1.17
+django	20	1.11
+matlab	20	1.11
+standards protocols	20	1.11
+visualization	20	1.11
+blockchain services	19	1.05
+business intelligence	19	1.05
+ico	19	1.05
+jquery	19	1.05
+json-rpc	19	1.05
+wireframes	19	1.05
+continuous deployment	18	1.00
+information systems	18	1.00
+systems implementation	18	1.00
+wasm	18	1.00
+zcash	18	1.00
+unit and functional test	17	0.94
+advertising	16	0.89
+asset tokenization	15	0.83
+blockstack	15	0.83
+dlt service	15	0.83
+etl	15	0.83
+strategic planning	15	0.83
+cryptographic principles	14	0.78
+gradle	14	0.78
+test automation	14	0.78
+tokenomics	14	0.78
+cross-chain	13	0.72
+tableau	13	0.72
+proof of concepts	12	0.67
+sto	12	0.67
+acceptance test	11	0.61
+asset management	11	0.61
+intellij	11	0.61
+kyc	11	0.61
+sass	10	0.55
+stable coin	10	0.55
+blockchain interoperability	9	0.50
+crypto wallet	9	0.50
+drizzle	9	0.50
+privacy compliance	9	0.50
+utility token	9	0.50
+validator	9	0.50
+backbone	8	0.44
+financial application	8	0.44
+intellectual curiosity	8	0.44
+clarity	7	0.39
+disruptive technologies	7	0.39
+open source technologies	7	0.39
+websocket	7	0.39
+elasticsearch	6	0.33
+investment funds	6	0.33
+lending platforms	6	0.33
+lisp	6	0.33
+litecoin	6	0.33
+loans	6	0.33
+mesh	6	0.33
+network security	6	0.33
+puppet	6	0.33
+rancher	6	0.33
+analytical and problem solving	5	0.28
+babel	5	0.28
+data warehousing	5	0.28
+enterprise blockchain software	5	0.28
+metamask	5	0.28
+mqtt	5	0.28
+nethermind	5	0.28
+proof of bandwidth	5	0.28
+scikit	5	0.28
+senior consultant	5	0.28
+staking	5	0.28
+chef	4	0.22
+crypto enthusiast	4	0.22
+digital asset platform	4	0.22
+digital banking	4	0.22
+ewasm	4	0.22
+pharmaceutical	4	0.22
+quantum computing	4	0.22
+social impact	4	0.22
+testnet	4	0.22
+hardware engineer	3	0.17
+mainnet	3	0.17
+solr	3	0.17
+vyper	3	0.17
+ecr	2	0.11
+fpga	2	0.11
+hbase	2	0.11
+infura	2	0.11
+insurtech	2	0.11
+js frameworks	2	0.11
+mobile payments	2	0.11
+object oriented programming	2	0.11
+opensource	2	0.11
+platform developer	2	0.11
+predictive analytics	2	0.11
+proof of delivery	2	0.11
+threat modeling	2	0.11
+alteryx	1	0.06
+augmented reality	1	0.06
+chaincode	1	0.06
+kendo ui	1	0.06
+legal tech	1	0.06
+libra network	1	0.06
+proof of concept	1	0.06
+social network	1	0.06
+virtual reality	1	0.06
+voting	1	0.06
+zookeeper	1	0.06
