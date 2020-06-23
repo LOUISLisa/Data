@@ -1,0 +1,48 @@
+Total Index Files in Path: 3
+Num Index Files Containing Key Terms: 3
+
+privacy	3	100.00
+wallet	3	100.00
+bitcoin	2	66.67
+cryptocurrency	2	66.67
+ethereum	2	66.67
+financial	2	66.67
+java	2	66.67
+software engineer	2	66.67
+startup	2	66.67
+advertising	1	33.33
+agile	1	33.33
+algorithms	1	33.33
+android	1	33.33
+back end	1	33.33
+big data	1	33.33
+blockchain developer	1	33.33
+clarity	1	33.33
+cloud	1	33.33
+code review	1	33.33
+collaboration	1	33.33
+compliance	1	33.33
+cryptocurrencies	1	33.33
+cyber	1	33.33
+digital asset	1	33.33
+disruptive	1	33.33
+docker	1	33.33
+front end	1	33.33
+full stack	1	33.33
+full time	1	33.33
+functional test	1	33.33
+graphql	1	33.33
+information technology	1	33.33
+javascript	1	33.33
+kubernetes	1	33.33
+lightning network	1	33.33
+machine learning	1	33.33
+mongodb	1	33.33
+nodejs	1	33.33
+python	1	33.33
+react	1	33.33
+scrum	1	33.33
+stellar	1	33.33
+typescript	1	33.33
+unit and functional test	1	33.33
+unit test	1	33.33

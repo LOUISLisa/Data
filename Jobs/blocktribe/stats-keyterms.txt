@@ -1,0 +1,208 @@
+Total Index Files in Path: 291
+Num Index Files Containing Key Terms: 288
+
+financial	237	82.29
+cryptocurrency	170	59.03
+bitcoin	158	54.86
+ethereum	150	52.08
+privacy	135	46.88
+wallet	135	46.88
+digital asset	82	28.47
+cloud	72	25.00
+software engineer	71	24.65
+compliance	50	17.36
+remote	49	17.01
+aws	48	16.67
+decentralized	45	15.63
+javascript	44	15.28
+python	42	14.58
+algorithms	40	13.89
+protocols	39	13.54
+ruby	37	12.85
+analytical	34	11.81
+java	34	11.81
+back end	33	11.46
+collaboration	33	11.46
+sql	33	11.46
+dlt	32	11.11
+frameworks	32	11.11
+golang	32	11.11
+product manager	32	11.11
+react	32	11.11
+docker	31	10.76
+full time	30	10.42
+agile	29	10.07
+startup	28	9.72
+artificial intelligence	27	9.38
+cloud services	27	9.38
+github	26	9.03
+trading	25	8.68
+cryptocurrencies	24	8.33
+linux	24	8.33
+devops	23	7.99
+distributed systems	23	7.99
+nodejs	23	7.99
+smart contract	23	7.99
+azure	20	6.94
+cryptography	20	6.94
+disruptive	20	6.94
+banking	18	6.25
+jira	18	6.25
+kubernetes	18	6.25
+android	16	5.56
+ci cd	16	5.56
+data structures	16	5.56
+git	15	5.21
+fraud	14	4.86
+front end	14	4.86
+kotlin	14	4.86
+mysql	14	4.86
+nosql	14	4.86
+blockchain research	13	4.51
+microservices	13	4.51
+web-3	13	4.51
+continuous integration	12	4.17
+scala	12	4.17
+web applications	12	4.17
+exchanges	11	3.82
+genetic	11	3.82
+mongodb	11	3.82
+scrum	11	3.82
+terraform	11	3.82
+typescript	11	3.82
+anti money laundering	10	3.47
+mesh	10	3.47
+mobile apps	10	3.47
+scripting	10	3.47
+object oriented	9	3.13
+html	8	2.78
+kafka	8	2.78
+kyc	8	2.78
+risk management	8	2.78
+rust	8	2.78
+unit test	8	2.78
+visualization	8	2.78
+ansible	7	2.43
+consensus	7	2.43
+css	7	2.43
+data science	7	2.43
+defi	7	2.43
+full stack	7	2.43
+machine learning	7	2.43
+peer to peer	7	2.43
+postgres	7	2.43
+tableau	7	2.43
+tokenization	7	2.43
+code review	6	2.08
+insurtech	6	2.08
+kanban	6	2.08
+marketplace	6	2.08
+supply chain	6	2.08
+swift	6	2.08
+capital markets	5	1.74
+containers	5	1.74
+cyber	5	1.74
+dapps	5	1.74
+encryption	5	1.74
+functional program	5	1.74
+haskell	5	1.74
+intellectual curiosity	5	1.74
+sdlc	5	1.74
+solidity	5	1.74
+acceptance test	4	1.39
+angular	4	1.39
+blockchain developer	4	1.39
+business intelligence	4	1.39
+cloud computing	4	1.39
+geth	4	1.39
+health care	4	1.39
+information systems	4	1.39
+json	4	1.39
+parity	4	1.39
+proof of work	4	1.39
+stellar	4	1.39
+tdd	4	1.39
+test automation	4	1.39
+advertising	3	1.04
+analytical and problem solving	3	1.04
+automated testing	3	1.04
+big data	3	1.04
+business development	3	1.04
+consensus algorithms	3	1.04
+containerization	3	1.04
+data analytics	3	1.04
+graphql	3	1.04
+interoperability	3	1.04
+object oriented programming	3	1.04
+puppet	3	1.04
+truffle	3	1.04
+webpack	3	1.04
+asset management	2	0.69
+chef	2	0.69
+clarity	2	0.69
+design patterns	2	0.69
+digital asset exchange	2	0.69
+distributed application	2	0.69
+django	2	0.69
+e-commerce	2	0.69
+enterprise software	2	0.69
+functional test	2	0.69
+infura	2	0.69
+laravel	2	0.69
+layer-2	2	0.69
+lightning network	2	0.69
+litecoin	2	0.69
+proof of stake	2	0.69
+quality engineer	2	0.69
+real estate	2	0.69
+restful apis	2	0.69
+sdk	2	0.69
+spark	2	0.69
+staking	2	0.69
+ui ux	2	0.69
+application development	1	0.35
+augmented reality	1	0.35
+backbone	1	0.35
+blockchain platforms	1	0.35
+blockchain services	1	0.35
+continuous deployment	1	0.35
+corda	1	0.35
+crawling	1	0.35
+cryptoasset	1	0.35
+cryptographic principles	1	0.35
+custodial	1	0.35
+decentralized systems	1	0.35
+developing and deploying	1	0.35
+embedded	1	0.35
+emerging technologies	1	0.35
+etl	1	0.35
+fabric	1	0.35
+financial application	1	0.35
+gaming	1	0.35
+hadoop	1	0.35
+hedge funds	1	0.35
+internet of things	1	0.35
+ipfs	1	0.35
+jquery	1	0.35
+large scale deployment	1	0.35
+lisp	1	0.35
+maven	1	0.35
+metamask	1	0.35
+network security	1	0.35
+nlp	1	0.35
+nlu	1	0.35
+numpy	1	0.35
+off-chain	1	0.35
+open source technologies	1	0.35
+proof of address	1	0.35
+ropsten	1	0.35
+sales manager	1	0.35
+spring boot	1	0.35
+stable coin	1	0.35
+tcl	1	0.35
+tendermint	1	0.35
+threat modeling	1	0.35
+unit and functional test	1	0.35
+vector analysis	1	0.35
+voting	1	0.35
+wireframes	1	0.35

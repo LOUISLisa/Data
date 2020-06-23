@@ -1,0 +1,82 @@
+Total Index Files in Path: 25
+Num Index Files Containing Key Terms: 23
+
+advertising	14	60.87
+algorithms	14	60.87
+full time	14	60.87
+privacy	14	60.87
+html	12	52.17
+aws	7	30.43
+blockchain developer	6	26.09
+cryptocurrency	6	26.09
+java	6	26.09
+python	6	26.09
+artificial intelligence	5	21.74
+remote	5	21.74
+trading	5	21.74
+cloud	4	17.39
+devops	4	17.39
+distributed systems	4	17.39
+front end	4	17.39
+hyperledger	4	17.39
+product manager	4	17.39
+startup	4	17.39
+financial	3	13.04
+javascript	3	13.04
+linux	3	13.04
+machine learning	3	13.04
+react	3	13.04
+smart contract	3	13.04
+swift	3	13.04
+angular	2	8.70
+azure	2	8.70
+bitcoin	2	8.70
+collaboration	2	8.70
+cryptography	2	8.70
+data science	2	8.70
+docker	2	8.70
+emerging technologies	2	8.70
+fabric	2	8.70
+frameworks	2	8.70
+nodejs	2	8.70
+peer to peer	2	8.70
+agile	1	4.35
+analytical	1	4.35
+ansible	1	4.35
+application development	1	4.35
+back end	1	4.35
+banking	1	4.35
+capital markets	1	4.35
+chef	1	4.35
+clarity	1	4.35
+compliance	1	4.35
+containerization	1	4.35
+continuous integration	1	4.35
+corda	1	4.35
+cryptocurrencies	1	4.35
+cyber	1	4.35
+data analytics	1	4.35
+decentralized	1	4.35
+digital asset	1	4.35
+dlt	1	4.35
+elasticsearch	1	4.35
+ethereum	1	4.35
+full stack	1	4.35
+genetic	1	4.35
+information technology	1	4.35
+internet of things	1	4.35
+j2ee	1	4.35
+kubernetes	1	4.35
+microservices	1	4.35
+mysql	1	4.35
+nlp	1	4.35
+proof of stake	1	4.35
+puppet	1	4.35
+quorum	1	4.35
+rdbms	1	4.35
+rust	1	4.35
+scala	1	4.35
+scrum	1	4.35
+sql	1	4.35
+typescript	1	4.35
+web applications	1	4.35

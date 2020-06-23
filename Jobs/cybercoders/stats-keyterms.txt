@@ -1,0 +1,75 @@
+Total Index Files in Path: 27
+Num Index Files Containing Key Terms: 27
+
+full time	24	88.89
+cryptography	17	62.96
+startup	15	55.56
+nodejs	13	48.15
+react	13	48.15
+remote	13	48.15
+cryptocurrency	12	44.44
+ethereum	12	44.44
+java	11	40.74
+solidity	11	40.74
+aws	9	33.33
+distributed systems	9	33.33
+genetic	9	33.33
+privacy	9	33.33
+compliance	8	29.63
+javascript	8	29.63
+bitcoin	7	25.93
+blockchain developer	7	25.93
+exchanges	7	25.93
+trading	7	25.93
+python	5	18.52
+algorithms	4	14.81
+linux	4	14.81
+mysql	4	14.81
+android	3	11.11
+angular	3	11.11
+automated testing	3	11.11
+code review	3	11.11
+data structures	3	11.11
+golang	3	11.11
+jira	3	11.11
+protocols	3	11.11
+sql	3	11.11
+supply chain	3	11.11
+wasm	3	11.11
+artificial intelligence	2	7.41
+back end	2	7.41
+ci cd	2	7.41
+decentralized	2	7.41
+devops	2	7.41
+docker	2	7.41
+embedded	2	7.41
+encryption	2	7.41
+financial	2	7.41
+frameworks	2	7.41
+front end	2	7.41
+full stack	2	7.41
+health care	2	7.41
+json	2	7.41
+mobile apps	2	7.41
+scala	2	7.41
+scrum	2	7.41
+typescript	2	7.41
+agile	1	3.70
+banking	1	3.70
+cloud	1	3.70
+css	1	3.70
+django	1	3.70
+html	1	3.70
+jquery	1	3.70
+kotlin	1	3.70
+kubernetes	1	3.70
+laravel	1	3.70
+microservices	1	3.70
+nlp	1	3.70
+postgres	1	3.70
+restful apis	1	3.70
+risk management	1	3.70
+spark	1	3.70
+swift	1	3.70
+threat modeling	1	3.70
+visualization	1	3.70
