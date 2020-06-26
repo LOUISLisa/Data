@@ -1,0 +1,25 @@
+{
+    "SeedUrl": "https://www.glassdoor.com/Job/blockchain-jobs-SRCH_KE0,10.htm",
+    "OutLinks": [
+        "http://jobs.glassdoor.com/",
+        "https://www.glassdoor.ca/Job/index.htm",
+        "https://www.glassdoor.ca/job-listing/application-support-analyst-entry-level-mthree-consulting-JV_IC2281069_KO0,39_KE40,57.htm?jl=3325194039",
+        "https://www.glassdoor.ca/job-listing/application-support-analyst-entry-level-mthree-consulting-JV_IC2281069_KO0,39_KE40,57.htm?jl=3325194039&ctt=1593112539772",
+        "https://www.glassdoor.ca/post-job",
+        "https://www.glassdoor.ca/sitedirectory/city-jobs.htm",
+        "https://www.glassdoor.ca/sitedirectory/company-jobs.htm",
+        "https://www.glassdoor.ca/sitedirectory/title-jobs.htm"
+    ],
+    "ContentType": "text/html;charset=UTF-8",
+    "Parent": "https://www.glassdoor.ca/Job/blockchain-jobs-SRCH_KE0,10.htm",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "MThree Consulting Application Support Analyst - entry level Job in Toronto | Glassdoor.ca",
+    "Hash": "F4182A85E1F09CF485F1A960EB9D4033",
+    "Url": "https://www.glassdoor.ca/job-listing/application-support-analyst-entry-level-mthree-consulting-JV_IC2281069_KO0,39_KE40,57.htm?jl=3325194039&ctt=1593112539772",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "glassdoor",
+    "Language": "Estonian",
+    "TackIt": "true",
+    "Body": "MThree  MThree Consulting 4.0 Ã¢\u0098\u0085 Application Support Analyst - entry level Toronto CA$47k-CA$75k (Glassdoor est.) Easy Apply Save Job Company Rating Salary Reviews Why Work With Us Benefits Mthree Consulting is looking for entry-level Production Support Analysts to join the Mthree team and work onsite with a leading Investment Bank based in Montreal. You will receive 4 \u2013 6 weeks of paid training through our Alumni Program, before working onsite with our leading Investment Bank clients. The Alumni Program places a heavy emphasis on the growth of each individual, prior to deployment you will be provided with 4-6 weeks paid technical and financial training, tailored to your needs in collaboration with your new onsite managers. You will be responsible for ensuring optimal performance and stability of Front Office pricing, trading, and risk management applications across multiple product lines. The role offers a fast-paced and interesting mix of technical and business challenges, allowing the holder to develop an in-depth understanding of trading technologies and businesses. While direct experience with these systems and business lines is not essential, the role requires these skills and knowledge to be developed over time. Core responsibilities: Monitor and respond to user-reported issues as well as infrastructure alerts promptly and professionally; ensure issues are tracked through to resolution. Manage proactive ready-for-business checks, identify and fix gaps, and respond promptly to failures. Ensure efficient incident management, ensuring accurate communication to impacted groups and timely resolution. Facilitate root cause investigations and manage the implementation of corrective and preventative measures. Partner with development teams to drive stability, operational excellence, and a culture of efficiency. Respond to regulatory and compliance issues with urgency. Liaise with external technology vendors and exchanges to coordinate changes and resolve connectivity and market data issues. Review, execute, and verify production changes in strict accordance with procedures defined in change documents. Leverage tools and resources available within the firm to simplify, automate, or eliminate inefficiencies. Skills required: Bachelor\u2019s degree in Computer Science or relevant STEM subject GPA of 3.0 + Understanding of server, storage, MQ, and application technologies (Java, .NET, C++) Able to troubleshoot, problem solver, analytical Proficiency with Linux SQL databases experience such as Sybase, DB2, Oracle); able to search log files and compose SQL queries. Network diagnostic skills and experience with networks and real-time messaging technologies (multicast, TCP/IP, UDP, SNMP) Scripting skills, like Perl, Python, or UNIX shell. Excellent spoken and written English communication skills. To be considered for this role, you must be open to relocating to Montreal, QC. Please get in touch for more information on our program and roles. We\u2019re a global Technology and Business Consultancy, with over 500 consultants deployed globally in locations including New York, Texas, Florida, London, Paris, Singapore, Johannesburg, Montreal and Hong Kong. We\u2019re a trusted partner to global organizations committed to delivering innovative business and consumer technology solutions.Areas include: - Consulting & Advisory - Risk, Regulatory & Compliance - Application Support & Plant Engineering - Application Development - DevOps & Cloud - Data Science - Digital Transformation - Vendor & Product Services - Cyber & Information Security - Blockchain & Distributed Ledgers Get alerts to jobs like this, to your inbox. "
+}

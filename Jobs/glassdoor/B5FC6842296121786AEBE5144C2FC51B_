@@ -1,0 +1,33 @@
+{
+    "SeedUrl": "https://www.glassdoor.com/Job/blockchain-jobs-SRCH_KE0,10.htm",
+    "OutLinks": [
+        "http://jobs.glassdoor.com/",
+        "https://www.glassdoor.com/Job/index.htm",
+        "https://www.glassdoor.com/Job/java-developer-jobs-SRCH_KO0,14.htm",
+        "https://www.glassdoor.com/Job/senior-software-development-engineer-jobs-SRCH_KO0,36.htm",
+        "https://www.glassdoor.com/Job/senior-software-engineer-jobs-SRCH_KO0,24.htm",
+        "https://www.glassdoor.com/Job/software-developer-jobs-SRCH_KO0,18.htm",
+        "https://www.glassdoor.com/Job/software-development-engineer-jobs-SRCH_KO0,29.htm",
+        "https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm",
+        "https://www.glassdoor.com/List/Best-Cities-for-Jobs-LST_KQ0,20.htm",
+        "https://www.glassdoor.com/job-listing/senior-software-developer-cisco-systems-JV_KO0,25_KE26,39.htm?jl=3479661496",
+        "https://www.glassdoor.com/job-listing/senior-software-developer-cisco-systems-JV_KO0,25_KE26,39.htm?jl=3479661496&ctt=1592642999527",
+        "https://www.glassdoor.com/partner/jobListing.htm?pos=0&ao=377062&s=58&src=GD_JOB_VIEW&t=SR&vt=w&cs=1i_769e6727&cb=1592643089112&jobListingId=3479661496",
+        "https://www.glassdoor.com/post-job",
+        "https://www.glassdoor.com/sitedirectory/city-jobs.htm",
+        "https://www.glassdoor.com/sitedirectory/company-jobs.htm",
+        "https://www.glassdoor.com/sitedirectory/title-jobs.htm"
+    ],
+    "ContentType": "text/html;charset=UTF-8",
+    "Parent": "https://www.glassdoor.com/Job/blockchain-jobs-SRCH_KE0,10.htm",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Cisco Systems Senior Software Developer Job in Texas | Glassdoor",
+    "Hash": "B5FC6842296121786AEBE5144C2FC51B",
+    "Url": "https://www.glassdoor.com/job-listing/senior-software-developer-cisco-systems-JV_KO0,25_KE26,39.htm?jl=3479661496&ctt=1592642999527",
+    "CrawledDate": "2020-06-20",
+    "DomainId": "glassdoor",
+    "Language": "Lithuanian",
+    "TackIt": "true",
+    "Body": "Cisco  Cisco Systems - Engineering - Software 4.1 Ã¢\u0098\u0085 Division of Cisco Systems Senior Software Developer Texas Apply Now Save Top CompanyCisco Systems - Engineering - Software is officially a 2020 Glassdoor Best Place to Work Job Company Rating Salary Reviews Why Work With Us Benefits What You'll Do You will work to develop distributed systems that collect information from Cisco endpoints and coordinate queries for its customers. Orbital Engineers build the service that distributes queries for information and the endpoint component that executes these queries. Who You Are You are self-motivated, result driven and engaged individual and enjoy collaborating in team-based environment. You want to get to the bottom of things, understand what\u2019s going on, and make a difference. You are someone who doesn\u2019t give up when faced with complex problems. - Passionate about security, protecting our customers' privacy is our chief concern at Cisco. - Self-Motivated and comfortable with working in a diverse and distributed team. Minimum Qualifications - Experience in software development in either desktop software or distributed systems. - Expertise in Go or C/C++ and a willingness to learn Go. - A solid understanding of software engineering practices. Desired Skills - Familiarity with DevOps practices. - Familiarity with Windows software development. - Experience with resource optimization techniques. Why Cisco #WeAreCisco, where each person is unique, but we bring our talents to work as a team and make a difference. Here\u2019s how we do it. We embrace digital, and help our customers implement change in their digital businesses. Some may think we\u2019re \u201cold\u201d (30 years strong!) and only about hardware, but we\u2019re also a software company. And a security company. A blockchain company. An AI/Machine Learning company. We even invented an intuitive network that adapts, predicts, learns and protects. No other company can do what we do \u2013 you can\u2019t put us in a box! But \u201cDigital Transformation\u201d is an empty buzz phrase without a culture that allows for innovation, creativity, and yes, even failure (if you learn from it.) Day to day, we focus on the give and take. We give our best, we give our egos a break and we give of ourselves (because giving back is built into our DNA.) We take accountability, we take bold steps, and we take difference to heart. Because without diversity of thought and a commitment to equality for all, there is no moving forward. So, you have colorful hair? Don\u2019t care. Tattoos? Show off your ink. Like polka dots? That\u2019s cool. Pop culture geek? Many of us are. Passion for technology and world changing? Be you, with us! Get alerts to jobs like this, to your inbox. "
+}

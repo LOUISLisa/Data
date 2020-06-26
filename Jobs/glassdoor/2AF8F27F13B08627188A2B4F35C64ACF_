@@ -1,0 +1,28 @@
+{
+    "SeedUrl": "https://www.glassdoor.com/Job/blockchain-jobs-SRCH_KE0,10.htm",
+    "OutLinks": [
+        "https://www.glassdoor.ca/Job/index.htm",
+        "https://www.glassdoor.ca/Job/montreal-account-manager-jobs-SRCH_IL.0,8_IC2296722_KO9,24.htm",
+        "https://www.glassdoor.ca/Job/montreal-intern-jobs-SRCH_IL.0,8_IC2296722_KO9,15.htm",
+        "https://www.glassdoor.ca/Job/montreal-senior-software-engineer-jobs-SRCH_IL.0,8_IC2296722_KO9,33.htm",
+        "https://www.glassdoor.ca/Job/montreal-software-developer-jobs-SRCH_IL.0,8_IC2296722_KO9,27.htm",
+        "https://www.glassdoor.ca/Job/montreal-software-engineer-jobs-SRCH_IL.0,8_IC2296722_KO9,26.htm",
+        "https://www.glassdoor.ca/Job/montreal-specialist-jobs-SRCH_IL.0,8_IC2296722_KO9,19.htm",
+        "https://www.glassdoor.ca/job-listing/senior-research-software-developer-via-science-JV_IC2296722_KO0,34_KE35,46.htm?jl=3575926787",
+        "https://www.glassdoor.ca/job-listing/senior-research-software-developer-via-science-JV_IC2296722_KO0,34_KE35,46.htm?jl=3575926787&ctt=1593112554882",
+        "https://www.glassdoor.ca/partner/jobListing.htm?pos=0&ao=437149&s=58&src=GD_JOB_VIEW&t=SR&vt=w&cs=1i_a3d5fb42&cb=1593115095492&jobListingId=3575926787",
+        "https://www.glassdoor.ca/post-job"
+    ],
+    "ContentType": "text/html;charset=UTF-8",
+    "Parent": "https://www.glassdoor.ca/Job/blockchain-jobs-SRCH_KE0,10.htm",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Via Science Senior Research Software Developer Job in Montreal | Glassdoor.ca",
+    "Hash": "2AF8F27F13B08627188A2B4F35C64ACF",
+    "Url": "https://www.glassdoor.ca/job-listing/senior-research-software-developer-via-science-JV_IC2296722_KO0,34_KE35,46.htm?jl=3575926787&ctt=1593112554882",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "glassdoor",
+    "Language": "Lithuanian",
+    "TackIt": "true",
+    "Body": "Via  Via Science 5.0 Ã¢\u0098\u0085 Senior Research Software Developer Montreal Apply Now Save Job Company Rating Salary Location: Montreal, QC Role: Senior Research Software Developer VIA is making an impact, and so can you. VIA works with the world\u2019s largest power companies to keep the lights on for millions of people using a combination of artificial intelligence and blockchain. And, we need your help to make an even bigger difference. As a Senior Research Software Developer at VIA, you will play an integral role in the design and development of our advanced analytics solutions. You will build components to support modern web applications and services powered by blockchain technologies and machine learning algorithms. Responsibilities include: Provide technical leadership in the delivery of customer-facing projects Design and build secure, reliable, and scalable microservice components Leverage APIs from our internal TACÃ¢\u0084Â¢ system (Trusted Analytics ChainÃ¢\u0084Â¢) to provide privacy-preserving functionality to our customers Analyze, test, and optimize critical software modules to mitigate performance bottlenecks Develop automated tests to deliver high quality software to our customers (e.g., unit test, integration test, selenium, or related libraries) Integrate and deploy microservices by using best practices and automation tools (e.g., Docker and Ansible) To be a high impact team member, you will have: Bachelor\u2019s degree or higher in computer science, mathematics, engineering, or science 5+ years of relevant full stack development experience Strong experience with cloud-based software development in a microservices environment, including: Developing Restful APIs (using frameworks such as Tornado, Django, or NodeJS) secured by OAuth2/Auth Thorough working knowledge of data structure, algorithms, databases (SQL and noSQL) and in-memory data storage Working knowledge of Docker and Ansible Extensive working knowledge of parallel processing, message brokers, and distributed task queues Experience leading an Agile team of developers with: Proven on-time delivery of multiple quality software projects Ability to advocate for technical excellence, maintaining the highest standard of software engineering practices Exposure to the following a plus: Codeship/Jenkins, foreign data wrapper (FDW), blockchain systems To be a cultural fit, you will: Be a critical thinker with a passion for solving complex problems alongside teammates Have a desire to learn in a high energy, startup environment Demonstrate strong attention to detail and apply follow-up and organizational skills Be a great communicator with excellent interpersonal skills Be a part of a team that has the potential to transform the energy industry using groundbreaking technology and innovative solutions What you will find at VIA: Our approach to developing innovative solutions, commitment to continuous learning, and culture of celebrating our collective diversity, makes every day rewarding. In addition, joining VIA means you will receive: Support and resources for your professional development Flexibility to maintain balance between your passions inside and outside of work First class benefits and equity offerings Creative team events and in-office goodies Get alerts to jobs like this, to your inbox. "
+}

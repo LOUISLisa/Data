@@ -1,0 +1,33 @@
+{
+    "SeedUrl": "https://www.glassdoor.com/Job/blockchain-jobs-SRCH_KE0,10.htm",
+    "OutLinks": [
+        "http://jobs.glassdoor.com/",
+        "https://www.glassdoor.com/Job/dublin-qa-engineer-jobs-SRCH_IL.0,6_IC2739035_KO7,18.htm",
+        "https://www.glassdoor.com/Job/dublin-quality-engineer-jobs-SRCH_IL.0,6_IC2739035_KO7,23.htm",
+        "https://www.glassdoor.com/Job/dublin-senior-qa-engineer-jobs-SRCH_IL.0,6_IC2739035_KO7,25.htm",
+        "https://www.glassdoor.com/Job/dublin-senior-software-engineer-jobs-SRCH_IL.0,6_IC2739035_KO7,31.htm",
+        "https://www.glassdoor.com/Job/dublin-software-engineer-jobs-SRCH_IL.0,6_IC2739035_KO7,24.htm",
+        "https://www.glassdoor.com/Job/dublin-software-quality-engineer-jobs-SRCH_IL.0,6_IC2739035_KO7,32.htm",
+        "https://www.glassdoor.com/Job/index.htm",
+        "https://www.glassdoor.com/List/Best-Cities-for-Jobs-LST_KQ0,20.htm",
+        "https://www.glassdoor.com/job-listing/senior-quality-software-engineer-fidelity-investments-JV_IC2739035_KO0,32_KE33,53.htm?jl=3592634904&ctt=1593112619829",
+        "https://www.glassdoor.com/partner/jobListing.htm?pos=0&ao=841164&s=58&src=GD_JOB_VIEW&t=ESR&vt=w&cs=1i_5e8f54ce&cb=1593115129345&jobListingId=3592634904",
+        "https://www.glassdoor.com/post-job",
+        "https://www.glassdoor.com/sitedirectory/city-jobs.htm",
+        "https://www.glassdoor.com/sitedirectory/company-jobs.htm",
+        "https://www.glassdoor.com/sitedirectory/title-jobs.htm",
+        "https://www.glassdoor.ie/job-listing/senior-quality-software-engineer-fidelity-investments-JV_IC2739035_KO0,32_KE33,53.htm?jl=3592634904"
+    ],
+    "ContentType": "text/html;charset=UTF-8",
+    "Parent": "https://www.glassdoor.com/Jobs/Fidelity-Investments-Jobs-E2786.htm",
+    "RequiredMatch": "serenity",
+    "DocumentType": "JobBoards",
+    "Title": "Fidelity Investments Senior Quality Software Engineer Job in Dublin | Glassdoor",
+    "Hash": "C418874E4C2A055A8193460CA40BE26E",
+    "Url": "https://www.glassdoor.com/job-listing/senior-quality-software-engineer-fidelity-investments-JV_IC2739035_KO0,32_KE33,53.htm?jl=3592634904&ctt=1593112619829",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "glassdoor",
+    "Language": "Estonian",
+    "TackIt": "true",
+    "Body": "Fidelity  Fidelity Investments 4.0 Ã¢\u0098\u0085 Senior Quality Software Engineer Dublin Apply Now Save Hiring SurgeThis company is in a hiring surge in response to COVID-19 Job Company Rating Salary Reviews Why Work With Us Benefits Job Description: We have a fantastic opportunity for a Software Quality Engineer to be part of an exciting engagement in Fidelity Ireland with the Fidelity Brokerage Technology (FBT) group. You will join the Clearing and Custody Solutions (FCCS) team that is responsible for delivering web applications and new features for our financial institutional clients as part of our flagship market trading portal (WealthscapeÃÂ®). The Expertise were looking for 5+ years Software Quality Engineering experience. Multi-stack engineer with knowledge in a breadth of development technologies and test automation frameworks (Java/J2EE, jUnit, Ruby, Cucumber, Selenium, Serenity, JavaScript/Angular, Spring, Web Services, REST, HTTP) Experience with continuous integration practices and automated deployment tools. The Skills you will bring You understand all aspects of testing (unit testing, acceptance testing, etc.). You can learn large software systems end-to-end quickly You have excellent written and oral communication skills. You are collaborative in your approach, actively contributing to how work gets completed. You are passionate about Test Driven Development, developing robust software, writing testable and maintainable code You are self-directed, willing to take initiative, pragmatic and results-oriented You have a keen attention to detail and want to solve hard problems, not just detect them The Purpose of your role As part of a scrum team, you will actively participate in the development process through designing, writing and maintaining application features and automated tests including unit tests, functional tests and end-to-end regression tests You will contribute to the QA automation strategy for our client-facing applications, to enable rapid delivery of key customer features. Use your knowledge of development and testability knowledge to architect better software design, promote proper software engineering and bug prevention strategies which is both scalable and maintainable Support the team in designing reliable, portable, accurate and credible tests, and in integrating them into CI/CD pipelines Participate in development using JavaScript/Angular and Webservices/HTTP Collaborate with team members on improving team's test coverage, release velocity and production health Enable the team in designing and developing automation harnesses using Serenity w/ Cucumber and Ready API. Participate in application code and test code reviews with rest of the Scrum team The Value you will deliver Drive a culture of quality. Influence the broader team in quality engineering behaviours and practices. Strong analytical, communication, and organizational skills and the ability to manage multiple tasks at a given time. How Your Work Impacts the Organization The Fidelity Clearing & Custody Solutions group provides solutions in the Registered Investment Advisors (RIA) and correspondent clearing marketplace. We provide software engineering, application development, project management, systems analysis and production support for the Business Process Management Application associated with Fidelity Clearing & Custody. The Fidelity Brokerage Technology group provides technical solutions for the Fidelity Institutional Business (FI). This team is part of a long-standing Ireland presence across Dublin and Galway with plenty of opportunities for collaboration. Certifications: Category:Information Technology Get alerts to jobs like this, to your inbox. "
+}

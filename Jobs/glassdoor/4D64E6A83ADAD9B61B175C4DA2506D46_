@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://www.glassdoor.com/Job/blockchain-jobs-SRCH_KE0,10.htm",
+    "OutLinks": [
+        "http://jobs.glassdoor.com/",
+        "https://www.glassdoor.com/Job/index.htm",
+        "https://www.glassdoor.com/List/Best-Cities-for-Jobs-LST_KQ0,20.htm",
+        "https://www.glassdoor.com/job-listing/network-consulting-engineer-vmware-cisco-systems-JV_IC2940587_KO0,34_KE35,48.htm?jl=3593836416&ctt=1592643553234&srs=EI_JOBS",
+        "https://www.glassdoor.com/partner/jobListing.htm?pos=0&ao=612834&s=58&src=GD_JOB_VIEW&vt=w&cs=1i_3154f398&cb=1592645997568&jobListingId=3593836416",
+        "https://www.glassdoor.com/post-job",
+        "https://www.glassdoor.com/sitedirectory/city-jobs.htm",
+        "https://www.glassdoor.com/sitedirectory/company-jobs.htm",
+        "https://www.glassdoor.com/sitedirectory/title-jobs.htm"
+    ],
+    "ContentType": "text/html;charset=UTF-8",
+    "Parent": "https://www.glassdoor.com/Jobs/Cisco-Systems-Jobs-E1425.htm",
+    "RequiredMatch": "terraform",
+    "DocumentType": "JobBoards",
+    "Title": "Cisco Systems Network Consulting Engineer- VMware Job in Bengaluru | Glassdoor",
+    "Hash": "4D64E6A83ADAD9B61B175C4DA2506D46",
+    "Url": "https://www.glassdoor.com/job-listing/network-consulting-engineer-vmware-cisco-systems-JV_IC2940587_KO0,34_KE35,48.htm?jl=3593836416&ctt=1592643553234&srs=EI_JOBS",
+    "CrawledDate": "2020-06-20",
+    "DomainId": "glassdoor",
+    "Language": "Lithuanian",
+    "TackIt": "true",
+    "Body": "Cisco  Cisco Systems 4.2 Ã¢\u0098\u0085 Network Consulting Engineer- VMware Bengaluru Apply Now Save Top CompanyCisco Systems is officially a 2020 Glassdoor Best Place to Work Job Company Rating Salary Reviews Why Work With Us Benefits What You'll Do We are hiring Network Lab administrator with strong hands-on expertise in networking & lab management for our next generation management product developed & tested in Cisco Bangalore. You will be responsible for managing the complete product lab which includes network planning, lab design, topology setup, simulation, Servers & VM management, routing/switching/wireless configuration, monitoring & troubleshooting. You may need to work closely with various engineering teams to address network & lab related requirements. Who You'll Work With You will be part of the new team for our nextGen infra in Bangalore. We are looking for motivated individuals, who have excellent analytical and problem-solving abilities, who are open and have the ability to assimilate new techniques and enjoy challenging tasks. Who You Are Ability to proficiently handle lab setups, networking topologies for testing End-2-End customer scenarios. Exposure to any one of the scripting languages such as Python, Perl, Java or TCL is added advantage. Proficient in Linux/unix file system and development tools strongly desired. Good understanding of operating system concept Strong Analytical skills with a mindset that questions assumptions; with a willingness to continuously help improve processes and procedures. Ability to work independently with a desire to share knowledge with peers. Education: Typically requires BSEE/CS 8+ years related experience, or a MSEE/CS combined with 6+ years of related experience. CCNA, CCNP, CCIE or other Cisco certifications will be a great advantage. Experience in ANY of the following areas: Hands on expertise in Routing, Switching & Wireless areas including Configurations, monitoring & troubleshooting. Network TCP/IP, LAN/WAN, Routing & Switching - (Static Routing, RIP, EIGRP, OSPF, BGP, VTP, STP, Trunk, VLAN, EtherChannel etc.,) Experience on Wireless devices, Controllers & APs in managing wireless lab setup. Date Centre Management (Nexus, LB etc.). Very good experience in IP address management, routing protocols, IP services (QoS, NAT etc), MPLS, L2/L3. Hands on experience in VM Management. - VCenter/ESXi / VMware Knowledge of leveraging NMS products, tools for managing the Lab networks including utilization of VM\u2019s & Devices. Complete Lab life cycle management of the hardware procurement process. Knowledge of DevOps, CI/CD tech & tooling such as Docker, Vagrant, Ansible, terraform etc. will be added advantage. Why Cisco At Cisco, each person brings their unique talents to work as a team and make a difference. Yes, our technology changes the way the world works, lives, plays and learns, but our edge comes from our people. We connect everything \u2013 people, process, data and things \u2013 and we use those connections to change our world for the better. We innovate everywhere - From launching a new era of networking that adapts, learns and protects, to building Cisco Services that accelerate businesses and business results. Our technology powers entertainment, retail, healthcare, education and more \u2013 from Smart Cities to your everyday devices. We benefit everyone - We do all of this while striving for a culture that empowers every person to be the difference, at work and in our communities. Colorful hair? Don\u2019t care. Tattoos? Show off your ink. Like polka dots? That\u2019s cool. Pop culture geek? Many of us are. Be you, with us! #WeAreCisco Get alerts to jobs like this, to your inbox. "
+}
