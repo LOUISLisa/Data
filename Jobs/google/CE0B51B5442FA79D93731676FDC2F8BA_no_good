@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://careers.ibm.com/page/show/blockchain?lang=en",
+        "https://www.google.com/url?q=https%3A%2F%2Fcareers.ibm.com%2Fpage%2Fshow%2Fblockchain%3Flang%3Den&sa=U&ved=2ahUKEwiaudSfhZ7qAhWzOn0KHUr9A_4QuAIwAXoECAkQAg&usg=AOvVaw0TKX96Jg4BQXljq0iRAwas"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQ_AUICigD",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "CE0B51B5442FA79D93731676FDC2F8BA",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcareers.ibm.com%2Fpage%2Fshow%2Fblockchain%3Flang%3Den&sa=U&ved=2ahUKEwiaudSfhZ7qAhWzOn0KHUr9A_4QuAIwAXoECAkQAg&usg=AOvVaw0TKX96Jg4BQXljq0iRAwas",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://careers.ibm.com/page/show/blockchain?lang=en. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40mojkripto.com%2Fjobs-in-blockchain-and-cryptocurrency-industry-6d199214d436%3Fsource%3Drss------ethereum-5&sa=U&ved=2ahUKEwiI1vbmkJ7qAhUPVc0KHWDsB1gQr4kDMBF6BAgFEAI&usg=AOvVaw0dvbt0PANVGgD_OE6bo1uT"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ay&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ajob%2Bhunting&sa=X&ved=0ahUKEwiXlfKDh57qAhUPWs0KHQH7AhcQ4lYICygA",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "8ED9F16200EAB0FE2E24E6B9F0B11EBE",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40mojkripto.com%2Fjobs-in-blockchain-and-cryptocurrency-industry-6d199214d436%3Fsource%3Drss------ethereum-5&sa=U&ved=2ahUKEwiI1vbmkJ7qAhUPVc0KHWDsB1gQr4kDMBF6BAgFEAI&usg=AOvVaw0dvbt0PANVGgD_OE6bo1uT",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://medium.com/@mojkripto.com/jobs-in-blockchain-and-cryptocurrency-industry-6d199214d436?source=rss------ethereum-5. Â If you do not want to visit that page, you can return to the previous page."
+}

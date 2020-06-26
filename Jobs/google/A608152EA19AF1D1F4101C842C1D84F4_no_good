@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://angel.co/blockchains/jobs",
+        "https://www.google.com/url?q=https%3A%2F%2Fangel.co%2Fblockchains%2Fjobs&sa=U&ved=2ahUKEwjUw4mXhZ7qAhW1JjQIHTibBlMQFjAEegQIBxAB&usg=AOvVaw0snbNOPJFi7ZhoGPaJnsqK"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&q=blockchain%2Bcontract%2Bjobs&sa=X&ved=2ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQ1QJ6BAgAEAg",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "A608152EA19AF1D1F4101C842C1D84F4",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fangel.co%2Fblockchains%2Fjobs&sa=U&ved=2ahUKEwjUw4mXhZ7qAhW1JjQIHTibBlMQFjAEegQIBxAB&usg=AOvVaw0snbNOPJFi7ZhoGPaJnsqK",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://angel.co/blockchains/jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

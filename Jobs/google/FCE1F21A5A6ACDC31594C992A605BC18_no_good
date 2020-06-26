@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.glassdoor.com/Jobs/Amazon-blockchain-Jobs-EI_IE6036.0,6_KO7,17.htm",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.glassdoor.com%2FJobs%2FAmazon-blockchain-Jobs-EI_IE6036.0%2C6_KO7%2C17.htm&sa=U&ved=2ahUKEwjtuMyWhZ7qAhUTKH0KHSzHBGoQFjABegQIDBAB&usg=AOvVaw36RqQrf_SO0B7654-oyOAo"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&q=google%2Bblockchain%2Bjobs&sa=X&ved=2ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQ1QJ6BAgAEAQ",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "FCE1F21A5A6ACDC31594C992A605BC18",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.glassdoor.com%2FJobs%2FAmazon-blockchain-Jobs-EI_IE6036.0%2C6_KO7%2C17.htm&sa=U&ved=2ahUKEwjtuMyWhZ7qAhUTKH0KHSzHBGoQFjABegQIDBAB&usg=AOvVaw36RqQrf_SO0B7654-oyOAo",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.glassdoor.com/Jobs/Amazon-blockchain-Jobs-EI_IE6036.0,6_KO7,17.htm. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.glassdoor.com/Job/blockchain-researcher-jobs-SRCH_KO0,21.htm",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.glassdoor.com%2FJob%2Fblockchain-researcher-jobs-SRCH_KO0%2C21.htm&sa=U&ved=2ahUKEwjg--2lhZ7qAhWDJTQIHWiICOkQFjAAegQIBhAC&usg=AOvVaw02ygVLf3WJV-UdwHpv3P4A"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&q=blockchain%2Bresearch%2Bjobs",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "D1C1D6B5CC64ECAD23BF5144EB82F601",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.glassdoor.com%2FJob%2Fblockchain-researcher-jobs-SRCH_KO0%2C21.htm&sa=U&ved=2ahUKEwjg--2lhZ7qAhWDJTQIHWiICOkQFjAAegQIBhAC&usg=AOvVaw02ygVLf3WJV-UdwHpv3P4A",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.glassdoor.com/Job/blockchain-researcher-jobs-SRCH_KO0,21.htm. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.glassdoor.com/Jobs/SAP-blockchain-Jobs-EI_IE10471.0,3_KO4,14.htm",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.glassdoor.com%2FJobs%2FSAP-blockchain-Jobs-EI_IE10471.0%2C3_KO4%2C14.htm&sa=U&ved=2ahUKEwiXzYGthZ7qAhVLGDQIHRFKC4gQFjAMegQICRAB&usg=AOvVaw0-mcmNKmMOfxv14Zffx5OA"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Aw&q=blockchain%2Bjobs%2Bfor%2Bfreshers&sa=X&ved=2ahUKEwjH--OShZ7qAhWiIDQIHUA8DNcQ1QJ6BAgAEAQ",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "EC7CFCEE1CDB9C8C2CA92B98D6281E57",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.glassdoor.com%2FJobs%2FSAP-blockchain-Jobs-EI_IE10471.0%2C3_KO4%2C14.htm&sa=U&ved=2ahUKEwiXzYGthZ7qAhVLGDQIHRFKC4gQFjAMegQICRAB&usg=AOvVaw0-mcmNKmMOfxv14Zffx5OA",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.glassdoor.com/Jobs/SAP-blockchain-Jobs-EI_IE10471.0,3_KO4,14.htm. Â If you do not want to visit that page, you can return to the previous page."
+}

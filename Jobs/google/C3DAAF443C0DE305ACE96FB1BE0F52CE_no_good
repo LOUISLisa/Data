@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.deccanchronicle.com/nation/current-affairs/110418/high-demand-for-blockchain-jobs-in-india.html",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.deccanchronicle.com%2Fnation%2Fcurrent-affairs%2F110418%2Fhigh-demand-for-blockchain-jobs-in-india.html&sa=U&ved=2ahUKEwi_ztaMkp7qAhXZGs0KHTRPDQY4KBCqhQEwEXoECAIQAQ&usg=AOvVaw3HGHKeY1ajROOCm6BiQ0ER"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=isch&ei=WCv1Xo7KGN6E9PwPormfCA&start=40&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "C3DAAF443C0DE305ACE96FB1BE0F52CE",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.deccanchronicle.com%2Fnation%2Fcurrent-affairs%2F110418%2Fhigh-demand-for-blockchain-jobs-in-india.html&sa=U&ved=2ahUKEwi_ztaMkp7qAhXZGs0KHTRPDQY4KBCqhQEwEXoECAIQAQ&usg=AOvVaw3HGHKeY1ajROOCm6BiQ0ER",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.deccanchronicle.com/nation/current-affairs/110418/high-demand-for-blockchain-jobs-in-india.html. Â If you do not want to visit that page, you can return to the previous page."
+}

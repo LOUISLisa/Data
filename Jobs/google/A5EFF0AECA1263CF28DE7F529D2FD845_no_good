@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.forbes.com/sites/markhall/2020/04/05/job-hunting-during-unemployment/",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmarkhall%2F2020%2F04%2F05%2Fjob-hunting-during-unemployment%2F&sa=U&ved=2ahUKEwjIiKeNj57qAhUDCs0KHVRMALkQr4kDMA96BAgHEAI&usg=AOvVaw1Y29FkOfBJ2QP9CuZhR8XV"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ajob%2Bhunting&sa=X&ved=0ahUKEwjtofnChZ7qAhWGbs0KHdmWCPsQ4lYICygA",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "A5EFF0AECA1263CF28DE7F529D2FD845",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmarkhall%2F2020%2F04%2F05%2Fjob-hunting-during-unemployment%2F&sa=U&ved=2ahUKEwjIiKeNj57qAhUDCs0KHVRMALkQr4kDMA96BAgHEAI&usg=AOvVaw1Y29FkOfBJ2QP9CuZhR8XV",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.forbes.com/sites/markhall/2020/04/05/job-hunting-during-unemployment/. Â If you do not want to visit that page, you can return to the previous page."
+}

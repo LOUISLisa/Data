@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://crypto.jobs/remote",
+        "https://www.google.com/url?q=https%3A%2F%2Fcrypto.jobs%2Fremote&sa=U&ved=2ahUKEwjf1P-ihZ7qAhUnGDQIHeDLAygQ0gIwC3oECA8QAg&usg=AOvVaw3E89gxsF00PI1hLEH6S_rf"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&q=bitcoin%2Bblockchain%2Bjobs&sa=X&ved=2ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQ1QJ6BAgAEAM",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E312CC996A2C3913E8122324B485C6F3",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcrypto.jobs%2Fremote&sa=U&ved=2ahUKEwjf1P-ihZ7qAhUnGDQIHeDLAygQ0gIwC3oECA8QAg&usg=AOvVaw3E89gxsF00PI1hLEH6S_rf",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://crypto.jobs/remote. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/url?q=https%3A%2F%2Fwww.idgconnect.com%2Fidgconnect%2Fnews%2F1500367%2Findeedcom-blockchain-job-postings-dip-bitcoin-loses-steam&sa=U&ved=2ahUKEwih9Iy9kZ7qAhWDY80KHa95DXgQr4kDMAt6BAgJEAI&usg=AOvVaw2gzwg8e5Q6i-xxQWgla6AM"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=bitcoin%2Bblockchain%2Bjobs&chips=q%3Abitcoin%2Bblockchain%2Bjobs%2Conline_chips%3Aindeed&sa=X&ved=0ahUKEwjN6rzKh57qAhXXHM0KHe3MBfsQ4lYIFCgJ",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "2DEB36A4E4131A37874621F92245FCBE",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.idgconnect.com%2Fidgconnect%2Fnews%2F1500367%2Findeedcom-blockchain-job-postings-dip-bitcoin-loses-steam&sa=U&ved=2ahUKEwih9Iy9kZ7qAhWDY80KHa95DXgQr4kDMAt6BAgJEAI&usg=AOvVaw2gzwg8e5Q6i-xxQWgla6AM",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.idgconnect.com/idgconnect/news/1500367/indeedcom-blockchain-job-postings-dip-bitcoin-loses-steam. Â If you do not want to visit that page, you can return to the previous page."
+}

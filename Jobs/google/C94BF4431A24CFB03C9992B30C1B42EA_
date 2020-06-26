@@ -1,0 +1,33 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&backchip=online_chips%3Aeth&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ3VYICygA",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&backchip=online_chips%3Asmart%2Bcontracts&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Aeth&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ4VYICigB",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Aeth%2Conline_chips%3Ablockchain%2Btechnology&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ4lYIFSgI",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Aeth%2Conline_chips%3Acryptodaily&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ4lYIFCgH",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Aeth%2Conline_chips%3Adapp&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ4lYIDSgA",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Aeth%2Conline_chips%3Adefi&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ4lYIEygG",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Aeth%2Conline_chips%3Akinesis&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ4lYIDygC",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Aeth%2Conline_chips%3Amlm&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ4lYIEigF",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Aeth%2Conline_chips%3Aprover&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ4lYIFigJ",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Aeth%2Conline_chips%3Aunderflow%2Battacks&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ4lYIESgE",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Aeth%2Conline_chips%3Azk%2Brollups&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ4lYIECgD",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Aeth%2Conline_chips%3Azk%2Bsnarks&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ4lYIDigB",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ_AUIBCgA",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=nws&source=lnms&tbs=qdr%3Ad&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ_AUIBSgB",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=vid&source=lnms&tbs=qdr%3Ad&sa=X&ved=0ahUKEwi1xvrdyp7qAhXHWM0KHZS9DwAQ_AUIBygD",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbs=qdr%3Ad&tbm=isch&ei=inH1XrXZGsextQaU-z4&start=20&sa=N"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts&sa=X&ved=0ahUKEwi3jcuaiJ7qAhWWW80KHaaRACsQ4lYIDSgC",
+    "RequiredMatch": "crypto",
+    "DocumentType": "JobBoards",
+    "Title": "blockchain+jobs - Google Search",
+    "Hash": "C94BF4431A24CFB03C9992B30C1B42EA",
+    "Url": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Aeth&sa=X&ved=0ahUKEwjy-cXok57qAhVFZc0KHSAwBsgQ4lYIFSgJ",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": "ALL NEWS IMAGES VIDEOS smart+contractsÂ ÃethÂ Ãdappzk snarkskinesiszk rollupsunderflow attacksmlmdeficryptodailyblockchain technologyprover Breaking Down ETH 2.0 -... academy.ivanontech.com Smart Contract ETH... reddit.com ETH Smart Contracts... reddit.com This Is How Chainlink... medium.com First Mover: What's Going... sg.finance.yahoo.com China Ponzi Scheme... btcmanager.com Understanding Overflow and... cryptoadventure.org Five Best Blockchains With... blockchain-council.org BitMart | LinkedIn linkedin.com What is Tron? A Beginner's... changehero.io Should You Put Your BITCOIN... youtube.com Cardano: Staying strong... youtube.com Coinfomania - Where... coinfomania.com DeFi Crypto Lending... defirate.com â¢Discover the New Cheap... vimeo.com Base Layer Wars Heat Up... cryptobreaking.com Crypto News \u2013 Unbiased and... newsvoice.com Surest Way To Earn Up To 1... popnaija.net DEX progress to be a... xrpvi.be What is Quorum and Why... cryptoadventure.org NextÂ > Sign in Settings Privacy Terms"
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://news.bloomberglaw.com/daily-labor-report/blockchain-job-market-challenges-and-opportunities-1",
+        "https://www.google.com/url?q=https%3A%2F%2Fnews.bloomberglaw.com%2Fdaily-labor-report%2Fblockchain-job-market-challenges-and-opportunities-1&sa=U&ved=2ahUKEwjDj4Hpj57qAhW6AZ0JHQgkDn04FBCviQMwC3oECAkQAg&usg=AOvVaw1bI0RAxbLKXMwBdwZ8xee8"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=isch&ei=0Cn1XruxCOqC9PwPvqiz4AQ&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "2B04856B185E2C53024397F966D06988",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fnews.bloomberglaw.com%2Fdaily-labor-report%2Fblockchain-job-market-challenges-and-opportunities-1&sa=U&ved=2ahUKEwjDj4Hpj57qAhW6AZ0JHQgkDn04FBCviQMwC3oECAkQAg&usg=AOvVaw1bI0RAxbLKXMwBdwZ8xee8",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://news.bloomberglaw.com/daily-labor-report/blockchain-job-market-challenges-and-opportunities-1. Â If you do not want to visit that page, you can return to the previous page."
+}

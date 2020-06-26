@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptojobslist.com/remote/blockchain-jobs",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fremote%2Fblockchain-jobs&sa=U&ved=2ahUKEwik7deWjJ7qAhWBHc0KHa0mBGUQqoUBMAR6BAgQEAE&usg=AOvVaw1m9tigc7y4lK5YD4Nwlc8o"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs%2Bremote&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Aw&sa=X&ved=0ahUKEwi-jJ-ohZ7qAhVhMX0KHcylDUYQ_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "DE627F915CBC55FACF527B63CC280948",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fremote%2Fblockchain-jobs&sa=U&ved=2ahUKEwik7deWjJ7qAhWBHc0KHa0mBGUQqoUBMAR6BAgQEAE&usg=AOvVaw1m9tigc7y4lK5YD4Nwlc8o",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptojobslist.com/remote/blockchain-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

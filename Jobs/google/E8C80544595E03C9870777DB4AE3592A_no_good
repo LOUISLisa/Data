@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.e-janco.com/Press/2019/2018-01-04-2019-IT-Job-Market-Growth-Continues.html",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.e-janco.com%2FPress%2F2019%2F2018-01-04-2019-IT-Job-Market-Growth-Continues.html&sa=U&ved=2ahUKEwiG5LKIk57qAhXEB80KHULGD-EQqoUBMBF6BAgCEAE&usg=AOvVaw2oIdasxNR1BHPUBYvoXxG0"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ajob%2Bmarket%2Conline_chips%3Ajanco&sa=X&ved=0ahUKEwi3yM_wh57qAhVMCc0KHY7JDSYQ4lYIDygD",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E8C80544595E03C9870777DB4AE3592A",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.e-janco.com%2FPress%2F2019%2F2018-01-04-2019-IT-Job-Market-Growth-Continues.html&sa=U&ved=2ahUKEwiG5LKIk57qAhXEB80KHULGD-EQqoUBMBF6BAgCEAE&usg=AOvVaw2oIdasxNR1BHPUBYvoXxG0",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.e-janco.com/Press/2019/2018-01-04-2019-IT-Job-Market-Growth-Continues.html. Â If you do not want to visit that page, you can return to the previous page."
+}

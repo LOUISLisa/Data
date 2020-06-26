@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asensitrust&sa=X&ved=0ahUKEwi-poHfk57qAhWQVs0KHdpvDxU4FBDiVggQKAU",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&sa=X&ved=0ahUKEwiv6OL4yZ7qAhXbZs0KHVnZCMQQ_AUIBCgA",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=nws&source=lnms&tbs=qdr%3Ad&sa=X&ved=0ahUKEwiv6OL4yZ7qAhXbZs0KHVnZCMQQ_AUIBSgB",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=vid&source=lnms&tbs=qdr%3Ad&sa=X&ved=0ahUKEwiv6OL4yZ7qAhXbZs0KHVnZCMQQ_AUIBygD"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbs=qdr%3Ad&tbm=isch&ei=yCv1XreJGZa3tQamo4LYAg&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "blockchain+jobs - Google Search",
+    "Hash": "FBF98850D70669C37741A4B281851209",
+    "Url": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asensitrust&sa=X&ved=0ahUKEwi-poHfk57qAhWQVs0KHdpvDxU4FBDiVggQKAU",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": "ALL NEWS IMAGES VIDEOS Interview with... medium.com Interview with... medium.com EOS (EOS) $2.49 - Coin Info... chasing-coins.com EOS (EOS) $2.49 - Coin Info... chasing-coins.com NextÂ > Sign in Settings Privacy Terms"
+}

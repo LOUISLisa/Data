@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/url?q=https%3A%2F%2Fsteemit.com%2Fcrypto%2F%40flodner%2Fcrypto-jobs-2020-a-new-list&sa=U&ved=2ahUKEwix1O3GjJ7qAhWVZs0KHb5KAG8QqoUBMAB6BAgGEAE&usg=AOvVaw0mWO23btTI2iX6uniLIw3X"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bfinance%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Aw&sa=X&ved=0ahUKEwjDqpOqhZ7qAhUYIDQIHSwcA1QQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "24080A1273CD639875FFBFE31F5A6AFD",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fsteemit.com%2Fcrypto%2F%40flodner%2Fcrypto-jobs-2020-a-new-list&sa=U&ved=2ahUKEwix1O3GjJ7qAhWVZs0KHb5KAG8QqoUBMAB6BAgGEAE&usg=AOvVaw0mWO23btTI2iX6uniLIw3X",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://steemit.com/crypto/@flodner/crypto-jobs-2020-a-new-list. Â If you do not want to visit that page, you can return to the previous page."
+}

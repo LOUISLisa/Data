@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptbuzz.com/linkedin-jobs/",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptbuzz.com%2Flinkedin-jobs%2F&sa=U&ved=2ahUKEwi8_YSNhp7qAhXTHc0KHQCMCHMQr4kDMAt6BAgJEAI&usg=AOvVaw2AMGXzWstPq0IY39V0rShK"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=google%2Bblockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtuMyWhZ7qAhUTKH0KHSzHBGoQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "DE190302BE570F5E9150EF8B402251C0",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptbuzz.com%2Flinkedin-jobs%2F&sa=U&ved=2ahUKEwi8_YSNhp7qAhXTHc0KHQCMCHMQr4kDMAt6BAgJEAI&usg=AOvVaw2AMGXzWstPq0IY39V0rShK",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptbuzz.com/linkedin-jobs/. Â If you do not want to visit that page, you can return to the previous page."
+}

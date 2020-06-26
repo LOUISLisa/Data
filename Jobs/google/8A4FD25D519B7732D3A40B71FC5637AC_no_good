@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "http://www.globalethicalbanking.com/blockchain-jobs-continue-rise-despite-global-recession/",
+        "https://www.google.com/url?q=http%3A%2F%2Fwww.globalethicalbanking.com%2Fblockchain-jobs-continue-rise-despite-global-recession%2F&sa=U&ved=2ahUKEwiXlfKDh57qAhUPWs0KHQH7AhcQr4kDMA56BAgEEAI&usg=AOvVaw1tkmPlN-amZnVLV_qLF0oN"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Ay&sa=X&ved=0ahUKEwiF67SahZ7qAhURLX0KHYVhADcQ_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "8A4FD25D519B7732D3A40B71FC5637AC",
+    "Url": "https://www.google.com/url?q=http%3A%2F%2Fwww.globalethicalbanking.com%2Fblockchain-jobs-continue-rise-despite-global-recession%2F&sa=U&ved=2ahUKEwiXlfKDh57qAhUPWs0KHQH7AhcQr4kDMA56BAgEEAI&usg=AOvVaw1tkmPlN-amZnVLV_qLF0oN",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to http://www.globalethicalbanking.com/blockchain-jobs-continue-rise-despite-global-recession/. Â If you do not want to visit that page, you can return to the previous page."
+}

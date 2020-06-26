@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.kijiji.ca%2Fv-programmer-computer-jobs%2Fcity-of-toronto%2Ffull-stack-developer-blockchain%2F1508581989&sa=U&ved=2ahUKEwibm5efhZ7qAhU4CTQIHbxFDTIQFjAHegQIAxAB&usg=AOvVaw1MxPm_hEN4yCAs1r1iM3vl",
+        "https://www.kijiji.ca/v-programmer-computer-jobs/city-of-toronto/full-stack-developer-blockchain/1508581989"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnt&tbs=qdr%3Ah&sa=X&ved=0ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQpwUIDw",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "F44E5F8DCD35670E3AD9F3B38474A315",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.kijiji.ca%2Fv-programmer-computer-jobs%2Fcity-of-toronto%2Ffull-stack-developer-blockchain%2F1508581989&sa=U&ved=2ahUKEwibm5efhZ7qAhU4CTQIHbxFDTIQFjAHegQIAxAB&usg=AOvVaw1MxPm_hEN4yCAs1r1iM3vl",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.kijiji.ca/v-programmer-computer-jobs/city-of-toronto/full-stack-developer-blockchain/1508581989. Â If you do not want to visit that page, you can return to the previous page."
+}

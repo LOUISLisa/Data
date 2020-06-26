@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fblockchain-jobs&sa=U&ved=2ahUKEwjtuMyWhZ7qAhUTKH0KHSzHBGoQFjALegQIAxAB&usg=AOvVaw3thbPUdC_fVth55T0AAgim",
+        "https://www.linkedin.com/jobs/blockchain-jobs"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&q=google%2Bblockchain%2Bjobs&sa=X&ved=2ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQ1QJ6BAgAEAQ",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "0CD64E4367149A1A525B2AC455222173",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fblockchain-jobs&sa=U&ved=2ahUKEwjtuMyWhZ7qAhUTKH0KHSzHBGoQFjALegQIAxAB&usg=AOvVaw3thbPUdC_fVth55T0AAgim",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.linkedin.com/jobs/blockchain-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://medium.com/tezoscommons/tezos-recruits-the-berkeley-blockchain-career-fair-9f53d965dc7e",
+        "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2Ftezoscommons%2Ftezos-recruits-the-berkeley-blockchain-career-fair-9f53d965dc7e&sa=U&ved=2ahUKEwjkvKbSjJ7qAhXJHM0KHXHSAwoQr4kDMAh6BAgJEAI&usg=AOvVaw0G9nt8_45VjQNJ5n52MWp9"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjob%2Bfair&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Aw&sa=X&ved=0ahUKEwienNCqhZ7qAhX9CTQIHYk2CaQQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "93FE626790EAAA3D648736E209235521",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2Ftezoscommons%2Ftezos-recruits-the-berkeley-blockchain-career-fair-9f53d965dc7e&sa=U&ved=2ahUKEwjkvKbSjJ7qAhXJHM0KHXHSAwoQr4kDMAh6BAgJEAI&usg=AOvVaw0G9nt8_45VjQNJ5n52MWp9",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://medium.com/tezoscommons/tezos-recruits-the-berkeley-blockchain-career-fair-9f53d965dc7e. Â If you do not want to visit that page, you can return to the previous page."
+}

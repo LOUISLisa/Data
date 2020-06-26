@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://www.google.com/url?q=https%3A%2F%2Fblocktribe.com%2Fjobs%2F&sa=U&ved=2ahUKEwiDkNaphZ7qAhVtJDQIHewPCogQ0gIwCXoECAkQAw&usg=AOvVaw2aB3nMxXId2x6Qb8pzzuh4"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnt&tbs=qdr%3Ad&sa=X&ved=0ahUKEwjH--OShZ7qAhWiIDQIHUA8DNcQpwUIEA",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "DF472BDA70FD2D4CFB969767A805517C",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fblocktribe.com%2Fjobs%2F&sa=U&ved=2ahUKEwiDkNaphZ7qAhVtJDQIHewPCogQ0gIwCXoECAkQAw&usg=AOvVaw2aB3nMxXId2x6Qb8pzzuh4",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://blocktribe.com/jobs/. Â If you do not want to visit that page, you can return to the previous page."
+}

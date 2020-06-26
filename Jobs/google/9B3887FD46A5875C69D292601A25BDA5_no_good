@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://coingeek.com/fewer-employees-seeking-blockchain-jobs-despite-increased-employer-demand/",
+        "https://www.google.com/url?q=https%3A%2F%2Fcoingeek.com%2Ffewer-employees-seeking-blockchain-jobs-despite-increased-employer-demand%2F&sa=U&ved=2ahUKEwiXlfKDh57qAhUPWs0KHQH7AhcQr4kDMBF6BAgBEAI&usg=AOvVaw2liK21Z4oF4mUqJjFbgDbf"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Ay&sa=X&ved=0ahUKEwiF67SahZ7qAhURLX0KHYVhADcQ_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "9B3887FD46A5875C69D292601A25BDA5",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcoingeek.com%2Ffewer-employees-seeking-blockchain-jobs-despite-increased-employer-demand%2F&sa=U&ved=2ahUKEwiXlfKDh57qAhUPWs0KHQH7AhcQr4kDMBF6BAgBEAI&usg=AOvVaw2liK21Z4oF4mUqJjFbgDbf",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://coingeek.com/fewer-employees-seeking-blockchain-jobs-despite-increased-employer-demand/. Â If you do not want to visit that page, you can return to the previous page."
+}

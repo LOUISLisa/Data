@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://hackernoon.com/state-of-the-blockchain-and-cryptocurrency-job-market-in-2018-aa3c0b58451f",
+        "https://www.google.com/url?q=https%3A%2F%2Fhackernoon.com%2Fstate-of-the-blockchain-and-cryptocurrency-job-market-in-2018-aa3c0b58451f&sa=U&ved=2ahUKEwj8y5SNiZ7qAhUNbs0KHSsMAdsQqoUBMA96BAgDEAE&usg=AOvVaw2RaKdmCzE4wVVAQ7CRSMJX"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=cryptocurrency%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj02LClhZ7qAhUpHjQIHduuDN8Q_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "ADE5F037CFB6E4E0BAFA70FCC9130543",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fhackernoon.com%2Fstate-of-the-blockchain-and-cryptocurrency-job-market-in-2018-aa3c0b58451f&sa=U&ved=2ahUKEwj8y5SNiZ7qAhUNbs0KHSsMAdsQqoUBMA96BAgDEAE&usg=AOvVaw2RaKdmCzE4wVVAQ7CRSMJX",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://hackernoon.com/state-of-the-blockchain-and-cryptocurrency-job-market-in-2018-aa3c0b58451f. Â If you do not want to visit that page, you can return to the previous page."
+}

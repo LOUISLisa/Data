@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://medium.com/auxesis/7-blockchain-career-opportunities-1004dbb92a88",
+        "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2Fauxesis%2F7-blockchain-career-opportunities-1004dbb92a88&sa=U&ved=2ahUKEwjeucTwkZ7qAhVNVc0KHc4iBxcQr4kDMAR6BAgQEAI&usg=AOvVaw1wCKiO0jHJsp1sWMuQsjcp"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology%2Conline_chips%3Acareer&sa=X&ved=0ahUKEwi9vuXih57qAhWyds0KHamHB10Q4lYIEigG",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "92C91EAE513944B8A4F89D2DE359A91A",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2Fauxesis%2F7-blockchain-career-opportunities-1004dbb92a88&sa=U&ved=2ahUKEwjeucTwkZ7qAhVNVc0KHc4iBxcQr4kDMAR6BAgQEAI&usg=AOvVaw1wCKiO0jHJsp1sWMuQsjcp",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://medium.com/auxesis/7-blockchain-career-opportunities-1004dbb92a88. Â If you do not want to visit that page, you can return to the previous page."
+}

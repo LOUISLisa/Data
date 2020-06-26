@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.crypto-careers.com/jobs/16889289-compliance-analyst-at-bittrex",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.crypto-careers.com%2Fjobs%2F16889289-compliance-analyst-at-bittrex&sa=U&ved=2ahUKEwiwx-y-j57qAhVLXc0KHWeOCZYQqoUBMAh6BAgJEAE&usg=AOvVaw33GaNdX-bcGfFwK3z12Qoa"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcompliance%2Bjobs&chips=q%3Ablockchain%2Bcompliance%2Bjobs%2Conline_chips%3Abittrex&sa=X&ved=0ahUKEwj-ksjthZ7qAhWQB80KHTlSBXkQ4lYIDSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "EE130C32FBCFEAF52A37A2ABEF14E5F7",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.crypto-careers.com%2Fjobs%2F16889289-compliance-analyst-at-bittrex&sa=U&ved=2ahUKEwiwx-y-j57qAhVLXc0KHWeOCZYQqoUBMAh6BAgJEAE&usg=AOvVaw33GaNdX-bcGfFwK3z12Qoa",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.crypto-careers.com/jobs/16889289-compliance-analyst-at-bittrex. Â If you do not want to visit that page, you can return to the previous page."
+}

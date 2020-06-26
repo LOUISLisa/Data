@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://blockgeeks.com/guides/blockchain-jobs/",
+        "https://www.google.com/url?q=https%3A%2F%2Fblockgeeks.com%2Fguides%2Fblockchain-jobs%2F&sa=U&ved=2ahUKEwjt4rLzkZ7qAhVbVs0KHai9BhcQr4kDMAt6BAgKEAI&usg=AOvVaw1boiK5uearPwuE4lf9tp_n"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology%2Conline_chips%3Adistributed%2Bledger&sa=X&ved=0ahUKEwi9vuXih57qAhWyds0KHamHB10Q4lYIEygH",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "D90BF5DBFDCA3F491601675BF8854E80",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fblockgeeks.com%2Fguides%2Fblockchain-jobs%2F&sa=U&ved=2ahUKEwjt4rLzkZ7qAhVbVs0KHai9BhcQr4kDMAt6BAgKEAI&usg=AOvVaw1boiK5uearPwuE4lf9tp_n",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://blockgeeks.com/guides/blockchain-jobs/. Â If you do not want to visit that page, you can return to the previous page."
+}

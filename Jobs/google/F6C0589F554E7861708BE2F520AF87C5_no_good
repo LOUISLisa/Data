@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://tokenmarket.net/blockchain/ethereum/assets/bitjob/",
+        "https://www.google.com/url?q=https%3A%2F%2Ftokenmarket.net%2Fblockchain%2Fethereum%2Fassets%2Fbitjob%2F&sa=U&ved=2ahUKEwjTm6GVkp7qAhWEZ80KHWnEDW4Qr4kDMAx6BAgJEAI&usg=AOvVaw2CnPayPwU2yS58-icTOON5"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Aethereum%2Conline_chips%3Abitjob&sa=X&ved=0ahUKEwiI7ornh57qAhUSbs0KHZHxAEcQ4lYIESgF",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "F6C0589F554E7861708BE2F520AF87C5",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Ftokenmarket.net%2Fblockchain%2Fethereum%2Fassets%2Fbitjob%2F&sa=U&ved=2ahUKEwjTm6GVkp7qAhWEZ80KHWnEDW4Qr4kDMAx6BAgJEAI&usg=AOvVaw2CnPayPwU2yS58-icTOON5",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://tokenmarket.net/blockchain/ethereum/assets/bitjob/. Â If you do not want to visit that page, you can return to the previous page."
+}

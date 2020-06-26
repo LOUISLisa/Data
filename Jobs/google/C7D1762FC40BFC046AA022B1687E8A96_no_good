@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://news.bitcoin.com/angellist-number-crypto-job-listings-doubled/",
+        "https://www.google.com/url?q=https%3A%2F%2Fnews.bitcoin.com%2Fangellist-number-crypto-job-listings-doubled%2F&sa=U&ved=2ahUKEwjRhszjhZ7qAhVEK80KHeAcC_cQr4kDMBN6BAgBEAI&usg=AOvVaw1rqQZ1e3a9z3B4_MT7dPhH"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs%2Bfor%2Bfreshers&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXn5WVhZ7qAhVDJjQIHXTiBTcQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "C7D1762FC40BFC046AA022B1687E8A96",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fnews.bitcoin.com%2Fangellist-number-crypto-job-listings-doubled%2F&sa=U&ved=2ahUKEwjRhszjhZ7qAhVEK80KHeAcC_cQr4kDMBN6BAgBEAI&usg=AOvVaw1rqQZ1e3a9z3B4_MT7dPhH",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://news.bitcoin.com/angellist-number-crypto-job-listings-doubled/. Â If you do not want to visit that page, you can return to the previous page."
+}

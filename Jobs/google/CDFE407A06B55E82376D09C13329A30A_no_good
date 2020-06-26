@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.betterteam.com/best-it-and-tech-job-boards",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.betterteam.com%2Fbest-it-and-tech-job-boards&sa=U&ved=2ahUKEwiD2-achZ7qAhWNCTQIHWb3A28QFjANegQIBhAB&usg=AOvVaw1QB4RcsXm6kKdaXkAWQosF"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&q=IT%2Bjob%2Bsites&stick=H4sIAAAAAAAAAOOQMeLJLFHIyk9SKM4sSS2O4k_KyU_OTs5IzMwDiRafYuTSz9U3yEuyMCjOgnJKTI3zCixOMXKAOEaWScanGDlBTOOy9KIiKNuyMqc8G6rE2MIcJpxsmWJhBmUnGVQml0DZhhbJ5oZQdopBWYXhL0YezxCEuxpYGBexoogAAE7N1U66AAAA&sa=X&ved=2ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQzO0BegQIBBAF",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "CDFE407A06B55E82376D09C13329A30A",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.betterteam.com%2Fbest-it-and-tech-job-boards&sa=U&ved=2ahUKEwiD2-achZ7qAhWNCTQIHWb3A28QFjANegQIBhAB&usg=AOvVaw1QB4RcsXm6kKdaXkAWQosF",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.betterteam.com/best-it-and-tech-job-boards. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/url?q=https%3A%2F%2Fsteemit.com%2Fsteemit%2F%40ozery%2Fintroducing-job-block-blockchain-job-board-on-slack-for-steem&sa=U&ved=2ahUKEwir5M_-k57qAhUQac0KHbBuCPc4FBCqhQEwBHoECA8QAQ&usg=AOvVaw3jXFQRgwcnCOzHYpV4QW1k"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=google%2Bblockchain%2Bjobs&ie=UTF-8&tbm=isch&ei=9iv1XrTGGdGO9PwPxr6RQA&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "89ECC7539B9BC2537A62B47401854BC6",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fsteemit.com%2Fsteemit%2F%40ozery%2Fintroducing-job-block-blockchain-job-board-on-slack-for-steem&sa=U&ved=2ahUKEwir5M_-k57qAhUQac0KHbBuCPc4FBCqhQEwBHoECA8QAQ&usg=AOvVaw3jXFQRgwcnCOzHYpV4QW1k",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://steemit.com/steemit/@ozery/introducing-job-block-blockchain-job-board-on-slack-for-steem. Â If you do not want to visit that page, you can return to the previous page."
+}

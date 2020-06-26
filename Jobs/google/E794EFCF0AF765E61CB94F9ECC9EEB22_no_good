@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.midastouch-consulting.com%2Fhighest-paid-blockchain-jobs&sa=U&ved=2ahUKEwigrd_qkJ7qAhWOLc0KHYRpCes4FBCviQMwBHoECBAQAg&usg=AOvVaw2VuLbolJu2DCezRPZGB1pl",
+        "https://www.midastouch-consulting.com/highest-paid-blockchain-jobs"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbs=qdr%3Ay&tbm=isch&ei=jCr1XpefF4-0tQaB9ou4AQ&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E794EFCF0AF765E61CB94F9ECC9EEB22",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.midastouch-consulting.com%2Fhighest-paid-blockchain-jobs&sa=U&ved=2ahUKEwigrd_qkJ7qAhWOLc0KHYRpCes4FBCviQMwBHoECBAQAg&usg=AOvVaw2VuLbolJu2DCezRPZGB1pl",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.midastouch-consulting.com/highest-paid-blockchain-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

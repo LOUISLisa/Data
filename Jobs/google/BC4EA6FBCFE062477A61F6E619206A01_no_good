@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.refinery29.com%2Fen-us%2Fhow-to-use-google-job-search&sa=U&ved=2ahUKEwjdh8izkZ7qAhUZac0KHQgxDp4Qr4kDMBN6BAgAEAI&usg=AOvVaw2QHmC7_fKMBjrnLdrMpmSS",
+        "https://www.refinery29.com/en-us/how-to-use-google-job-search"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Asalary&sa=X&ved=0ahUKEwijltaxh57qAhWFcc0KHds8CNAQ4lYIFCgJ",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "BC4EA6FBCFE062477A61F6E619206A01",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.refinery29.com%2Fen-us%2Fhow-to-use-google-job-search&sa=U&ved=2ahUKEwjdh8izkZ7qAhUZac0KHQgxDp4Qr4kDMBN6BAgAEAI&usg=AOvVaw2QHmC7_fKMBjrnLdrMpmSS",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.refinery29.com/en-us/how-to-use-google-job-search. Â If you do not want to visit that page, you can return to the previous page."
+}

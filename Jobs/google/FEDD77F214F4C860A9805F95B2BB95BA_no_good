@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.cointelegraph.com.au/videos/blockchain-videos/flying-taxi-5000-new-jobs-in-cloud-blockchain-startup-news-tamil-tech-news/",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.cointelegraph.com.au%2Fvideos%2Fblockchain-videos%2Fflying-taxi-5000-new-jobs-in-cloud-blockchain-startup-news-tamil-tech-news%2F&sa=U&ved=2ahUKEwjGwM2ejZ7qAhUXQ80KHTigAAoQqoUBMBN6BAgBEAE&usg=AOvVaw25AD4qCfUs0oC8W4jci_w8"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&gbv=1&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Aw&sa=X&ved=0ahUKEwio876thZ7qAhVIJTQIHQ3pCi8Q_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "FEDD77F214F4C860A9805F95B2BB95BA",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.cointelegraph.com.au%2Fvideos%2Fblockchain-videos%2Fflying-taxi-5000-new-jobs-in-cloud-blockchain-startup-news-tamil-tech-news%2F&sa=U&ved=2ahUKEwjGwM2ejZ7qAhUXQ80KHTigAAoQqoUBMBN6BAgBEAE&usg=AOvVaw25AD4qCfUs0oC8W4jci_w8",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.cointelegraph.com.au/videos/blockchain-videos/flying-taxi-5000-new-jobs-in-cloud-blockchain-startup-news-tamil-tech-news/. Â If you do not want to visit that page, you can return to the previous page."
+}

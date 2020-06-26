@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://thebitcoin.pub/t/crypto-jobs-new-site/11023",
+        "https://www.google.com/url?q=https%3A%2F%2Fthebitcoin.pub%2Ft%2Fcrypto-jobs-new-site%2F11023&sa=U&ved=2ahUKEwiq-MO-kZ7qAhW-Ap0JHZpHAd84FBCviQMwAXoECBMQAg&usg=AOvVaw2gm_pdBJ-nZT2RH37jjeVr"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=bitcoin%2Bblockchain%2Bjobs&ie=UTF-8&tbm=isch&ei=ICv1Xs3aGNe5tAbtmZfYDw&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "BE523E74BF717704BE3387CB0E7ABB2F",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fthebitcoin.pub%2Ft%2Fcrypto-jobs-new-site%2F11023&sa=U&ved=2ahUKEwiq-MO-kZ7qAhW-Ap0JHZpHAd84FBCviQMwAXoECBMQAg&usg=AOvVaw2gm_pdBJ-nZT2RH37jjeVr",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://thebitcoin.pub/t/crypto-jobs-new-site/11023. Â If you do not want to visit that page, you can return to the previous page."
+}

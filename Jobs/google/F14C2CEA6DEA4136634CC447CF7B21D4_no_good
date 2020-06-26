@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwijobjgk57qAhXTZc0KHXdJB9QQv5YECFU"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Amiguel%2Bleal&sa=X&ved=0ahUKEwi3jcuaiJ7qAhWWW80KHaaRACsQ4lYICygA",
+    "DocumentType": "JobBoards",
+    "Title": "Search Settings",
+    "Hash": "F14C2CEA6DEA4136634CC447CF7B21D4",
+    "Url": "https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwijobjgk57qAhXTZc0KHXdJB9QQv5YECFU",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "Hungarian",
+    "TackIt": "false",
+    "Body": "Your preferences have been saved Sign in Search Settings Search results Languages Help Which language should Google products use? Show moreShow less Currently showing search results in: EnglishEdit SafeSearch filters SafeSearch can help you block inappropriate or explicit images from your Google Search results. The SafeSearch filter isn\u2019t 100% accurate, but it helps you avoid most violent and adult content. Lock SafeSearch Results per page 10 20 30 40 50 100 Faster Slower Google Instant shows 10 results Where results open Search customization Search activity helps give you more relevant results and recommendations by using your searches on google.com from this browser. You can turn off Search customization at any time. Region Settings Show moreShow less Sign in to use any previous settings. Learn more Account Search Maps YouTube Play News Gmail Meet Contacts Drive Calendar Translate Photos Duo Chrome Shopping Finance Docs Sheets Slides Books Blogger Hangouts Keep Jamboard Earth Collections Arts and Culture More from Google Google apps Main menu HelpPrivacyTerms"
+}

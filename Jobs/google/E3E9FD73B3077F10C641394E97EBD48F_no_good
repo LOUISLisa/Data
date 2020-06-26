@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://news.bitcoin.com/crypto-jobs-on-the-rise-thousands-listed/",
+        "https://www.google.com/url?q=https%3A%2F%2Fnews.bitcoin.com%2Fcrypto-jobs-on-the-rise-thousands-listed%2F&sa=U&ved=2ahUKEwjN6rzKh57qAhXXHM0KHe3MBfsQr4kDMAh6BAgMEAI&usg=AOvVaw2YMV0J8ZmvR1V7EGW6uBnR"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=bitcoin%2Bblockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi6gKOdhZ7qAhW_CTQIHR96DhYQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E3E9FD73B3077F10C641394E97EBD48F",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fnews.bitcoin.com%2Fcrypto-jobs-on-the-rise-thousands-listed%2F&sa=U&ved=2ahUKEwjN6rzKh57qAhXXHM0KHe3MBfsQr4kDMAh6BAgMEAI&usg=AOvVaw2YMV0J8ZmvR1V7EGW6uBnR",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://news.bitcoin.com/crypto-jobs-on-the-rise-thousands-listed/. Â If you do not want to visit that page, you can return to the previous page."
+}

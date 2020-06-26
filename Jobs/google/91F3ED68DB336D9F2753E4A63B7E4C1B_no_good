@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://micky.com.au/recent-job-listing-suggest-paypal-may-be-moving-into-crypto/",
+        "https://www.google.com/url?q=https%3A%2F%2Fmicky.com.au%2Frecent-job-listing-suggest-paypal-may-be-moving-into-crypto%2F&sa=U&ved=2ahUKEwi9gqWnhZ7qAhVBO30KHUVbCxgQxfQBMAd6BAgAEAE&usg=AOvVaw2cSpE2r1TBUO24xTtL2QEd"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=nws&tbs=qdr%3Aw&sa=X&ved=0ahUKEwjH--OShZ7qAhWiIDQIHUA8DNcQ_AUICCgB",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "91F3ED68DB336D9F2753E4A63B7E4C1B",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fmicky.com.au%2Frecent-job-listing-suggest-paypal-may-be-moving-into-crypto%2F&sa=U&ved=2ahUKEwi9gqWnhZ7qAhVBO30KHUVbCxgQxfQBMAd6BAgAEAE&usg=AOvVaw2cSpE2r1TBUO24xTtL2QEd",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://micky.com.au/recent-job-listing-suggest-paypal-may-be-moving-into-crypto/. Â If you do not want to visit that page, you can return to the previous page."
+}

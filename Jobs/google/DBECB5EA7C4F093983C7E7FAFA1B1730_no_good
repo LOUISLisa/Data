@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptojobslist.com/blockchain-ethereum-jobs",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fblockchain-ethereum-jobs&sa=U&ved=2ahUKEwiV5oW5k57qAhWFWc0KHTWUBQEQqoUBMBN6BAgEEAE&usg=AOvVaw2ETQc-_pY_kDefGZo46OAJ"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Aethereum&sa=X&ved=0ahUKEwjJ46z2h57qAhXSGs0KHaQ-CRcQ4lYIFCgJ",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "DBECB5EA7C4F093983C7E7FAFA1B1730",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fblockchain-ethereum-jobs&sa=U&ved=2ahUKEwiV5oW5k57qAhWFWc0KHTWUBQEQqoUBMBN6BAgEEAE&usg=AOvVaw2ETQc-_pY_kDefGZo46OAJ",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptojobslist.com/blockchain-ethereum-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.upwork.com%2Ffreelance-jobs%2Fblockchain%2F&sa=U&ved=2ahUKEwj8w4m2hZ7qAhWvGTQIHdcZA3YQFjANegQIChAB&usg=AOvVaw1a3cv6iM5FSln579kEzvW9",
+        "https://www.upwork.com/freelance-jobs/blockchain/"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnt&tbs=qdr%3Am&sa=X&ved=0ahUKEwjH--OShZ7qAhWiIDQIHUA8DNcQpwUIEg",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "254975F703D2FAF480AD83B3B554D970",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.upwork.com%2Ffreelance-jobs%2Fblockchain%2F&sa=U&ved=2ahUKEwj8w4m2hZ7qAhWvGTQIHdcZA3YQFjANegQIChAB&usg=AOvVaw1a3cv6iM5FSln579kEzvW9",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.upwork.com/freelance-jobs/blockchain/. Â If you do not want to visit that page, you can return to the previous page."
+}

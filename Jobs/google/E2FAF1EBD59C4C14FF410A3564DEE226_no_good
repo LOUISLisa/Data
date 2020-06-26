@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://bitcoinke.io/2020/03/blockchain-jobs-on-the-rise-amidst-pandemic/",
+        "https://www.google.com/url?q=https%3A%2F%2Fbitcoinke.io%2F2020%2F03%2Fblockchain-jobs-on-the-rise-amidst-pandemic%2F&sa=U&ved=2ahUKEwjy7eX_i57qAhWXWc0KHZQ_BvoQr4kDMAV6BAgQEAI&usg=AOvVaw06_GrA97u_rj4LQCH_AvtO"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=isch&source=lnms&tbs=qdr%3Aw&sa=X&ved=0ahUKEwi9gqWnhZ7qAhVBO30KHUVbCxgQ_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E2FAF1EBD59C4C14FF410A3564DEE226",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fbitcoinke.io%2F2020%2F03%2Fblockchain-jobs-on-the-rise-amidst-pandemic%2F&sa=U&ved=2ahUKEwjy7eX_i57qAhWXWc0KHZQ_BvoQr4kDMAV6BAgQEAI&usg=AOvVaw06_GrA97u_rj4LQCH_AvtO",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://bitcoinke.io/2020/03/blockchain-jobs-on-the-rise-amidst-pandemic/. Â If you do not want to visit that page, you can return to the previous page."
+}

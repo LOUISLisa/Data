@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://bitcoinexchangeguide.com/blockchain-developer-jobs/",
+        "https://www.google.com/url?q=https%3A%2F%2Fbitcoinexchangeguide.com%2Fblockchain-developer-jobs%2F&sa=U&ved=2ahUKEwjF1rbkkp7qAhVaZM0KHRUcDCoQr4kDMBN6BAgAEAI&usg=AOvVaw1bimz4_VlgK32lz_OByq8P"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ablockchain%2Bdeveloper%2Conline_chips%3Ablockchain%2Btechnology&sa=X&ved=0ahUKEwjsp7Drh57qAhVWG80KHdhUC6MQ4lYIDCgA",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "03B6B73A731B16A102BCB4ED54D76457",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fbitcoinexchangeguide.com%2Fblockchain-developer-jobs%2F&sa=U&ved=2ahUKEwjF1rbkkp7qAhVaZM0KHRUcDCoQr4kDMBN6BAgAEAI&usg=AOvVaw1bimz4_VlgK32lz_OByq8P",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://bitcoinexchangeguide.com/blockchain-developer-jobs/. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40admin_31256%2Fthe-most-popular-crypto-and-blockchain-jobs-in-february-2020-f97cf599fcd6&sa=U&ved=2ahUKEwjhs4LlkJ7qAhVWJ80KHXeRBEsQqoUBMAJ6BAgSEAE&usg=AOvVaw0ikpNNPBV2XCIu4IO3wbLz"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ay&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Aremote&sa=X&ved=0ahUKEwiXlfKDh57qAhUPWs0KHQH7AhcQ4lYIDCgB",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "27CAF0AE09EF7E4BED5BBFDF716B42BE",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40admin_31256%2Fthe-most-popular-crypto-and-blockchain-jobs-in-february-2020-f97cf599fcd6&sa=U&ved=2ahUKEwjhs4LlkJ7qAhVWJ80KHXeRBEsQqoUBMAJ6BAgSEAE&usg=AOvVaw0ikpNNPBV2XCIu4IO3wbLz",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://medium.com/@admin_31256/the-most-popular-crypto-and-blockchain-jobs-in-february-2020-f97cf599fcd6. Â If you do not want to visit that page, you can return to the previous page."
+}

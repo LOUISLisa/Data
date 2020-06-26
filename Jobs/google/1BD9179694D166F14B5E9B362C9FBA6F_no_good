@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bresearch%2Bjobs&chips=q%3Ablockchain%2Bresearch%2Bjobs%2Conline_chips%3Ablackchain%2Conline_chips%3Awyohackathon&sa=X&ved=0ahUKEwj39fWIkZ7qAhVSWs0KHahnABwQ4lYIDygD",
+        "https://www.google.com/search?q=blockchain%2Bresearch%2Bjobs&ie=UTF-8&source=lnms&sa=X&ved=0ahUKEwjoh5rkrp7qAhWKZM0KHR61D9wQ_AUIBCgA",
+        "https://www.google.com/search?q=blockchain%2Bresearch%2Bjobs&ie=UTF-8&tbm=nws&source=lnms&sa=X&ved=0ahUKEwjoh5rkrp7qAhWKZM0KHR61D9wQ_AUIBSgB",
+        "https://www.google.com/search?q=blockchain%2Bresearch%2Bjobs&ie=UTF-8&tbm=vid&source=lnms&sa=X&ved=0ahUKEwjoh5rkrp7qAhWKZM0KHR61D9wQ_AUIBygD"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bresearch%2Bjobs&chips=q%3Ablockchain%2Bresearch%2Bjobs%2Conline_chips%3Ablackchain&sa=X&ved=0ahUKEwjplq2Zh57qAhWNXc0KHR1pDzwQ4lYIECgF",
+    "DocumentType": "JobBoards",
+    "Title": "blockchain+research+jobs - Google Search",
+    "Hash": "1BD9179694D166F14B5E9B362C9FBA6F",
+    "Url": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bresearch%2Bjobs&chips=q%3Ablockchain%2Bresearch%2Bjobs%2Conline_chips%3Ablackchain%2Conline_chips%3Awyohackathon&sa=X&ved=0ahUKEwj39fWIkZ7qAhVSWs0KHahnABwQ4lYIDygD",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "Norwegian",
+    "TackIt": "false",
+    "Body": "ALL NEWS IMAGES VIDEOS Blackchain/WyoHackathon set... rocketminer.com NextÂ > Sign in Settings Privacy Terms"
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.accenture.com/in-en/careers/jobdetails?id=241569_india_1&SRC=%3C%20RECNau%20%3E",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.accenture.com%2Fin-en%2Fcareers%2Fjobdetails%3Fid%3D241569_india_1%26SRC%3D%253C%2520RECNau%2520%253E&sa=U&ved=2ahUKEwibm5efhZ7qAhU4CTQIHbxFDTIQFjAFegQIBxAB&usg=AOvVaw3sDh9jKLEdEFVTx1mIUeHv"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnt&tbs=qdr%3Ah&sa=X&ved=0ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQpwUIDw",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "8CABE9CB5FC2AB6721717B1A20AE75A5",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.accenture.com%2Fin-en%2Fcareers%2Fjobdetails%3Fid%3D241569_india_1%26SRC%3D%253C%2520RECNau%2520%253E&sa=U&ved=2ahUKEwibm5efhZ7qAhU4CTQIHbxFDTIQFjAFegQIBxAB&usg=AOvVaw3sDh9jKLEdEFVTx1mIUeHv",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.accenture.com/in-en/careers/jobdetails?id=241569_india_1&SRC=%3C%20RECNau%20%3E. Â If you do not want to visit that page, you can return to the previous page."
+}

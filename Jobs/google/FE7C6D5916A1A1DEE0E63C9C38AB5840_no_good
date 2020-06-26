@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptojobslist.com/solidity-jobs",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fsolidity-jobs&sa=U&ved=2ahUKEwj5noLyjp7qAhUSLs0KHV3mC7gQr4kDMAl6BAgLEAI&usg=AOvVaw25SR6rWXXTphoyuj4A1khU"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Aw&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Aethereum&sa=X&ved=0ahUKEwjUyK66hZ7qAhVUXc0KHcrBBCwQ4lYIEygI",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "FE7C6D5916A1A1DEE0E63C9C38AB5840",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fsolidity-jobs&sa=U&ved=2ahUKEwj5noLyjp7qAhUSLs0KHV3mC7gQr4kDMAl6BAgLEAI&usg=AOvVaw25SR6rWXXTphoyuj4A1khU",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptojobslist.com/solidity-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

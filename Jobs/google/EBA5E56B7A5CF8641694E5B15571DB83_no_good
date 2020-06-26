@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://btc-investor.net/skills-cryptocurrency-jobs/",
+        "https://www.google.com/url?q=https%3A%2F%2Fbtc-investor.net%2Fskills-cryptocurrency-jobs%2F&sa=U&ved=2ahUKEwickq2Tkp7qAhUbHM0KHcsRBqsQqoUBMAF6BAgTEAE&usg=AOvVaw2crHaZ7awHM0MaH4OugD-9"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Aethereum%2Conline_chips%3Aeth&sa=X&ved=0ahUKEwiI7ornh57qAhUSbs0KHZHxAEcQ4lYIDigC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "EBA5E56B7A5CF8641694E5B15571DB83",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fbtc-investor.net%2Fskills-cryptocurrency-jobs%2F&sa=U&ved=2ahUKEwickq2Tkp7qAhUbHM0KHcsRBqsQqoUBMAF6BAgTEAE&usg=AOvVaw2crHaZ7awHM0MaH4OugD-9",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://btc-investor.net/skills-cryptocurrency-jobs/. Â If you do not want to visit that page, you can return to the previous page."
+}

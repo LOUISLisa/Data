@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/url?q=https%3A%2F%2Fwww.indeed.com%2Fq-Blockchain-l-New-York%2C-NY-jobs.html&sa=U&ved=2ahUKEwjF4sSshZ7qAhUiIDQIHe-OAy0QFjAQegQIABAB&usg=AOvVaw1-hirL9o_QM27t14jBkGqs"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Aw&q=blockchain%2Bcontract%2Bjobs&sa=X&ved=2ahUKEwjH--OShZ7qAhWiIDQIHUA8DNcQ1QJ6BAgAEAc",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "FFD138B01C29C19EDA99D8DE8DF88682",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.indeed.com%2Fq-Blockchain-l-New-York%2C-NY-jobs.html&sa=U&ved=2ahUKEwjF4sSshZ7qAhUiIDQIHe-OAy0QFjAQegQIABAB&usg=AOvVaw1-hirL9o_QM27t14jBkGqs",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.indeed.com/q-Blockchain-l-New-York,-NY-jobs.html. Â If you do not want to visit that page, you can return to the previous page."
+}

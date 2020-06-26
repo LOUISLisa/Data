@@ -1,0 +1,33 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&backchip=online_chips%3Aglassdoor&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Arecruiting&sa=X&ved=0ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQ4VYICigB",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&backchip=online_chips%3Arecruiting&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Aglassdoor&sa=X&ved=0ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQ3VYICygA",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Aglassdoor%2Conline_chips%3Arecruiting%2Conline_chips%3Aemployee&sa=X&ved=0ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQ4lYIFigJ",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Aglassdoor%2Conline_chips%3Arecruiting%2Conline_chips%3Aglass%2Bdoor&sa=X&ved=0ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQ4lYIDSgA",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Aglassdoor%2Conline_chips%3Arecruiting%2Conline_chips%3Aindeed&sa=X&ved=0ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQ4lYIEigF",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Aglassdoor%2Conline_chips%3Arecruiting%2Conline_chips%3Ainfographic&sa=X&ved=0ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQ4lYIDigB",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Aglassdoor%2Conline_chips%3Arecruiting%2Conline_chips%3Ajob%2Bboard&sa=X&ved=0ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQ4lYIDygC",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Aglassdoor%2Conline_chips%3Arecruiting%2Conline_chips%3Ajob%2Bposting&sa=X&ved=0ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQ4lYIECgD",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Aglassdoor%2Conline_chips%3Arecruiting%2Conline_chips%3Ajob%2Bseekers&sa=X&ved=0ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQ4lYIFSgI",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Aglassdoor%2Conline_chips%3Arecruiting%2Conline_chips%3Areviews&sa=X&ved=0ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQ4lYIESgE",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Aglassdoor%2Conline_chips%3Arecruiting%2Conline_chips%3Asalaries&sa=X&ved=0ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQ4lYIFCgH",
+        "https://www.google.com/search?q=IT%2Bjob%2Bsites&ie=UTF-8&source=lnms&sa=X&ved=0ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQ_AUIBCgA",
+        "https://www.google.com/search?q=IT%2Bjob%2Bsites&ie=UTF-8&tbm=isch&ei=9Ff1XqmOM4OttQaBh7m4Cw&start=20&sa=N",
+        "https://www.google.com/search?q=IT%2Bjob%2Bsites&ie=UTF-8&tbm=nws&source=lnms&sa=X&ved=0ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQ_AUIBSgB",
+        "https://www.google.com/search?q=IT%2Bjob%2Bsites&ie=UTF-8&tbm=vid&source=lnms&sa=X&ved=0ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQ_AUIBygD",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.betterteam.com%2Fbest-job-posting-sites-for-employers&sa=U&ved=2ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQqoUBMAt6BAgJEAE&usg=AOvVaw2dPMBJsNdOC1_ZJEI3kdKF",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.betterteam.com%2Fbest-job-posting-sites-for-employers&sa=U&ved=2ahUKEwip2O6qsp7qAhWDVs0KHYFDDrcQr4kDMAt6BAgJEAI&usg=AOvVaw1F67sbXeqwjjvSjhB1N91Y"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Aglassdoor&sa=X&ved=0ahUKEwijltaxh57qAhWFcc0KHds8CNAQ4lYIDCgB",
+    "DocumentType": "JobBoards",
+    "Title": "IT+job+sites - Google Search",
+    "Hash": "8F74E8F0EA2A668F4FED18108221C193",
+    "Url": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Aglassdoor%2Conline_chips%3Arecruiting&sa=X&ved=0ahUKEwj_4ra2kZ7qAhXEUs0KHUC3AeoQ4lYIFCgI",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "Norwegian",
+    "TackIt": "false",
+    "Body": "ALL NEWS IMAGES VIDEOS glassdoorÂ ÃrecruitingÂ Ãglass doorinfographicjob boardjob postingreviewsindeedresumesalariesjob seekersemployee Glassdoor Job Search | Find... glassdoor.com How to Find the Right Job... glassdoor.com Job Recruiting Solutions,... glassdoor.com How to Recruit on Glassdoor... glassdoor.com Job Recruiting Solutions,... glassdoor.com Glassdoor for Employers -... glassdoor.com Applying For Jobs On The Go... glassdoor.com Glassdoor Outpaces... glassdoor.com Glassdoor Job Search | Find... glassdoor.com How to Recruit on Glassdoor... glassdoor.com How to Find a Job in 72... glassdoor.com Best Job Posting Sites for... betterteam.com 30 Best Job Search Sites &... zety.com Job Posting Solution|Job... glassdoor.com Glassdoor Pricing - Premium... glassdoor.com Glassdoor Pricing - Premium... glassdoor.com Trust Me, Glassdoor Impacts... glassdoor.com Where to Post Jobs Online... glassdoor.com Job Recruiting Solutions,... glassdoor.com 30 Best Job Search Sites &... zety.com NextÂ > Sign in Settings Privacy Terms"
+}

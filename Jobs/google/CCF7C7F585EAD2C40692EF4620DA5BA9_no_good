@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.consumersadvocate.org/job-search-sites",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.consumersadvocate.org%2Fjob-search-sites&sa=U&ved=2ahUKEwjy7paxkZ7qAhWUPM0KHXXSBu04FBCviQMwAnoECBIQAg&usg=AOvVaw3tXAqzfXWUUZdkR7huo92G"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=IT%2Bjob%2Bsites&stick=H4sIAAAAAAAAAOOQMeLJLFHIyk9SKM4sSS2O4k_KyU_OTs5IzMwDiRafYuTSz9U3yEuyMCjOgnJKTI3zCixOMXKAOEaWScanGDlBTOOy9KIiKNuyMqc8G6rE2MIcJpxsmWJhBmUnGVQml0DZhhbJ5oZQdopBWYXhL0YezxCEuxpYGBexoogAAE7N1U66AAAA&ie=UTF-8&tbm=isch&ei=7Cr1XqPwF4XjtQbb-aCADQ&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "CCF7C7F585EAD2C40692EF4620DA5BA9",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.consumersadvocate.org%2Fjob-search-sites&sa=U&ved=2ahUKEwjy7paxkZ7qAhWUPM0KHXXSBu04FBCviQMwAnoECBIQAg&usg=AOvVaw3tXAqzfXWUUZdkR7huo92G",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.consumersadvocate.org/job-search-sites. Â If you do not want to visit that page, you can return to the previous page."
+}

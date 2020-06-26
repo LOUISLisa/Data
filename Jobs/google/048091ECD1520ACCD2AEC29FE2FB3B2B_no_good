@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://blockchainbelievers.com/2018/01/blockchain-job-market-challenges-and-opportunities-bloomberg-bna/",
+        "https://www.google.com/url?q=https%3A%2F%2Fblockchainbelievers.com%2F2018%2F01%2Fblockchain-job-market-challenges-and-opportunities-bloomberg-bna%2F&sa=U&ved=2ahUKEwiO1pblh57qAhVeAp0JHaLcBwE4FBCqhQEwAXoECBAQAQ&usg=AOvVaw0bZH8Oysayh8ht9wpXJpFg"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=isch&ei=qyj1Xu_xLI7WtAa2mbCgBA&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "048091ECD1520ACCD2AEC29FE2FB3B2B",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fblockchainbelievers.com%2F2018%2F01%2Fblockchain-job-market-challenges-and-opportunities-bloomberg-bna%2F&sa=U&ved=2ahUKEwiO1pblh57qAhVeAp0JHaLcBwE4FBCqhQEwAXoECBAQAQ&usg=AOvVaw0bZH8Oysayh8ht9wpXJpFg",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://blockchainbelievers.com/2018/01/blockchain-job-market-challenges-and-opportunities-bloomberg-bna/. Â If you do not want to visit that page, you can return to the previous page."
+}

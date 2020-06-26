@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptojobslist.com/jobs/product-marketing-lead-filecoin-at-protocol-labs-remote",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fjobs%2Fproduct-marketing-lead-filecoin-at-protocol-labs-remote&sa=U&ved=2ahUKEwiDkNaphZ7qAhVtJDQIHewPCogQFjAPegQIAhAB&usg=AOvVaw0okroY5q2xNJZn7QuAohhZ"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnt&tbs=qdr%3Ad&sa=X&ved=0ahUKEwjH--OShZ7qAhWiIDQIHUA8DNcQpwUIEA",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "97E3DDE5B22CF78AE00DCCCA7A03639D",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fjobs%2Fproduct-marketing-lead-filecoin-at-protocol-labs-remote&sa=U&ved=2ahUKEwiDkNaphZ7qAhVtJDQIHewPCogQFjAPegQIAhAB&usg=AOvVaw0okroY5q2xNJZn7QuAohhZ",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptojobslist.com/jobs/product-marketing-lead-filecoin-at-protocol-labs-remote. Â If you do not want to visit that page, you can return to the previous page."
+}

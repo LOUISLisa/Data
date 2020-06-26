@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/preferences?hl=en&prev=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dblockchain%252Bjobs%26ie%3DUTF-8%26source%3Dlnms%26tbm%3Dshop%26sa%3DX%26ved%3D0ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQ_AUIDSgG&fg=1&sa=X&ved=0ahUKEwjSzcCYhZ7qAhVDHzQIHXpGAGsQsssBCJsB"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=shop&sa=X&ved=0ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQ_AUIDSgG",
+    "DocumentType": "JobBoards",
+    "Title": "Search Settings",
+    "Hash": "D4F5FBDB959D5A329CA3216AB5F33AE9",
+    "Url": "https://www.google.com/preferences?hl=en&prev=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dblockchain%252Bjobs%26ie%3DUTF-8%26source%3Dlnms%26tbm%3Dshop%26sa%3DX%26ved%3D0ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQ_AUIDSgG&fg=1&sa=X&ved=0ahUKEwjSzcCYhZ7qAhVDHzQIHXpGAGsQsssBCJsB",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "Hungarian",
+    "TackIt": "false",
+    "Body": "Your preferences have been saved Sign in Search Settings Search results Languages Help Which language should Google products use? Show moreShow less Currently showing search results in: EnglishEdit SafeSearch filters SafeSearch can help you block inappropriate or explicit images from your Google Search results. The SafeSearch filter isn\u2019t 100% accurate, but it helps you avoid most violent and adult content. Lock SafeSearch Results per page 10 20 30 40 50 100 Faster Slower Google Instant shows 10 results Where results open Search customization Search activity helps give you more relevant results and recommendations by using your searches on google.com from this browser. You can turn off Search customization at any time. Region Settings Show moreShow less Sign in to use any previous settings. Learn more Account Search Maps YouTube Play News Gmail Meet Contacts Drive Calendar Translate Photos Duo Chrome Shopping Finance Docs Sheets Slides Books Blogger Hangouts Keep Jamboard Earth Collections Arts and Culture More from Google Google apps Main menu HelpPrivacyTerms"
+}

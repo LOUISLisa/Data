@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.glassdoor.com/Job/software-engineer-blockchain-jobs-SRCH_KO0,28.htm",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.glassdoor.com%2FJob%2Fsoftware-engineer-blockchain-jobs-SRCH_KO0%2C28.htm&sa=U&ved=2ahUKEwjupo2rhZ7qAhXwHjQIHadPBhoQFjALegQICRAB&usg=AOvVaw1rLAspdGeKRq1-iWRmA5ZQ"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Aw&q=google%2Bblockchain%2Bjobs&sa=X&ved=2ahUKEwjH--OShZ7qAhWiIDQIHUA8DNcQ1QJ6BAgAEAU",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "F45590710B37599C2CEBC4E626786B2E",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.glassdoor.com%2FJob%2Fsoftware-engineer-blockchain-jobs-SRCH_KO0%2C28.htm&sa=U&ved=2ahUKEwjupo2rhZ7qAhXwHjQIHadPBhoQFjALegQICRAB&usg=AOvVaw1rLAspdGeKRq1-iWRmA5ZQ",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.glassdoor.com/Job/software-engineer-blockchain-jobs-SRCH_KO0,28.htm. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.the-blockchain.com%2F2020%2F06%2F22%2Fontology-fully-integrates-with-chainlink-opening-up-use-cases-in-data-management%2F&sa=U&ved=2ahUKEwiY8IL3jJ7qAhUUVc0KHX1nCTsQr4kDMBN6BAgEEAI&usg=AOvVaw0Kgh186tuOXJIqmOjJkE6f",
+        "https://www.the-blockchain.com/2020/06/22/ontology-fully-integrates-with-chainlink-opening-up-use-cases-in-data-management/"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bcontract%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Aw&sa=X&ved=0ahUKEwjF4sSshZ7qAhUiIDQIHe-OAy0Q_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "355F31328EC9676663F4141B419CCC47",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.the-blockchain.com%2F2020%2F06%2F22%2Fontology-fully-integrates-with-chainlink-opening-up-use-cases-in-data-management%2F&sa=U&ved=2ahUKEwiY8IL3jJ7qAhUUVc0KHX1nCTsQr4kDMBN6BAgEEAI&usg=AOvVaw0Kgh186tuOXJIqmOjJkE6f",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.the-blockchain.com/2020/06/22/ontology-fully-integrates-with-chainlink-opening-up-use-cases-in-data-management/. Â If you do not want to visit that page, you can return to the previous page."
+}

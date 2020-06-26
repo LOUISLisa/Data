@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cointelegraph.com/news/linkedin-report-blockchain-developer-leads-list-of-most-rapidly-growing-jobs",
+        "https://www.google.com/url?q=https%3A%2F%2Fcointelegraph.com%2Fnews%2Flinkedin-report-blockchain-developer-leads-list-of-most-rapidly-growing-jobs&sa=U&ved=2ahUKEwj-3ITYkp7qAhVEBc0KHRgaBMMQr4kDMA56BAgGEAI&usg=AOvVaw2TaVbF7qwoUAUgohlC25N1"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ajob%2Bopenings%2Conline_chips%3Aethereum&sa=X&ved=0ahUKEwjRjfPqh57qAhXGU80KHfzYCn4Q4lYIFSgJ",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "D4479E9AF2AF945927E7298F84B51C79",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcointelegraph.com%2Fnews%2Flinkedin-report-blockchain-developer-leads-list-of-most-rapidly-growing-jobs&sa=U&ved=2ahUKEwj-3ITYkp7qAhVEBc0KHRgaBMMQr4kDMA56BAgGEAI&usg=AOvVaw2TaVbF7qwoUAUgohlC25N1",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cointelegraph.com/news/linkedin-report-blockchain-developer-leads-list-of-most-rapidly-growing-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

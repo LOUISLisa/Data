@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.bitdegree.org/tutorials/blockchain-jobs/",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.bitdegree.org%2Ftutorials%2Fblockchain-jobs%2F&sa=U&ved=2ahUKEwjRhszjhZ7qAhVEK80KHeAcC_cQqoUBMBF6BAgDEAE&usg=AOvVaw1L2YxSCWRPllEJS5zy5bvY"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs%2Bfor%2Bfreshers&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXn5WVhZ7qAhVDJjQIHXTiBTcQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "EFF29FA0B9468035B6A69027C675BB7D",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.bitdegree.org%2Ftutorials%2Fblockchain-jobs%2F&sa=U&ved=2ahUKEwjRhszjhZ7qAhVEK80KHeAcC_cQqoUBMBF6BAgDEAE&usg=AOvVaw1L2YxSCWRPllEJS5zy5bvY",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.bitdegree.org/tutorials/blockchain-jobs/. Â If you do not want to visit that page, you can return to the previous page."
+}

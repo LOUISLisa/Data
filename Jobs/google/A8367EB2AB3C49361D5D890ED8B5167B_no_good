@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/compliance/",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptocurrencyjobs.co%2Fcompliance%2F&sa=U&ved=2ahUKEwjKjd6ThZ7qAhVWIDQIHa-TBJAQFjAAegQIBhAB&usg=AOvVaw1kL_-iGEJ8eRoH8oZZScc2"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&q=blockchain%2Bcompliance%2Bjobs&sa=X&ved=2ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQ1QJ6BAgAEAc",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "A8367EB2AB3C49361D5D890ED8B5167B",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptocurrencyjobs.co%2Fcompliance%2F&sa=U&ved=2ahUKEwjKjd6ThZ7qAhVWIDQIHa-TBJAQFjAAegQIBhAB&usg=AOvVaw1kL_-iGEJ8eRoH8oZZScc2",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptocurrencyjobs.co/compliance/. Â If you do not want to visit that page, you can return to the previous page."
+}

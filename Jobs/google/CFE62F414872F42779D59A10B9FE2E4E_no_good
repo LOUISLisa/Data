@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://jobsonchain.substack.com/p/jobs-on-chain-weekly-vol-5-c7d?utm_source=substack&utm_medium=email&utm_content=share&action=share",
+        "https://www.google.com/url?q=https%3A%2F%2Fjobsonchain.substack.com%2Fp%2Fjobs-on-chain-weekly-vol-5-c7d%3F%26utm_source%3Dsubstack%26utm_medium%3Demail%26utm_content%3Dshare%26action%3Dshare&sa=U&ved=2ahUKEwi0mcOwiJ7qAhVRB50JHUZfBAgQqoUBMA96BAgCEAE&usg=AOvVaw1AWkQ7VFffZxEWRaFH6wDE"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=google%2Bblockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi_nc6ghZ7qAhUHGDQIHYxLB9MQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "CFE62F414872F42779D59A10B9FE2E4E",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fjobsonchain.substack.com%2Fp%2Fjobs-on-chain-weekly-vol-5-c7d%3F%26utm_source%3Dsubstack%26utm_medium%3Demail%26utm_content%3Dshare%26action%3Dshare&sa=U&ved=2ahUKEwi0mcOwiJ7qAhVRB50JHUZfBAgQqoUBMA96BAgCEAE&usg=AOvVaw1AWkQ7VFffZxEWRaFH6wDE",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://jobsonchain.substack.com/p/jobs-on-chain-weekly-vol-5-c7d?&utm_source=substack&utm_medium=email&utm_content=share&action=share. Â If you do not want to visit that page, you can return to the previous page."
+}

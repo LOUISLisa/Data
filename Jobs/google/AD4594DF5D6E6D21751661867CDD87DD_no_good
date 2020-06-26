@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [],
+    "ContentType": "image/jpeg",
+    "Parent": "https://books.google.com/books?id=07SKDwAAQBAJ&pg=PA250&dq=blockchain%2Bjobs&hl=en&sa=X&ved=2ahUKEwiU4cihhZ7qAhXFFTQIHYeCB24Q6wEwAXoECAkQAg",
+    "DocumentType": "JobBoards",
+    "Title": "",
+    "Hash": "AD4594DF5D6E6D21751661867CDD87DD",
+    "Url": "https://books.google.com/books/content?id=07SKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70bMCyiCJVeUlmo8LZT7btIJsAHPLmmT_4944ppkhlPA1OxZ5DkfBKZTuWRKjvySjpUP76vz-SuGKqWpADNfoPj9eG9eUYQfu07joBcSHulFz1WXUp5tODfNqQWg8RpTCbspB51",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "UNKNOWN",
+    "TackIt": "false",
+    "Body": "<\/head>"
+}

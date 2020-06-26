@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.inc.com%2Flarry-kim%2Fthe-16-best-job-search-engines-in-2019.html&sa=U&ved=2ahUKEwjIiKeNj57qAhUDCs0KHVRMALkQqoUBMBF6BAgDEAE&usg=AOvVaw2EvkJ_Q9s-9up8WAxPAV3f",
+        "https://www.inc.com/larry-kim/the-16-best-job-search-engines-in-2019.html"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ajob%2Bhunting&sa=X&ved=0ahUKEwjtofnChZ7qAhWGbs0KHdmWCPsQ4lYICygA",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E8888DFB9738F31C5BCBA7D45AC6242B",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.inc.com%2Flarry-kim%2Fthe-16-best-job-search-engines-in-2019.html&sa=U&ved=2ahUKEwjIiKeNj57qAhUDCs0KHVRMALkQqoUBMBF6BAgDEAE&usg=AOvVaw2EvkJ_Q9s-9up8WAxPAV3f",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.inc.com/larry-kim/the-16-best-job-search-engines-in-2019.html. Â If you do not want to visit that page, you can return to the previous page."
+}

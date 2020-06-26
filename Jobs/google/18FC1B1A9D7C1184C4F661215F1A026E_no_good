@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.forbes.com/sites/robinryan/2019/08/06/how-to-use-googles-new-job-search-feature-to-land-a-job/",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.forbes.com%2Fsites%2Frobinryan%2F2019%2F08%2F06%2Fhow-to-use-googles-new-job-search-feature-to-land-a-job%2F&sa=U&ved=2ahUKEwjzt_PkjJ7qAhWVX80KHel9CjoQr4kDMAB6BAgFEAI&usg=AOvVaw1G0BYdI7hp5a8mjODy7xtQ"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=google%2Bblockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Aw&sa=X&ved=0ahUKEwjupo2rhZ7qAhXwHjQIHadPBhoQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "18FC1B1A9D7C1184C4F661215F1A026E",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.forbes.com%2Fsites%2Frobinryan%2F2019%2F08%2F06%2Fhow-to-use-googles-new-job-search-feature-to-land-a-job%2F&sa=U&ved=2ahUKEwjzt_PkjJ7qAhWVX80KHel9CjoQr4kDMAB6BAgFEAI&usg=AOvVaw1G0BYdI7hp5a8mjODy7xtQ",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.forbes.com/sites/robinryan/2019/08/06/how-to-use-googles-new-job-search-feature-to-land-a-job/. Â If you do not want to visit that page, you can return to the previous page."
+}

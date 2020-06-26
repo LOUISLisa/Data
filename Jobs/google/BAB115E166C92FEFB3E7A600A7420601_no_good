@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.workana.com%2Fjobs%3Fskills%3Dblockchain&sa=U&ved=2ahUKEwjF4sSshZ7qAhUiIDQIHe-OAy0QFjAOegQIBRAB&usg=AOvVaw0Z9UJjA-KzChh_xj0pwrOL",
+        "https://www.workana.com/jobs?skills=blockchain"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Aw&q=blockchain%2Bcontract%2Bjobs&sa=X&ved=2ahUKEwjH--OShZ7qAhWiIDQIHUA8DNcQ1QJ6BAgAEAc",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "BAB115E166C92FEFB3E7A600A7420601",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.workana.com%2Fjobs%3Fskills%3Dblockchain&sa=U&ved=2ahUKEwjF4sSshZ7qAhUiIDQIHe-OAy0QFjAOegQIBRAB&usg=AOvVaw0Z9UJjA-KzChh_xj0pwrOL",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.workana.com/jobs?skills=blockchain. Â If you do not want to visit that page, you can return to the previous page."
+}

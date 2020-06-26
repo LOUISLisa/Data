@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40cryptotexty%2Fcrypto-jobs-2020-new-list-28da72bfae71&sa=U&ved=2ahUKEwjfx7inkZ7qAhXUZs0KHW-1CsU4FBCqhQEwEXoECAUQAQ&usg=AOvVaw0KQ-S4AhvksgI9ftcZyPNi"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=isch&ei=yyr1Xqf2GI_RtAbx_ai4Ag&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "EB5C1081D4D649E53AFE9435989FFE17",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40cryptotexty%2Fcrypto-jobs-2020-new-list-28da72bfae71&sa=U&ved=2ahUKEwjfx7inkZ7qAhXUZs0KHW-1CsU4FBCqhQEwEXoECAUQAQ&usg=AOvVaw0KQ-S4AhvksgI9ftcZyPNi",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://medium.com/@cryptotexty/crypto-jobs-2020-new-list-28da72bfae71. Â If you do not want to visit that page, you can return to the previous page."
+}

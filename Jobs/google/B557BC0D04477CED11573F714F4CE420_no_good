@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://hackernoon.com/i-quit-my-job-at-google-to-launch-a-blockchain-startup-heres-why-i-m-glad-i-did-219a62f94bdd",
+        "https://www.google.com/url?q=https%3A%2F%2Fhackernoon.com%2Fi-quit-my-job-at-google-to-launch-a-blockchain-startup-heres-why-i-m-glad-i-did-219a62f94bdd&sa=U&ved=2ahUKEwi8_YSNhp7qAhXTHc0KHQCMCHMQqoUBMAV6BAgPEAE&usg=AOvVaw2JDKZs9s4H9TZfKSua-knm"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=google%2Bblockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtuMyWhZ7qAhUTKH0KHSzHBGoQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "B557BC0D04477CED11573F714F4CE420",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fhackernoon.com%2Fi-quit-my-job-at-google-to-launch-a-blockchain-startup-heres-why-i-m-glad-i-did-219a62f94bdd&sa=U&ved=2ahUKEwi8_YSNhp7qAhXTHc0KHQCMCHMQqoUBMAV6BAgPEAE&usg=AOvVaw2JDKZs9s4H9TZfKSua-knm",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://hackernoon.com/i-quit-my-job-at-google-to-launch-a-blockchain-startup-heres-why-i-m-glad-i-did-219a62f94bdd. Â If you do not want to visit that page, you can return to the previous page."
+}

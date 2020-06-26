@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.producthunt.com%2Falternatives%2Fall-crypto-jobs&sa=U&ved=2ahUKEwi_ztaMkp7qAhXZGs0KHTRPDQY4KBCqhQEwDHoECAcQAQ&usg=AOvVaw3u41oHyZhE9UxTwQAgYcxa",
+        "https://www.producthunt.com/alternatives/all-crypto-jobs"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=isch&ei=WCv1Xo7KGN6E9PwPormfCA&start=40&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "B28077100A1D8FE00D03D049B46AD078",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.producthunt.com%2Falternatives%2Fall-crypto-jobs&sa=U&ved=2ahUKEwi_ztaMkp7qAhXZGs0KHTRPDQY4KBCqhQEwDHoECAcQAQ&usg=AOvVaw3u41oHyZhE9UxTwQAgYcxa",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.producthunt.com/alternatives/all-crypto-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.accountingtoday.com/opinion/job-disruption-is-quickly-coming-to-accounting-too",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.accountingtoday.com%2Fopinion%2Fjob-disruption-is-quickly-coming-to-accounting-too&sa=U&ved=2ahUKEwjv-K6Tk57qAhVzds0KHUStCJQQr4kDMAV6BAgQEAI&usg=AOvVaw2KwBadFyDlvH6enknVpDjZ"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ajob%2Bmarket%2Conline_chips%3Amarket%2Bchallenges&sa=X&ved=0ahUKEwi3yM_wh57qAhVMCc0KHY7JDSYQ4lYIDigC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "F43F19BB5EC1C893F020786EF74A9DEC",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.accountingtoday.com%2Fopinion%2Fjob-disruption-is-quickly-coming-to-accounting-too&sa=U&ved=2ahUKEwjv-K6Tk57qAhVzds0KHUStCJQQr4kDMAV6BAgQEAI&usg=AOvVaw2KwBadFyDlvH6enknVpDjZ",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.accountingtoday.com/opinion/job-disruption-is-quickly-coming-to-accounting-too. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.upwork.com%2Ffreelance-jobs%2Fblockchain%2F&sa=U&ved=2ahUKEwjL2PWuhZ7qAhVEGTQIHRhTBU0QFjALegQIBhAB&usg=AOvVaw36xFF1W7-8ZAwV38h0ek3k",
+        "https://www.upwork.com/freelance-jobs/blockchain/"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Aw&q=blockchain%2Bjobs%2Bfor%2Bfreshers",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "D8082DCAC406B7962F5CC93760CB3E2E",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.upwork.com%2Ffreelance-jobs%2Fblockchain%2F&sa=U&ved=2ahUKEwjL2PWuhZ7qAhVEGTQIHRhTBU0QFjALegQIBhAB&usg=AOvVaw36xFF1W7-8ZAwV38h0ek3k",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.upwork.com/freelance-jobs/blockchain/. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://enterprisersproject.com/article/2018/9/blockchain-jobs-5-ways-win-role",
+        "https://www.google.com/url?q=https%3A%2F%2Fenterprisersproject.com%2Farticle%2F2018%2F9%2Fblockchain-jobs-5-ways-win-role&sa=U&ved=2ahUKEwjck87Bkp7qAhULWs0KHd05AXY4FBCviQMwD3oECAEQAg&usg=AOvVaw156zw9N1-Z_jIE9u5Y9TUf"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=isch&ei=YSv1XqjfGNbWtQb15JSABA&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "92DFBD2980AC18FD52EB8C0292731937",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fenterprisersproject.com%2Farticle%2F2018%2F9%2Fblockchain-jobs-5-ways-win-role&sa=U&ved=2ahUKEwjck87Bkp7qAhULWs0KHd05AXY4FBCviQMwD3oECAEQAg&usg=AOvVaw156zw9N1-Z_jIE9u5Y9TUf",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://enterprisersproject.com/article/2018/9/blockchain-jobs-5-ways-win-role. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://silicon.nyc/project-management-blockchain-career-guide/",
+        "https://www.google.com/url?q=https%3A%2F%2Fsilicon.nyc%2Fproject-management-blockchain-career-guide%2F&sa=U&ved=2ahUKEwjSvZnti57qAhXBLc0KHaM6CcIQr4kDMBF6BAgEEAI&usg=AOvVaw0TStfvA-EakLvqhQ3lPuJs"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bcareers&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Aw&sa=X&ved=0ahUKEwj8lOimhZ7qAhWDMH0KHRldByYQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "D2681DF3DDF5508E11F6EC122FE535A9",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fsilicon.nyc%2Fproject-management-blockchain-career-guide%2F&sa=U&ved=2ahUKEwjSvZnti57qAhXBLc0KHaM6CcIQr4kDMBF6BAgEEAI&usg=AOvVaw0TStfvA-EakLvqhQ3lPuJs",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://silicon.nyc/project-management-blockchain-career-guide/. Â If you do not want to visit that page, you can return to the previous page."
+}

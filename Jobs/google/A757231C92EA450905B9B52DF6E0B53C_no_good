@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/job-collections/",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptocurrencyjobs.co%2Fjob-collections%2F&sa=U&ved=2ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQ0gIwDnoECA4QAw&usg=AOvVaw0PAjRcMvCgcYe3Y9O61uqk"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain+jobs",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "A757231C92EA450905B9B52DF6E0B53C",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptocurrencyjobs.co%2Fjob-collections%2F&sa=U&ved=2ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQ0gIwDnoECA4QAw&usg=AOvVaw0PAjRcMvCgcYe3Y9O61uqk",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptocurrencyjobs.co/job-collections/. Â If you do not want to visit that page, you can return to the previous page."
+}

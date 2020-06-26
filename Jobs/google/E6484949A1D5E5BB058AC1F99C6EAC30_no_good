@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptojobslist.com/singapore/blockchain-jobs",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fsingapore%2Fblockchain-jobs&sa=U&ved=2ahUKEwio876thZ7qAhVIJTQIHQ3pCi8QFjAQegQIBBAB&usg=AOvVaw0AswQiBbUJiLe6l7ZKWMnu"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&tbs=qdr%3Aw&sa=X&ie=UTF-8&gbv=1&sei=kij1XsfqLKLB0PEPwPiwuA0",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E6484949A1D5E5BB058AC1F99C6EAC30",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fsingapore%2Fblockchain-jobs&sa=U&ved=2ahUKEwio876thZ7qAhVIJTQIHQ3pCi8QFjAQegQIBBAB&usg=AOvVaw0AswQiBbUJiLe6l7ZKWMnu",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptojobslist.com/singapore/blockchain-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

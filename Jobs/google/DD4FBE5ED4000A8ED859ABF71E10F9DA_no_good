@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://thebitcoin.pub/t/blockchain-jobs-is-one-right-for-you/52247",
+        "https://www.google.com/url?q=https%3A%2F%2Fthebitcoin.pub%2Ft%2Fblockchain-jobs-is-one-right-for-you%2F52247&sa=U&ved=2ahUKEwjN6rzKh57qAhXXHM0KHe3MBfsQr4kDMBJ6BAgBEAI&usg=AOvVaw3pfqLgXmQSnHhWT8YqCean"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=bitcoin%2Bblockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi6gKOdhZ7qAhW_CTQIHR96DhYQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "DD4FBE5ED4000A8ED859ABF71E10F9DA",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fthebitcoin.pub%2Ft%2Fblockchain-jobs-is-one-right-for-you%2F52247&sa=U&ved=2ahUKEwjN6rzKh57qAhXXHM0KHe3MBfsQr4kDMBJ6BAgBEAI&usg=AOvVaw3pfqLgXmQSnHhWT8YqCean",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://thebitcoin.pub/t/blockchain-jobs-is-one-right-for-you/52247. Â If you do not want to visit that page, you can return to the previous page."
+}

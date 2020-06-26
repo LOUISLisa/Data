@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.cryptopostgazette.com/blockchain-developer-jobs-salaries/",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.cryptopostgazette.com%2Fblockchain-developer-jobs-salaries%2F&sa=U&ved=2ahUKEwjXzOvbkp7qAhVJG80KHUxmC8kQr4kDMAN6BAgPEAI&usg=AOvVaw2J6TS_hnpf6YInTyoFVVi7"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ablockchain%2Bdeveloper%2Conline_chips%3Aindia&sa=X&ved=0ahUKEwjsp7Drh57qAhVWG80KHdhUC6MQ4lYIDSgB",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "956DADDC0F7AFCCC59638AB23223E299",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.cryptopostgazette.com%2Fblockchain-developer-jobs-salaries%2F&sa=U&ved=2ahUKEwjXzOvbkp7qAhVJG80KHUxmC8kQr4kDMAN6BAgPEAI&usg=AOvVaw2J6TS_hnpf6YInTyoFVVi7",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.cryptopostgazette.com/blockchain-developer-jobs-salaries/. Â If you do not want to visit that page, you can return to the previous page."
+}

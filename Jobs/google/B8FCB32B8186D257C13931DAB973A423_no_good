@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://medium.com/bitjob/bitjobs-social-mining-revolution-e720431652a2",
+        "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2Fbitjob%2Fbitjobs-social-mining-revolution-e720431652a2&sa=U&ved=2ahUKEwjTm6GVkp7qAhWEZ80KHWnEDW4QqoUBMBJ6BAgBEAE&usg=AOvVaw1m_L4Ggjl-W-GD-C6Q-ku2"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Aethereum%2Conline_chips%3Abitjob&sa=X&ved=0ahUKEwiI7ornh57qAhUSbs0KHZHxAEcQ4lYIESgF",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "B8FCB32B8186D257C13931DAB973A423",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2Fbitjob%2Fbitjobs-social-mining-revolution-e720431652a2&sa=U&ved=2ahUKEwjTm6GVkp7qAhWEZ80KHWnEDW4QqoUBMBJ6BAgBEAE&usg=AOvVaw1m_L4Ggjl-W-GD-C6Q-ku2",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://medium.com/bitjob/bitjobs-social-mining-revolution-e720431652a2. Â If you do not want to visit that page, you can return to the previous page."
+}

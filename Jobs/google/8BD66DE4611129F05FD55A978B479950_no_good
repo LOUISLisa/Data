@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptolab.one/news/single/demand-for-crypto-jobs-on-the-rise-teqatlas-report",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptolab.one%2Fnews%2Fsingle%2Fdemand-for-crypto-jobs-on-the-rise-teqatlas-report&sa=U&ved=2ahUKEwidqcSukp7qAhXbZs0KHVnZCMQQr4kDMBF6BAgGEAI&usg=AOvVaw2zIfVZFfRtOv9S3QVJCJvq"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Aglassdoor%2Conline_chips%3Ateqatlas&sa=X&ved=0ahUKEwiw9_7oh57qAhVHbc0KHWCcB4MQ4lYIFCgI",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "8BD66DE4611129F05FD55A978B479950",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptolab.one%2Fnews%2Fsingle%2Fdemand-for-crypto-jobs-on-the-rise-teqatlas-report&sa=U&ved=2ahUKEwidqcSukp7qAhXbZs0KHVnZCMQQr4kDMBF6BAgGEAI&usg=AOvVaw2zIfVZFfRtOv9S3QVJCJvq",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptolab.one/news/single/demand-for-crypto-jobs-on-the-rise-teqatlas-report. Â If you do not want to visit that page, you can return to the previous page."
+}

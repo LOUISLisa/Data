@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.jobsinblockchain.io%2Fblockchain-jobs%2Fbackend-engineer-cryptopayments-remote-emea-120&sa=U&ved=2ahUKEwiw4raAj57qAhWNbs0KHYj_C3AQr4kDMA96BAgFEAI&usg=AOvVaw1AUkvBpVJUcRqUwhOGWAb9",
+        "https://www.jobsinblockchain.io/blockchain-jobs/backend-engineer-cryptopayments-remote-emea-120"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Aremote&sa=X&ved=0ahUKEwjtofnChZ7qAhWGbs0KHdmWCPsQ4lYIDSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "DC0DA90B52223C80093B29A6478D2A74",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.jobsinblockchain.io%2Fblockchain-jobs%2Fbackend-engineer-cryptopayments-remote-emea-120&sa=U&ved=2ahUKEwiw4raAj57qAhWNbs0KHYj_C3AQr4kDMA96BAgFEAI&usg=AOvVaw1AUkvBpVJUcRqUwhOGWAb9",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.jobsinblockchain.io/blockchain-jobs/backend-engineer-cryptopayments-remote-emea-120. Â If you do not want to visit that page, you can return to the previous page."
+}

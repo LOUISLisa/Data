@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cointelegraph.com/news/blockchain-jobs-continue-to-rise-despite-global-recession",
+        "https://www.google.com/url?q=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fblockchain-jobs-continue-to-rise-despite-global-recession&sa=U&ved=2ahUKEwjtofnChZ7qAhWGbs0KHdmWCPsQqoUBMA56BAgDEAE&usg=AOvVaw1MQp1Ff9HFn6OISXwdDn1y"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Am&sa=X&ved=0ahUKEwi2_qCThZ7qAhW2IzQIHWQeDtcQ_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E5F2D2DA47C7E0F770348AE5B7B8C740",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fblockchain-jobs-continue-to-rise-despite-global-recession&sa=U&ved=2ahUKEwjtofnChZ7qAhWGbs0KHdmWCPsQqoUBMA56BAgDEAE&usg=AOvVaw1MQp1Ff9HFn6OISXwdDn1y",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cointelegraph.com/news/blockchain-jobs-continue-to-rise-despite-global-recession. Â If you do not want to visit that page, you can return to the previous page."
+}

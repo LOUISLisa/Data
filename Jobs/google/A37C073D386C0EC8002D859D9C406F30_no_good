@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://techcrunch.com/2019/02/28/here-are-the-most-in-demand-programming-jobs-and-languages-according-to-hired/",
+        "https://www.google.com/url?q=https%3A%2F%2Ftechcrunch.com%2F2019%2F02%2F28%2Fhere-are-the-most-in-demand-programming-jobs-and-languages-according-to-hired%2F&sa=U&ved=2ahUKEwiFgsfZj57qAhWXGM0KHR2yChoQr4kDMAV6BAgPEAI&usg=AOvVaw1nxj2Ppuw-6Y9QpZYyyrts"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=google%2Bblockchain%2Bjobs&chips=q%3Agoogle%2Bblockchain%2Bjobs%2Conline_chips%3Asoftware%2Bengineer&sa=X&ved=0ahUKEwi8_YSNhp7qAhXTHc0KHQCMCHMQ4lYIESgG",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "A37C073D386C0EC8002D859D9C406F30",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Ftechcrunch.com%2F2019%2F02%2F28%2Fhere-are-the-most-in-demand-programming-jobs-and-languages-according-to-hired%2F&sa=U&ved=2ahUKEwiFgsfZj57qAhWXGM0KHR2yChoQr4kDMAV6BAgPEAI&usg=AOvVaw1nxj2Ppuw-6Y9QpZYyyrts",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://techcrunch.com/2019/02/28/here-are-the-most-in-demand-programming-jobs-and-languages-according-to-hired/. Â If you do not want to visit that page, you can return to the previous page."
+}

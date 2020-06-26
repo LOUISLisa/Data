@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://news.bitcoin.com/cryptocurrency-job-market-continues-to-grow/",
+        "https://www.google.com/url?q=https%3A%2F%2Fnews.bitcoin.com%2Fcryptocurrency-job-market-continues-to-grow%2F&sa=U&ved=2ahUKEwjlu7iwkp7qAhVEB50JHdkLCnYQqoUBMAd6BAgNEAE&usg=AOvVaw2uQUJof68RewGcD6Vbg_KY"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Aglassdoor%2Conline_chips%3Abitcoin%2Bblockchain&sa=X&ved=0ahUKEwiw9_7oh57qAhVHbc0KHWCcB4MQ4lYIESgF",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "B4372AB6A51BBFC7F6D62EA41CBF1AA2",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fnews.bitcoin.com%2Fcryptocurrency-job-market-continues-to-grow%2F&sa=U&ved=2ahUKEwjlu7iwkp7qAhVEB50JHdkLCnYQqoUBMAd6BAgNEAE&usg=AOvVaw2uQUJof68RewGcD6Vbg_KY",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://news.bitcoin.com/cryptocurrency-job-market-continues-to-grow/. Â If you do not want to visit that page, you can return to the previous page."
+}

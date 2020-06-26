@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Fwant-a-job-in-bitcoin-or-blockchain-these-10-companies-have-the-most-openings%2F&sa=U&ved=2ahUKEwixoMHakJ7qAhUCK80KHauVAqIQqoUBMAR6BAgPEAE&usg=AOvVaw3easP8WDyYKY33F4zxH3oG",
+        "https://www.techrepublic.com/article/want-a-job-in-bitcoin-or-blockchain-these-10-companies-have-the-most-openings/"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?gbv=1&ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ajob%2Bopenings&sa=X&ved=0ahUKEwja2s_yhp7qAhVHZM0KHSd2Ds4Q4lYIEygI",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "ABCE7969A6BA5DD84E37AF64CC397972",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Fwant-a-job-in-bitcoin-or-blockchain-these-10-companies-have-the-most-openings%2F&sa=U&ved=2ahUKEwixoMHakJ7qAhUCK80KHauVAqIQqoUBMAR6BAgPEAE&usg=AOvVaw3easP8WDyYKY33F4zxH3oG",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.techrepublic.com/article/want-a-job-in-bitcoin-or-blockchain-these-10-companies-have-the-most-openings/. Â If you do not want to visit that page, you can return to the previous page."
+}

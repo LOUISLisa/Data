@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://pt.slideshare.net/AlessandroBenigni1/blockchain-jobs-research",
+        "https://www.google.com/url?q=https%3A%2F%2Fpt.slideshare.net%2FAlessandroBenigni1%2Fblockchain-jobs-research&sa=U&ved=2ahUKEwiArK6TiZ7qAhVEAp0JHehTC7cQr4kDMAN6BAgTEAI&usg=AOvVaw3hd2dBRXVWjtojR3AIJhqE"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bresearch%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg--2lhZ7qAhWDJTQIHWiICOkQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "0D15EFC51DE2DDD79B5B286A815CA201",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fpt.slideshare.net%2FAlessandroBenigni1%2Fblockchain-jobs-research&sa=U&ved=2ahUKEwiArK6TiZ7qAhVEAp0JHehTC7cQr4kDMAN6BAgTEAI&usg=AOvVaw3hd2dBRXVWjtojR3AIJhqE",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://pt.slideshare.net/AlessandroBenigni1/blockchain-jobs-research. Â If you do not want to visit that page, you can return to the previous page."
+}

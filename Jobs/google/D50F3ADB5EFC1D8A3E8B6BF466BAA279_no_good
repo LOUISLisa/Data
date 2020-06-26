@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cktechnical.co.uk/news/whats-happening-in-the-blockchain-job-market/",
+        "https://www.google.com/url?q=https%3A%2F%2Fcktechnical.co.uk%2Fnews%2Fwhats-happening-in-the-blockchain-job-market%2F&sa=U&ved=2ahUKEwi0mcOwiJ7qAhVRB50JHUZfBAgQr4kDMAd6BAgNEAI&usg=AOvVaw3E5RYXV4CSrOnKpdwji5qg"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=google%2Bblockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi_nc6ghZ7qAhUHGDQIHYxLB9MQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "D50F3ADB5EFC1D8A3E8B6BF466BAA279",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcktechnical.co.uk%2Fnews%2Fwhats-happening-in-the-blockchain-job-market%2F&sa=U&ved=2ahUKEwi0mcOwiJ7qAhVRB50JHUZfBAgQr4kDMAd6BAgNEAI&usg=AOvVaw3E5RYXV4CSrOnKpdwji5qg",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cktechnical.co.uk/news/whats-happening-in-the-blockchain-job-market/. Â If you do not want to visit that page, you can return to the previous page."
+}

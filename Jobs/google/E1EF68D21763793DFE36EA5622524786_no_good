@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/maps/preview/opensearch.xml?hl=en"],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://www.google.com/search?ie=UTF-8&q=blockchain%2Bresearch%2Bjobs",
+    "DocumentType": "JobBoards",
+    "Title": "Google Maps",
+    "Hash": "E1EF68D21763793DFE36EA5622524786",
+    "Url": "https://www.google.com/maps?q=blockchain%2Bresearch%2Bjobs&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjg--2lhZ7qAhWDJTQIHWiICOkQ_AUICygE",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "Hungarian",
+    "TackIt": "false",
+    "Body": "When you have eliminated the JavaScript, whatever remains must be an empty page. Enable JavaScript to see Google Maps."
+}

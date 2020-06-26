@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.newswire.ca%2Fnews-releases%2F82-of-employees-would-quit-their-jobs-because-of-no-progression-careeraddict-study-reveals-882596627.html&sa=U&ved=2ahUKEwii4K3okJ7qAhWUdc0KHaNuDMIQr4kDMBN6BAgNEAI&usg=AOvVaw2ceSCsx7qDEaTPMY32rKII",
+        "https://www.newswire.ca/news-releases/82-of-employees-would-quit-their-jobs-because-of-no-progression-careeraddict-study-reveals-882596627.html"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ay&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Astudy%2Breveals&sa=X&ved=0ahUKEwiXlfKDh57qAhUPWs0KHQH7AhcQ4lYIEygI",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "920D757ED97B8640D52062EBBA20988E",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.newswire.ca%2Fnews-releases%2F82-of-employees-would-quit-their-jobs-because-of-no-progression-careeraddict-study-reveals-882596627.html&sa=U&ved=2ahUKEwii4K3okJ7qAhWUdc0KHaNuDMIQr4kDMBN6BAgNEAI&usg=AOvVaw2ceSCsx7qDEaTPMY32rKII",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.newswire.ca/news-releases/82-of-employees-would-quit-their-jobs-because-of-no-progression-careeraddict-study-reveals-882596627.html. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/url?q=https%3A%2F%2Fwww.coindesk.com%2Fcrypto-and-blockchain-jobs-have-increased-by-26-since-2018-indeed&sa=U&ved=2ahUKEwjD7rSckp7qAhXEB80KHULGD-EQqoUBMAR6BAgQEAE&usg=AOvVaw182pKpfzjzA72tuWwLyfJg"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Aethereum%2Conline_chips%3Abitcoin&sa=X&ved=0ahUKEwiI7ornh57qAhUSbs0KHZHxAEcQ4lYIFCgI",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "9071386E200F3B6D005A60AFD808563D",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.coindesk.com%2Fcrypto-and-blockchain-jobs-have-increased-by-26-since-2018-indeed&sa=U&ved=2ahUKEwjD7rSckp7qAhXEB80KHULGD-EQqoUBMAR6BAgQEAE&usg=AOvVaw182pKpfzjzA72tuWwLyfJg",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.coindesk.com/crypto-and-blockchain-jobs-have-increased-by-26-since-2018-indeed. Â If you do not want to visit that page, you can return to the previous page."
+}

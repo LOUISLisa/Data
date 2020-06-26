@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://jobs.apple.com/en-us/search?location=united-states-USA",
+        "https://www.google.com/url?q=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fsearch%3Flocation%3Dunited-states-USA&sa=U&ved=2ahUKEwjupo2rhZ7qAhXwHjQIHadPBhoQFjAQegQIAhAB&usg=AOvVaw0ctAoGu-eEDLF8tzQIH_ek"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Aw&q=google%2Bblockchain%2Bjobs&sa=X&ved=2ahUKEwjH--OShZ7qAhWiIDQIHUA8DNcQ1QJ6BAgAEAU",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E341D7657295986F8D16294F43D36064",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fsearch%3Flocation%3Dunited-states-USA&sa=U&ved=2ahUKEwjupo2rhZ7qAhXwHjQIHadPBhoQFjAQegQIAhAB&usg=AOvVaw0ctAoGu-eEDLF8tzQIH_ek",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://jobs.apple.com/en-us/search?location=united-states-USA. Â If you do not want to visit that page, you can return to the previous page."
+}

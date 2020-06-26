@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://careersherpa.net/best-websites-for-2020-job-search/",
+        "https://www.google.com/url?q=https%3A%2F%2Fcareersherpa.net%2Fbest-websites-for-2020-job-search%2F&sa=U&ved=2ahUKEwihrpGykZ7qAhVLVc0KHS_HDocQqoUBMAh6BAgJEAE&usg=AOvVaw0YUNops6Hat2RAncgYAe_E"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Aonline&sa=X&ved=0ahUKEwijltaxh57qAhWFcc0KHds8CNAQ4lYICygA",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "B9BB8FCB9D1B21859F5115D79B535B75",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcareersherpa.net%2Fbest-websites-for-2020-job-search%2F&sa=U&ved=2ahUKEwihrpGykZ7qAhVLVc0KHS_HDocQqoUBMAh6BAgJEAE&usg=AOvVaw0YUNops6Hat2RAncgYAe_E",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://careersherpa.net/best-websites-for-2020-job-search/. Â If you do not want to visit that page, you can return to the previous page."
+}

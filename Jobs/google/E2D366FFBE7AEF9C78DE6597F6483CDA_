@@ -1,0 +1,32 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcompliance%2Bjobs&backchip=online_chips%3Ablockchain%2Btechnology&chips=q%3Ablockchain%2Bcompliance%2Bjobs&sa=X&ved=0ahUKEwj5sMaSj57qAhWMAp0JHUrsBHYQ3VYICigA",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcompliance%2Bjobs&chips=q%3Ablockchain%2Bcompliance%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology%2Conline_chips%3Aaudit&sa=X&ved=0ahUKEwj5sMaSj57qAhWMAp0JHUrsBHYQ4lYIDigC",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcompliance%2Bjobs&chips=q%3Ablockchain%2Bcompliance%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology%2Conline_chips%3Abanking&sa=X&ved=0ahUKEwj5sMaSj57qAhWMAp0JHUrsBHYQ4lYIDygD",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcompliance%2Bjobs&chips=q%3Ablockchain%2Bcompliance%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology%2Conline_chips%3Adeloitte&sa=X&ved=0ahUKEwj5sMaSj57qAhWMAp0JHUrsBHYQ4lYIFSgJ",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcompliance%2Bjobs&chips=q%3Ablockchain%2Bcompliance%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology%2Conline_chips%3Agartner%2Bhype%2Bcycle&sa=X&ved=0ahUKEwj5sMaSj57qAhWMAp0JHUrsBHYQ4lYIDCgA",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcompliance%2Bjobs&chips=q%3Ablockchain%2Bcompliance%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology%2Conline_chips%3Ainsider%2Bintelligence&sa=X&ved=0ahUKEwj5sMaSj57qAhWMAp0JHUrsBHYQ4lYIEigG",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcompliance%2Bjobs&chips=q%3Ablockchain%2Bcompliance%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology%2Conline_chips%3Ainsurance%2Bcompanies&sa=X&ved=0ahUKEwj5sMaSj57qAhWMAp0JHUrsBHYQ4lYIECgE",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcompliance%2Bjobs&chips=q%3Ablockchain%2Bcompliance%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology%2Conline_chips%3Ainsurance%2Bindustry&sa=X&ved=0ahUKEwj5sMaSj57qAhWMAp0JHUrsBHYQ4lYIFCgI",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcompliance%2Bjobs&chips=q%3Ablockchain%2Bcompliance%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology%2Conline_chips%3Ainsurance&sa=X&ved=0ahUKEwj5sMaSj57qAhWMAp0JHUrsBHYQ4lYIDSgB",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcompliance%2Bjobs&chips=q%3Ablockchain%2Bcompliance%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology%2Conline_chips%3Asupply%2Bchain&sa=X&ved=0ahUKEwj5sMaSj57qAhWMAp0JHUrsBHYQ4lYIEygH",
+        "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcompliance%2Bjobs&chips=q%3Ablockchain%2Bcompliance%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology%2Conline_chips%3Av%2Bid&sa=X&ved=0ahUKEwj5sMaSj57qAhWMAp0JHUrsBHYQ4lYIESgF",
+        "https://www.google.com/search?q=blockchain%2Bcompliance%2Bjobs&ie=UTF-8&source=lnms&sa=X&ved=0ahUKEwj5sMaSj57qAhWMAp0JHUrsBHYQ_AUIBCgA",
+        "https://www.google.com/search?q=blockchain%2Bcompliance%2Bjobs&ie=UTF-8&tbm=isch&ei=DjP1XvnxJIyF9PwPytiTsAc&start=20&sa=N",
+        "https://www.google.com/search?q=blockchain%2Bcompliance%2Bjobs&ie=UTF-8&tbm=nws&source=lnms&sa=X&ved=0ahUKEwj5sMaSj57qAhWMAp0JHUrsBHYQ_AUIBSgB",
+        "https://www.google.com/search?q=blockchain%2Bcompliance%2Bjobs&ie=UTF-8&tbm=vid&source=lnms&sa=X&ved=0ahUKEwj5sMaSj57qAhWMAp0JHUrsBHYQ_AUIBygD"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bcompliance%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjKjd6ThZ7qAhVWIDQIHa-TBJAQ_AUICSgC",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "blockchain+compliance+jobs - Google Search",
+    "Hash": "E2D366FFBE7AEF9C78DE6597F6483CDA",
+    "Url": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcompliance%2Bjobs&chips=q%3Ablockchain%2Bcompliance%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology&sa=X&ved=0ahUKEwj_693RhZ7qAhUHQ80KHeDBAqUQ4lYIDigD",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": "ALL NEWS IMAGES VIDEOS blockchain+technologyÂ Ãgartner hype cycleinsuranceauditbankinginsurance companiesv idinsider intelligencesupply chaininsurance industrydeloitte Blockchain & Compliance -... about.v-id.org Nailing it - The promise of... economist.com Blockchain Jobs |... blocktribe.com What Skills Are Needed for... laborx.com 25 Blockchain Applications... builtin.com 58 Big Industries... cbinsights.com 5 Ways Blockchain... hrtechnologist.com 58 Big Industries... cbinsights.com Blockchain Technology... businessinsider.com Blockchain Technology... businessinsider.com Coinfirm | LinkedIn linkedin.com Jobs needed in crypto:... pinterest.cl A strategist's guide to... strategy-business.com Blockchain: A Study Rooted... news.sap.com Blockchain in Agriculture... marketsandmarkets.com 20 Enterprises Which Are... 101blockchains.com Blockchain Technology & How... gartner.com Crypto Fraud Now Exposing... cointelegraph.com 10 Use Cases of Blockchain... youteam.io Harnessing the Blockchain... comptia.org NextÂ > Sign in Settings Privacy Terms"
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptocrunchapp.com/news/crypto-and-blockchain-jobs-have-increased-by-26-since-2018-research",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptocrunchapp.com%2Fnews%2Fcrypto-and-blockchain-jobs-have-increased-by-26-since-2018-research&sa=U&ved=2ahUKEwj0itKOkZ7qAhWBHc0KHa0mBGU4FBCqhQEwCnoECAoQAQ&usg=AOvVaw1cVJP9Up7KG7DVzS4daaKo"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bresearch%2Bjobs&ie=UTF-8&tbm=isch&ei=uSr1XqnWF427tQad0r3gAw&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "C67664ACAC657A416786EFDED3E1D19A",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptocrunchapp.com%2Fnews%2Fcrypto-and-blockchain-jobs-have-increased-by-26-since-2018-research&sa=U&ved=2ahUKEwj0itKOkZ7qAhWBHc0KHa0mBGU4FBCqhQEwCnoECAoQAQ&usg=AOvVaw1cVJP9Up7KG7DVzS4daaKo",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptocrunchapp.com/news/crypto-and-blockchain-jobs-have-increased-by-26-since-2018-research. Â If you do not want to visit that page, you can return to the previous page."
+}

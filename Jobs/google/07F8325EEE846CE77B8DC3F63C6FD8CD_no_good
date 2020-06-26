@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40ethex.smm%2Fblockchain-careers-are-on-the-rise-52dcd62a07f0%3Fsource%3Drss------ethereum-5&sa=U&ved=2ahUKEwj8lOimhZ7qAhWDMH0KHRldByYQFjAAegQICRAB&usg=AOvVaw1qmW4f2BihdIRIRROT781_"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Aw&q=blockchain%2Bcareers&sa=X&ved=2ahUKEwjH--OShZ7qAhWiIDQIHUA8DNcQ1QJ6BAgAEAM",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "07F8325EEE846CE77B8DC3F63C6FD8CD",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40ethex.smm%2Fblockchain-careers-are-on-the-rise-52dcd62a07f0%3Fsource%3Drss------ethereum-5&sa=U&ved=2ahUKEwj8lOimhZ7qAhWDMH0KHRldByYQFjAAegQICRAB&usg=AOvVaw1qmW4f2BihdIRIRROT781_",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://medium.com/@ethex.smm/blockchain-careers-are-on-the-rise-52dcd62a07f0?source=rss------ethereum-5. Â If you do not want to visit that page, you can return to the previous page."
+}
