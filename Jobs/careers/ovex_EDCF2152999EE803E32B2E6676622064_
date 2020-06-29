@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.ovex.io/careers",
+    "OutLinks": ["https://www.ovex.io/careers"],
+    "ContentType": "text/html; charset=utf-8",
+    "RequiredMatch": "bitcoin",
+    "DocumentType": "Careers",
+    "Title": "OVEX | Bitcoin and Cryptocurrency Exchange",
+    "Hash": "EDCF2152999EE803E32B2E6676622064",
+    "Url": "https://www.ovex.io/careers",
+    "CrawledDate": "2020-06-26",
+    "DomainId": "ovex",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": "Exchange High Volume OTC Desk Request for Quote (RfQ) Arbitrage Interest Account C20 Index Sign in Sign up Exchange OTC High Volume Desk Request for Quote (RfQ) Arbitrage Interest Account C20 Index Sign in Get started Current Openings Engineering Software Engineer - C++ Apply Software Engineer - Go Apply Software Engineer - Web Frontend Apply Software Engineer - React Native Apply Security White Hat Hacker / Penetration Tester Apply DevOps DevOps Engineer Apply Customer Support Customer Support Manager Apply COMPANY About Us Blog Support Careers Terms and Conditions SERVICES Exchange OTC Arbitrage Service C20 Index UTILITY Learn API Docs Listed Assets Fees and Limits COMMUNITY Twitter Telegram Facebook LinkedIn Â© 2020 OVEX.io. All rights reserved"
+}

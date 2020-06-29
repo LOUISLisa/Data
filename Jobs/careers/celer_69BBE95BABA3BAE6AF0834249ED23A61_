@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.celer.network/career.html",
+    "OutLinks": ["https://www.celer.network/career.html"],
+    "ContentType": "text/html; charset=utf-8",
+    "RequiredMatch": "layer-2",
+    "DocumentType": "Careers",
+    "Title": "Celer Network - The Most Advanced Layer-2 Scaling Platform",
+    "Hash": "69BBE95BABA3BAE6AF0834249ED23A61",
+    "Url": "https://www.celer.network/career.html",
+    "CrawledDate": "2020-06-26",
+    "DomainId": "celer",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": "Join Our Team Welcome to join us to keep pushing the boundaries of blockchain technology! All Marketing Engineer About us Celer Network is founded by computer science PhDs from MIT, Princeton, UC Berkeley and UIUC and is being built by a top-notch team with deep experiences from Google, Amazon, Oracle, Cisco and unicorn startups. Celer Network has raised $30M from top venue firms around the globe including Matrix Partners, Signum Capital, Pantera, FreeS, Neo Global Capital, Arrington XRP and more."
+}

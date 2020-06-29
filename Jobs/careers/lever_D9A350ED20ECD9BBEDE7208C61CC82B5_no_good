@@ -1,0 +1,28 @@
+{
+    "CrawledDate": "2020-06-26",
+    "SeedUrl": "https://jobs.lever.co/metalpay",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/metalpay",
+        "https://jobs.lever.co/metalpay/08be12da-cc98-4ff8-a8c2-5d30496679bb",
+        "https://jobs.lever.co/metalpay/6dd628ee-e5c4-4c44-a237-5067a638e298",
+        "https://jobs.lever.co/metalpay/89ff82d4-5d54-434b-82a4-abe1498a5f18",
+        "https://jobs.lever.co/metalpay/eeb97199-a423-4bda-af50-388f1bc453c2",
+        "https://jobs.lever.co/metalpay?commitment=Full-time",
+        "https://jobs.lever.co/metalpay?location=Estonia",
+        "https://jobs.lever.co/metalpay?location=SF%2C%20remote%20ok",
+        "https://jobs.lever.co/metalpay?location=San%20Francisco%2C%20CA",
+        "https://jobs.lever.co/metalpay?location=San%20Francisco%2C%20US%20remote",
+        "https://jobs.lever.co/metalpay?team=Compliance",
+        "https://jobs.lever.co/metalpay?team=Customer%20Support",
+        "https://jobs.lever.co/metalpay?team=Engineering"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Language": "Norwegian",
+    "DocumentType": "Careers",
+    "Title": "Metal",
+    "Hash": "D9A350ED20ECD9BBEDE7208C61CC82B5",
+    "TackIt": "true",
+    "Body": "Filter by: Location All Estonia San Francisco, CA San Francisco, US remote SF, remote ok Team All Compliance Customer Support Engineering Work type All Full-time Compliance Apply Compliance & Risk Operations Manager SF, remote okCompliance Customer Support Apply EU Customer Support Manager EstoniaCustomer Support Engineering Apply Lead iOS Developer San Francisco, CAEngineering Apply Senior Backend Engineer San Francisco, US remoteEngineering Metal Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/metalpay"
+}

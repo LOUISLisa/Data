@@ -1,0 +1,18 @@
+{
+    "CrawledDate": "2020-06-26",
+    "SeedUrl": "https://celer-network.breezy.hr",
+    "DomainId": "breezy",
+    "OutLinks": [
+        "https://breezy.hr/mb/portal?utm_campaign=portal_referral&cpn=Celer%20Network",
+        "https://celer-network.breezy.hr/",
+        "https://celer-network.breezy.hr/p/1dbddd72d11f-mobile-developer-android"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Language": "Romanian",
+    "DocumentType": "Careers",
+    "Title": "%DOC_TITLE%Celer Network",
+    "Hash": "46067D84D4997FF60F091110610FD42D",
+    "TackIt": "true",
+    "Body": "%HEADER_COMPANY_WEBSITE% Celer Network Come work with us. We're looking for great people to join our growing team.%BUTTON_VIEW_OPENINGS% %HEADER_OUR_OPEINGS% %BUTTON_APPLY% Mobile Developer - Android Mountain View, CA %LABEL_POSITION_TYPE_FULL_TIME% Engineer%BUTTON_APPLY% %FOOTER_POWERED_BY%breezy",
+    "Url": "https://celer-network.breezy.hr"
+}

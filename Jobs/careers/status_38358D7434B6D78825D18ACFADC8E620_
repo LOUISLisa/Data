@@ -1,0 +1,28 @@
+{
+    "SeedUrl": "https://status.im/contribute/open_positions",
+    "OutLinks": [
+        "https://status.im/ar/contribute/open_positions.html",
+        "https://status.im/contribute/open_positions",
+        "https://status.im/contribute/open_positions.html",
+        "https://status.im/de/contribute/open_positions.html",
+        "https://status.im/es/contribute/open_positions.html",
+        "https://status.im/fr/contribute/open_positions.html",
+        "https://status.im/id/contribute/open_positions.html",
+        "https://status.im/ko/contribute/open_positions.html",
+        "https://status.im/our_team/open_positions.html",
+        "https://status.im/ru/contribute/open_positions.html",
+        "https://status.im/tl/contribute/open_positions.html",
+        "https://status.im/zh/contribute/open_positions.html"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "RequiredMatch": "crypto",
+    "DocumentType": "Careers",
+    "Title": "Status - Open Positions",
+    "Hash": "38358D7434B6D78825D18ACFADC8E620",
+    "Url": "https://status.im/contribute/open_positions",
+    "CrawledDate": "2020-06-26",
+    "DomainId": "status",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": "Features Features Private Messenger, Crypto Wallet, Web3 Browser, and more See All Features Keycard Get Involved Get Involved Status is an open source project made by people all over the world. Learn More Developers Educators Community Groups Security SNT Utility Developers Developers Everything you need to start developing with Status Read All Contributor Guide DApp Integration Tutorials Specs About Blog en English ä¸­æ íêµ­ì´ EspaÃ±ol (Latina) Ð ÑÑÑÐºÐ¸Ð¹ Deutsch FranÃ§ais Tagalog Bahasa Indonesia Ø§ÙØ¹Ø±Ø¨ÙØ© Get Status Status Documentation Docs categories Contributor Guide Technical FAQs Contributor Workflow Running A Status Node Github Labels Perfect Forward Security Build Status Build Status-Go Status-React Quick Start DApp Integration Center Why Status Run on Status Mobile Developer Tools DApp Store Requirements Implement EIP-1102 Asset Guidelines Status DApp API Whisper & QR Codes Curated DApp Store Register DApps Join the team FAQs Our Principles Open Positions Applying Applicant Privacy Perks & Benefits Life At Status The Future Open Positions Please note that all of our positions are remote - we welcome contributors from all over the globe. If you believe you can contribute, but don\u2019t see a role that closely matches your skills - please send a short note and your CV to [emailÂ protected]. Want to chat to our People Ops team? Drop by the #hiring channel on our community Discord, or check out the latest project discussions over at discuss.status.im :) Last update: 2020-05-15 On this page Ready to get started with Status? Get Involved Product Features Security Get App Nightly Status Get Involved About Media Kit Blog White Paper Analytics Documentation Developers DApp Integration Contributor Guide Tutorials Specs Status Network Keycard Dap.ps Assemble Embark Subspace Vac Nimbus Connect Privacy Policy Site Analytics Status Research & Development GmbH, Baarerstrasse 10, Zug, Switzerland Messari Transparency Verified"
+}

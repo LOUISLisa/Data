@@ -1,0 +1,33 @@
+{
+    "SeedUrl": "https://jobs.lever.co/ockam",
+    "OutLinks": [
+        "https://jobs.lever.co/ockam",
+        "https://jobs.lever.co/ockam/409a8e35-6179-4483-81f6-83d7f63d018f",
+        "https://jobs.lever.co/ockam/57af5c83-ed48-4006-8196-9c8ae06149e8",
+        "https://jobs.lever.co/ockam/68b26f3b-9b14-4799-a3ea-85929d68c63e",
+        "https://jobs.lever.co/ockam/6d767468-89ed-4b92-87dc-46bc69ddce97",
+        "https://jobs.lever.co/ockam/7229fe51-f030-436f-bf3f-f9d9f7f8703f",
+        "https://jobs.lever.co/ockam/b28aed59-6cd3-40b7-8128-b63d4f45ea29",
+        "https://jobs.lever.co/ockam/c8547a19-a975-4e08-bdce-043f39bf4da7",
+        "https://jobs.lever.co/ockam/cb646150-3b7c-4f27-8729-13005c772ce9",
+        "https://jobs.lever.co/ockam/d5ec20f0-8d82-4065-9a52-6387a40b85f6",
+        "https://jobs.lever.co/ockam/ecd91fc5-2a0d-46bd-b4bc-ec88033c4c0f",
+        "https://jobs.lever.co/ockam/f6de9fad-e555-4667-b65d-d768f63a12ef",
+        "https://jobs.lever.co/ockam?commitment",
+        "https://jobs.lever.co/ockam?location=San%20Francisco%20%2F%20Remote",
+        "https://jobs.lever.co/ockam?team=Engineering",
+        "https://jobs.lever.co/ockam?team=Partnerships%20and%20Customer%20Development",
+        "https://jobs.lever.co/ockam?team=Product"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "RequiredMatch": "rust",
+    "DocumentType": "Careers",
+    "Title": "Ockam",
+    "Hash": "B832E190A597F10AD5BD7EA89E4604C5",
+    "Url": "https://jobs.lever.co/ockam",
+    "CrawledDate": "2020-06-26",
+    "DomainId": "lever",
+    "Language": "Norwegian",
+    "TackIt": "true",
+    "Body": "Filter by: Location All San Francisco / Remote Team All Engineering Partnerships and Customer Development Product Work type All Uncategorized Engineering Apply Engineering Director San Francisco / RemoteEngineering Apply Engineering Lead San Francisco / RemoteEngineering Apply Senior Software Engineer - Cloud Services Integration San Francisco / RemoteEngineering Apply Senior Software Engineer - Elixir / Erlang San Francisco / RemoteEngineering Apply Senior Software Engineer - Embedded systems San Francisco / RemoteEngineering Apply Senior Software Engineer - Protocols in Rust San Francisco / RemoteEngineering Apply Software Architect - Applied Cryptography in Rust San Francisco / RemoteEngineering Apply Software Architect - Database and Storage Infrastructure San Francisco / RemoteEngineering Partnerships and Customer Development Apply Developer Relations Lead San Francisco / RemotePartnerships and Customer Development Apply Senior Engineer - Customer Success San Francisco / RemotePartnerships and Customer Development Product Apply Senior Product Marketing Manager San Francisco / RemoteProduct Ockam Home PageJobs powered by"
+}

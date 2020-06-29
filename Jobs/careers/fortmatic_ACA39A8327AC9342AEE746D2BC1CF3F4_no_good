@@ -1,0 +1,21 @@
+{
+    "CrawledDate": "2020-06-26",
+    "SeedUrl": "https://careers.fortmatic.com",
+    "DomainId": "fortmatic",
+    "OutLinks": [
+        "https://careers.fortmatic.com/p/38ee054a4dc5",
+        "https://careers.fortmatic.com/p/38ee054a4dc5-software-engineer-devops-infrastructure",
+        "https://careers.fortmatic.com/p/8b5e570d39c0",
+        "https://careers.fortmatic.com/p/8b5e570d39c0-product-manager",
+        "https://careers.fortmatic.com/p/f39fdead4aa3",
+        "https://careers.fortmatic.com/p/f39fdead4aa3-software-engineer-security"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Language": "Romanian",
+    "DocumentType": "Careers",
+    "Title": "Openings at Fortmatic",
+    "Hash": "ACA39A8327AC9342AEE746D2BC1CF3F4",
+    "TackIt": "true",
+    "Body": "Openings at Fortmatic Openings at Fortmatic Product Manager Full-Time in San Francisco, CA Apply Now Software Engineer (DevOps / Infrastructure) Full-Time in San Francisco, CA Apply Now Software Engineer (Security) Full-Time in San Francisco, CA Apply Now View the Fortmatic websitePowered bybreezy",
+    "Url": "https://careers.fortmatic.com"
+}

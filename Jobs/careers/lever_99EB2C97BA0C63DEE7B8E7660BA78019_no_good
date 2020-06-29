@@ -1,0 +1,23 @@
+{
+    "CrawledDate": "2020-06-26",
+    "SeedUrl": "https://jobs.lever.co/tokensoft",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/tokensoft",
+        "https://jobs.lever.co/tokensoft/067ac23c-f962-4512-a310-6a0be6cf7390",
+        "https://jobs.lever.co/tokensoft/440e1bbf-ff60-43a9-ae5d-a582eb137043",
+        "https://jobs.lever.co/tokensoft/bb8a5925-ccc4-414e-8462-81af9a143596",
+        "https://jobs.lever.co/tokensoft?commitment",
+        "https://jobs.lever.co/tokensoft?location=San%20Francisco",
+        "https://jobs.lever.co/tokensoft?team=Engineering",
+        "https://jobs.lever.co/tokensoft?team=Product"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Language": "Norwegian",
+    "DocumentType": "Careers",
+    "Title": "TokenSoft",
+    "Hash": "99EB2C97BA0C63DEE7B8E7660BA78019",
+    "TackIt": "true",
+    "Body": "Filter by: Location All San Francisco Team All Engineering Product Work type All Uncategorized Engineering Apply Software Engineer - DevOps San FranciscoEngineering Apply Software Engineer - Full Stack San FranciscoEngineering Product Apply Product Designer San FranciscoProduct TokenSoft Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/tokensoft"
+}
