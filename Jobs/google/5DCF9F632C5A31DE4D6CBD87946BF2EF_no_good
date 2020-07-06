@@ -1,33 +1,0 @@
-{
-    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
-    "OutLinks": [
-        "https://www.google.com/shopping/product/1290298199915304836?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A9884515270524913407%2Coid%3A9884515270524913407&sa=X&ved=0ahUKEwiCr6arkJ7qAhXpN30KHdiHD8oQrRIIIg",
-        "https://www.google.com/shopping/product/1290298199915304836?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A9884515270524913407%2Coid%3A9884515270524913407&sa=X&ved=0ahUKEwiCr6arkJ7qAhXpN30KHdiHD8oQrhIIISgA",
-        "https://www.google.com/shopping/product/1460051726883618254?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A6264651698031261719%2Coid%3A6264651698031261719&sa=X&ved=0ahUKEwiCr6arkJ7qAhXpN30KHdiHD8oQrRIILg",
-        "https://www.google.com/shopping/product/1460051726883618254?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A6264651698031261719%2Coid%3A6264651698031261719&sa=X&ved=0ahUKEwiCr6arkJ7qAhXpN30KHdiHD8oQrhIILSgA",
-        "https://www.google.com/shopping/product/17142815055811722537?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A13381967811914352902%2Coid%3A13381967811914352902&sa=X&ved=0ahUKEwiCr6arkJ7qAhXpN30KHdiHD8oQrRIIMg",
-        "https://www.google.com/shopping/product/17142815055811722537?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A13381967811914352902%2Coid%3A13381967811914352902&sa=X&ved=0ahUKEwiCr6arkJ7qAhXpN30KHdiHD8oQrhIIMSgA",
-        "https://www.google.com/shopping/product/3144051889025390823?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A1885614395862258769%2Coid%3A1885614395862258769&sa=X&ved=0ahUKEwiCr6arkJ7qAhXpN30KHdiHD8oQrRIIJg",
-        "https://www.google.com/shopping/product/3144051889025390823?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A1885614395862258769%2Coid%3A1885614395862258769&sa=X&ved=0ahUKEwiCr6arkJ7qAhXpN30KHdiHD8oQrhIIJSgA",
-        "https://www.google.com/shopping/product/550861450526940243/media?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&sa=X&ved=0ahUKEwiCr6arkJ7qAhXpN30KHdiHD8oQnUAIBA",
-        "https://www.google.com/shopping/product/550861450526940243/reviews?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&sa=X&ved=0ahUKEwiCr6arkJ7qAhXpN30KHdiHD8oQ5KECCA0",
-        "https://www.google.com/shopping/product/550861450526940243/specs?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&sa=X&ved=0ahUKEwiCr6arkJ7qAhXpN30KHdiHD8oQj3UIDA",
-        "https://www.google.com/shopping/product/550861450526940243?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A4603001674979680318%2Coid%3A4603001674979680318&sa=X&ved=0ahUKEwjUw5Tdhp7qAhXWHzQIHWnTBnMQrhIIISgA",
-        "https://www.google.com/shopping/product/550861450526940243?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A4603001674979680318%2Cscoring%3Ap",
-        "https://www.google.com/shopping/product/550861450526940243?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A4603001674979680318%2Cscoring%3Apd",
-        "https://www.google.com/shopping/product/550861450526940243?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A4603001674979680318%2Cstart%3A5&sa=X&ved=0ahUKEwiCr6arkJ7qAhXpN30KHdiHD8oQ9ykIHQ",
-        "https://www.google.com/shopping/product/9414064369116446093?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A15097406546736273293%2Coid%3A15097406546736273293&sa=X&ved=0ahUKEwiCr6arkJ7qAhXpN30KHdiHD8oQrRIIKg",
-        "https://www.google.com/shopping/product/9414064369116446093?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A15097406546736273293%2Coid%3A15097406546736273293&sa=X&ved=0ahUKEwiCr6arkJ7qAhXpN30KHdiHD8oQrhIIKSgA"
-    ],
-    "ContentType": "text/html; charset=ISO-8859-1",
-    "Parent": "https://www.google.com/shopping/product/15548711475101141525?q=blockchain%2Bjobs&ie=UTF-8&prds=epd%3A11155940678106758698%2Coid%3A11155940678106758698%2Cprmr%3A1&liteui=1&sa=X&ved=0ahUKEwjSzcCYhZ7qAhVDHzQIHXpGAGsQ2SsIYg",
-    "DocumentType": "JobBoards",
-    "Title": "blockchain+jobs - Google Shopping",
-    "Hash": "5DCF9F632C5A31DE4D6CBD87946BF2EF",
-    "Url": "https://www.google.com/shopping/product/550861450526940243?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A4603001674979680318%2Coid%3A4603001674979680318&sa=X&ved=0ahUKEwjUw5Tdhp7qAhXWHzQIHWnTBnMQrhIIISgA",
-    "CrawledDate": "2020-06-25",
-    "DomainId": "google",
-    "Language": "Romanian",
-    "TackIt": "false",
-    "Body": "Icon Airflite Helmet - Black - LG Visit Site$250.00 Â· RevZilla.com +$20.78 tax Free shipping Arrives Jun 27 \u2013 Jul 1 97% positive(29,424) COMPARE PRICES PRODUCT DETAILS Features: Icon, Motorcycle, Off-road, Men's / Unisex, DOT Certified, ECE Certified Icon Airflite Helmet Simplicity is the ultimate sophistication. No branding, no graphics, no bull. The Icon Airflite Helmet kicks decoration to the curb and gets right down to business. Polycarb shell with massive airflow cools your noggin. Drop the inner sun shield when the sun gets in your eyes. Features: Injection molded polycarbonate shell for strength 3 shell sizes: XS-SM, MD-LG, XL-3XL Multiple oversized intake and exhaust ports Fog-free inner sun shield Quick-change fog-free face shield Removable side plates Molded breath deflector Chin curtain Removable Hydradry moisture wicking liner Recessed twin channel supervent cooling system All world standard, meets or exceeds the following: DOT FMVSS 218 (US), ECE 22-05 (EUROPE), SAI AS1698 (AUSTRALIA) and SG (JAPAN) safety and testing standards. MORE DETAILS USER REVIEWS 4.4 âââââ 88 reviews 5 4 3 2 1 Value: \u201cBut overall great helmet for a great price.\u201d Size: \u201cVery good Weight this Ok\u201d SEE ALL REVIEWS ONLINE STORES Sort Default Default Price - low to high Price - high to low $250.00 +$20.78 tax Free shipping RevZilla.com 97% positive(29,424) $250.00 +$20.78 tax Free shipping Cycle Gear 93% positive(6,313) $250.00 No tax Free shipping MotoMummy 92% positive(214) $262.99 No tax +$20.99 shipping Motardinn.com $250.00 +$20.78 tax Free shipping Chaparral Motorsports 88% positive(1,360) Showing results 1\u20135 of 19 Next > RELATED ITEMS $395.00 Â· $145 more Icon Airframe Pro Construct Black Helmet âââââ(48) Full Face Modular $225.00 Â· $25 less Icon Airform Sacrosanct Helmet (Black LG) âââââ(8) Full Face Bluetooth $330.00 Â· $80 more Icon Airframe Pro Warbird Helmet - Black - M âââââ(7) Full Face Women's Modular $250.00 Icon Airmada Chantilly Helmet âââââ(330) $285.00 Â· $35 more Icon Airflite QB1 Helmet (Black XL) âââââ(40) Full Face"
-}
