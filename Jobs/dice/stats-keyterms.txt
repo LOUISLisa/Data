@@ -1,82 +1,86 @@
-Total Index Files in Path: 25
-Num Index Files Containing Key Terms: 23
+Total Index Files in Path: 85
+Num Index Files Containing Key Terms: 65
 
-advertising	14	60.87
-algorithms	14	60.87
-full time	14	60.87
-privacy	14	60.87
-html	12	52.17
-aws	7	30.43
-blockchain developer	6	26.09
-cryptocurrency	6	26.09
-java	6	26.09
-python	6	26.09
-artificial intelligence	5	21.74
-remote	5	21.74
-trading	5	21.74
-cloud	4	17.39
-devops	4	17.39
-distributed systems	4	17.39
-front end	4	17.39
-hyperledger	4	17.39
-product manager	4	17.39
-startup	4	17.39
-financial	3	13.04
-javascript	3	13.04
-linux	3	13.04
-machine learning	3	13.04
-react	3	13.04
-smart contract	3	13.04
-swift	3	13.04
-angular	2	8.70
-azure	2	8.70
-bitcoin	2	8.70
-collaboration	2	8.70
-cryptography	2	8.70
-data science	2	8.70
-docker	2	8.70
-emerging technologies	2	8.70
-fabric	2	8.70
-frameworks	2	8.70
-nodejs	2	8.70
-peer to peer	2	8.70
-agile	1	4.35
-analytical	1	4.35
-ansible	1	4.35
-application development	1	4.35
-back end	1	4.35
-banking	1	4.35
-capital markets	1	4.35
-chef	1	4.35
-clarity	1	4.35
-compliance	1	4.35
-containerization	1	4.35
-continuous integration	1	4.35
-corda	1	4.35
-cryptocurrencies	1	4.35
-cyber	1	4.35
-data analytics	1	4.35
-decentralized	1	4.35
-digital asset	1	4.35
-dlt	1	4.35
-elasticsearch	1	4.35
-ethereum	1	4.35
-full stack	1	4.35
-genetic	1	4.35
-information technology	1	4.35
-internet of things	1	4.35
-j2ee	1	4.35
-kubernetes	1	4.35
-microservices	1	4.35
-mysql	1	4.35
-nlp	1	4.35
-proof of stake	1	4.35
-puppet	1	4.35
-quorum	1	4.35
-rdbms	1	4.35
-rust	1	4.35
-scala	1	4.35
-scrum	1	4.35
-sql	1	4.35
-typescript	1	4.35
-web applications	1	4.35
+software engineer	16	24.62
+blockchain developer	15	23.08
+advertising	14	21.54
+algorithms	14	21.54
+full time	14	21.54
+privacy	14	21.54
+html	12	18.46
+java	10	15.38
+remote	10	15.38
+cryptocurrency	8	12.31
+trading	8	12.31
+aws	7	10.77
+product manager	7	10.77
+back end	6	9.23
+financial	6	9.23
+python	6	9.23
+react	6	9.23
+startup	6	9.23
+artificial intelligence	5	7.69
+devops	5	7.69
+hyperledger	5	7.69
+cloud	4	6.15
+distributed systems	4	6.15
+front end	4	6.15
+ethereum	3	4.62
+javascript	3	4.62
+linux	3	4.62
+machine learning	3	4.62
+smart contract	3	4.62
+swift	3	4.62
+angular	2	3.08
+azure	2	3.08
+bitcoin	2	3.08
+capital markets	2	3.08
+collaboration	2	3.08
+corda	2	3.08
+cryptography	2	3.08
+data science	2	3.08
+docker	2	3.08
+emerging technologies	2	3.08
+fabric	2	3.08
+frameworks	2	3.08
+information technology	2	3.08
+nodejs	2	3.08
+peer to peer	2	3.08
+rust	2	3.08
+solidity	2	3.08
+agile	1	1.54
+analytical	1	1.54
+ansible	1	1.54
+application development	1	1.54
+banking	1	1.54
+chef	1	1.54
+clarity	1	1.54
+compliance	1	1.54
+containerization	1	1.54
+continuous integration	1	1.54
+cryptocurrencies	1	1.54
+cyber	1	1.54
+dapps	1	1.54
+data analytics	1	1.54
+decentralized	1	1.54
+digital asset	1	1.54
+dlt	1	1.54
+elasticsearch	1	1.54
+full stack	1	1.54
+genetic	1	1.54
+golang	1	1.54
+internet of things	1	1.54
+j2ee	1	1.54
+kubernetes	1	1.54
+microservices	1	1.54
+mysql	1	1.54
+nlp	1	1.54
+proof of stake	1	1.54
+puppet	1	1.54
+quorum	1	1.54
+rdbms	1	1.54
+scala	1	1.54
+scrum	1	1.54
+sql	1	1.54
+typescript	1	1.54
+web applications	1	1.54
