@@ -1,0 +1,168 @@
+Total Index Files in Path: 249
+Num Index Files Containing Key Terms: 231
+
+android	110	47.62
+financial	109	47.19
+software engineer	97	41.99
+privacy	80	34.63
+artificial intelligence	67	29.00
+cloud	62	26.84
+information technology	54	23.38
+machine learning	53	22.94
+devops	48	20.78
+health care	45	19.48
+compliance	44	19.05
+product manager	44	19.05
+remote	43	18.61
+frameworks	42	18.18
+java	38	16.45
+collaboration	34	14.72
+front end	34	14.72
+aws	32	13.85
+advertising	31	13.42
+azure	31	13.42
+back end	31	13.42
+javascript	28	12.12
+agile	27	11.69
+analytical	25	10.82
+docker	25	10.82
+kubernetes	25	10.82
+ci cd	24	10.39
+full stack	24	10.39
+containers	22	9.52
+microservices	22	9.52
+python	21	9.09
+application development	20	8.66
+cryptocurrency	20	8.66
+protocols	20	8.66
+scrum	20	8.66
+full time	19	8.23
+startup	19	8.23
+trading	19	8.23
+react	18	7.79
+business development	17	7.36
+cryptocurrencies	17	7.36
+linux	17	7.36
+scripting	17	7.36
+angular	16	6.93
+digital asset	16	6.93
+sql	16	6.93
+distributed systems	15	6.49
+genetic	15	6.49
+nodejs	15	6.49
+network security	14	6.06
+bitcoin	13	5.63
+cloud computing	13	5.63
+encryption	13	5.63
+ethereum	13	5.63
+banking	12	5.19
+blockchain developer	12	5.19
+code review	12	5.19
+data analytics	12	5.19
+decentralized	12	5.19
+kafka	12	5.19
+nosql	12	5.19
+senior consultant	12	5.19
+test automation	12	5.19
+golang	11	4.76
+unit test	11	4.76
+backbone	10	4.33
+big data	10	4.33
+cyber	10	4.33
+j2ee	10	4.33
+kanban	10	4.33
+risk management	10	4.33
+wallet	10	4.33
+elasticsearch	9	3.90
+information systems	9	3.90
+stellar	9	3.90
+capital markets	8	3.46
+emerging technologies	8	3.46
+mongodb	8	3.46
+ruby	8	3.46
+smart contract	8	3.46
+terraform	8	3.46
+acceptance test	7	3.03
+dlt	7	3.03
+etl	7	3.03
+html	7	3.03
+peer to peer	7	3.03
+ripple	7	3.03
+smart cities	7	3.03
+ansible	6	2.60
+continuous integration	6	2.60
+cryptography	6	2.60
+dapps	6	2.60
+exchanges	6	2.60
+functional test	6	2.60
+solidity	6	2.60
+blockchain research	5	2.16
+containerization	5	2.16
+css	5	2.16
+embedded	5	2.16
+graphql	5	2.16
+internet of things	5	2.16
+jira	5	2.16
+json	5	2.16
+marketplace	5	2.16
+mysql	5	2.16
+tcl	5	2.16
+typescript	5	2.16
+web applications	5	2.16
+algorithms	4	1.73
+blockchain platforms	4	1.73
+cloud services	4	1.73
+consensus	4	1.73
+data science	4	1.73
+distributed application	4	1.73
+loans	4	1.73
+quality engineer	4	1.73
+restful apis	4	1.73
+serenity	4	1.73
+tdd	4	1.73
+clarity	3	1.30
+disruptive	3	1.30
+hadoop	3	1.30
+intellectual curiosity	3	1.30
+proof of insurance	3	1.30
+sales manager	3	1.30
+scala	3	1.30
+wasm	3	1.30
+blockstack	2	0.87
+data structures	2	0.87
+digital asset exchange	2	0.87
+fabric	2	0.87
+github	2	0.87
+hyperledger	2	0.87
+kyc	2	0.87
+middleware	2	0.87
+mobile apps	2	0.87
+real estate	2	0.87
+sdk	2	0.87
+supply chain	2	0.87
+swift	2	0.87
+threat modeling	2	0.87
+ui ux	2	0.87
+unit and functional test	2	0.87
+visualization	2	0.87
+anti money laundering	1	0.43
+asset management	1	0.43
+business intelligence	1	0.43
+cosmos	1	0.43
+cryptographic principles	1	0.43
+django	1	0.43
+enterprise blockchain software	1	0.43
+enterprise software	1	0.43
+hardware engineer	1	0.43
+ico	1	0.43
+jquery	1	0.43
+mainnet	1	0.43
+nlp	1	0.43
+opensource	1	0.43
+pharmaceutical	1	0.43
+postgres	1	0.43
+proof of concept	1	0.43
+proof of stake	1	0.43
+rust	1	0.43
+spark	1	0.43
+tableau	1	0.43
