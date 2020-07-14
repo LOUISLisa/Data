@@ -1,0 +1,175 @@
+Total Index Files in Path: 908
+Num Index Files Containing Key Terms: 908
+
+remote	871	95.93
+bitcoin	817	89.98
+solidity	814	89.65
+blockchain developer	811	89.32
+cryptocurrency	82	9.03
+financial	54	5.95
+decentralized	49	5.40
+full time	44	4.85
+ethereum	38	4.19
+agile	32	3.52
+software engineer	32	3.52
+ico	31	3.41
+startup	31	3.41
+opensource	29	3.19
+parity	29	3.19
+stable coin	28	3.08
+back end	26	2.86
+front end	25	2.75
+javascript	24	2.64
+trading	23	2.53
+cryptography	22	2.42
+digital asset	22	2.42
+protocols	22	2.42
+cryptocurrencies	20	2.20
+business development	18	1.98
+peer to peer	18	1.98
+smart contract	18	1.98
+analytical	16	1.76
+ipfs	16	1.76
+product manager	16	1.76
+python	16	1.76
+react	16	1.76
+full stack	15	1.65
+privacy	15	1.65
+cloud	13	1.43
+distributed systems	13	1.43
+advertising	12	1.32
+css	12	1.32
+dapps	12	1.32
+devops	12	1.32
+html	12	1.32
+java	12	1.32
+typescript	12	1.32
+github	11	1.21
+microservices	11	1.21
+nodejs	11	1.21
+rust	11	1.21
+banking	10	1.10
+pharmaceutical	10	1.10
+collaboration	9	0.99
+compliance	9	0.99
+enterprise software	9	0.99
+code review	8	0.88
+git	8	0.88
+mysql	8	0.88
+frameworks	7	0.77
+sql	7	0.77
+test automation	7	0.77
+wallet	7	0.77
+aws	6	0.66
+continuous integration	6	0.66
+exchanges	6	0.66
+functional program	6	0.66
+gaming	6	0.66
+ui ux	6	0.66
+ci cd	5	0.55
+graphql	5	0.55
+kubernetes	5	0.55
+marketplace	5	0.55
+staking	5	0.55
+web-3	5	0.55
+clarity	4	0.44
+crypto wallet	4	0.44
+digital asset platform	4	0.44
+dlt	4	0.44
+docker	4	0.44
+e-commerce	4	0.44
+golang	4	0.44
+hadoop	4	0.44
+jira	4	0.44
+metamask	4	0.44
+ripple	4	0.44
+spark	4	0.44
+algorithms	3	0.33
+angular	3	0.33
+anti money laundering	3	0.33
+artificial intelligence	3	0.33
+consensus	3	0.33
+cyber	3	0.33
+disruptive	3	0.33
+encryption	3	0.33
+fabric	3	0.33
+genetic	3	0.33
+kafka	3	0.33
+kyc	3	0.33
+machine learning	3	0.33
+maven	3	0.33
+network security	3	0.33
+postgres	3	0.33
+proof of stake	3	0.33
+scala	3	0.33
+scripting	3	0.33
+tdd	3	0.33
+tendermint	3	0.33
+zcash	3	0.33
+android	2	0.22
+cloud computing	2	0.22
+cross-chain	2	0.22
+crypto enthusiast	2	0.22
+digital asset exchange	2	0.22
+financial application	2	0.22
+haskell	2	0.22
+health care	2	0.22
+json	2	0.22
+linux	2	0.22
+litecoin	2	0.22
+mobile apps	2	0.22
+monero	2	0.22
+proof of work	2	0.22
+restful apis	2	0.22
+risk management	2	0.22
+sales manager	2	0.22
+sdk	2	0.22
+subscription based	2	0.22
+supply chain	2	0.22
+unit test	2	0.22
+wasm	2	0.22
+web applications	2	0.22
+analytical and problem solving	1	0.11
+application development	1	0.11
+asset management	1	0.11
+asset tokenization	1	0.11
+azure	1	0.11
+blockchain based	1	0.11
+blockchain research	1	0.11
+consensus algorithms	1	0.11
+continuous deployment	1	0.11
+cosmos	1	0.11
+crawling	1	0.11
+data science	1	0.11
+data structures	1	0.11
+decentralized systems	1	0.11
+defi	1	0.11
+elasticsearch	1	0.11
+forensic	1	0.11
+hedge funds	1	0.11
+hyperledger	1	0.11
+information systems	1	0.11
+intellectual curiosity	1	0.11
+intellij	1	0.11
+jquery	1	0.11
+kotlin	1	0.11
+lightning network	1	0.11
+mainnet	1	0.11
+middleware	1	0.11
+mongodb	1	0.11
+nosql	1	0.11
+numpy	1	0.11
+proof of concepts	1	0.11
+rdbms	1	0.11
+scrum	1	0.11
+social network	1	0.11
+solr	1	0.11
+spring boot	1	0.11
+terraform	1	0.11
+testnet	1	0.11
+tokenization	1	0.11
+truffle	1	0.11
+validator	1	0.11
+visualization	1	0.11
+web-2	1	0.11
+webpack	1	0.11
