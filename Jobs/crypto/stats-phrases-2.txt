@@ -1,16 +1,16 @@
 Total Index Files in Path: 3393
 Num Index Files Containing Key Terms: 3277
 
-business development	1541	47.02
-smart contract	1479	45.13
-hong kong	1467	44.77
-customer support	1439	43.91
+business development	1502	45.83
+smart contract	1480	45.16
+customer support	1441	43.97
+hong kong	1429	43.61
 sales marketing	1417	43.24
 san francisco	1413	43.12
 blockchain crypto	1399	42.69
 crypto enthusiasts	1395	42.57
 development sales	1391	42.45
-los angeles	1388	42.36
+los angeles	1387	42.33
 bitcoin bitcoin	1385	42.26
 marketing operations	1385	42.26
 skills bitcoin	1384	42.23
@@ -107,13 +107,13 @@ post apply	1098	33.51
 resume optional	1098	33.51
 skills current	1098	33.51
 upload resume	1098	33.51
-applications closed	700	21.36
-closed crypto	665	20.29
+applications closed	703	21.45
+closed crypto	668	20.38
 blockchain technology	618	18.86
 of blockchain	599	18.28
 understanding of	463	14.13
 knowledge of	455	13.88
-social media	354	10.80
+social media	359	10.96
 blockchain projects	333	10.16
 years of	326	9.95
 of developers	323	9.86
@@ -170,6 +170,8 @@ web push	278	8.48
 website blockchain	278	8.48
 weekly updates	278	8.48
 world happening	278	8.48
+posted crypto	238	7.26
+views posted	238	7.26
 experience working	235	7.17
 team of	231	7.05
 equity crypto	228	6.96
@@ -177,9 +179,7 @@ back subscribe	227	6.93
 check back	227	6.93
 subscribe weekly	227	6.93
 of experience	204	6.23
-posted crypto	199	6.07
-views posted	199	6.07
-blockchain developer	194	5.92
+blockchain developer	193	5.89
 compensation negotiable	189	5.77
 open source	184	5.61
 smart contracts	180	5.49
@@ -188,16 +188,16 @@ fast paced	168	5.13
 compensation crypto	165	5.04
 equity applications	164	5.00
 computer science	162	4.94
+remote views	161	4.91
+community manager	152	4.64
+front end	150	4.58
 work closely	148	4.52
-community manager	147	4.49
-front end	147	4.49
-blockchain cryptocurrency	146	4.46
+blockchain cryptocurrency	145	4.42
 of cryptocurrency	144	4.39
 development of	142	4.33
 full time	139	4.24
 hands on	139	4.24
 ideal candidate	139	4.24
-remote views	139	4.24
 software development	138	4.21
 compensation equity	136	4.15
 node js	129	3.94
@@ -206,31 +206,31 @@ team members	129	3.94
 fast growing	125	3.81
 join team	124	3.78
 compensation usd	123	3.75
+time tech	120	3.66
 start up	119	3.63
 experience of	117	3.57
+software engineer	116	3.54
 development experience	115	3.51
 skills ability	115	3.51
-software engineer	115	3.51
 email protected	113	3.45
 apply blockchain	112	3.42
 compensation competitive	112	3.42
 high quality	112	3.42
 attention detail	111	3.39
-community management	110	3.36
 competitive salary	110	3.36
 work experience	110	3.36
+community management	109	3.33
+tech remote	108	3.30
 track record	106	3.23
 of crypto	105	3.20
 project management	103	3.14
 apply cryptojobs	102	3.11
+back end	102	3.11
 fluent english	102	3.11
 years experience	102	3.11
-back end	101	3.08
 of work	101	3.08
 problem solving	101	3.08
-time tech	98	2.99
 long term	97	2.96
-tech remote	96	2.93
 cutting edge	95	2.90
 development team	93	2.84
 html css	92	2.81
@@ -246,15 +246,15 @@ future of	89	2.72
 experience developing	88	2.69
 written verbal	87	2.65
 compensation tbd	86	2.62
+digital marketing	86	2.62
 usd month	86	2.62
-blockchain engineer	85	2.59
-digital marketing	85	2.59
+blockchain engineer	84	2.56
 deep understanding	83	2.53
 record of	83	2.53
+cryptocurrency blockchain	82	2.50
 work independently	82	2.50
-cryptocurrency blockchain	81	2.47
+of marketing	81	2.47
 experience building	80	2.44
-of marketing	80	2.44
 excellent communication	79	2.41
 marketing team	79	2.41
 of working	79	2.41
@@ -262,45 +262,43 @@ skills blockchain	78	2.38
 high level	77	2.35
 team player	77	2.35
 apply senior	76	2.32
-negotiable crypto	76	2.32
 part time	76	2.32
 skills marketing	76	2.32
 trading platform	76	2.32
 blockchain space	75	2.29
+negotiable applications	75	2.29
+negotiable crypto	75	2.29
 of company	75	2.29
 top bitcoin	75	2.29
 international team	74	2.26
 month crypto	74	2.26
-negotiable applications	74	2.26
 customer service	73	2.23
 management skills	73	2.23
+marketing manager	73	2.23
 requirements years	73	2.23
 working closely	73	2.23
 financial services	72	2.20
-marketing manager	72	2.20
 opportunity work	72	2.20
 experience writing	70	2.14
 level of	70	2.14
-remote remote	70	2.14
 self starter	70	2.14
 writing skills	70	2.14
-head of	69	2.11
+remote remote	69	2.11
+crypto blockchain	68	2.08
+head of	68	2.08
 of project	68	2.08
 blockchain developers	67	2.04
-crypto blockchain	67	2.04
 english language	67	2.04
 proven experience	67	2.04
 related field	67	2.04
 degree computer	66	2.01
 in depth	66	2.01
-of sales	66	2.01
 skills solidity	66	2.01
 variety of	66	2.01
 verbal written	66	2.01
 work remotely	66	2.01
 working hours	66	2.01
 aspects of	65	1.98
-director of	65	1.98
 newsletter bitcoin	65	1.98
 post bitcoin	65	1.98
 product manager	65	1.98
@@ -330,7 +328,6 @@ of business	60	1.83
 blockchain compensation	59	1.80
 flexible working	59	1.80
 good understanding	59	1.80
-sales business	59	1.80
 written spoken	58	1.77
 creation of	57	1.74
 early stage	57	1.74
@@ -350,25 +347,25 @@ of software	55	1.68
 skills writing	55	1.68
 strong communication	55	1.68
 time management	55	1.68
-content writer	54	1.65
 detail oriented	54	1.65
 experience crypto	54	1.65
 interpersonal skills	54	1.65
 related technical	54	1.65
 software engineering	54	1.65
+content writer	53	1.62
+developer blockchain	53	1.62
 experience managing	53	1.62
 growth of	53	1.62
 member of	53	1.62
 of digital	53	1.62
 of small	53	1.62
 verbal communication	53	1.62
-blockchain contract	52	1.59
 continuous integration	52	1.59
 excellent written	52	1.59
 marketing strategy	52	1.59
 sense of	52	1.59
 skills javascript	52	1.59
-developer blockchain	51	1.56
+blockchain contract	51	1.56
 marketing campaigns	51	1.56
 minimum of	51	1.56
 of people	51	1.56
@@ -376,11 +373,11 @@ remote team	51	1.56
 strong knowledge	51	1.56
 community of	50	1.53
 content creation	50	1.53
+full stack	50	1.53
 management experience	50	1.53
 work directly	50	1.53
 css javascript	49	1.50
 decision making	49	1.50
-full stack	49	1.50
 implementation of	49	1.50
 of social	49	1.50
 real world	49	1.50
@@ -417,7 +414,6 @@ crypto space	44	1.34
 degree of	44	1.34
 engineering team	44	1.34
 good knowledge	44	1.34
-of community	44	1.34
 product management	44	1.34
 work team	44	1.34
 working environment	44	1.34
@@ -427,6 +423,7 @@ community engagement	43	1.31
 development compensation	43	1.31
 flexible schedule	43	1.31
 marketing strategies	43	1.31
+of community	43	1.31
 of financial	43	1.31
 prior experience	43	1.31
 rest of	43	1.31
@@ -438,20 +435,16 @@ working knowledge	43	1.31
 design development	42	1.28
 experience cryptocurrency	42	1.28
 experience years	42	1.28
-kong views	42	1.28
+media manager	42	1.28
 month applications	42	1.28
 of content	42	1.28
 of ethereum	42	1.28
 of projects	42	1.28
 of users	42	1.28
-qnt holdings	42	1.28
-time business	42	1.28
 capable of	41	1.25
-co founder	41	1.25
 crypto community	41	1.25
 cryptocurrency space	41	1.25
 data structures	41	1.25
-development remote	41	1.25
 of data	41	1.25
 of platform	41	1.25
 of technical	41	1.25
@@ -459,14 +452,14 @@ passion blockchain	41	1.25
 skills community	41	1.25
 skills java	41	1.25
 blockchain cryptocurrencies	40	1.22
+co founder	40	1.22
 competitive crypto	40	1.22
 cryptocurrency exchange	40	1.22
 cryptocurrency news	40	1.22
-development qnt	40	1.22
 digital currency	40	1.22
+end developer	40	1.22
 experience leading	40	1.22
 experience social	40	1.22
-featured crypto	40	1.22
 management of	40	1.22
 management team	40	1.22
 number of	40	1.22
@@ -474,38 +467,33 @@ organizational skills	40	1.22
 project manager	40	1.22
 protected skills	40	1.22
 strong interest	40	1.22
-views featured	40	1.22
 based experience	39	1.19
-end developer	39	1.19
 flexible hours	39	1.19
-frontend developer	39	1.19
-holdings time	39	1.19
 hours week	39	1.19
 large scale	39	1.19
 network of	39	1.19
 of products	39	1.19
 product development	39	1.19
 professional experience	39	1.19
+proof of	39	1.19
 remote blockchain	39	1.19
-remote hong	39	1.19
 remote working	39	1.19
+security engineer	39	1.19
 skills years	39	1.19
 software developer	39	1.19
 strong experience	39	1.19
 technical marketing	39	1.19
 blockchain related	38	1.16
+contract marketing	38	1.16
 crypto page	38	1.16
 distributed ledger	38	1.16
 experience software	38	1.16
 experience strong	38	1.16
 input output	38	1.16
 interest blockchain	38	1.16
-media manager	38	1.16
 of professional	38	1.16
 output hong	38	1.16
 page blockchain	38	1.16
-proof of	38	1.16
-security engineer	38	1.16
 skills required	38	1.16
 small dedicated	38	1.16
 time zone	38	1.16
@@ -515,6 +503,7 @@ blog posts	37	1.13
 bonus points	37	1.13
 data driven	37	1.13
 desired skills	37	1.13
+frontend developer	37	1.13
 fully remote	37	1.13
 hours day	37	1.13
 javascript react	37	1.13
@@ -532,13 +521,11 @@ high degree	36	1.10
 marketing writer	36	1.10
 month equity	36	1.10
 of global	36	1.10
-senior blockchain	36	1.10
 skills business	36	1.10
 skills written	36	1.10
 team develop	36	1.10
 team skills	36	1.10
 3 5	35	1.07
-aeternity blockchain	35	1.07
 benefits of	35	1.07
 blockchain community	35	1.07
 blockchain knowledge	35	1.07
@@ -553,13 +540,13 @@ good communication	35	1.07
 knowledge blockchain	35	1.07
 minimum years	35	1.07
 of past	35	1.07
+senior blockchain	35	1.07
 skills skills	35	1.07
 thirst knowledge	35	1.07
 unique opportunity	35	1.07
 analytical skills	34	1.04
 blockchain platform	34	1.04
 content writing	34	1.04
-contract marketing	34	1.04
 crypto currency	34	1.04
 design implementation	34	1.04
 english speaking	34	1.04
@@ -577,14 +564,17 @@ skills node	34	1.04
 solid experience	34	1.04
 solve problems	34	1.04
 successful candidate	34	1.04
+trending remote	34	1.04
 writer ternity	34	1.04
 writing compensation	34	1.04
+aeternity blockchain	33	1.01
 basic knowledge	33	1.01
 blockchain solutions	33	1.01
 compensation month	33	1.01
 cryptocurrency wallet	33	1.01
 develop implement	33	1.01
 financial markets	33	1.01
+graphic designer	33	1.01
 growth hacking	33	1.01
 important immediately	33	1.01
 maintenance of	33	1.01
@@ -598,7 +588,6 @@ requirements experience	33	1.01
 responsibilities develop	33	1.01
 role working	33	1.01
 solid understanding	33	1.01
-trending remote	33	1.01
 web applications	33	1.01
 work of	33	1.01
 analysis of	32	0.98
@@ -607,10 +596,8 @@ automated testing	32	0.98
 blockchain companies	32	0.98
 buy sell	32	0.98
 continuous improvement	32	0.98
-engineer blockchain	32	0.98
 experience ability	32	0.98
 experienced enthusiastic	32	0.98
-graphic designer	32	0.98
 growing team	32	0.98
 market research	32	0.98
 market trends	32	0.98
@@ -620,7 +607,6 @@ media strategy	32	0.98
 minimal supervision	32	0.98
 of building	32	0.98
 ownership of	32	0.98
-plexus resource	32	0.98
 proven ability	32	0.98
 qualifications experience	32	0.98
 sweat equity	32	0.98
@@ -630,6 +616,7 @@ web3 js	32	0.98
 work ethic	32	0.98
 working alongside	32	0.98
 bitcoin blockchain	31	0.95
+blockchain ico	31	0.95
 blockchain tech	31	0.95
 candidates experience	31	0.95
 ci cd	31	0.95
@@ -640,6 +627,7 @@ crypto currencies	31	0.95
 customer experience	31	0.95
 developer join	31	0.95
 eager contribute	31	0.95
+engineer blockchain	31	0.95
 equity company	31	0.95
 forefront of	31	0.95
 high performance	31	0.95
@@ -651,14 +639,15 @@ of bitcoin	31	0.95
 of future	31	0.95
 of role	31	0.95
 opportunity part	31	0.95
+plexus resource	31	0.95
 product marketing	31	0.95
 responsibilities design	31	0.95
 senior security	31	0.95
 skills work	31	0.95
 talented international	31	0.95
 ux ui	31	0.95
+web developer	31	0.95
 apply stack	30	0.92
-blockchain ico	30	0.92
 blockchain project	30	0.92
 command of	30	0.92
 content social	30	0.92
@@ -678,11 +667,11 @@ of information	30	0.92
 of web	30	0.92
 on site	30	0.92
 professional development	30	0.92
+react native	30	0.92
 real time	30	0.92
 short term	30	0.92
 team member	30	0.92
 ux designer	30	0.92
-web developer	30	0.92
 written english	30	0.92
 application development	29	0.88
 community managers	29	0.88
@@ -695,6 +684,8 @@ in house	29	0.88
 including limited	29	0.88
 javascript es6	29	0.88
 knowledge love	29	0.88
+marketing business	29	0.88
+media community	29	0.88
 media management	29	0.88
 modern javascript	29	0.88
 moon assist	29	0.88
@@ -728,6 +719,7 @@ day talented	28	0.85
 dedicated international	28	0.85
 developer part	28	0.85
 development lead	28	0.85
+director of	28	0.85
 english speaker	28	0.85
 equal opportunity	28	0.85
 experience creating	28	0.85
@@ -738,15 +730,13 @@ generate revenue	28	0.85
 highly motivated	28	0.85
 lead blockchain	28	0.85
 lot of	28	0.85
-marketing business	28	0.85
 marketing sales	28	0.85
-media community	28	0.85
+of sales	28	0.85
 of smart	28	0.85
 online marketing	28	0.85
 open minded	28	0.85
 opportunity eager	28	0.85
 product design	28	0.85
-react native	28	0.85
 relevant experience	28	0.85
 request candidates	28	0.85
 science related	28	0.85
@@ -775,6 +765,7 @@ multiple projects	27	0.82
 negotiation skills	27	0.82
 of applications	27	0.82
 of ico	27	0.82
+sales manager	27	0.82
 science engineering	27	0.82
 security top	27	0.82
 skills html	27	0.82
@@ -818,13 +809,13 @@ online offline	26	0.79
 potential of	26	0.79
 press releases	26	0.79
 risk management	26	0.79
-sales manager	26	0.79
 sales team	26	0.79
 send resume	26	0.79
 skills good	26	0.79
 source projects	26	0.79
 source software	26	0.79
 startup experience	26	0.79
+technical writer	26	0.79
 terms of	26	0.79
 top security	26	0.79
 trading skills	26	0.79
@@ -833,6 +824,7 @@ ad hoc	25	0.76
 apply business	25	0.76
 area of	25	0.76
 bitcoin top	25	0.76
+crypto news	25	0.76
 crypto remote	25	0.76
 cryptography top	25	0.76
 dapp top	25	0.76
@@ -847,7 +839,6 @@ fintech startup	25	0.76
 good fit	25	0.76
 handoff software	25	0.76
 java compensation	25	0.76
-latest remote	25	0.76
 mission make	25	0.76
 newsletter serpent	25	0.76
 next gen	25	0.76
@@ -864,7 +855,6 @@ sales representative	25	0.76
 serpent moment	25	0.76
 serpent top	25	0.76
 solidity top	25	0.76
-technical writer	25	0.76
 technology company	25	0.76
 telegram reddit	25	0.76
 testing experience	25	0.76
@@ -888,7 +878,6 @@ build relationships	24	0.73
 compensation apply	24	0.73
 compensation sgd	24	0.73
 core team	24	0.73
-crypto news	24	0.73
 culture of	24	0.73
 degree marketing	24	0.73
 demonstrated ability	24	0.73
@@ -950,6 +939,7 @@ experience financial	23	0.70
 experience understanding	23	0.70
 interest cryptocurrency	23	0.70
 leading blockchain	23	0.70
+marketing remote	23	0.70
 mining moment	23	0.70
 of current	23	0.70
 of fastest	23	0.70
@@ -960,6 +950,7 @@ offer remote	23	0.70
 operations of	23	0.70
 organizational structure	23	0.70
 passionate blockchain	23	0.70
+pr marketing	23	0.70
 proven work	23	0.70
 reading desired	23	0.70
 responsibilities build	23	0.70
@@ -987,6 +978,7 @@ aware of	22	0.67
 building blockchain	22	0.67
 channel trello	22	0.67
 complex issues	22	0.67
+content creator	22	0.67
 critical thinking	22	0.67
 cryptocurrency platform	22	0.67
 dapp moment	22	0.67
@@ -1014,7 +1006,6 @@ oral written	22	0.67
 parts of	22	0.67
 post dapp	22	0.67
 post web3	22	0.67
-pr marketing	22	0.67
 preferred experience	22	0.67
 product owner	22	0.67
 provide technical	22	0.67
@@ -1078,6 +1069,7 @@ python java	21	0.64
 requirements strong	21	0.64
 responsibilities work	21	0.64
 ruby rails	21	0.64
+sales business	21	0.64
 skills basic	21	0.64
 skills including	21	0.64
 stellar team	21	0.64
@@ -1101,7 +1093,6 @@ closely platform	20	0.61
 communication compensation	20	0.61
 compensation commission	20	0.61
 compensation doe	20	0.61
-content creator	20	0.61
 content strategy	20	0.61
 contract tech	20	0.61
 creative solutions	20	0.61
@@ -1129,6 +1120,7 @@ limited upload	20	0.61
 manage digital	20	0.61
 marketing activities	20	0.61
 marketing channels	20	0.61
+marketing specialist	20	0.61
 minimum qualifications	20	0.61
 multi task	20	0.61
 of choice	20	0.61
@@ -1162,6 +1154,7 @@ background skills	19	0.58
 billion people	19	0.58
 bitbucket heroku	19	0.58
 blockchain applications	19	0.58
+blockchain headhunter	19	0.58
 candidate experience	19	0.58
 chief marketing	19	0.58
 clear concise	19	0.58
@@ -1229,6 +1222,7 @@ teams ensure	19	0.58
 technologies including	19	0.58
 technology cryptocurrencies	19	0.58
 telegram twitter	19	0.58
+time marketing	19	0.58
 time zones	19	0.58
 top tier	19	0.58
 vue js	19	0.58
@@ -1240,7 +1234,6 @@ ability learn	18	0.55
 apply cto	18	0.55
 based of	18	0.55
 big impact	18	0.55
-blockchain headhunter	18	0.55
 breaking news	18	0.55
 build manage	18	0.55
 business developer	18	0.55
@@ -1283,7 +1276,6 @@ learn unique	18	0.55
 maintain relationships	18	0.55
 make decisions	18	0.55
 manage multiple	18	0.55
-marketing specialist	18	0.55
 marketing teams	18	0.55
 news coverage	18	0.55
 newsletter trading	18	0.55
@@ -1343,8 +1335,9 @@ automated trading	17	0.52
 awareness of	17	0.52
 bitcoin moment	17	0.52
 bitcoin news	17	0.52
-blockchain digital	17	0.52
+blockchain consulting	17	0.52
 blockchain distributed	17	0.52
+blockchain writer	17	0.52
 building decentralized	17	0.52
 business operations	17	0.52
 cascading disruption	17	0.52
@@ -1400,7 +1393,6 @@ qualifications years	17	0.52
 reddit bitcointalk	17	0.52
 relevant field	17	0.52
 requirements degree	17	0.52
-resource solutions	17	0.52
 role suit	17	0.52
 salary flexible	17	0.52
 science equivalent	17	0.52
@@ -1424,10 +1416,9 @@ algorithms data	16	0.49
 autonomy supporting	16	0.49
 backend blockchain	16	0.49
 bank of	16	0.49
-blockchain consulting	16	0.49
+blockchain digital	16	0.49
 blockchain fintech	16	0.49
 blockchain infrastructure	16	0.49
-blockchain writer	16	0.49
 bs ms	16	0.49
 capital markets	16	0.49
 capital time	16	0.49
@@ -1466,6 +1457,7 @@ global cryptocurrency	16	0.49
 global marketing	16	0.49
 goals of	16	0.49
 growth hacker	16	0.49
+growth marketing	16	0.49
 hands experience	16	0.49
 headhunter upload	16	0.49
 hierarchy fixed	16	0.49
@@ -1504,6 +1496,7 @@ proficient english	16	0.49
 relational databases	16	0.49
 requirements minimum	16	0.49
 research compensation	16	0.49
+resource solutions	16	0.49
 role description	16	0.49
 safe secure	16	0.49
 sales customer	16	0.49
@@ -1602,7 +1595,6 @@ genuine interest	15	0.46
 global community	15	0.46
 good command	15	0.46
 good writing	15	0.46
-growth marketing	15	0.46
 hands of	15	0.46
 hard work	15	0.46
 high performing	15	0.46
@@ -1622,6 +1614,7 @@ management customer	15	0.46
 marketing communication	15	0.46
 marketing efforts	15	0.46
 mission build	15	0.46
+mlg blockchain	15	0.46
 mobile desktop	15	0.46
 monday friday	15	0.46
 newsletter ethereum	15	0.46
@@ -1709,6 +1702,7 @@ desire learn	14	0.43
 developers upload	14	0.43
 development director	14	0.43
 due diligence	14	0.43
+eak digital	14	0.43
 elite recruitment	14	0.43
 end users	14	0.43
 engineering related	14	0.43
@@ -1733,6 +1727,7 @@ high volume	14	0.43
 highly desirable	14	0.43
 highly scalable	14	0.43
 hourly rate	14	0.43
+ico blockchain	14	0.43
 improvement of	14	0.43
 in person	14	0.43
 interest cryptocurrencies	14	0.43
@@ -1747,7 +1742,6 @@ marketing agency	14	0.43
 marketing department	14	0.43
 marketing intern	14	0.43
 miracle tele	14	0.43
-mlg blockchain	14	0.43
 mobile apps	14	0.43
 motivated individual	14	0.43
 north america	14	0.43
@@ -1799,6 +1793,7 @@ solidity ethereum	14	0.43
 solidity python	14	0.43
 solidity web3	14	0.43
 source development	14	0.43
+stack engineer	14	0.43
 suite of	14	0.43
 system experience	14	0.43
 tcp ip	14	0.43
@@ -1870,7 +1865,6 @@ dev team	13	0.40
 develop content	13	0.40
 develop manage	13	0.40
 dynamic working	13	0.40
-eak digital	13	0.40
 editing skills	13	0.40
 embraces change	13	0.40
 encryption signatures	13	0.40
@@ -1901,7 +1895,6 @@ great team	13	0.40
 growing business	13	0.40
 hash functions	13	0.40
 highly creative	13	0.40
-ico blockchain	13	0.40
 ico tokens	13	0.40
 implement test	13	0.40
 industry knowledge	13	0.40
@@ -1942,6 +1935,7 @@ media messages	13	0.40
 media presence	13	0.40
 mix of	13	0.40
 mountain view	13	0.40
+muse incorporated	13	0.40
 network upload	13	0.40
 new york	13	0.40
 nice experience	13	0.40
@@ -1998,8 +1992,6 @@ software projects	13	0.40
 software solutions	13	0.40
 solutions blockchain	13	0.40
 source of	13	0.40
-stack blockchain	13	0.40
-stack engineer	13	0.40
 startup mentality	13	0.40
 strongly prefer	13	0.40
 suit focused	13	0.40
@@ -2082,7 +2074,6 @@ current future	12	0.37
 customer base	12	0.37
 days paid	12	0.37
 desire build	12	0.37
-developer react	12	0.37
 development strong	12	0.37
 development testing	12	0.37
 digital cash	12	0.37
@@ -2136,6 +2127,7 @@ leading global	12	0.37
 manage execute	12	0.37
 managing team	12	0.37
 market makers	12	0.37
+marketing lead	12	0.37
 marketing platform	12	0.37
 mastery of	12	0.37
 members ensure	12	0.37
@@ -2155,7 +2147,6 @@ moment stockholm	12	0.37
 mountain check	12	0.37
 mountain post	12	0.37
 ms phd	12	0.37
-muse incorporated	12	0.37
 news stories	12	0.37
 of box	12	0.37
 of communication	12	0.37
@@ -2216,6 +2207,7 @@ samples of	12	0.37
 scam fraudster	12	0.37
 scammers presently	12	0.37
 scheme share	12	0.37
+senior stack	12	0.37
 services billion	12	0.37
 share passion	12	0.37
 skills customer	12	0.37
@@ -2226,6 +2218,7 @@ skills software	12	0.37
 skills trading	12	0.37
 skills ux	12	0.37
 space work	12	0.37
+stack blockchain	12	0.37
 stay date	12	0.37
 stockholm check	12	0.37
 stockholm post	12	0.37
@@ -2279,6 +2272,7 @@ beginning brilliant	11	0.34
 beginning cryptocurrency	11	0.34
 benefits offer	11	0.34
 bitclaims io	11	0.34
+blockchain content	11	0.34
 blockchain decentralized	11	0.34
 blockchain engineers	11	0.34
 blockchain integration	11	0.34
@@ -2356,6 +2350,7 @@ design engineering	11	0.34
 design system	11	0.34
 design team	11	0.34
 designed enable	11	0.34
+developer react	11	0.34
 developers of	11	0.34
 development bank	11	0.34
 development digital	11	0.34
@@ -2471,13 +2466,13 @@ manage marketing	11	0.34
 manage team	11	0.34
 management communication	11	0.34
 manager arcadia	11	0.34
+manager crypto	11	0.34
 managing community	11	0.34
 marital status	11	0.34
 market based	11	0.34
 market infrastructure	11	0.34
 marketing campaign	11	0.34
 marketing director	11	0.34
-marketing lead	11	0.34
 marketing marketing	11	0.34
 marketing product	11	0.34
 master of	11	0.34
@@ -2506,7 +2501,6 @@ of respect	11	0.34
 of understanding	11	0.34
 of wales	11	0.34
 offer chance	11	0.34
-officer aeternity	11	0.34
 online communication	11	0.34
 online trading	11	0.34
 openly communities	11	0.34
@@ -2532,7 +2526,6 @@ platforms aws	11	0.34
 platforms including	11	0.34
 points experience	11	0.34
 post ico	11	0.34
-pr manager	11	0.34
 product designer	11	0.34
 product experience	11	0.34
 product requirements	11	0.34
@@ -2581,9 +2574,7 @@ secure retail	11	0.34
 security compliance	11	0.34
 security tokens	11	0.34
 senior backend	11	0.34
-senior frontend	11	0.34
 senior leadership	11	0.34
-senior stack	11	0.34
 seo compensation	11	0.34
 service guarantee	11	0.34
 service interruption	11	0.34
@@ -2621,6 +2612,7 @@ technology smart	11	0.34
 terms conditions	11	0.34
 test cases	11	0.34
 tests ensure	11	0.34
+time remote	11	0.34
 tracking reporting	11	0.34
 training professional	11	0.34
 transparency code	11	0.34
@@ -2688,8 +2680,8 @@ bias action	10	0.31
 bleeding edge	10	0.31
 blockchain bitcoin	10	0.31
 blockchain concepts	10	0.31
-blockchain content	10	0.31
 blockchain data	10	0.31
+blockchain security	10	0.31
 blockchain startups	10	0.31
 blockchain withstand	10	0.31
 blockchains ternity	10	0.31
@@ -2792,7 +2784,6 @@ engineering company	10	0.31
 engineering design	10	0.31
 engineers join	10	0.31
 english ability	10	0.31
-english mandarin	10	0.31
 english native	10	0.31
 enterprise alliance	10	0.31
 environment great	10	0.31
@@ -2884,7 +2875,6 @@ location bright	10	0.31
 london location	10	0.31
 low level	10	0.31
 makes easy	10	0.31
-manager crypto	10	0.31
 manager responsible	10	0.31
 market analysis	10	0.31
 market strong	10	0.31
@@ -2914,6 +2904,7 @@ motivated team	10	0.31
 multi tasking	10	0.31
 native earlier	10	0.31
 native level	10	0.31
+native mobile	10	0.31
 nekstream global	10	0.31
 network congestion	10	0.31
 news events	10	0.31
@@ -2941,6 +2932,7 @@ of trends	10	0.31
 of website	10	0.31
 offer products	10	0.31
 offering remote	10	0.31
+officer aeternity	10	0.31
 offline channels	10	0.31
 online community	10	0.31
 operating officer	10	0.31
@@ -2961,6 +2953,7 @@ platform participate	10	0.31
 policy skills	10	0.31
 powered people	10	0.31
 pr agencies	10	0.31
+pr manager	10	0.31
 prefer experience	10	0.31
 principles experience	10	0.31
 principles serve	10	0.31
@@ -2980,7 +2973,6 @@ recently completed	10	0.31
 related blockchain	10	0.31
 related fields	10	0.31
 related projects	10	0.31
-remote sales	10	0.31
 remote teams	10	0.31
 requirements work	10	0.31
 research design	10	0.31
@@ -3000,6 +2992,7 @@ security cryptography	10	0.31
 security engineering	10	0.31
 sell crypto	10	0.31
 sell cryptocurrency	10	0.31
+senior frontend	10	0.31
 serve person	10	0.31
 sharing knowledge	10	0.31
 sharing teams	10	0.31
@@ -3053,7 +3046,6 @@ telegram community	10	0.31
 ternity interaction	10	0.31
 ternity state	10	0.31
 thinking skills	10	0.31
-time marketing	10	0.31
 tokens crypto	10	0.31
 tools analytics	10	0.31
 tools processes	10	0.31
@@ -3129,12 +3121,12 @@ bi weekly	9	0.27
 bitcoin cryptocurrency	9	0.27
 bitcoin marketplace	9	0.27
 blockchain africa	9	0.27
+blockchain analyst	9	0.27
 blockchain architecture	9	0.27
 blockchain enthusiast	9	0.27
 blockchain enthusiasts	9	0.27
 blockchain expert	9	0.27
 blockchain products	9	0.27
-blockchain security	9	0.27
 blockchain team	9	0.27
 blockchain time	9	0.27
 blockchain world	9	0.27
@@ -3185,6 +3177,7 @@ complex information	9	0.27
 consensus protocols	9	0.27
 considered skills	9	0.27
 consulting agency	9	0.27
+content manager	9	0.27
 content marketer	9	0.27
 content plan	9	0.27
 content strategies	9	0.27
@@ -3229,7 +3222,6 @@ develop ideas	9	0.27
 develop skills	9	0.27
 develop smart	9	0.27
 develop social	9	0.27
-developer crypto	9	0.27
 developer of	9	0.27
 developers equipment	9	0.27
 development active	9	0.27
@@ -3257,6 +3249,7 @@ engagement of	9	0.27
 engineer work	9	0.27
 engineering compensation	9	0.27
 english experience	9	0.27
+english mandarin	9	0.27
 english offer	9	0.27
 english strong	9	0.27
 environment mission	9	0.27
@@ -3362,6 +3355,7 @@ market of	9	0.27
 marketing blockchain	9	0.27
 marketing crypto	9	0.27
 marketing digital	9	0.27
+marketing expert	9	0.27
 marketing growth	9	0.27
 media social	9	0.27
 media twitter	9	0.27
@@ -3377,16 +3371,16 @@ moment boston	9	0.27
 moment hong	9	0.27
 moment melbourne	9	0.27
 moment tallinn	9	0.27
-morpheus labs	9	0.27
 multiple blockchains	9	0.27
 multitasking skills	9	0.27
 mutual funds	9	0.27
-native mobile	9	0.27
+native developer	9	0.27
 nature of	9	0.27
 neg crypto	9	0.27
 network nodes	9	0.27
 network security	9	0.27
 networking skills	9	0.27
+news media	9	0.27
 newsletter solidity	9	0.27
 of applied	9	0.27
 of commercial	9	0.27
@@ -3470,6 +3464,7 @@ reddit facebook	9	0.27
 ref required	9	0.27
 reform market	9	0.27
 regulatory requirements	9	0.27
+remote sales	9	0.27
 remotely practically	9	0.27
 remotely world	9	0.27
 required qualifications	9	0.27
@@ -3644,7 +3639,6 @@ based swiss	8	0.24
 basis skills	8	0.24
 berlin based	8	0.24
 bitcoin of	8	0.24
-blockchain analyst	8	0.24
 blockchain build	8	0.24
 blockchain code	8	0.24
 blockchain driven	8	0.24
@@ -3721,8 +3715,8 @@ content daily	8	0.24
 content distribution	8	0.24
 content enhancing	8	0.24
 content experience	8	0.24
-content manager	8	0.24
 continually improve	8	0.24
+contract developer	8	0.24
 contractor role	8	0.24
 contracts developer	8	0.24
 contracts experience	8	0.24
@@ -3738,7 +3732,6 @@ creating open	8	0.24
 crypto bacon	8	0.24
 crypto influencer	8	0.24
 crypto marketing	8	0.24
-crypto recruit	8	0.24
 crypto sphere	8	0.24
 crypto wallet	8	0.24
 cryptocurrencies trading	8	0.24
@@ -3778,8 +3771,8 @@ develop robust	8	0.24
 develop software	8	0.24
 develop support	8	0.24
 developed fresh	8	0.24
+developer crypto	8	0.24
 developer experience	8	0.24
-developer morpheus	8	0.24
 developer work	8	0.24
 developers marketing	8	0.24
 developers work	8	0.24
@@ -3965,6 +3958,7 @@ keen eye	8	0.24
 key contacts	8	0.24
 key requirements	8	0.24
 languages javascript	8	0.24
+latest blockchain	8	0.24
 lead marketing	8	0.24
 lead software	8	0.24
 leading crypto	8	0.24
@@ -4005,13 +3999,11 @@ market  the	8	0.24
 market intelligence	8	0.24
 market share	8	0.24
 marketing company	8	0.24
-marketing expert	8	0.24
 marketing ideally	8	0.24
 marketing material	8	0.24
 marketing plan	8	0.24
 marketing plans	8	0.24
 marketing relations	8	0.24
-marketing remote	8	0.24
 marketing tools	8	0.24
 marketplace tokenized	8	0.24
 marketplace universal	8	0.24
@@ -4037,25 +4029,25 @@ million crypto	8	0.24
 million usd	8	0.24
 minimal hierarchy	8	0.24
 minimum year	8	0.24
+mobile developer	8	0.24
 mobile development	8	0.24
 moment bangalore	8	0.24
 moment cyberjaya	8	0.24
 money translator	8	0.24
 monitor report	8	0.24
 monitoring of	8	0.24
+morpheus labs	8	0.24
 motivated autonomous	8	0.24
 movement centered	8	0.24
 multi label	8	0.24
 named forbes	8	0.24
 national currency	8	0.24
-native developer	8	0.24
 negotiable type	8	0.24
 network blockchain	8	0.24
 network formed	8	0.24
 newborn commuter	8	0.24
 newly developed	8	0.24
 news copy	8	0.24
-news media	8	0.24
 news quickly	8	0.24
 nice creative	8	0.24
 nights weekends	8	0.24
@@ -4172,7 +4164,6 @@ relationships ability	8	0.24
 relationships clients	8	0.24
 relationships community	8	0.24
 relationships potential	8	0.24
-remote plexus	8	0.24
 remote start	8	0.24
 reporting directly	8	0.24
 repositories github	8	0.24
@@ -4212,6 +4203,7 @@ share of	8	0.24
 share vision	8	0.24
 similar experience	8	0.24
 singapore owned	8	0.24
+singapore views	8	0.24
 skills adobe	8	0.24
 skills bonus	8	0.24
 skills great	8	0.24
@@ -4278,6 +4270,7 @@ team provide	8	0.24
 teams build	8	0.24
 teams deliver	8	0.24
 tech startup	8	0.24
+technical blockchain	8	0.24
 technical issues	8	0.24
 technical projects	8	0.24
 technologies blockchain	8	0.24
@@ -4398,6 +4391,7 @@ amazon aws	7	0.21
 ambiguity shifting	7	0.21
 ambition cultural	7	0.21
 amount usd	7	0.21
+analyst ieg	7	0.21
 analytics tracking	7	0.21
 analyze multitude	7	0.21
 angeles check	7	0.21
@@ -4591,7 +4585,6 @@ contact jump	7	0.21
 content lead	7	0.21
 content writers	7	0.21
 context of	7	0.21
-contract developer	7	0.21
 contract monthly	7	0.21
 contribute development	7	0.21
 contribute organization	7	0.21
@@ -4618,6 +4611,7 @@ crypto ico	7	0.21
 crypto investors	7	0.21
 crypto markets	7	0.21
 crypto mobile	7	0.21
+crypto recruit	7	0.21
 crypto traders	7	0.21
 crypto writer	7	0.21
 cryptocurrencies atomz	7	0.21
@@ -4702,6 +4696,7 @@ develop brand	7	0.21
 develop decentralized	7	0.21
 develop effective	7	0.21
 developer arcadia	7	0.21
+developer morpheus	7	0.21
 developers join	7	0.21
 developers skills	7	0.21
 development company	7	0.21
@@ -4712,7 +4707,6 @@ development platform	7	0.21
 development work	7	0.21
 development working	7	0.21
 difficult confusing	7	0.21
-digital marketer	7	0.21
 direct experience	7	0.21
 directly ceo	7	0.21
 disaster recovery	7	0.21
@@ -4745,6 +4739,7 @@ email campaign	7	0.21
 email newsletters	7	0.21
 embraces autonomy	7	0.21
 enabled paxful	7	0.21
+end engineer	7	0.21
 engage commenters	7	0.21
 engaged evolutionary	7	0.21
 engagement community	7	0.21
@@ -4932,6 +4927,7 @@ informed of	7	0.21
 innovative cryptocurrency	7	0.21
 innovative ways	7	0.21
 inspiring culture	7	0.21
+institutional sales	7	0.21
 integration tests	7	0.21
 intelligence transparency	7	0.21
 interest good	7	0.21
@@ -4998,6 +4994,7 @@ listeners make	7	0.21
 local events	7	0.21
 location home	7	0.21
 log access	7	0.21
+london views	7	0.21
 lot learn	7	0.21
 love board	7	0.21
 love muse	7	0.21
@@ -5021,6 +5018,7 @@ management product	7	0.21
 management services	7	0.21
 management strong	7	0.21
 manager atom	7	0.21
+manager europe	7	0.21
 manager huobi	7	0.21
 manager of	7	0.21
 manager proven	7	0.21
@@ -5060,7 +5058,6 @@ minted tokens	7	0.21
 missing buying	7	0.21
 mission critical	7	0.21
 mission of	7	0.21
-mobile developer	7	0.21
 mobile platform	7	0.21
 moderating community	7	0.21
 modern web	7	0.21
@@ -5140,6 +5137,7 @@ of specific	7	0.21
 of structured	7	0.21
 of study	7	0.21
 of tokens	7	0.21
+of trade	7	0.21
 of ui	7	0.21
 of user	7	0.21
 of ux	7	0.21
@@ -5175,6 +5173,7 @@ p2p technology	7	0.21
 paid cryptocurrency	7	0.21
 paid project	7	0.21
 participate code	7	0.21
+partnerships manager	7	0.21
 passionate building	7	0.21
 passionate creating	7	0.21
 passionate cryptocurrencies	7	0.21
@@ -5311,6 +5310,7 @@ rates based	7	0.21
 raw essence	7	0.21
 react frontend	7	0.21
 react javascript	7	0.21
+react react	7	0.21
 recruit positions	7	0.21
 recruiter blockchain	7	0.21
 reddit medium	7	0.21
@@ -5330,6 +5330,7 @@ relevant degree	7	0.21
 reliable trustworthy	7	0.21
 remote based	7	0.21
 remote pay	7	0.21
+remote plexus	7	0.21
 remote relocation	7	0.21
 report directly	7	0.21
 require  perseverance	7	0.21
@@ -5375,6 +5376,7 @@ send connection	7	0.21
 send github	7	0.21
 seo copywriting	7	0.21
 seo keyword	7	0.21
+seo specialist	7	0.21
 service oriented	7	0.21
 service provider	7	0.21
 service roles	7	0.21
@@ -5483,7 +5485,6 @@ teams explore	7	0.21
 teams product	7	0.21
 tech gain	7	0.21
 tech industry	7	0.21
-technical blockchain	7	0.21
 technical design	7	0.21
 technical lead	7	0.21
 technical problems	7	0.21
@@ -5656,7 +5657,6 @@ allforcrypto started	6	0.18
 allowances location	6	0.18
 amazing products	6	0.18
 analysis strong	6	0.18
-analyst ieg	6	0.18
 analytics data	6	0.18
 analytics social	6	0.18
 angular react	6	0.18
@@ -5703,9 +5703,11 @@ based berlin	6	0.18
 based gibraltar	6	0.18
 based tallinn	6	0.18
 basic marketing	6	0.18
+beincrypto time	6	0.18
 benefits casual	6	0.18
 benefits opportunity	6	0.18
 benefits work	6	0.18
+berlin views	6	0.18
 beta mobile	6	0.18
 big experience	6	0.18
 bitcoin crypto	6	0.18
@@ -5715,6 +5717,7 @@ blockchain architect	6	0.18
 blockchain business	6	0.18
 blockchain dlt	6	0.18
 blockchain exciting	6	0.18
+blockchain foundation	6	0.18
 blockchain hyperledger	6	0.18
 blockchain market	6	0.18
 blockchain product	6	0.18
@@ -5911,7 +5914,6 @@ crypto wallets	6	0.18
 cryptocurrencies part	6	0.18
 cryptocurrencies strong	6	0.18
 cryptocurrencies successfully	6	0.18
-cryptocurrency content	6	0.18
 cryptocurrency ico	6	0.18
 cryptocurrency shoppers	6	0.18
 cryptocurrency technology	6	0.18
@@ -6006,6 +6008,7 @@ devops engineers	6	0.18
 devops team	6	0.18
 difference paris	6	0.18
 digital campaigns	6	0.18
+digital marketer	6	0.18
 directly cmo	6	0.18
 directly email	6	0.18
 directly founders	6	0.18
@@ -6032,7 +6035,6 @@ enable access	6	0.18
 enable customers	6	0.18
 encourage inclusion	6	0.18
 end end	6	0.18
-end engineer	6	0.18
 end technologies	6	0.18
 end user	6	0.18
 engage inform	6	0.18
@@ -6267,7 +6269,6 @@ initial profit	6	0.18
 innovative environment	6	0.18
 instagram youtube	6	0.18
 install maintain	6	0.18
-institutional sales	6	0.18
 institutions government	6	0.18
 integration experience	6	0.18
 integration testing	6	0.18
@@ -6349,7 +6350,6 @@ local international	6	0.18
 location cyberjaya	6	0.18
 location order	6	0.18
 london office	6	0.18
-london views	6	0.18
 long break	6	0.18
 lucrative offer	6	0.18
 main focus	6	0.18
@@ -6369,9 +6369,9 @@ management project	6	0.18
 manager coincover	6	0.18
 manager elite	6	0.18
 manager ensure	6	0.18
-manager europe	6	0.18
 manager global	6	0.18
 manager horizon	6	0.18
+manager mlg	6	0.18
 managers paid	6	0.18
 managing multiple	6	0.18
 managing online	6	0.18
@@ -6507,7 +6507,6 @@ of task	6	0.18
 of teamwork	6	0.18
 of toronto	6	0.18
 of total	6	0.18
-of trade	6	0.18
 of unique	6	0.18
 offer great	6	0.18
 offer relocation	6	0.18
@@ -6546,7 +6545,6 @@ paper terms	6	0.18
 paris countries	6	0.18
 participation crypto	6	0.18
 partner relationships	6	0.18
-partnerships manager	6	0.18
 passionate digital	6	0.18
 passionate work	6	0.18
 patients providers	6	0.18
@@ -6647,7 +6645,6 @@ rate conversion	6	0.18
 rate social	6	0.18
 reach content	6	0.18
 reaching million	6	0.18
-react react	6	0.18
 really motivated	6	0.18
 recently opened	6	0.18
 reddit twitter	6	0.18
@@ -6735,8 +6732,8 @@ send application	6	0.18
 send samples	6	0.18
 senior engineer	6	0.18
 senior engineers	6	0.18
+senior react	6	0.18
 seo content	6	0.18
-seo specialist	6	0.18
 seo web	6	0.18
 service experience	6	0.18
 service secure	6	0.18
@@ -6756,7 +6753,6 @@ simple intuitive	6	0.18
 singapore check	6	0.18
 singapore post	6	0.18
 singapore upload	6	0.18
-singapore views	6	0.18
 site reliability	6	0.18
 skills  experience	6	0.18
 skills copywriting	6	0.18
@@ -6846,6 +6842,7 @@ systems code	6	0.18
 systems ensure	6	0.18
 talented people	6	0.18
 talking customers	6	0.18
+tanjong pagar	6	0.18
 target market	6	0.18
 team ability	6	0.18
 team add	6	0.18
@@ -6877,6 +6874,7 @@ teams spread	6	0.18
 tech blockchain	6	0.18
 tech fields	6	0.18
 tech lead	6	0.18
+tech singapore	6	0.18
 technical analyst	6	0.18
 technical aspects	6	0.18
 technical documents	6	0.18
@@ -6904,8 +6902,8 @@ theory of	6	0.18
 thinks acts	6	0.18
 thoughtful feedback	6	0.18
 time candidate	6	0.18
+time design	6	0.18
 time difference	6	0.18
-time remote	6	0.18
 time sensitive	6	0.18
 time spent	6	0.18
 times of	6	0.18
@@ -6959,11 +6957,13 @@ visual elements	6	0.18
 wallet today	6	0.18
 wallets exchanges	6	0.18
 waves platform	6	0.18
+web designer	6	0.18
 web stacks	6	0.18
 web3 developer	6	0.18
 webby genius	6	0.18
 website blockpill	6	0.18
 website content	6	0.18
+wechain fintech	6	0.18
 well being	6	0.18
 whilst increasing	6	0.18
 whitepaper light	6	0.18
@@ -7006,6 +7006,7 @@ writing seo	6	0.18
 writing social	6	0.18
 writing translation	6	0.18
 written content	6	0.18
+x chain	6	0.18
 year recently	6	0.18
 year revenue	6	0.18
 year strategize	6	0.18
@@ -7212,7 +7213,6 @@ blockchain clients	5	0.15
 blockchain cryptography	5	0.15
 blockchain education	5	0.15
 blockchain events	5	0.15
-blockchain foundation	5	0.15
 blockchain implementations	5	0.15
 blockchain incubation	5	0.15
 blockchain interface	5	0.15
@@ -7392,6 +7392,7 @@ community ambassadors	5	0.15
 community communications	5	0.15
 community developers	5	0.15
 community engager	5	0.15
+community leader	5	0.15
 community moderators	5	0.15
 community requirements	5	0.15
 companies 5m	5	0.15
@@ -7528,6 +7529,7 @@ cryptocurrencies cloudcomputing	5	0.15
 cryptocurrencies local	5	0.15
 cryptocurrencies understanding	5	0.15
 cryptocurrency bitcoin	5	0.15
+cryptocurrency content	5	0.15
 cryptocurrency enthusiast	5	0.15
 cryptocurrency financial	5	0.15
 cryptocurrency geek	5	0.15
@@ -7701,6 +7703,7 @@ eco friendly	5	0.15
 economics finance	5	0.15
 ecosystem bringing	5	0.15
 ecosystem designed	5	0.15
+eden block	5	0.15
 edit publish	5	0.15
 editing compensation	5	0.15
 editing content	5	0.15
@@ -7731,6 +7734,7 @@ engagement growth	5	0.15
 engineer architect	5	0.15
 engineer berlin	5	0.15
 engineer design	5	0.15
+engineer torus	5	0.15
 engineer working	5	0.15
 engineering culture	5	0.15
 engineering deep	5	0.15
@@ -7927,6 +7931,7 @@ forward build	5	0.15
 forward hearing	5	0.15
 forward receiving	5	0.15
 fosters small	5	0.15
+foundation time	5	0.15
 founders ceo	5	0.15
 framework experience	5	0.15
 frameworks languages	5	0.15
@@ -8218,6 +8223,7 @@ knowledge understanding	5	0.15
 korean community	5	0.15
 krakow bitcoin	5	0.15
 labs awarded	5	0.15
+labs private	5	0.15
 language expect	5	0.15
 language experience	5	0.15
 language sales	5	0.15
@@ -8227,6 +8233,7 @@ large complex	5	0.15
 large token	5	0.15
 larger international	5	0.15
 largest blockchain	5	0.15
+latest community	5	0.15
 latest technologies	5	0.15
 layers of	5	0.15
 lead develop	5	0.15
@@ -8262,6 +8269,7 @@ link relevant	5	0.15
 linux experience	5	0.15
 listing of	5	0.15
 ll learn	5	0.15
+lmt asia	5	0.15
 load balancing	5	0.15
 local community	5	0.15
 locally present	5	0.15
@@ -8304,8 +8312,9 @@ management solution	5	0.15
 management strategy	5	0.15
 management support	5	0.15
 management techniques	5	0.15
+manager beincrypto	5	0.15
 manager build	5	0.15
-manager mlg	5	0.15
+manager lmt	5	0.15
 manager project	5	0.15
 manager team	5	0.15
 managers join	5	0.15
@@ -8694,6 +8703,7 @@ profile apply	5	0.15
 profile outstanding	5	0.15
 profiles ensure	5	0.15
 programming knowledge	5	0.15
+project airwave	5	0.15
 project scope	5	0.15
 project timelines	5	0.15
 projects assigned	5	0.15
@@ -8792,7 +8802,6 @@ relevant academic	5	0.15
 relevant projects	5	0.15
 reliability engineering	5	0.15
 remote absolute	5	0.15
-remote community	5	0.15
 remote company	5	0.15
 remote considered	5	0.15
 remote contract	5	0.15
@@ -8823,6 +8832,7 @@ requirements understanding	5	0.15
 requirements working	5	0.15
 requires commitment	5	0.15
 research community	5	0.15
+research engineer	5	0.15
 research identify	5	0.15
 research of	5	0.15
 research papers	5	0.15
@@ -8916,7 +8926,6 @@ senior developers	5	0.15
 senior devops	5	0.15
 senior front	5	0.15
 senior javascript	5	0.15
-senior react	5	0.15
 sentinel upload	5	0.15
 seo ppc	5	0.15
 seo tools	5	0.15
@@ -9012,6 +9021,7 @@ speaker compensation	5	0.15
 speaker of	5	0.15
 speaker years	5	0.15
 specialist huobi	5	0.15
+specialist moon	5	0.15
 specialized blockchain	5	0.15
 spirit willingness	5	0.15
 spotlight offer	5	0.15
@@ -9107,7 +9117,6 @@ talented individual	5	0.15
 talented motivated	5	0.15
 talented senior	5	0.15
 talking candidates	5	0.15
-tanjong pagar	5	0.15
 tapos dpos	5	0.15
 target launch	5	0.15
 tbc crypto	5	0.15
@@ -9213,7 +9222,6 @@ thinking complex	5	0.15
 tickets coordinate	5	0.15
 time apply	5	0.15
 time intend	5	0.15
-time operations	5	0.15
 time requirements	5	0.15
 time work	5	0.15
 timely professional	5	0.15
@@ -9231,6 +9239,7 @@ tools succeed	5	0.15
 tools systems	5	0.15
 top crypto	5	0.15
 top priority	5	0.15
+torus labs	5	0.15
 touch researchers	5	0.15
 tracking tools	5	0.15
 trade execution	5	0.15
@@ -9311,14 +9320,12 @@ walking distance	5	0.15
 wallet payment	5	0.15
 wallets write	5	0.15
 web api	5	0.15
-web designer	5	0.15
 web practices	5	0.15
 web projects	5	0.15
 web3 truffle	5	0.15
 website ad	5	0.15
 website centrumcoin	5	0.15
 websites apps	5	0.15
-wechain fintech	5	0.15
 week of	5	0.15
 week remote	5	0.15
 week skills	5	0.15
@@ -9385,6 +9392,7 @@ worldwide expanding	5	0.15
 write clear	5	0.15
 write efficient	5	0.15
 write technical	5	0.15
+writer blockchain	5	0.15
 writers bloggers	5	0.15
 writing documentation	5	0.15
 writing english	5	0.15
@@ -9392,7 +9400,6 @@ writing experience	5	0.15
 writing style	5	0.15
 writing verbal	5	0.15
 written work	5	0.15
-x chain	5	0.15
 years professional	5	0.15
 years proven	5	0.15
 years working	5	0.15
@@ -9401,6 +9408,7 @@ young corporate	5	0.15
 young exciting	5	0.15
 young experienced	5	0.15
 young fintech	5	0.15
+z coin	5	0.15
 100k equity	4	0.12
 2 5	4	0.12
 400 800	4	0.12
@@ -9558,6 +9566,7 @@ article week	4	0.12
 article writer	4	0.12
 articles newsletters	4	0.12
 asia europe	4	0.12
+asia limited	4	0.12
 asked answer	4	0.12
 asset cryptocurrency	4	0.12
 assets blockchain	4	0.12
@@ -9565,6 +9574,7 @@ assets neo	4	0.12
 assets propose	4	0.12
 assigned required	4	0.12
 assignments coordinate	4	0.12
+assist marketing	4	0.12
 assist network	4	0.12
 assistant nekstream	4	0.12
 atm network	4	0.12
@@ -9816,7 +9826,7 @@ channels work	4	0.12
 chef ansible	4	0.12
 chef shell	4	0.12
 chief compliance	4	0.12
-chief tokenization	4	0.12
+china mandarin	4	0.12
 chinese community	4	0.12
 chinese speaking	4	0.12
 citowise free	4	0.12
@@ -9897,6 +9907,7 @@ communities advantage	4	0.12
 communities including	4	0.12
 communities telegram	4	0.12
 community achieve	4	0.12
+community builder	4	0.12
 community compensation	4	0.12
 community engage	4	0.12
 community good	4	0.12
@@ -9905,7 +9916,6 @@ community ico	4	0.12
 community identify	4	0.12
 community individuals	4	0.12
 community lead	4	0.12
-community leader	4	0.12
 community meetups	4	0.12
 community person	4	0.12
 community professionals	4	0.12
@@ -10248,6 +10258,7 @@ design concepts	4	0.12
 design implementations	4	0.12
 design portfolio	4	0.12
 design projects	4	0.12
+design remote	4	0.12
 design sense	4	0.12
 design teams	4	0.12
 design technical	4	0.12
@@ -10290,7 +10301,6 @@ developer anyledger	4	0.12
 developer architect	4	0.12
 developer aries	4	0.12
 developer based	4	0.12
-developer beincrypto	4	0.12
 developer configure	4	0.12
 developer extensive	4	0.12
 developer good	4	0.12
@@ -10446,7 +10456,6 @@ ecosystem find	4	0.12
 ecosystem ideal	4	0.12
 ecosystem match	4	0.12
 ecosystem training	4	0.12
-eden block	4	0.12
 edge blockchain	4	0.12
 editing tools	4	0.12
 editorial strategy	4	0.12
@@ -10501,10 +10510,11 @@ engineer london	4	0.12
 engineer maxfield	4	0.12
 engineer oversee	4	0.12
 engineer passionate	4	0.12
+engineer project	4	0.12
 engineer propine	4	0.12
 engineer real	4	0.12
+engineer status	4	0.12
 engineer team	4	0.12
-engineer torus	4	0.12
 engineering beneficial	4	0.12
 engineering blockchain	4	0.12
 engineering electrical	4	0.12
@@ -10599,6 +10609,7 @@ ethereum neo	4	0.12
 ethereum space	4	0.12
 ethereum weekly	4	0.12
 ethers js	4	0.12
+ethos io	4	0.12
 ethos of	4	0.12
 eur year	4	0.12
 european languages	4	0.12
@@ -10807,7 +10818,6 @@ foreign languages	4	0.12
 forward looking	4	0.12
 foster core	4	0.12
 foster environment	4	0.12
-foundation time	4	0.12
 founded bitcoin	4	0.12
 founder of	4	0.12
 framework infrastructure	4	0.12
@@ -10819,11 +10829,9 @@ free of	4	0.12
 free secure	4	0.12
 freedom centralized	4	0.12
 freelance copywriters	4	0.12
-freelance writer	4	0.12
 frontend code	4	0.12
 frontier total	4	0.12
 full cycle	4	0.12
-fullstack blockchain	4	0.12
 fully automated	4	0.12
 fully featured	4	0.12
 fully licensed	4	0.12
@@ -11000,6 +11008,7 @@ identify problems	4	0.12
 identify track	4	0.12
 identity verification	4	0.12
 ideology blockchain	4	0.12
+ieg singapore	4	0.12
 immediately ref	4	0.12
 immediately short	4	0.12
 impact team	4	0.12
@@ -11162,6 +11171,7 @@ java solidity	4	0.12
 javascript chai	4	0.12
 javascript concepts	4	0.12
 javascript cryptography	4	0.12
+javascript engineer	4	0.12
 javascript express	4	0.12
 javascript git	4	0.12
 javascript input	4	0.12
@@ -11209,12 +11219,12 @@ knowledge strong	4	0.12
 knowledge transfer	4	0.12
 knowledgeable resource	4	0.12
 kong bitcoin	4	0.12
+kong views	4	0.12
 korean english	4	0.12
 korean japanese	4	0.12
 kubernetes aws	4	0.12
 kyc compliance	4	0.12
 labs government	4	0.12
-labs private	4	0.12
 labs team	4	0.12
 landscape including	4	0.12
 landscape of	4	0.12
@@ -11233,8 +11243,11 @@ large consumer	4	0.12
 largest cryptocurrency	4	0.12
 largest precision	4	0.12
 latest development	4	0.12
+latest digital	4	0.12
 latest improvement	4	0.12
+latest social	4	0.12
 latest technological	4	0.12
+latest ui	4	0.12
 launch blockchain	4	0.12
 launch ico	4	0.12
 launch validator	4	0.12
@@ -11249,6 +11262,7 @@ lead ethereum	4	0.12
 lead feature	4	0.12
 lead functional	4	0.12
 lead ideation	4	0.12
+lead javascript	4	0.12
 lead small	4	0.12
 lead work	4	0.12
 leader team	4	0.12
@@ -11301,7 +11315,6 @@ ll collaborate	4	0.12
 ll competitive	4	0.12
 ll expected	4	0.12
 ll work	4	0.12
-lmt asia	4	0.12
 local crypto	4	0.12
 local language	4	0.12
 local partners	4	0.12
@@ -11382,15 +11395,14 @@ management role	4	0.12
 management sales	4	0.12
 management seo	4	0.12
 management teams	4	0.12
-manager beincrypto	4	0.12
 manager bitcoin	4	0.12
+manager china	4	0.12
 manager communicate	4	0.12
 manager compensation	4	0.12
 manager cryptocurrency	4	0.12
 manager ibc	4	0.12
 manager ico	4	0.12
 manager leader	4	0.12
-manager lmt	4	0.12
 manager manage	4	0.12
 manager marketing	4	0.12
 manager role	4	0.12
@@ -11404,7 +11416,6 @@ managing editor	4	0.12
 managing events	4	0.12
 managing open	4	0.12
 managing telegram	4	0.12
-mandarin chinese	4	0.12
 mandarin english	4	0.12
 mandarin speaking	4	0.12
 mandatory experience	4	0.12
@@ -11464,7 +11475,6 @@ means workplace	4	0.12
 media assets	4	0.12
 media display	4	0.12
 media events	4	0.12
-media expert	4	0.12
 media including	4	0.12
 media knowledge	4	0.12
 media mentions	4	0.12
@@ -11472,6 +11482,7 @@ media networking	4	0.12
 media outreach	4	0.12
 media paid	4	0.12
 media seo	4	0.12
+media specialist	4	0.12
 media upload	4	0.12
 medical insurance	4	0.12
 medicine data	4	0.12
@@ -11567,6 +11578,7 @@ network primary	4	0.12
 network responsibilities	4	0.12
 network serve	4	0.12
 network supports	4	0.12
+network time	4	0.12
 network users	4	0.12
 networking basic	4	0.12
 networking high	4	0.12
@@ -11734,7 +11746,6 @@ operations business	4	0.12
 operations develop	4	0.12
 operations minimum	4	0.12
 operations recruit	4	0.12
-operations remote	4	0.12
 opinion leaders	4	0.12
 opportunities growth	4	0.12
 opportunities learning	4	0.12
@@ -11850,6 +11861,7 @@ person loves	4	0.12
 personal projects	4	0.12
 personal qualities	4	0.12
 perspective of	4	0.12
+petersburg russia	4	0.12
 phone call	4	0.12
 pieces month	4	0.12
 pieces website	4	0.12
@@ -11959,6 +11971,7 @@ privacy preserving	4	0.12
 private deals	4	0.12
 private ethereum	4	0.12
 private investors	4	0.12
+private limited	4	0.12
 proactive energizing	4	0.12
 probation period	4	0.12
 problems argue	4	0.12
@@ -12020,7 +12033,6 @@ profound impact	4	0.12
 programmatic advertising	4	0.12
 programming bitcoin	4	0.12
 progress maintaining	4	0.12
-project airwave	4	0.12
 project delivery	4	0.12
 project developers	4	0.12
 project great	4	0.12
@@ -12093,6 +12105,7 @@ push envelope	4	0.12
 put crisis	4	0.12
 python golang	4	0.12
 qa testing	4	0.12
+qnt holdings	4	0.12
 qr code	4	0.12
 qualification burning	4	0.12
 qualification experience	4	0.12
@@ -12145,7 +12158,6 @@ reach paid	4	0.12
 reaching goals	4	0.12
 react adapt	4	0.12
 react html	4	0.12
-react moon	4	0.12
 reactjs relevant	4	0.12
 read description	4	0.12
 read loves	4	0.12
@@ -12200,6 +12212,7 @@ reliable responsibilities	4	0.12
 reliable scalable	4	0.12
 religion sex	4	0.12
 remote flexible	4	0.12
+remote london	4	0.12
 remote mvp	4	0.12
 remote part	4	0.12
 remote remuneration	4	0.12
@@ -12234,7 +12247,6 @@ research analysis	4	0.12
 research analytical	4	0.12
 research create	4	0.12
 research current	4	0.12
-research engineer	4	0.12
 research experience	4	0.12
 research explore	4	0.12
 research financial	4	0.12
@@ -12313,6 +12325,7 @@ russia skills	4	0.12
 rust demonstrable	4	0.12
 saas based	4	0.12
 safe profitable	4	0.12
+saint petersburg	4	0.12
 salary average	4	0.12
 salary depends	4	0.12
 salary funding	4	0.12
@@ -12325,7 +12338,6 @@ sales b2b	4	0.12
 sales director	4	0.12
 sales investors	4	0.12
 sales packages	4	0.12
-sales partner	4	0.12
 sales pipeline	4	0.12
 sales smart	4	0.12
 sales trading	4	0.12
@@ -12387,6 +12399,7 @@ senior media	4	0.12
 senior node	4	0.12
 senior php	4	0.12
 senior roles	4	0.12
+senior ux	4	0.12
 serve of	4	0.12
 servers environments	4	0.12
 servers nodes	4	0.12
@@ -12528,7 +12541,6 @@ speaking conferences	4	0.12
 speaking opportunities	4	0.12
 spearhead development	4	0.12
 specialist experience	4	0.12
-specialist moon	4	0.12
 specialist remote	4	0.12
 specific tasks	4	0.12
 specifically interested	4	0.12
@@ -12644,6 +12656,7 @@ support coinspace	4	0.12
 support engineer	4	0.12
 support operations	4	0.12
 support qualifications	4	0.12
+support remote	4	0.12
 support role	4	0.12
 support technical	4	0.12
 support telegram	4	0.12
@@ -12733,6 +12746,7 @@ teams holo	4	0.12
 teams including	4	0.12
 teams support	4	0.12
 teams time	4	0.12
+tech berlin	4	0.12
 tech companies	4	0.12
 tech compensation	4	0.12
 tech experience	4	0.12
@@ -12820,11 +12834,10 @@ thoughtfully contribute	4	0.12
 threat models	4	0.12
 tier projects	4	0.12
 time budget	4	0.12
-time design	4	0.12
 time efficiently	4	0.12
 time feel	4	0.12
+time operations	4	0.12
 time responsibilities	4	0.12
-time sales	4	0.12
 time scope	4	0.12
 time skills	4	0.12
 timelines deliverables	4	0.12
@@ -12836,7 +12849,6 @@ token interfaces	4	0.12
 token morpheuslabs	4	0.12
 token stake	4	0.12
 tokenization of	4	0.12
-tokenization officer	4	0.12
 tokens percentage	4	0.12
 tokens walk	4	0.12
 toolchains develop	4	0.12
@@ -12851,7 +12863,6 @@ top tech	4	0.12
 topic of	4	0.12
 topics write	4	0.12
 toronto bitcoin	4	0.12
-torus labs	4	0.12
 total lack	4	0.12
 track key	4	0.12
 tracking optimisation	4	0.12
@@ -13090,7 +13101,6 @@ write edit	4	0.12
 write effective	4	0.12
 write love	4	0.12
 write ready	4	0.12
-writer blockchain	4	0.12
 writer researcher	4	0.12
 writing applications	4	0.12
 writing articles	4	0.12
@@ -13125,7 +13135,6 @@ you ll	4	0.12
 young motivated	4	0.12
 youtube instagram	4	0.12
 youtube strong	4	0.12
-z coin	4	0.12
 zilliqa research	4	0.12
 04usd word	3	0.09
 10 15	3	0.09
@@ -13552,6 +13561,7 @@ architecture proficient	3	0.09
 architecture strong	3	0.09
 architectures experience	3	0.09
 area company	3	0.09
+area marketer	3	0.09
 areas communication	3	0.09
 areas directs	3	0.09
 ark labs	3	0.09
@@ -13570,7 +13580,6 @@ articles media	3	0.09
 articles requirements	3	0.09
 artifacts required	3	0.09
 artists earning	3	0.09
-asia limited	3	0.09
 asia middle	3	0.09
 asia responsibilities	3	0.09
 assessment evaluations	3	0.09
@@ -13594,7 +13603,6 @@ assist branding	3	0.09
 assist communication	3	0.09
 assist engagement	3	0.09
 assist incident	3	0.09
-assist marketing	3	0.09
 assist organizing	3	0.09
 assist upload	3	0.09
 assistance team	3	0.09
@@ -13730,7 +13738,6 @@ behavior propose	3	0.09
 behaviour acceptance	3	0.09
 behaviours nurture	3	0.09
 bei uns	3	0.09
-beincrypto time	3	0.09
 beizutragen eine	3	0.09
 belief basic	3	0.09
 benchmark leading	3	0.09
@@ -13750,7 +13757,6 @@ ber uns	3	0.09
 berkeley carnegie	3	0.09
 berlin ans	3	0.09
 berlin remote	3	0.09
-berlin views	3	0.09
 betrieben wird	3	0.09
 bffi group	3	0.09
 bi monthly	3	0.09
@@ -13786,6 +13792,7 @@ bitcoin space	3	0.09
 bitcoin transactions	3	0.09
 bitcointalk discord	3	0.09
 bitcointalk interactions	3	0.09
+bitcointalk listing	3	0.09
 bitpanda leading	3	0.09
 bitpanda upload	3	0.09
 bitpanda visionary	3	0.09
@@ -13825,10 +13832,12 @@ blockchain merchants	3	0.09
 blockchain node	3	0.09
 blockchain p2p	3	0.09
 blockchain programming	3	0.09
+blockchain reserve	3	0.09
 blockchain sales	3	0.09
 blockchain scratch	3	0.09
 blockchain services	3	0.09
 blockchain start	3	0.09
+blockchain stellar	3	0.09
 blockchain strategy	3	0.09
 blockchain studio	3	0.09
 blockchain technologie	3	0.09
@@ -13941,6 +13950,7 @@ build system	3	0.09
 build trusting	3	0.09
 build winning	3	0.09
 build world	3	0.09
+builder manager	3	0.09
 builders scientists	3	0.09
 building api	3	0.09
 building apis	3	0.09
@@ -13994,7 +14004,6 @@ business kpi	3	0.09
 business leads	3	0.09
 business lending	3	0.09
 business make	3	0.09
-business manager	3	0.09
 business metrics	3	0.09
 business networking	3	0.09
 business operational	3	0.09
@@ -14161,6 +14170,7 @@ cheers skills	3	0.09
 chef puppet	3	0.09
 chief information	3	0.09
 chief technical	3	0.09
+chief tokenization	3	0.09
 chinese experience	3	0.09
 chinese spanish	3	0.09
 chops passion	3	0.09
@@ -14367,7 +14377,6 @@ community administrator	3	0.09
 community blockchain	3	0.09
 community blog	3	0.09
 community boost	3	0.09
-community builder	3	0.09
 community chosen	3	0.09
 community collate	3	0.09
 community developer	3	0.09
@@ -14490,7 +14499,6 @@ competitive research	3	0.09
 competitor activity	3	0.09
 competitors alternatives	3	0.09
 compile bugfix	3	0.09
-compiler engineer	3	0.09
 complement executive	3	0.09
 complete business	3	0.09
 complete suite	3	0.09
@@ -14568,6 +14576,7 @@ conflux chosen	3	0.09
 conflux conflux	3	0.09
 conflux founded	3	0.09
 conflux generation	3	0.09
+conflux time	3	0.09
 conflux upload	3	0.09
 connect interact	3	0.09
 connectedness trust	3	0.09
@@ -14654,7 +14663,6 @@ contract language	3	0.09
 contract payment	3	0.09
 contract preferably	3	0.09
 contract programming	3	0.09
-contract remote	3	0.09
 contract requirements	3	0.09
 contractor leading	3	0.09
 contracts clients	3	0.09
@@ -14735,6 +14743,7 @@ costs of	3	0.09
 costs work	3	0.09
 countries instant	3	0.09
 country research	3	0.09
+country specific	3	0.09
 courses information	3	0.09
 courteous professional	3	0.09
 cover breaking	3	0.09
@@ -14796,10 +14805,12 @@ creative professionals	3	0.09
 creative projects	3	0.09
 creative related	3	0.09
 creative required	3	0.09
+creative social	3	0.09
 creative vision	3	0.09
 creativity autonomy	3	0.09
 creativity care	3	0.09
 creator copywriter	3	0.09
+creator crypto	3	0.09
 credit institutions	3	0.09
 credits blockchain	3	0.09
 credits upload	3	0.09
@@ -14835,6 +14846,7 @@ crypto platforms	3	0.09
 crypto powerful	3	0.09
 crypto real	3	0.09
 crypto representatives	3	0.09
+crypto time	3	0.09
 crypto tokens	3	0.09
 cryptocurrencies building	3	0.09
 cryptocurrencies compensation	3	0.09
@@ -14888,7 +14900,6 @@ css sql	3	0.09
 css strong	3	0.09
 css3 compensation	3	0.09
 ctc company	3	0.09
-cto fullstack	3	0.09
 cto operations	3	0.09
 cto team	3	0.09
 cto ux	3	0.09
@@ -15152,7 +15163,6 @@ design programming	3	0.09
 design proof	3	0.09
 design prototype	3	0.09
 design proven	3	0.09
-design remote	3	0.09
 design responsibilities	3	0.09
 design reviews	3	0.09
 design role	3	0.09
@@ -15174,6 +15184,7 @@ designer ceo	3	0.09
 designer content	3	0.09
 designer developer	3	0.09
 designer illustrator	3	0.09
+designer savvy	3	0.09
 designer similar	3	0.09
 designer ui	3	0.09
 designer unique	3	0.09
@@ -15238,18 +15249,21 @@ developer assist	3	0.09
 developer atlas	3	0.09
 developer backend	3	0.09
 developer bakd	3	0.09
+developer beincrypto	3	0.09
+developer bitouro	3	0.09
 developer chainbytes	3	0.09
 developer challenge	3	0.09
-developer confidential	3	0.09
 developer daps	3	0.09
 developer dynamite	3	0.09
 developer energi	3	0.09
+developer ethos	3	0.09
 developer familiar	3	0.09
 developer finance	3	0.09
 developer fintech	3	0.09
 developer flex	3	0.09
 developer ios	3	0.09
 developer maxfield	3	0.09
+developer nos	3	0.09
 developer partner	3	0.09
 developer polymath	3	0.09
 developer preferably	3	0.09
@@ -15258,12 +15272,13 @@ developer project	3	0.09
 developer required	3	0.09
 developer requirements	3	0.09
 developer responsibilities	3	0.09
-developer robot	3	0.09
 developer role	3	0.09
+developer ruby	3	0.09
 developer shivom	3	0.09
 developer time	3	0.09
 developer working	3	0.09
 developers apply	3	0.09
+developers assorted	3	0.09
 developers collaborate	3	0.09
 developers community	3	0.09
 developers devops	3	0.09
@@ -15306,7 +15321,6 @@ development language	3	0.09
 development languages	3	0.09
 development management	3	0.09
 development methodology	3	0.09
-development okex	3	0.09
 development open	3	0.09
 development operations	3	0.09
 development part	3	0.09
@@ -15625,19 +15639,20 @@ engineer apply	3	0.09
 engineer bcoin	3	0.09
 engineer coinected	3	0.09
 engineer compensation	3	0.09
+engineer conflux	3	0.09
 engineer critical	3	0.09
 engineer experienced	3	0.09
 engineer extensive	3	0.09
+engineer ferrum	3	0.09
 engineer iexec	3	0.09
 engineer integral	3	0.09
+engineer java	3	0.09
 engineer keen	3	0.09
 engineer mid	3	0.09
 engineer node	3	0.09
-engineer project	3	0.09
 engineer responsible	3	0.09
 engineer savvy	3	0.09
 engineer solidity	3	0.09
-engineer status	3	0.09
 engineering devops	3	0.09
 engineering including	3	0.09
 engineering lead	3	0.09
@@ -15655,7 +15670,6 @@ engineers conceptualize	3	0.09
 engineers extensive	3	0.09
 engineers financial	3	0.09
 engineers of	3	0.09
-english aeternity	3	0.09
 english b2	3	0.09
 english mother	3	0.09
 english possess	3	0.09
@@ -15781,7 +15795,6 @@ ethereum strong	3	0.09
 ethereum tokens	3	0.09
 ethereum workings	3	0.09
 ethic good	3	0.09
-ethos io	3	0.09
 etl extract	3	0.09
 eu asia	3	0.09
 eu funded	3	0.09
@@ -16007,11 +16020,11 @@ experiences krakenites	3	0.09
 experiences national	3	0.09
 expert cryptocurrency	3	0.09
 expert design	3	0.09
-expert english	3	0.09
 expert ibc	3	0.09
 expert internet	3	0.09
 expert join	3	0.09
 expert lead	3	0.09
+expert trader	3	0.09
 experten betrieben	3	0.09
 expertenmeinungen interviews	3	0.09
 expertise area	3	0.09
@@ -16096,6 +16109,7 @@ feel confident	3	0.09
 feel created	3	0.09
 feel safe	3	0.09
 fees data	3	0.09
+ferrum network	3	0.09
 festanstellung mit	3	0.09
 fiat coins	3	0.09
 fiat skills	3	0.09
@@ -16252,6 +16266,7 @@ founders developers	3	0.09
 founders role	3	0.09
 founders share	3	0.09
 founding months	3	0.09
+fractal blockchain	3	0.09
 fragmented pockets	3	0.09
 framework of	3	0.09
 frameworks angular	3	0.09
@@ -16271,6 +16286,7 @@ freedom of	3	0.09
 freedom work	3	0.09
 freelance crypto	3	0.09
 freelance engineering	3	0.09
+freelance writer	3	0.09
 freelance writers	3	0.09
 frees fund	3	0.09
 freier mitarbeiter	3	0.09
@@ -16297,6 +16313,7 @@ frontend engineers	3	0.09
 frontend technologies	3	0.09
 frontend ui	3	0.09
 frontiers of	3	0.09
+fullstack blockchain	3	0.09
 fullstack engineer	3	0.09
 fully aware	3	0.09
 fully bootstrapped	3	0.09
@@ -16681,7 +16698,6 @@ identifying prioritizing	3	0.09
 identity expression	3	0.09
 identity million	3	0.09
 ids ips	3	0.09
-ieg singapore	3	0.09
 ieo ico	3	0.09
 iexec blockchain	3	0.09
 ihr wissen	3	0.09
@@ -17074,6 +17090,7 @@ january of	3	0.09
 japanese community	3	0.09
 japanese compensation	3	0.09
 japanese fluent	3	0.09
+japanese speaking	3	0.09
 java android	3	0.09
 java blockchain	3	0.09
 java j2ee	3	0.09
@@ -17082,7 +17099,6 @@ java ruby	3	0.09
 java scala	3	0.09
 java strong	3	0.09
 java years	3	0.09
-javascript engineer	3	0.09
 javascript good	3	0.09
 javascript html5	3	0.09
 javascript js	3	0.09
@@ -17136,6 +17152,7 @@ junior developer	3	0.09
 junior developers	3	0.09
 junior marketing	3	0.09
 junior members	3	0.09
+junior quant	3	0.09
 junior roles	3	0.09
 junior team	3	0.09
 junktion upload	3	0.09
@@ -17234,12 +17251,10 @@ largest successful	3	0.09
 lastly ideal	3	0.09
 lastly share	3	0.09
 late nights	3	0.09
-latest blockchain	3	0.09
-latest digital	3	0.09
+latest cryptocurrency	3	0.09
 latest project	3	0.09
 latest tools	3	0.09
 latest tricks	3	0.09
-latest ui	3	0.09
 latin america	3	0.09
 launch campaigns	3	0.09
 launch community	3	0.09
@@ -17279,7 +17294,6 @@ lead exceed	3	0.09
 lead execute	3	0.09
 lead experience	3	0.09
 lead growth	3	0.09
-lead javascript	3	0.09
 lead local	3	0.09
 lead member	3	0.09
 lead part	3	0.09
@@ -17387,6 +17401,7 @@ linux postgresql	3	0.09
 linux skills	3	0.09
 lisk neo	3	0.09
 listening verbal	3	0.09
+listing micro	3	0.09
 listings company	3	0.09
 litecoin ethereum	3	0.09
 live entertainment	3	0.09
@@ -17546,8 +17561,11 @@ manager communicator	3	0.09
 manager community	3	0.09
 manager consentium	3	0.09
 manager consistently	3	0.09
+manager eak	3	0.09
+manager eden	3	0.09
 manager essentially	3	0.09
 manager excellent	3	0.09
+manager fractal	3	0.09
 manager function	3	0.09
 manager general	3	0.09
 manager handle	3	0.09
@@ -17581,6 +17599,7 @@ managing internal	3	0.09
 managing local	3	0.09
 managing processes	3	0.09
 managing seo	3	0.09
+mandarin chinese	3	0.09
 mandarin language	3	0.09
 mandarin preferred	3	0.09
 mandarin required	3	0.09
@@ -17622,6 +17641,7 @@ market structure	3	0.09
 market technologies	3	0.09
 market understanding	3	0.09
 market upload	3	0.09
+marketer country	3	0.09
 marketing activity	3	0.09
 marketing affiliate	3	0.09
 marketing analyst	3	0.09
@@ -17715,6 +17735,7 @@ media conversations	3	0.09
 media customer	3	0.09
 media email	3	0.09
 media engagement	3	0.09
+media expert	3	0.09
 media explore	3	0.09
 media identify	3	0.09
 media interviews	3	0.09
@@ -17730,7 +17751,6 @@ media reach	3	0.09
 media responsibilities	3	0.09
 media sales	3	0.09
 media sites	3	0.09
-media specialist	3	0.09
 media streaming	3	0.09
 media understanding	3	0.09
 media understands	3	0.09
@@ -17792,6 +17812,7 @@ metrics insights	3	0.09
 metrics kpis	3	0.09
 metrics measure	3	0.09
 mi requirements	3	0.09
+micro bitcoin	3	0.09
 micro taskers	3	0.09
 microservices experience	3	0.09
 microsoft amazon	3	0.09
@@ -17813,6 +17834,7 @@ minimum package	3	0.09
 minimum requirements	3	0.09
 minimum viable	3	0.09
 mining buenos	3	0.09
+mining content	3	0.09
 mining krakow	3	0.09
 mining plan	3	0.09
 minutes kl	3	0.09
@@ -17968,6 +17990,7 @@ needed deliver	3	0.09
 needed ensure	3	0.09
 needed years	3	0.09
 neg applications	3	0.09
+negociatable applications	3	0.09
 negotiated crypto	3	0.09
 negotiating contracts	3	0.09
 negotiating price	3	0.09
@@ -17990,7 +18013,6 @@ network raise	3	0.09
 network service	3	0.09
 network skills	3	0.09
 network solves	3	0.09
-network time	3	0.09
 network underpin	3	0.09
 network warm	3	0.09
 networking firewalls	3	0.09
@@ -18279,11 +18301,13 @@ operating countries	3	0.09
 operation manager	3	0.09
 operation stack	3	0.09
 operational experience	3	0.09
+operations architect	3	0.09
 operations details	3	0.09
 operations ensure	3	0.09
 operations incident	3	0.09
 operations management	3	0.09
 operations perform	3	0.09
+operations remote	3	0.09
 operations specialist	3	0.09
 operations turn	3	0.09
 operator mvno	3	0.09
@@ -18526,7 +18550,6 @@ personalized service	3	0.09
 personnel ability	3	0.09
 perspectives diverse	3	0.09
 perspectives skills	3	0.09
-petersburg russia	3	0.09
 pgp aes	3	0.09
 pgtap knowledge	3	0.09
 phd degree	3	0.09
@@ -18778,7 +18801,6 @@ private capital	3	0.09
 private healthcare	3	0.09
 private hedge	3	0.09
 private keys	3	0.09
-private limited	3	0.09
 private transactions	3	0.09
 pro active	3	0.09
 proactive daily	3	0.09
@@ -19086,6 +19108,7 @@ quality organization	3	0.09
 quality outcomes	3	0.09
 quality standards	3	0.09
 quality takes	3	0.09
+quant developer	3	0.09
 quantitative discipline	3	0.09
 quantitative research	3	0.09
 quantitative trading	3	0.09
@@ -19132,6 +19155,7 @@ rchain eos	3	0.09
 react angularjs	3	0.09
 react developer	3	0.09
 react flexible	3	0.09
+react moon	3	0.09
 react skills	3	0.09
 react solidity	3	0.09
 react stack	3	0.09
@@ -19260,19 +19284,17 @@ remaining investor	3	0.09
 remix ide	3	0.09
 remote apply	3	0.09
 remote beincrypto	3	0.09
+remote community	3	0.09
 remote compensation	3	0.09
 remote dash	3	0.09
 remote description	3	0.09
 remote frequent	3	0.09
-remote frontend	3	0.09
-remote london	3	0.09
-remote los	3	0.09
 remote motivated	3	0.09
 remote require	3	0.09
 remote role	3	0.09
 remote roles	3	0.09
-remote senior	3	0.09
 remote workers	3	0.09
+remote york	3	0.09
 remotely competitive	3	0.09
 remotely offer	3	0.09
 remotely office	3	0.09
@@ -19466,7 +19488,6 @@ road map	3	0.09
 roadmap deployment	3	0.09
 roadmap whitepaper	3	0.09
 roadmaps plan	3	0.09
-robot vera	3	0.09
 rock solid	3	0.09
 rock star	3	0.09
 rock stars	3	0.09
@@ -19530,7 +19551,6 @@ russian work	3	0.09
 saas fintech	3	0.09
 safe investing	3	0.09
 safer inclusive	3	0.09
-saint petersburg	3	0.09
 salaries compensated	3	0.09
 salary bonuses	3	0.09
 salary crypto	3	0.09
@@ -19556,12 +19576,12 @@ sales initiatives	3	0.09
 sales materials	3	0.09
 sales media	3	0.09
 sales objectives	3	0.09
+sales partner	3	0.09
 sales partnerships	3	0.09
 sales performance	3	0.09
 sales pitch	3	0.09
 sales plans	3	0.09
 sales product	3	0.09
-sales remote	3	0.09
 sales strong	3	0.09
 saltstack similar	3	0.09
 satisfaction community	3	0.09
@@ -19664,7 +19684,6 @@ senior director	3	0.09
 senior erlang	3	0.09
 senior net	3	0.09
 senior professional	3	0.09
-senior ux	3	0.09
 sense adapt	3	0.09
 sentinel competitive	3	0.09
 seo aspects	3	0.09
@@ -19983,7 +20002,6 @@ spoken receive	3	0.09
 spoken superb	3	0.09
 spread globally	3	0.09
 spread wings	3	0.09
-springfield olympiads	3	0.09
 sprint planning	3	0.09
 sql experience	3	0.09
 sr marketing	3	0.09
@@ -20045,6 +20063,7 @@ status sexual	3	0.09
 status veteran	3	0.09
 stay ahead	3	0.09
 stay calm	3	0.09
+stellar architect	3	0.09
 stellar blockchain	3	0.09
 stellar leadership	3	0.09
 step audit	3	0.09
@@ -20379,7 +20398,6 @@ teams task	3	0.09
 teams team	3	0.09
 teamwork collaboration	3	0.09
 teamwork skills	3	0.09
-tech berlin	3	0.09
 tech company	3	0.09
 tech crypto	3	0.09
 tech easy	3	0.09
@@ -20387,10 +20405,10 @@ tech heavy	3	0.09
 tech hub	3	0.09
 tech journalist	3	0.09
 tech london	3	0.09
-tech singapore	3	0.09
 tech solutions	3	0.09
 tech startups	3	0.09
 tech teams	3	0.09
+tech trending	3	0.09
 tech world	3	0.09
 technical advisors	3	0.09
 technical arenas	3	0.09
@@ -20555,8 +20573,10 @@ tight knit	3	0.09
 tigkeiten du	3	0.09
 tim quit	3	0.09
 time analyst	3	0.09
+time business	3	0.09
 time community	3	0.09
 time crypto	3	0.09
+time customer	3	0.09
 time deal	3	0.09
 time effort	3	0.09
 time ensuring	3	0.09
@@ -20566,6 +20586,7 @@ time history	3	0.09
 time manage	3	0.09
 time person	3	0.09
 time positions	3	0.09
+time sales	3	0.09
 time senior	3	0.09
 time social	3	0.09
 timelines evaluation	3	0.09
@@ -20586,6 +20607,7 @@ token industry	3	0.09
 token issuance	3	0.09
 token systems	3	0.09
 token trading	3	0.09
+tokenization officer	3	0.09
 tokens equivalent	3	0.09
 tokens founders	3	0.09
 tokens ico	3	0.09
@@ -20643,6 +20665,7 @@ trade scope	3	0.09
 trade status	3	0.09
 trade trade	3	0.09
 trade world	3	0.09
+trader proof	3	0.09
 traders companies	3	0.09
 traders financial	3	0.09
 traders trade	3	0.09
@@ -20895,6 +20918,7 @@ videos websites	3	0.09
 viel aus	3	0.09
 vienna austria	3	0.09
 vienna bitcoin	3	0.09
+vietnamese community	3	0.09
 viewable publicly	3	0.09
 viral giveaways	3	0.09
 virtual assistant	3	0.09
@@ -20929,6 +20953,7 @@ vuejs bootstrap	3	0.09
 vying possess	3	0.09
 vying role	3	0.09
 wallet device	3	0.09
+wallet expert	3	0.09
 wallet functionality	3	0.09
 wallet leading	3	0.09
 wallet reality	3	0.09
@@ -21118,6 +21143,7 @@ world projects	3	0.09
 world related	3	0.09
 world serving	3	0.09
 world unique	3	0.09
+world wide	3	0.09
 worldwide invite	3	0.09
 write blog	3	0.09
 write changing	3	0.09
@@ -21130,12 +21156,12 @@ write robust	3	0.09
 write scripts	3	0.09
 write unit	3	0.09
 writer copywriter	3	0.09
+writer cryptograph	3	0.09
 writer editor	3	0.09
 writer familiar	3	0.09
 writer join	3	0.09
 writer news	3	0.09
 writer speaker	3	0.09
-writer springfield	3	0.09
 writer upload	3	0.09
 writer work	3	0.09
 writer write	3	0.09
@@ -21179,6 +21205,7 @@ years relevant	3	0.09
 years understand	3	0.09
 years work	3	0.09
 years years	3	0.09
+york views	3	0.09
 york washington	3	0.09
 young international	3	0.09
 youtube discord	3	0.09
@@ -21264,7 +21291,6 @@ zur aufgabe	3	0.09
 7000usd crypto	2	0.06
 800  month	2	0.06
 8am 4pm	2	0.06
-8blockscapital time	2	0.06
 8m weekly	2	0.06
 9 5	2	0.06
 a deep	2	0.06
@@ -21935,7 +21961,6 @@ android applications	2	0.06
 android engineer	2	0.06
 android sdk	2	0.06
 angel investor	2	0.06
-angeles remote	2	0.06
 angeles silicon	2	0.06
 angles develop	2	0.06
 angles pitch	2	0.06
@@ -22217,6 +22242,7 @@ arbitrage platform	2	0.06
 arcadia founded	2	0.06
 arcadia hire	2	0.06
 arcadia part	2	0.06
+architect askbrains	2	0.06
 architect client	2	0.06
 architect design	2	0.06
 architect develop	2	0.06
@@ -22279,7 +22305,6 @@ area identifies	2	0.06
 area keeping	2	0.06
 area legally	2	0.06
 area love	2	0.06
-area marketer	2	0.06
 area marketing	2	0.06
 area remote	2	0.06
 area successful	2	0.06
@@ -22356,6 +22381,7 @@ asap part	2	0.06
 asia australia	2	0.06
 asia eu	2	0.06
 asia ibc	2	0.06
+asia views	2	0.06
 asian operations	2	0.06
 aside sales	2	0.06
 asked create	2	0.06
@@ -22469,6 +22495,7 @@ associate pinnacle	2	0.06
 associate project	2	0.06
 associate turkish	2	0.06
 associate vilnius	2	0.06
+assorted koios	2	0.06
 assume responsibility	2	0.06
 assurance engineering	2	0.06
 assurance mentorship	2	0.06
@@ -22554,6 +22581,7 @@ audits requirements	2	0.06
 augmentation services	2	0.06
 augmented virtual	2	0.06
 august awarded	2	0.06
+austin tx	2	0.06
 australia germany	2	0.06
 australia india	2	0.06
 australia zealand	2	0.06
@@ -22927,7 +22955,6 @@ bitcoins cryptocurrencies	2	0.06
 bitcoins work	2	0.06
 bitcointalk collaborate	2	0.06
 bitcointalk community	2	0.06
-bitcointalk listing	2	0.06
 bitcointalk steemit	2	0.06
 bitcointalk twitter	2	0.06
 bitfinex renowned	2	0.06
@@ -22945,6 +22972,7 @@ blink of	2	0.06
 block explorers	2	0.06
 block global	2	0.06
 block producer	2	0.06
+block scoop	2	0.06
 block0 angel	2	0.06
 blockchain  marketing	2	0.06
 blockchain active	2	0.06
@@ -23025,7 +23053,6 @@ blockchain practice	2	0.06
 blockchain preferred	2	0.06
 blockchain proficient	2	0.06
 blockchain prototype	2	0.06
-blockchain reserve	2	0.06
 blockchain revolution	2	0.06
 blockchain scene	2	0.06
 blockchain sector	2	0.06
@@ -23038,7 +23065,6 @@ blockchain specific	2	0.06
 blockchain spinoff	2	0.06
 blockchain stacks	2	0.06
 blockchain standard	2	0.06
-blockchain stellar	2	0.06
 blockchain storytelling	2	0.06
 blockchain strategies	2	0.06
 blockchain supply	2	0.06
@@ -23313,7 +23339,6 @@ build trusted	2	0.06
 build unique	2	0.06
 build variety	2	0.06
 build wide	2	0.06
-builder manager	2	0.06
 builders created	2	0.06
 builders experts	2	0.06
 builders forefront	2	0.06
@@ -23410,6 +23435,7 @@ business indicators	2	0.06
 business insight	2	0.06
 business leader	2	0.06
 business leadership	2	0.06
+business manager	2	0.06
 business meetings	2	0.06
 business negotiation	2	0.06
 business negotiations	2	0.06
@@ -23833,7 +23859,6 @@ chief software	2	0.06
 chief strategy	2	0.06
 china asia	2	0.06
 china huobi	2	0.06
-china mandarin	2	0.06
 china middle	2	0.06
 chinese copywriter	2	0.06
 chinese excellent	2	0.06
@@ -23841,7 +23866,6 @@ chinese finance	2	0.06
 chinese korean	2	0.06
 chinese oral	2	0.06
 chinese skills	2	0.06
-chinese translator	2	0.06
 choice fully	2	0.06
 choice possibility	2	0.06
 choice variety	2	0.06
@@ -24425,6 +24449,7 @@ community research	2	0.06
 community responsibilities	2	0.06
 community revenue	2	0.06
 community rewarding	2	0.06
+community rockstar	2	0.06
 community role	2	0.06
 community run	2	0.06
 community selected	2	0.06
@@ -24626,6 +24651,7 @@ competitive rate	2	0.06
 competitive rates	2	0.06
 competitor products	2	0.06
 competitors requirements	2	0.06
+compiler engineer	2	0.06
 compilers backends	2	0.06
 complaints communicating	2	0.06
 complement digital	2	0.06
@@ -24778,7 +24804,6 @@ conflicting priorities	2	0.06
 conflicts support	2	0.06
 confluence agile	2	0.06
 confluence azure	2	0.06
-conflux time	2	0.06
 connect blockchain	2	0.06
 connect businesses	2	0.06
 connect internal	2	0.06
@@ -25198,7 +25223,6 @@ countries responsibilities	2	0.06
 countries working	2	0.06
 country contacting	2	0.06
 country required	2	0.06
-country specific	2	0.06
 courses trainings	2	0.06
 cover costs	2	0.06
 cover domestic	2	0.06
@@ -25350,7 +25374,6 @@ creative intern	2	0.06
 creative mind	2	0.06
 creative minded	2	0.06
 creative pure	2	0.06
-creative social	2	0.06
 creative strategy	2	0.06
 creative talent	2	0.06
 creative teams	2	0.06
@@ -25363,7 +25386,7 @@ creatives cto	2	0.06
 creativity energy	2	0.06
 creativity innovation	2	0.06
 creator amon	2	0.06
-creator crypto	2	0.06
+creator block	2	0.06
 creator technical	2	0.06
 creator token	2	0.06
 creators earn	2	0.06
@@ -25588,6 +25611,7 @@ cto crypto	2	0.06
 cto developer	2	0.06
 cto experience	2	0.06
 cto founder	2	0.06
+cto fullstack	2	0.06
 cto good	2	0.06
 cto join	2	0.06
 cto manchester	2	0.06
@@ -26251,7 +26275,6 @@ designer passion	2	0.06
 designer product	2	0.06
 designer redesign	2	0.06
 designer responsible	2	0.06
-designer savvy	2	0.06
 designer senet	2	0.06
 designer shift	2	0.06
 designer switcheo	2	0.06
@@ -26281,6 +26304,7 @@ designs optimize	2	0.06
 designs requirements	2	0.06
 designs support	2	0.06
 designs test	2	0.06
+desinger researcher	2	0.06
 desirable compensation	2	0.06
 desirable essential	2	0.06
 desire affect	2	0.06
@@ -26400,12 +26424,10 @@ developer ar	2	0.06
 developer atlantic	2	0.06
 developer atom	2	0.06
 developer beenet	2	0.06
-developer biblepay	2	0.06
 developer bit	2	0.06
 developer bitclaims	2	0.06
 developer bitcoin	2	0.06
 developer bitcrypto	2	0.06
-developer bitouro	2	0.06
 developer bitpay	2	0.06
 developer blockgram	2	0.06
 developer blocknomics	2	0.06
@@ -26418,6 +26440,7 @@ developer close	2	0.06
 developer coinspace	2	0.06
 developer collaborative	2	0.06
 developer communicating	2	0.06
+developer confidential	2	0.06
 developer contribute	2	0.06
 developer create	2	0.06
 developer cryptocurrencies	2	0.06
@@ -26434,7 +26457,6 @@ developer elite	2	0.06
 developer engineer	2	0.06
 developer ensure	2	0.06
 developer estonia	2	0.06
-developer ethos	2	0.06
 developer expertise	2	0.06
 developer focus	2	0.06
 developer focused	2	0.06
@@ -26471,7 +26493,6 @@ developer nebula	2	0.06
 developer needed	2	0.06
 developer neo	2	0.06
 developer ninja	2	0.06
-developer nos	2	0.06
 developer oceancapital	2	0.06
 developer omnitude	2	0.06
 developer outreach	2	0.06
@@ -26485,7 +26506,7 @@ developer productivity	2	0.06
 developer randstad	2	0.06
 developer recruitment	2	0.06
 developer research	2	0.06
-developer ruby	2	0.06
+developer robot	2	0.06
 developer spacesoft	2	0.06
 developer specific	2	0.06
 developer stacktical	2	0.06
@@ -26503,6 +26524,7 @@ developer tester	2	0.06
 developer tradelab	2	0.06
 developer typescript	2	0.06
 developer ui	2	0.06
+developer unitycoin	2	0.06
 developer upload	2	0.06
 developer velas	2	0.06
 developer vue	2	0.06
@@ -26513,7 +26535,6 @@ developer xyo	2	0.06
 developers abreast	2	0.06
 developers aiming	2	0.06
 developers analysts	2	0.06
-developers assorted	2	0.06
 developers business	2	0.06
 developers challenger	2	0.06
 developers code	2	0.06
@@ -26595,6 +26616,7 @@ development backend	2	0.06
 development berlin	2	0.06
 development beta	2	0.06
 development bonus	2	0.06
+development brcfs	2	0.06
 development ci	2	0.06
 development client	2	0.06
 development code	2	0.06
@@ -26645,6 +26667,7 @@ development mobile	2	0.06
 development muse	2	0.06
 development nature	2	0.06
 development officers	2	0.06
+development okex	2	0.06
 development partner	2	0.06
 development partnermanager	2	0.06
 development plan	2	0.06
@@ -26654,6 +26677,7 @@ development program	2	0.06
 development programming	2	0.06
 development project	2	0.06
 development provide	2	0.06
+development qnt	2	0.06
 development recruitment	2	0.06
 development relationship	2	0.06
 development responsible	2	0.06
@@ -27432,17 +27456,16 @@ engine algorithm	2	0.06
 engine creating	2	0.06
 engine nodejs	2	0.06
 engineer  devops	2	0.06
-engineer atrium	2	0.06
 engineer backend	2	0.06
 engineer based	2	0.06
 engineer block	2	0.06
 engineer bybit	2	0.06
 engineer cander	2	0.06
 engineer chainalysis	2	0.06
+engineer chainsecurity	2	0.06
 engineer clearmatics	2	0.06
 engineer clojure	2	0.06
 engineer coinlist	2	0.06
-engineer conflux	2	0.06
 engineer crypto	2	0.06
 engineer decent	2	0.06
 engineer decentral	2	0.06
@@ -27453,7 +27476,6 @@ engineer developer	2	0.06
 engineer digital	2	0.06
 engineer ethereum	2	0.06
 engineer europe	2	0.06
-engineer ferrum	2	0.06
 engineer frontend	2	0.06
 engineer germany	2	0.06
 engineer hackathons	2	0.06
@@ -27462,7 +27484,6 @@ engineer huge	2	0.06
 engineer interested	2	0.06
 engineer intern	2	0.06
 engineer j2ee	2	0.06
-engineer java	2	0.06
 engineer jkrb	2	0.06
 engineer loves	2	0.06
 engineer nix	2	0.06
@@ -27536,6 +27557,7 @@ engineers working	2	0.06
 england skills	2	0.06
 englisch flie	2	0.06
 english    languages	2	0.06
+english aeternity	2	0.06
 english atleast	2	0.06
 english based	2	0.06
 english bsc	2	0.06
@@ -27886,6 +27908,7 @@ eur depending	2	0.06
 eur equity	2	0.06
 euro month	2	0.06
 europe africa	2	0.06
+europe crypto	2	0.06
 europe expert	2	0.06
 europe find	2	0.06
 europe including	2	0.06
@@ -28453,11 +28476,13 @@ experiences wings	2	0.06
 experiment community	2	0.06
 experiments proving	2	0.06
 expert consultants	2	0.06
+expert english	2	0.06
 expert growth	2	0.06
+expert hub	2	0.06
 expert ico	2	0.06
+expert ittisa	2	0.06
 expert specific	2	0.06
 expert strong	2	0.06
-expert trader	2	0.06
 expertise compensation	2	0.06
 expertise cryptocurrencies	2	0.06
 expertise designing	2	0.06
@@ -28721,7 +28746,6 @@ fellow engineers	2	0.06
 fellow students	2	0.06
 fellow team	2	0.06
 fellows partners	2	0.06
-ferrum network	2	0.06
 fiat depending	2	0.06
 fiat money	2	0.06
 field  experience	2	0.06
@@ -29070,7 +29094,6 @@ founding engineer	2	0.06
 fourth industrial	2	0.06
 fox business	2	0.06
 fox technologies	2	0.06
-fractal blockchain	2	0.06
 framework asp	2	0.06
 framework candidates	2	0.06
 framework design	2	0.06
@@ -29536,6 +29559,7 @@ granted high	2	0.06
 grantees stories	2	0.06
 graph threat	2	0.06
 graphic skills	2	0.06
+graphic web	2	0.06
 graphics coordinate	2	0.06
 graphics illustrator	2	0.06
 graphics infographics	2	0.06
@@ -31181,10 +31205,10 @@ japan south	2	0.06
 japanese blockchain	2	0.06
 japanese chinese	2	0.06
 japanese language	2	0.06
-japanese speaking	2	0.06
 java  if	2	0.06
 java ability	2	0.06
 java background	2	0.06
+java blockchaincareerbuilders	2	0.06
 java corda	2	0.06
 java development	2	0.06
 java goland	2	0.06
@@ -31344,7 +31368,6 @@ june september	2	0.06
 junior customer	2	0.06
 junior linum	2	0.06
 junior product	2	0.06
-junior quant	2	0.06
 junior ui	2	0.06
 junit js	2	0.06
 junit related	2	0.06
@@ -31473,6 +31496,7 @@ korbit korea	2	0.06
 korbit privately	2	0.06
 korea growing	2	0.06
 korea huobi	2	0.06
+korea japan	2	0.06
 korea leading	2	0.06
 korea remote	2	0.06
 korean blockchain	2	0.06
@@ -31526,7 +31550,6 @@ labs receive	2	0.06
 labs recruit	2	0.06
 labs software	2	0.06
 labs stability	2	0.06
-labs time	2	0.06
 lacked incentive	2	0.06
 laconic informative	2	0.06
 lakes parks	2	0.06
@@ -31603,10 +31626,12 @@ laser focused	2	0.06
 late february	2	0.06
 late network	2	0.06
 latest coolest	2	0.06
-latest cryptocurrency	2	0.06
+latest director	2	0.06
 latest emerging	2	0.06
+latest graphic	2	0.06
 latest greatest	2	0.06
 latest industry	2	0.06
+latest senior	2	0.06
 latest technology	2	0.06
 latin american	2	0.06
 launch applications	2	0.06
@@ -31666,6 +31691,7 @@ lead developers	2	0.06
 lead drive	2	0.06
 lead driving	2	0.06
 lead effort	2	0.06
+lead energi	2	0.06
 lead front	2	0.06
 lead future	2	0.06
 lead global	2	0.06
@@ -31698,6 +31724,7 @@ leader crypto	2	0.06
 leader data	2	0.06
 leader digital	2	0.06
 leader drive	2	0.06
+leader evermarkets	2	0.06
 leader futurefuel	2	0.06
 leader good	2	0.06
 leader ico	2	0.06
@@ -31929,11 +31956,13 @@ limited access	2	0.06
 limited company	2	0.06
 limited content	2	0.06
 limited cryptocurrency	2	0.06
+limited customer	2	0.06
 limited equal	2	0.06
 limited europe	2	0.06
 limited financial	2	0.06
 limited mlg	2	0.06
 limited sem	2	0.06
+limited time	2	0.06
 limited twitter	2	0.06
 limited work	2	0.06
 limitless depend	2	0.06
@@ -31988,7 +32017,6 @@ listen bitcoin	2	0.06
 listen clients	2	0.06
 listening engage	2	0.06
 listening technique	2	0.06
-listing micro	2	0.06
 listing partners	2	0.06
 live breathe	2	0.06
 live project	2	0.06
@@ -32031,7 +32059,6 @@ local meetups	2	0.06
 local regional	2	0.06
 local regulatory	2	0.06
 local remote	2	0.06
-local representative	2	0.06
 local san	2	0.06
 local singapore	2	0.06
 local social	2	0.06
@@ -32420,7 +32447,6 @@ manager centrum	2	0.06
 manager chainbytes	2	0.06
 manager chainz	2	0.06
 manager charge	2	0.06
-manager china	2	0.06
 manager coinmetro	2	0.06
 manager collect	2	0.06
 manager core	2	0.06
@@ -32433,13 +32459,10 @@ manager diatomic	2	0.06
 manager digipharm	2	0.06
 manager drive	2	0.06
 manager duties	2	0.06
-manager eak	2	0.06
 manager earnsured	2	0.06
-manager eden	2	0.06
 manager english	2	0.06
 manager eo	2	0.06
 manager exchange	2	0.06
-manager fractal	2	0.06
 manager gatecoin	2	0.06
 manager germany	2	0.06
 manager graphic	2	0.06
@@ -32488,6 +32511,7 @@ manager trading	2	0.06
 manager vertex	2	0.06
 manager vp	2	0.06
 manager web	2	0.06
+manager writer	2	0.06
 manager xtrade	2	0.06
 managerial experience	2	0.06
 managers accomplished	2	0.06
@@ -32544,6 +32568,7 @@ managing tech	2	0.06
 managing technical	2	0.06
 manchester fintech	2	0.06
 mandarin communication	2	0.06
+mandarin decentralized	2	0.06
 mandarin korean	2	0.06
 mandarin marketing	2	0.06
 mandarin russian	2	0.06
@@ -32608,12 +32633,10 @@ market trend	2	0.06
 market work	2	0.06
 marketer blockchain	2	0.06
 marketer community	2	0.06
-marketer country	2	0.06
 marketer experience	2	0.06
 marketer mcfly	2	0.06
 marketer sales	2	0.06
 marketer smm	2	0.06
-marketer stacktical	2	0.06
 marketers community	2	0.06
 marketers consistently	2	0.06
 marketing  experience	2	0.06
@@ -32660,6 +32683,7 @@ marketing kpis	2	0.06
 marketing location	2	0.06
 marketing make	2	0.06
 marketing medium	2	0.06
+marketing muse	2	0.06
 marketing open	2	0.06
 marketing partners	2	0.06
 marketing partnership	2	0.06
@@ -32843,6 +32867,7 @@ media successful	2	0.06
 media support	2	0.06
 media team	2	0.06
 media telegram	2	0.06
+media time	2	0.06
 media training	2	0.06
 media types	2	0.06
 media user	2	0.06
@@ -33003,7 +33028,6 @@ metrics testing	2	0.06
 metrics tracking	2	0.06
 metropolitan area	2	0.06
 mex conveniently	2	0.06
-micro bitcoin	2	0.06
 microservices architectures	2	0.06
 microservices design	2	0.06
 microservices highly	2	0.06
@@ -33061,7 +33085,6 @@ mining barcelona	2	0.06
 mining berlin	2	0.06
 mining blockchain	2	0.06
 mining boston	2	0.06
-mining content	2	0.06
 mining crypto	2	0.06
 mining cyberjaya	2	0.06
 mining farms	2	0.06
@@ -33258,6 +33281,7 @@ moscow apply	2	0.06
 moscow russia	2	0.06
 mothership engineering	2	0.06
 mothership identify	2	0.06
+mothership time	2	0.06
 motivate develop	2	0.06
 motivate experience	2	0.06
 motivate skills	2	0.06
@@ -33404,7 +33428,6 @@ needed manage	2	0.06
 needed strong	2	0.06
 negative quickly	2	0.06
 nego crypto	2	0.06
-negociatable crypto	2	0.06
 negotiable based	2	0.06
 negotiable depends	2	0.06
 negotiable employment	2	0.06
@@ -34035,11 +34058,9 @@ offsites flexible	2	0.06
 oil gas	2	0.06
 oix coin	2	0.06
 oix practice	2	0.06
-okex indonesia	2	0.06
 okex technology	2	0.06
 older smartphones	2	0.06
 oldest respected	2	0.06
-olympiads pvt	2	0.06
 omnitude act	2	0.06
 omnitude grown	2	0.06
 omnitude story	2	0.06
@@ -34130,7 +34151,6 @@ operational risk	2	0.06
 operational support	2	0.06
 operations administration	2	0.06
 operations advisor	2	0.06
-operations architect	2	0.06
 operations conduct	2	0.06
 operations data	2	0.06
 operations designers	2	0.06
@@ -34516,7 +34536,6 @@ partner bloq	2	0.06
 partner crypto	2	0.06
 partner cygility	2	0.06
 partner high	2	0.06
-partner local	2	0.06
 partner management	2	0.06
 partner outreach	2	0.06
 partner program	2	0.06
@@ -36203,6 +36222,7 @@ publish make	2	0.06
 publish online	2	0.06
 publish pertinent	2	0.06
 publish social	2	0.06
+publish0x time	2	0.06
 published beincrypto	2	0.06
 published blogs	2	0.06
 published word	2	0.06
@@ -36312,7 +36332,6 @@ quality time	2	0.06
 quality tone	2	0.06
 quality working	2	0.06
 quality writing	2	0.06
-quant developer	2	0.06
 quantify current	2	0.06
 quantitative algorithmic	2	0.06
 quantitative finance	2	0.06
@@ -36825,37 +36844,35 @@ remember exceed	2	0.06
 remote               responsibilities	2	0.06
 remote affiliate	2	0.06
 remote areas	2	0.06
+remote asia	2	0.06
 remote bitfinex	2	0.06
 remote block	2	0.06
-remote business	2	0.06
 remote candidate	2	0.06
 remote close	2	0.06
 remote collaboration	2	0.06
 remote commission	2	0.06
-remote compiler	2	0.06
 remote considerable	2	0.06
-remote content	2	0.06
 remote creative	2	0.06
 remote developer	2	0.06
 remote engagement	2	0.06
 remote experience	2	0.06
 remote first	2	0.06
-remote freelance	2	0.06
 remote globally	2	0.06
 remote gravitichain	2	0.06
 remote invaluable	2	0.06
 remote large	2	0.06
 remote lead	2	0.06
+remote los	2	0.06
 remote native	2	0.06
 remote positions	2	0.06
 remote preferably	2	0.06
 remote procedure	2	0.06
+remote senior	2	0.06
 remote speak	2	0.06
 remote sr	2	0.06
 remote ticket	2	0.06
 remote true	2	0.06
 remote worker	2	0.06
-remote york	2	0.06
 remotely approach	2	0.06
 remotely autonomously	2	0.06
 remotely carry	2	0.06
@@ -37128,6 +37145,7 @@ researcher crypto	2	0.06
 researcher extremely	2	0.06
 researcher input	2	0.06
 researcher intern	2	0.06
+researcher wings	2	0.06
 researchers activists	2	0.06
 researchers analysts	2	0.06
 researchers improving	2	0.06
@@ -37421,12 +37439,14 @@ roadmap sounds	2	0.06
 roadmap strategy	2	0.06
 roadmap tasks	2	0.06
 roadmaps milestones	2	0.06
+robot vera	2	0.06
 robust active	2	0.06
 robust defi	2	0.06
 robust flexible	2	0.06
 robust integrated	2	0.06
 robust results	2	0.06
 robust risk	2	0.06
+rockstar crypto	2	0.06
 roi generate	2	0.06
 roi kpis	2	0.06
 role addition	2	0.06
@@ -37628,6 +37648,7 @@ sales promotion	2	0.06
 sales provide	2	0.06
 sales rank	2	0.06
 sales receive	2	0.06
+sales remote	2	0.06
 sales reports	2	0.06
 sales results	2	0.06
 sales sales	2	0.06
@@ -38645,7 +38666,6 @@ solutions solidity	2	0.06
 solutions solve	2	0.06
 solutions systems	2	0.06
 solutions technical	2	0.06
-solutions time	2	0.06
 solutions wallet	2	0.06
 solutions years	2	0.06
 solve issues	2	0.06
@@ -38770,6 +38790,7 @@ speaking editor	2	0.06
 speaking experience	2	0.06
 speaking kraken	2	0.06
 speaking mandarin	2	0.06
+speaking marketing	2	0.06
 speaking of	2	0.06
 speaking presentations	2	0.06
 speaking skills	2	0.06
@@ -38806,6 +38827,7 @@ specialist promote	2	0.06
 specialist responsible	2	0.06
 specialist salesman	2	0.06
 specialist united	2	0.06
+specialist wechain	2	0.06
 specialize helping	2	0.06
 specialties include	2	0.06
 specialties joining	2	0.06
@@ -38826,6 +38848,7 @@ specific roles	2	0.06
 specific speaking	2	0.06
 specific systems	2	0.06
 specific tech	2	0.06
+specific yuser	2	0.06
 specifically analyze	2	0.06
 specification delivery	2	0.06
 specification software	2	0.06
@@ -38870,6 +38893,7 @@ spreading of	2	0.06
 spreads mission	2	0.06
 spring core	2	0.06
 spring frameworks	2	0.06
+springfield olympiads	2	0.06
 sprinting summer	2	0.06
 sprints testing	2	0.06
 sprints weekly	2	0.06
@@ -39071,7 +39095,6 @@ steem ipfs	2	0.06
 steemit medium	2	0.06
 steemit slack	2	0.06
 steep learning	2	0.06
-stellar architect	2	0.06
 stellar crypto	2	0.06
 step gas	2	0.06
 stepping solid	2	0.06
@@ -39927,7 +39950,6 @@ tech roadmap	2	0.06
 tech san	2	0.06
 tech toronto	2	0.06
 tech translator	2	0.06
-tech trending	2	0.06
 tech trends	2	0.06
 tech writer	2	0.06
 tech writing	2	0.06
@@ -40361,7 +40383,6 @@ time expected	2	0.06
 time facebook	2	0.06
 time flawless	2	0.06
 time group	2	0.06
-time hong	2	0.06
 time interest	2	0.06
 time keen	2	0.06
 time kinds	2	0.06
@@ -40599,9 +40620,7 @@ trade variants	2	0.06
 traded crypto	2	0.06
 traded exchanges	2	0.06
 tradeoffs of	2	0.06
-trader 8blockscapital	2	0.06
 trader minimum	2	0.06
-trader proof	2	0.06
 trader terminal	2	0.06
 trader web	2	0.06
 traders compensated	2	0.06
@@ -40820,6 +40839,7 @@ twitter samerp2p	2	0.06
 twitter slack	2	0.06
 twitter supergamechain	2	0.06
 two sided	2	0.06
+tx views	2	0.06
 type contract	2	0.06
 type ongoing	2	0.06
 type stuff	2	0.06
@@ -41074,6 +41094,7 @@ ux advertisements	2	0.06
 ux agile	2	0.06
 ux decisions	2	0.06
 ux designs	2	0.06
+ux desinger	2	0.06
 ux development	2	0.06
 ux experience	2	0.06
 ux mysql	2	0.06
@@ -41208,7 +41229,6 @@ videos provided	2	0.06
 videos shoppable	2	0.06
 videos twitter	2	0.06
 videos webinars	2	0.06
-vietnamese community	2	0.06
 vietnamese english	2	0.06
 vietnamese russian	2	0.06
 viewed speakers	2	0.06
@@ -41303,7 +41323,6 @@ wallet cryptocurrency	2	0.06
 wallet development	2	0.06
 wallet digital	2	0.06
 wallet exchange	2	0.06
-wallet expert	2	0.06
 wallet integration	2	0.06
 wallet krakow	2	0.06
 wallet monero	2	0.06
@@ -41787,7 +41806,6 @@ world technology	2	0.06
 world topics	2	0.06
 world travel	2	0.06
 world trustless	2	0.06
-world wide	2	0.06
 world working	2	0.06
 world write	2	0.06
 worlds crypto	2	0.06
@@ -41839,7 +41857,6 @@ writer bitcoin	2	0.06
 writer compensation	2	0.06
 writer content	2	0.06
 writer crr	2	0.06
-writer cryptograph	2	0.06
 writer decentralized	2	0.06
 writer eager	2	0.06
 writer encrypted	2	0.06
@@ -41854,11 +41871,11 @@ writer normal	2	0.06
 writer paranoid	2	0.06
 writer part	2	0.06
 writer powerlaunch	2	0.06
-writer raketech	2	0.06
+writer publish0x	2	0.06
 writer remote	2	0.06
 writer research	2	0.06
 writer social	2	0.06
-writer tekton	2	0.06
+writer springfield	2	0.06
 writers content	2	0.06
 writers create	2	0.06
 writers designers	2	0.06
@@ -41953,7 +41970,6 @@ yeay mission	2	0.06
 yield multiplier	2	0.06
 yii 2	2	0.06
 york seoul	2	0.06
-york views	2	0.06
 you managing	2	0.06
 you part	2	0.06
 young consulting	2	0.06
@@ -42113,6 +42129,7 @@ zurich reshaping	2	0.06
 180k equity	1	0.03
 18k total	1	0.03
 18th of	1	0.03
+1bitquant time	1	0.03
 1bitquant upload	1	0.03
 1btc apply	1	0.03
 1c0 upload	1	0.03
@@ -42360,6 +42377,7 @@ zurich reshaping	2	0.06
 85keur bonus	1	0.03
 8blocks capital	1	0.03
 8blocks team	1	0.03
+8blockscapital time	1	0.03
 8dcapital novestic	1	0.03
 8decimalcapital 8dcapital	1	0.03
 8k 12k	1	0.03
@@ -44383,6 +44401,7 @@ airswap io	1	0.03
 airswap logistics	1	0.03
 airswap marketing	1	0.03
 airswap person	1	0.03
+airwave time	1	0.03
 ajax  node	1	0.03
 ajax angular	1	0.03
 ajax html	1	0.03
@@ -44565,11 +44584,11 @@ allforcrypto growth	1	0.03
 allforcrypto ico	1	0.03
 allforcrypto located	1	0.03
 allforcrypto marketing	1	0.03
-allforcrypto part	1	0.03
 allforcrypto product	1	0.03
 allforcrypto project	1	0.03
 allforcrypto promote	1	0.03
 allforcrypto social	1	0.03
+allforcrypto time	1	0.03
 allforcrypto upload	1	0.03
 allforcrypto youtube	1	0.03
 allforcryto customer	1	0.03
@@ -45355,6 +45374,7 @@ angeles california	1	0.03
 angeles compensation	1	0.03
 angeles cryptography	1	0.03
 angeles dapp	1	0.03
+angeles remote	1	0.03
 angeles serpent	1	0.03
 angeles skills	1	0.03
 angeles trading	1	0.03
@@ -46509,7 +46529,6 @@ archery starting	1	0.03
 archetypes blockchain	1	0.03
 archetypes gamification	1	0.03
 architect architect	1	0.03
-architect askbrains	1	0.03
 architect associate	1	0.03
 architect audit	1	0.03
 architect blockgram	1	0.03
@@ -46534,6 +46553,7 @@ architect integration	1	0.03
 architect lead	1	0.03
 architect leaders	1	0.03
 architect maxfield	1	0.03
+architect mothership	1	0.03
 architect of	1	0.03
 architect omnitude	1	0.03
 architect p2p	1	0.03
@@ -47019,6 +47039,7 @@ asian region	1	0.03
 asian sites	1	0.03
 asic resistant	1	0.03
 askbrains con	1	0.03
+askbrains time	1	0.03
 askbrains upload	1	0.03
 asked contribute	1	0.03
 asked define	1	0.03
@@ -47318,7 +47339,6 @@ assist stakeholders	1	0.03
 assist streamlining	1	0.03
 assist talented	1	0.03
 assist team	1	0.03
-assist tech	1	0.03
 assist training	1	0.03
 assist work	1	0.03
 assist working	1	0.03
@@ -47422,7 +47442,6 @@ association gibraltar	1	0.03
 associations ideal	1	0.03
 associations people	1	0.03
 associative reporting	1	0.03
-assorted koios	1	0.03
 assume fail	1	0.03
 assume leadership	1	0.03
 assume ownership	1	0.03
@@ -47492,7 +47511,6 @@ atomz  writing	1	0.03
 atomz news	1	0.03
 atomz speak	1	0.03
 atop blockchain	1	0.03
-atrium time	1	0.03
 attach examples	1	0.03
 attach portfolio	1	0.03
 attach resume	1	0.03
@@ -47853,7 +47871,6 @@ austin solidity	1	0.03
 austin texas	1	0.03
 austin top	1	0.03
 austin trading	1	0.03
-austin tx	1	0.03
 austin web3	1	0.03
 australia bank	1	0.03
 australia canada	1	0.03
@@ -49027,7 +49044,6 @@ beautiful simple	1	0.03
 beautiful uis	1	0.03
 beauty power	1	0.03
 beaxy digital	1	0.03
-beaxy time	1	0.03
 bec  digital	1	0.03
 bec applications	1	0.03
 beenest beenest	1	0.03
@@ -49354,7 +49370,6 @@ bias stay	1	0.03
 bias stuff	1	0.03
 biases dedicated	1	0.03
 biblepay cryptocurrency	1	0.03
-biblepay tech	1	0.03
 biblepay upload	1	0.03
 bic order	1	0.03
 bid management	1	0.03
@@ -49524,6 +49539,7 @@ bitcoin codeigniter	1	0.03
 bitcoin colored	1	0.03
 bitcoin commission	1	0.03
 bitcoin committed	1	0.03
+bitcoin contract	1	0.03
 bitcoin contracts	1	0.03
 bitcoin cpa	1	0.03
 bitcoin currency	1	0.03
@@ -49644,9 +49660,9 @@ bitguild upload	1	0.03
 bitility upload	1	0.03
 bitmex holding	1	0.03
 bitmex intercontinental	1	0.03
+bitouro time	1	0.03
 bitpay building	1	0.03
 bitpay development	1	0.03
-bitrefill contract	1	0.03
 bitrefill time	1	0.03
 bitrefill website	1	0.03
 bitshares radar	1	0.03
@@ -49690,7 +49706,7 @@ block offer	1	0.03
 block producers	1	0.03
 block rblock	1	0.03
 block recruiters	1	0.03
-block scoop	1	0.03
+block time	1	0.03
 block0 ll	1	0.03
 block0 research	1	0.03
 blockade conforming	1	0.03
@@ -49980,6 +49996,7 @@ blockchain whitepaper	1	0.03
 blockchain works	1	0.03
 blockchain write	1	0.03
 blockchain writes	1	0.03
+blockchaincareerbuilders time	1	0.03
 blockchaincareerbuilders upload	1	0.03
 blockchainheadhunter exclusivejobs	1	0.03
 blockchainhub prague	1	0.03
@@ -50057,6 +50074,7 @@ blockgramcom aaaaaafaabrl7kut41sqij	1	0.03
 blockgramcom aaaaaafaabrlktaallvdch	1	0.03
 blockgramcom aaaaaafaabrm1rrmfekgub	1	0.03
 blockhouses consensus	1	0.03
+blockide time	1	0.03
 blockide upload	1	0.03
 blocknomics time	1	0.03
 blocknomics upload	1	0.03
@@ -50618,6 +50636,7 @@ brazil time	1	0.03
 brazilian version	1	0.03
 brazilian work	1	0.03
 brazilian working	1	0.03
+brcfs contract	1	0.03
 brcfs upload	1	0.03
 breach install	1	0.03
 breach investigations	1	0.03
@@ -50887,6 +50906,7 @@ btc top	1	0.03
 btc trade	1	0.03
 btc year	1	0.03
 btcmanager responsibilities	1	0.03
+btcmanager time	1	0.03
 btcmanager upload	1	0.03
 btctalk steemit	1	0.03
 btt account	1	0.03
@@ -52823,6 +52843,7 @@ chains prior	1	0.03
 chains security	1	0.03
 chainsecurity chainsecurity	1	0.03
 chainsecurity setting	1	0.03
+chainsecurity time	1	0.03
 chainsecurity upload	1	0.03
 chainstack building	1	0.03
 chainstack upload	1	0.03
@@ -53326,6 +53347,7 @@ chinese speaker	1	0.03
 chinese stand	1	0.03
 chinese strongly	1	0.03
 chinese telegram	1	0.03
+chinese translator	1	0.03
 chinese vietnamese	1	0.03
 chinks platforms	1	0.03
 chip companies	1	0.03
@@ -55574,7 +55596,6 @@ community platform	1	0.03
 community platforms	1	0.03
 community play	1	0.03
 community possibility	1	0.03
-community pr	1	0.03
 community products	1	0.03
 community progress	1	0.03
 community promote	1	0.03
@@ -55594,7 +55615,6 @@ community remote	1	0.03
 community required	1	0.03
 community responsibility	1	0.03
 community rewarded	1	0.03
-community rockstar	1	0.03
 community salary	1	0.03
 community scratch	1	0.03
 community service	1	0.03
@@ -57049,7 +57069,6 @@ confidential apply	1	0.03
 confidential disclosed	1	0.03
 confidential identity	1	0.03
 confidential information	1	0.03
-confidential time	1	0.03
 confidentiality integrity	1	0.03
 confidentiality sensitive	1	0.03
 confidentiality skills	1	0.03
@@ -57477,6 +57496,7 @@ consulting projects	1	0.03
 consulting proven	1	0.03
 consulting role	1	0.03
 consulting social	1	0.03
+consulting time	1	0.03
 consumer account	1	0.03
 consumer applications	1	0.03
 consumer apps	1	0.03
@@ -57942,7 +57962,6 @@ contract berlin	1	0.03
 contract boston	1	0.03
 contract build	1	0.03
 contract building	1	0.03
-contract business	1	0.03
 contract category	1	0.03
 contract code	1	0.03
 contract coding	1	0.03
@@ -58633,6 +58652,7 @@ copyrights of	1	0.03
 copywriter  new	1	0.03
 copywriter ability	1	0.03
 copywriter aruna	1	0.03
+copywriter btcmanager	1	0.03
 copywriter coinspace	1	0.03
 copywriter cover	1	0.03
 copywriter create	1	0.03
@@ -59498,7 +59518,6 @@ creativity wide	1	0.03
 creator ambassadors	1	0.03
 creator application	1	0.03
 creator bf	1	0.03
-creator block	1	0.03
 creator blockchain	1	0.03
 creator business	1	0.03
 creator compensation	1	0.03
@@ -59866,7 +59885,6 @@ crypto test	1	0.03
 crypto theme	1	0.03
 crypto themed	1	0.03
 crypto tie	1	0.03
-crypto time	1	0.03
 crypto tokenized	1	0.03
 crypto train	1	0.03
 crypto understanding	1	0.03
@@ -60196,8 +60214,8 @@ cryptoglobe opinion	1	0.03
 cryptoglobe style	1	0.03
 cryptograph blockchain	1	0.03
 cryptograph community	1	0.03
-cryptograph part	1	0.03
 cryptograph seeking	1	0.03
+cryptograph time	1	0.03
 cryptographer greater	1	0.03
 cryptographer work	1	0.03
 cryptographers experience	1	0.03
@@ -61973,6 +61991,7 @@ decentralized stablecoin	1	0.03
 decentralized startup	1	0.03
 decentralized telecommunications	1	0.03
 decentralized trustless	1	0.03
+decentralized vision	1	0.03
 decentralizing healthcare	1	0.03
 decentralizing product	1	0.03
 decide exercise	1	0.03
@@ -63146,6 +63165,7 @@ design review	1	0.03
 design revisions	1	0.03
 design roadblocks	1	0.03
 design run	1	0.03
+design saint	1	0.03
 design sales	1	0.03
 design sapien	1	0.03
 design schedule	1	0.03
@@ -63249,6 +63269,7 @@ designer evolve	1	0.03
 designer fload	1	0.03
 designer fullstack	1	0.03
 designer gitcoin	1	0.03
+designer globatalent	1	0.03
 designer graphic	1	0.03
 designer highly	1	0.03
 designer ideally	1	0.03
@@ -63281,6 +63302,7 @@ designer shivom	1	0.03
 designer skilled	1	0.03
 designer solve	1	0.03
 designer sr	1	0.03
+designer stealth	1	0.03
 designer steps	1	0.03
 designer strengthen	1	0.03
 designer trading	1	0.03
@@ -63413,7 +63435,6 @@ designs validate	1	0.03
 designs website	1	0.03
 designs websites	1	0.03
 designs wireframes	1	0.03
-desinger researcher	1	0.03
 desirable  good	1	0.03
 desirable active	1	0.03
 desirable communication	1	0.03
@@ -63922,6 +63943,7 @@ developer back	1	0.03
 developer background	1	0.03
 developer baker	1	0.03
 developer basic	1	0.03
+developer biblepay	1	0.03
 developer bitrefill	1	0.03
 developer bitwallets	1	0.03
 developer block	1	0.03
@@ -64100,7 +64122,6 @@ developer travel	1	0.03
 developer tripecosys	1	0.03
 developer type	1	0.03
 developer understands	1	0.03
-developer unitycoin	1	0.03
 developer univec	1	0.03
 developer unknown	1	0.03
 developer urgently	1	0.03
@@ -64380,7 +64401,6 @@ development benefits	1	0.03
 development big	1	0.03
 development blockfi	1	0.03
 development branding	1	0.03
-development brcfs	1	0.03
 development broad	1	0.03
 development building	1	0.03
 development business	1	0.03
@@ -64549,6 +64569,7 @@ development reach	1	0.03
 development refactoring	1	0.03
 development refine	1	0.03
 development refinement	1	0.03
+development remote	1	0.03
 development reply	1	0.03
 development repositories	1	0.03
 development requests	1	0.03
@@ -64583,6 +64604,7 @@ development system	1	0.03
 development tasks	1	0.03
 development teamwork	1	0.03
 development thinking	1	0.03
+development time	1	0.03
 development timelines	1	0.03
 development toolchain	1	0.03
 development toolkits	1	0.03
@@ -64874,6 +64896,7 @@ digital talented	1	0.03
 digital technologies	1	0.03
 digital technology	1	0.03
 digital thoroughbreds	1	0.03
+digital time	1	0.03
 digital tokenised	1	0.03
 digital understanding	1	0.03
 digital wallet	1	0.03
@@ -67613,6 +67636,7 @@ energi cryptocurrency	1	0.03
 energi currency	1	0.03
 energi essentially	1	0.03
 energi launch	1	0.03
+energi marketing	1	0.03
 energi nrg	1	0.03
 energi offerings	1	0.03
 energi platform	1	0.03
@@ -67846,6 +67870,7 @@ engineer arcadia	1	0.03
 engineer architecture	1	0.03
 engineer argent	1	0.03
 engineer assist	1	0.03
+engineer atrium	1	0.03
 engineer augmented	1	0.03
 engineer aventus	1	0.03
 engineer back	1	0.03
@@ -67859,7 +67884,6 @@ engineer bonus	1	0.03
 engineer canada	1	0.03
 engineer car	1	0.03
 engineer care	1	0.03
-engineer chainsecurity	1	0.03
 engineer challenging	1	0.03
 engineer change	1	0.03
 engineer charge	1	0.03
@@ -68984,6 +69008,7 @@ eosio developers	1	0.03
 eosio software	1	0.03
 eosio team	1	0.03
 ephelants360 io	1	0.03
+ephelants360 time	1	0.03
 epic content	1	0.03
 epic human	1	0.03
 epochal change	1	0.03
@@ -69553,7 +69578,6 @@ europe asian	1	0.03
 europe based	1	0.03
 europe china	1	0.03
 europe conducting	1	0.03
-europe crypto	1	0.03
 europe day	1	0.03
 europe description	1	0.03
 europe direct	1	0.03
@@ -69859,6 +69883,7 @@ eventually team	1	0.03
 ever evolving	1	0.03
 ever present	1	0.03
 evermarkets emx	1	0.03
+evermarkets time	1	0.03
 evermarkets upload	1	0.03
 everyday activities	1	0.03
 everyday audience	1	0.03
@@ -71551,9 +71576,7 @@ expert good	1	0.03
 expert hands	1	0.03
 expert hcsc	1	0.03
 expert helping	1	0.03
-expert hub	1	0.03
 expert iohk	1	0.03
-expert ittisa	1	0.03
 expert leadership	1	0.03
 expert ll	1	0.03
 expert main	1	0.03
@@ -72489,6 +72512,7 @@ feature timeline	1	0.03
 feature upgrades	1	0.03
 feature user	1	0.03
 featured article	1	0.03
+featured crypto	1	0.03
 featured ethereum	1	0.03
 featured huge	1	0.03
 featured medium	1	0.03
@@ -73264,6 +73288,7 @@ fintech security	1	0.03
 fintech social	1	0.03
 fintech talent	1	0.03
 fintech tech	1	0.03
+fintech time	1	0.03
 fintech traditional	1	0.03
 fintech understand	1	0.03
 fintechfans holding	1	0.03
@@ -73463,6 +73488,7 @@ flaws stay	1	0.03
 flesh short	1	0.03
 fleshing design	1	0.03
 fleta community	1	0.03
+fleta part	1	0.03
 fleta social	1	0.03
 fleta technological	1	0.03
 fleta utilising	1	0.03
@@ -75820,6 +75846,7 @@ globally shape	1	0.03
 globally skills	1	0.03
 globally thousands	1	0.03
 globatalent moving	1	0.03
+globatalent part	1	0.03
 globe access	1	0.03
 globe affiliate	1	0.03
 globe aspirations	1	0.03
@@ -76245,7 +76272,6 @@ graphic products	1	0.03
 graphic responsible	1	0.03
 graphic role	1	0.03
 graphic user	1	0.03
-graphic web	1	0.03
 graphical content	1	0.03
 graphical contents	1	0.03
 graphical design	1	0.03
@@ -76802,6 +76828,7 @@ gtm analitycs	1	0.03
 gtm console	1	0.03
 gtm pixels	1	0.03
 gtm track	1	0.03
+guadalajara views	1	0.03
 guarantee platform	1	0.03
 guarantee quality	1	0.03
 guarantee safety	1	0.03
@@ -77356,6 +77383,7 @@ head task	1	0.03
 head team	1	0.03
 headed year	1	0.03
 headhunter leading	1	0.03
+headhunter marketing	1	0.03
 headhunter time	1	0.03
 headhunters talented	1	0.03
 headhunting compensation	1	0.03
@@ -77901,6 +77929,7 @@ holding ideas	1	0.03
 holding phd	1	0.03
 holdings corp	1	0.03
 holdings pte	1	0.03
+holdings time	1	0.03
 holdings transactions	1	0.03
 holds extraordinarily	1	0.03
 holds tracks	1	0.03
@@ -78207,6 +78236,7 @@ hub kl	1	0.03
 hub revolutionary	1	0.03
 hub seamless	1	0.03
 hub separate	1	0.03
+hub time	1	0.03
 hub unique	1	0.03
 hub upload	1	0.03
 hub world	1	0.03
@@ -78538,7 +78568,6 @@ icoblow upload	1	0.03
 icobrands blockchain	1	0.03
 icobrands growing	1	0.03
 icobrands media	1	0.03
-icobrands part	1	0.03
 icodegeeks upload	1	0.03
 icolist guru	1	0.03
 icomarkets upload	1	0.03
@@ -78929,6 +78958,7 @@ identity hyperledger	1	0.03
 identity ideal	1	0.03
 identity language	1	0.03
 identity linked	1	0.03
+identity logo	1	0.03
 identity marketing	1	0.03
 identity models	1	0.03
 identity network	1	0.03
@@ -80084,6 +80114,7 @@ incorporated business	1	0.03
 incorporated existing	1	0.03
 incorporated key	1	0.03
 incorporated skills	1	0.03
+incorporated time	1	0.03
 incorporates feedback	1	0.03
 incorporating conflux	1	0.03
 incorporating effective	1	0.03
@@ -80410,10 +80441,8 @@ individuals working	1	0.03
 individuals world	1	0.03
 indonesia english	1	0.03
 indonesia hire	1	0.03
-indonesia part	1	0.03
 indonesia research	1	0.03
 indonesia upload	1	0.03
-indonesia views	1	0.03
 indonesian chinese	1	0.03
 indonesian mastery	1	0.03
 indoors familiarity	1	0.03
@@ -81288,6 +81317,7 @@ innovators bring	1	0.03
 innovators work	1	0.03
 innovatrice au	1	0.03
 innovion newly	1	0.03
+innovion time	1	0.03
 inorganic digital	1	0.03
 input backend	1	0.03
 input based	1	0.03
@@ -82849,6 +82879,7 @@ io strong	1	0.03
 io strongly	1	0.03
 io telegram	1	0.03
 io tender	1	0.03
+io time	1	0.03
 io tokensale	1	0.03
 io upgraded	1	0.03
 io utrum	1	0.03
@@ -83188,6 +83219,7 @@ ito gas	1	0.03
 ito note	1	0.03
 ito payment	1	0.03
 itos history	1	0.03
+ittisa contract	1	0.03
 ittisa saves	1	0.03
 ittisa upload	1	0.03
 ittisa work	1	0.03
@@ -83216,6 +83248,7 @@ japan offices	1	0.03
 japan operating	1	0.03
 japan proven	1	0.03
 japan usa	1	0.03
+japan views	1	0.03
 japanese  interested	1	0.03
 japanese ability	1	0.03
 japanese consumer	1	0.03
@@ -83252,7 +83285,6 @@ java asp	1	0.03
 java aws	1	0.03
 java beneficial	1	0.03
 java big	1	0.03
-java blockchaincareerbuilders	1	0.03
 java considered	1	0.03
 java contributor	1	0.03
 java cryptographic	1	0.03
@@ -84237,6 +84269,7 @@ koios ecosystem	1	0.03
 koios platform	1	0.03
 koios project	1	0.03
 koios team	1	0.03
+koios time	1	0.03
 koios tokens	1	0.03
 koios upload	1	0.03
 kol channels	1	0.03
@@ -84272,7 +84305,6 @@ kordek lisk	1	0.03
 korea australia	1	0.03
 korea decentralized	1	0.03
 korea estonia	1	0.03
-korea japan	1	0.03
 korea malaysia	1	0.03
 korea nice	1	0.03
 korea preferred	1	0.03
@@ -84465,6 +84497,7 @@ labs stealth	1	0.03
 labs step	1	0.03
 labs strategic	1	0.03
 labs stream41	1	0.03
+labs time	1	0.03
 lack technical	1	0.03
 ladder taking	1	0.03
 lahko obrnete	1	0.03
@@ -84741,22 +84774,35 @@ latency protocol	1	0.03
 latest algorithm	1	0.03
 latest android	1	0.03
 latest architectural	1	0.03
+latest area	1	0.03
+latest back	1	0.03
 latest bitcoin	1	0.03
-latest chief	1	0.03
-latest community	1	0.03
+latest bitcointalk	1	0.03
+latest copywriter	1	0.03
 latest crypto	1	0.03
 latest eips	1	0.03
 latest events	1	0.03
 latest experimental	1	0.03
 latest fintech	1	0.03
+latest frontend	1	0.03
 latest happenings	1	0.03
+latest institutional	1	0.03
 latest interface	1	0.03
 latest intern	1	0.03
+latest japanese	1	0.03
 latest java	1	0.03
+latest junior	1	0.03
+latest lead	1	0.03
+latest marketing	1	0.03
+latest mining	1	0.03
 latest mobile	1	0.03
 latest open	1	0.03
 latest operation	1	0.03
+latest operations	1	0.03
 latest research	1	0.03
+latest smart	1	0.03
+latest software	1	0.03
+latest technical	1	0.03
 latest unbiased	1	0.03
 latex markdown	1	0.03
 latex styles	1	0.03
@@ -84989,7 +85035,6 @@ lead editor	1	0.03
 lead efficient	1	0.03
 lead empowered	1	0.03
 lead energetic	1	0.03
-lead energi	1	0.03
 lead engineering	1	0.03
 lead entrepreneurial	1	0.03
 lead events	1	0.03
@@ -85087,7 +85132,6 @@ leader cp	1	0.03
 leader demonstrating	1	0.03
 leader developed	1	0.03
 leader ethereum	1	0.03
-leader evermarkets	1	0.03
 leader excellent	1	0.03
 leader exceptional	1	0.03
 leader expert	1	0.03
@@ -86008,7 +86052,6 @@ limited budget	1	0.03
 limited competitive	1	0.03
 limited crafting	1	0.03
 limited creation	1	0.03
-limited customer	1	0.03
 limited definition	1	0.03
 limited developing	1	0.03
 limited drive	1	0.03
@@ -86034,7 +86077,6 @@ limited steemit	1	0.03
 limited supervision	1	0.03
 limited telegram	1	0.03
 limited thought	1	0.03
-limited time	1	0.03
 limited token	1	0.03
 limited travel	1	0.03
 limited understand	1	0.03
@@ -86448,6 +86490,7 @@ local product	1	0.03
 local region	1	0.03
 local regions	1	0.03
 local regulations	1	0.03
+local representative	1	0.03
 local requirements	1	0.03
 local seo	1	0.03
 local skills	1	0.03
@@ -86622,6 +86665,7 @@ logistics solutions	1	0.03
 logistics stipend	1	0.03
 logistics strategy	1	0.03
 logistics tracking	1	0.03
+logo designer	1	0.03
 logo presentation	1	0.03
 logo title	1	0.03
 logos graphics	1	0.03
@@ -87785,7 +87829,6 @@ management monitoring	1	0.03
 management multitasking	1	0.03
 management muse	1	0.03
 management negotiate	1	0.03
-management neuronchain	1	0.03
 management npm	1	0.03
 management offer	1	0.03
 management online	1	0.03
@@ -87887,6 +87930,7 @@ manager autowhale	1	0.03
 manager basic	1	0.03
 manager bffi	1	0.03
 manager bitility	1	0.03
+manager blockide	1	0.03
 manager bounty	1	0.03
 manager brave	1	0.03
 manager brazil	1	0.03
@@ -87916,7 +87960,6 @@ manager consistent	1	0.03
 manager copy	1	0.03
 manager copywriter	1	0.03
 manager crowdcreate	1	0.03
-manager cryptograph	1	0.03
 manager cryptohackers	1	0.03
 manager cryptoheresy	1	0.03
 manager cryptojournal	1	0.03
@@ -88033,6 +88076,7 @@ manager spanish	1	0.03
 manager spider	1	0.03
 manager sr	1	0.03
 manager stake	1	0.03
+manager stream41	1	0.03
 manager tasks	1	0.03
 manager tax	1	0.03
 manager tech	1	0.03
@@ -88059,7 +88103,6 @@ manager wazirx	1	0.03
 manager web3	1	0.03
 manager wings	1	0.03
 manager worldwide	1	0.03
-manager writer	1	0.03
 manager writing	1	0.03
 manager xtrabytes	1	0.03
 manager yearly	1	0.03
@@ -88269,9 +88312,9 @@ mandarin blockchain	1	0.03
 mandarin business	1	0.03
 mandarin compensation	1	0.03
 mandarin customer	1	0.03
-mandarin decentralized	1	0.03
 mandarin education	1	0.03
 mandarin enjoys	1	0.03
+mandarin ephelants360	1	0.03
 mandarin experience	1	0.03
 mandarin malaysian	1	0.03
 mandarin speaker	1	0.03
@@ -88574,6 +88617,7 @@ marketer passionate	1	0.03
 marketer plan	1	0.03
 marketer planning	1	0.03
 marketer scope	1	0.03
+marketer stacktical	1	0.03
 marketer tasked	1	0.03
 marketer track	1	0.03
 marketer understand	1	0.03
@@ -88619,6 +88663,7 @@ marketing auto	1	0.03
 marketing b2b	1	0.03
 marketing bangalore	1	0.03
 marketing bd	1	0.03
+marketing berlin	1	0.03
 marketing big	1	0.03
 marketing billing	1	0.03
 marketing broader	1	0.03
@@ -88730,7 +88775,6 @@ marketing metrics	1	0.03
 marketing mindset	1	0.03
 marketing mlm	1	0.03
 marketing mountain	1	0.03
-marketing muse	1	0.03
 marketing native	1	0.03
 marketing nebula	1	0.03
 marketing negotiating	1	0.03
@@ -89509,7 +89553,6 @@ media subsidiary	1	0.03
 media tasks	1	0.03
 media teams	1	0.03
 media telephone	1	0.03
-media time	1	0.03
 media tracking	1	0.03
 media true	1	0.03
 media updating	1	0.03
@@ -90279,6 +90322,7 @@ middleware enterprise	1	0.03
 middleware frontend	1	0.03
 midmarket enterprise	1	0.03
 mifiel professional	1	0.03
+mifiel time	1	0.03
 migrate ariba	1	0.03
 migrate database	1	0.03
 migrating logic	1	0.03
@@ -91278,7 +91322,6 @@ mothership content	1	0.03
 mothership exchange	1	0.03
 mothership foundation	1	0.03
 mothership hardcore	1	0.03
-mothership time	1	0.03
 motion work	1	0.03
 motivate clear	1	0.03
 motivate coach	1	0.03
@@ -91870,7 +91913,6 @@ negative keywords	1	0.03
 negative sentiment	1	0.03
 negative testing	1	0.03
 negociable crypto	1	0.03
-negociatable applications	1	0.03
 negociation fair	1	0.03
 negotation presentations	1	0.03
 negotiable contacts	1	0.03
@@ -92244,7 +92286,6 @@ neuronchain conceptualize	1	0.03
 neuronchain decentralized	1	0.03
 neuronchain open	1	0.03
 neuronchain rebuilding	1	0.03
-neuronchain time	1	0.03
 neuronchain upload	1	0.03
 neuronchain workable	1	0.03
 neuronex alignment	1	0.03
@@ -92560,6 +92601,7 @@ nos besoins	1	0.03
 nos clients	1	0.03
 nos monthly	1	0.03
 nos premi	1	0.03
+nos time	1	0.03
 nos valeurs	1	0.03
 nos working	1	0.03
 nosql blockchain	1	0.03
@@ -94199,6 +94241,7 @@ oix global	1	0.03
 oix legal	1	0.03
 oix li	1	0.03
 okex business	1	0.03
+okex indonesia	1	0.03
 okex users	1	0.03
 okr goal	1	0.03
 okr goals	1	0.03
@@ -94210,6 +94253,7 @@ older seekers	1	0.03
 oldest companies	1	0.03
 oldest cryptocurrency	1	0.03
 oltp systems	1	0.03
+olympiads pvt	1	0.03
 ome join	1	0.03
 omejeno odgovornostjo	1	0.03
 omni channel	1	0.03
@@ -95998,6 +96042,7 @@ packet capture	1	0.03
 packs article	1	0.03
 packs infographics	1	0.03
 packst selbst	1	0.03
+pagar views	1	0.03
 page action	1	0.03
 page applying	1	0.03
 page art	1	0.03
@@ -96396,6 +96441,7 @@ partner leads	1	0.03
 partner legitimate	1	0.03
 partner leopard	1	0.03
 partner live	1	0.03
+partner local	1	0.03
 partner make	1	0.03
 partner meetups	1	0.03
 partner neighboring	1	0.03
@@ -102091,6 +102137,7 @@ project stands	1	0.03
 project structure	1	0.03
 project submission	1	0.03
 project talking	1	0.03
+project time	1	0.03
 project timely	1	0.03
 project toastycoin	1	0.03
 project total	1	0.03
@@ -103287,7 +103334,6 @@ publish reading	1	0.03
 publish story	1	0.03
 publish timely	1	0.03
 publish work	1	0.03
-publish0x time	1	0.03
 publish0x upload	1	0.03
 published apis	1	0.03
 published app	1	0.03
@@ -103466,7 +103512,6 @@ putting power	1	0.03
 putting strategies	1	0.03
 putting umyou	1	0.03
 pvt astalakshmi	1	0.03
-pvt contract	1	0.03
 pw upwards	1	0.03
 pwa experience	1	0.03
 pyramid trust	1	0.03
@@ -104101,7 +104146,6 @@ raising strategy	1	0.03
 raising technical	1	0.03
 raisings knowledge	1	0.03
 rake ruby	1	0.03
-raketech remote	1	0.03
 raketech upload	1	0.03
 ral se	1	0.03
 rally people	1	0.03
@@ -104823,7 +104867,6 @@ recruit solidity	1	0.03
 recruit talented	1	0.03
 recruit team	1	0.03
 recruit telegram	1	0.03
-recruit time	1	0.03
 recruit versatile	1	0.03
 recruit virtual	1	0.03
 recruit work	1	0.03
@@ -105789,6 +105832,7 @@ remote application	1	0.03
 remote availability	1	0.03
 remote basis	1	0.03
 remote benefits	1	0.03
+remote berlin	1	0.03
 remote berminal	1	0.03
 remote bitcoin	1	0.03
 remote boston	1	0.03
@@ -105797,24 +105841,26 @@ remote candidates	1	0.03
 remote case	1	0.03
 remote comensation	1	0.03
 remote comp	1	0.03
+remote compiler	1	0.03
 remote consultants	1	0.03
+remote content	1	0.03
 remote crypto	1	0.03
-remote cto	1	0.03
-remote customer	1	0.03
 remote data	1	0.03
 remote developers	1	0.03
-remote director	1	0.03
 remote eclectic	1	0.03
-remote english	1	0.03
 remote europe	1	0.03
 remote expect	1	0.03
 remote experienced	1	0.03
+remote freelance	1	0.03
+remote frontend	1	0.03
 remote germany	1	0.03
-remote head	1	0.03
-remote indonesia	1	0.03
+remote guadalajara	1	0.03
+remote hong	1	0.03
+remote innovion	1	0.03
 remote internship	1	0.03
 remote join	1	0.03
 remote jr	1	0.03
+remote korea	1	0.03
 remote located	1	0.03
 remote locations	1	0.03
 remote long	1	0.03
@@ -105846,14 +105892,12 @@ remote report	1	0.03
 remote requirements	1	0.03
 remote requires	1	0.03
 remote resolution	1	0.03
-remote singapore	1	0.03
-remote social	1	0.03
 remote software	1	0.03
-remote stack	1	0.03
 remote starting	1	0.03
 remote stockholm	1	0.03
 remote strong	1	0.03
 remote system	1	0.03
+remote tallin	1	0.03
 remote tallinn	1	0.03
 remote tasks	1	0.03
 remote tech	1	0.03
@@ -106241,7 +106285,6 @@ representative crypico	1	0.03
 representative direct	1	0.03
 representative expected	1	0.03
 representative ico	1	0.03
-representative icobrands	1	0.03
 representative jmw	1	0.03
 representative location	1	0.03
 representative locoins	1	0.03
@@ -106934,7 +106977,6 @@ researcher passion	1	0.03
 researcher requirements	1	0.03
 researcher responsible	1	0.03
 researcher stay	1	0.03
-researcher wings	1	0.03
 researchers businessmen	1	0.03
 researchers community	1	0.03
 researchers complete	1	0.03
@@ -106977,6 +107019,7 @@ reserve local	1	0.03
 reserve london	1	0.03
 reserve money	1	0.03
 reserve of	1	0.03
+reserve time	1	0.03
 reserve tokens	1	0.03
 reserve upload	1	0.03
 reserved crafting	1	0.03
@@ -108213,7 +108256,6 @@ robustness of	1	0.03
 rock make	1	0.03
 rocket engine	1	0.03
 rocket fuel	1	0.03
-rockstar crypto	1	0.03
 rockstar marketing	1	0.03
 rockstar writers	1	0.03
 roi annual	1	0.03
@@ -108573,6 +108615,7 @@ ruby js	1	0.03
 ruby knowledge	1	0.03
 ruby language	1	0.03
 ruby lua	1	0.03
+ruby mifiel	1	0.03
 ruby net	1	0.03
 ruby passion	1	0.03
 ruby perl	1	0.03
@@ -108682,6 +108725,7 @@ russia preferable	1	0.03
 russia region	1	0.03
 russia serve	1	0.03
 russia turkish	1	0.03
+russia views	1	0.03
 russian ability	1	0.03
 russian french	1	0.03
 russian italian	1	0.03
@@ -108793,6 +108837,7 @@ saga independent	1	0.03
 sage intacct	1	0.03
 sage skills	1	0.03
 saisissant bien	1	0.03
+saiterm part	1	0.03
 sake of	1	0.03
 salamantex crypto	1	0.03
 salamantex upload	1	0.03
@@ -109172,6 +109217,7 @@ savvy freelance	1	0.03
 savvy leader	1	0.03
 savvy requirements	1	0.03
 savvy responsibilities	1	0.03
+savvy time	1	0.03
 savvy write	1	0.03
 sawtooth fabric	1	0.03
 sbe tdd	1	0.03
@@ -109529,6 +109575,7 @@ scientists provide	1	0.03
 scientists role	1	0.03
 scientists working	1	0.03
 scilla documentation	1	0.03
+scoop tech	1	0.03
 scoop upload	1	0.03
 scope  ability	1	0.03
 scope close	1	0.03
@@ -111603,6 +111650,7 @@ singapore seoul	1	0.03
 singapore serpent	1	0.03
 singapore shenzhen	1	0.03
 singapore solidity	1	0.03
+singapore time	1	0.03
 singapore top	1	0.03
 singapore trading	1	0.03
 singapore web3	1	0.03
@@ -112923,6 +112971,7 @@ solutions strategies	1	0.03
 solutions supply	1	0.03
 solutions supporting	1	0.03
 solutions teams	1	0.03
+solutions time	1	0.03
 solutions transform	1	0.03
 solutions unique	1	0.03
 solutions users	1	0.03
@@ -113381,7 +113430,6 @@ speaking fees	1	0.03
 speaking japanese	1	0.03
 speaking journalism	1	0.03
 speaking market	1	0.03
-speaking marketing	1	0.03
 speaking media	1	0.03
 speaking native	1	0.03
 speaking negotation	1	0.03
@@ -113425,6 +113473,7 @@ specialisms top	1	0.03
 specialist actively	1	0.03
 specialist arcadia	1	0.03
 specialist behalf	1	0.03
+specialist beincrypto	1	0.03
 specialist btcmanager	1	0.03
 specialist capable	1	0.03
 specialist company	1	0.03
@@ -113448,10 +113497,10 @@ specialist periodically	1	0.03
 specialist ready	1	0.03
 specialist rewardstoken	1	0.03
 specialist role	1	0.03
+specialist saiterm	1	0.03
 specialist social	1	0.03
 specialist south	1	0.03
 specialist state	1	0.03
-specialist wechain	1	0.03
 specialists apply	1	0.03
 specialists build	1	0.03
 specialists business	1	0.03
@@ -113535,7 +113584,6 @@ specific testnet	1	0.03
 specific token	1	0.03
 specific trading	1	0.03
 specific vertical	1	0.03
-specific yuser	1	0.03
 specifically ansible	1	0.03
 specifically applications	1	0.03
 specifically blockchain	1	0.03
@@ -113930,7 +113978,6 @@ stacktical comprehensive	1	0.03
 stacktical platform	1	0.03
 stacktical skills	1	0.03
 stacktical team	1	0.03
-stacktical time	1	0.03
 staff benefits	1	0.03
 staff candidate	1	0.03
 staff cash	1	0.03
@@ -114556,6 +114603,7 @@ status searching	1	0.03
 status seeking	1	0.03
 status small	1	0.03
 status speed	1	0.03
+status time	1	0.03
 status translate	1	0.03
 status updates	1	0.03
 status upgrades	1	0.03
@@ -114587,6 +114635,7 @@ steady return	1	0.03
 stealth addresses	1	0.03
 stealth blockchain	1	0.03
 stealth posting	1	0.03
+stealth project	1	0.03
 steamit reddit	1	0.03
 steem channel	1	0.03
 steem slack	1	0.03
@@ -115226,6 +115275,7 @@ stream41                         creating	1	0.03
 stream41 application	1	0.03
 stream41 requirements	1	0.03
 stream41 silicon	1	0.03
+stream41 time	1	0.03
 streaming flexible	1	0.03
 streaming jitsi	1	0.03
 streaming media	1	0.03
@@ -116089,7 +116139,6 @@ support api	1	0.03
 support apply	1	0.03
 support areas	1	0.03
 support asp	1	0.03
-support beaxy	1	0.03
 support berminal	1	0.03
 support bi	1	0.03
 support big	1	0.03
@@ -116201,7 +116250,6 @@ support questions	1	0.03
 support queue	1	0.03
 support recruiting	1	0.03
 support relationship	1	0.03
-support remote	1	0.03
 support rep	1	0.03
 support replying	1	0.03
 support representatives	1	0.03
@@ -116441,6 +116489,7 @@ switzerland ll	1	0.03
 switzerland originally	1	0.03
 switzerland part	1	0.03
 switzerland speak	1	0.03
+switzerland views	1	0.03
 swot analysis	1	0.03
 sydney australia	1	0.03
 sydney region	1	0.03
@@ -116978,6 +117027,7 @@ talking regulators	1	0.03
 talking sleek	1	0.03
 talks attending	1	0.03
 talks writing	1	0.03
+tallin views	1	0.03
 tallinn capital	1	0.03
 tallinn cryptography	1	0.03
 tallinn dapp	1	0.03
@@ -117818,6 +117868,7 @@ tech analysis	1	0.03
 tech angel	1	0.03
 tech articles	1	0.03
 tech attach	1	0.03
+tech austin	1	0.03
 tech aws	1	0.03
 tech azure	1	0.03
 tech b2b	1	0.03
@@ -117848,6 +117899,7 @@ tech form	1	0.03
 tech fridays	1	0.03
 tech genius	1	0.03
 tech guys	1	0.03
+tech hong	1	0.03
 tech hyderabad	1	0.03
 tech innovation	1	0.03
 tech insights	1	0.03
@@ -117893,6 +117945,7 @@ tech space	1	0.03
 tech specifically	1	0.03
 tech sydney	1	0.03
 tech tallinn	1	0.03
+tech tanjong	1	0.03
 tech telco	1	0.03
 tech time	1	0.03
 tech top	1	0.03
@@ -117900,6 +117953,7 @@ tech utrum	1	0.03
 tech viewpoints	1	0.03
 tech york	1	0.03
 tech zug	1	0.03
+tech zurich	1	0.03
 techcrunch skills	1	0.03
 technical ability	1	0.03
 technical accounting	1	0.03
@@ -118505,7 +118559,6 @@ tee arm	1	0.03
 tee skills	1	0.03
 tega sporo	1	0.03
 teko ban	1	0.03
-tekton contract	1	0.03
 tekton upload	1	0.03
 tel le	1	0.03
 telco blockchain	1	0.03
@@ -119327,7 +119380,6 @@ time consensus	1	0.03
 time contract	1	0.03
 time cost	1	0.03
 time critical	1	0.03
-time customer	1	0.03
 time da	1	0.03
 time dedicate	1	0.03
 time degree	1	0.03
@@ -119363,6 +119415,7 @@ time handle	1	0.03
 time higher	1	0.03
 time highly	1	0.03
 time hkeos	1	0.03
+time hong	1	0.03
 time hope	1	0.03
 time hourly	1	0.03
 time identify	1	0.03
@@ -120284,6 +120337,7 @@ trade revolutionary	1	0.03
 trade settlement	1	0.03
 trade show	1	0.03
 trade stocks	1	0.03
+trade time	1	0.03
 trade tokens	1	0.03
 traded company	1	0.03
 traded exchanged	1	0.03
@@ -120300,6 +120354,7 @@ tradeoffs risks	1	0.03
 tradeoffs stateful	1	0.03
 trader  analyze	1	0.03
 trader  excellent	1	0.03
+trader 8blockscapital	1	0.03
 trader bonus	1	0.03
 trader compensation	1	0.03
 trader create	1	0.03
@@ -120828,7 +120883,6 @@ translation transcription	1	0.03
 translation work	1	0.03
 translations compensation	1	0.03
 translations english	1	0.03
-translator bitrefill	1	0.03
 translator futurama	1	0.03
 translator main	1	0.03
 translator scale	1	0.03
@@ -121311,7 +121365,6 @@ two factor	1	0.03
 two way	1	0.03
 twofold empower	1	0.03
 twr ranking	1	0.03
-tx views	1	0.03
 txt white	1	0.03
 txt xml	1	0.03
 tydanielsmith rapidly	1	0.03
@@ -121426,6 +121479,7 @@ ui graphic	1	0.03
 ui guidelines	1	0.03
 ui html	1	0.03
 ui ideal	1	0.03
+ui identity	1	0.03
 ui involvement	1	0.03
 ui javascript	1	0.03
 ui kit	1	0.03
@@ -121874,6 +121928,7 @@ unittests merkle	1	0.03
 unity development	1	0.03
 unitycoin airdrop	1	0.03
 unitycoin coin	1	0.03
+unitycoin part	1	0.03
 unitycoin upload	1	0.03
 univec upload	1	0.03
 universal loyalty	1	0.03
@@ -122504,7 +122559,6 @@ ux conversions	1	0.03
 ux copywriting	1	0.03
 ux create	1	0.03
 ux defi	1	0.03
-ux desinger	1	0.03
 ux developer	1	0.03
 ux ensure	1	0.03
 ux essential	1	0.03
@@ -122816,7 +122870,6 @@ ventures venrock	1	0.03
 venue keeping	1	0.03
 venue research	1	0.03
 vera ai	1	0.03
-vera time	1	0.03
 vera upload	1	0.03
 verbal            important	1	0.03
 verbal  strong	1	0.03
@@ -123032,6 +123085,7 @@ views approaches	1	0.03
 views building	1	0.03
 views creatively	1	0.03
 views experience	1	0.03
+views featured	1	0.03
 views provide	1	0.03
 views strong	1	0.03
 views technical	1	0.03
@@ -123164,6 +123218,7 @@ vision support	1	0.03
 vision synchronized	1	0.03
 vision tangible	1	0.03
 vision technically	1	0.03
+vision time	1	0.03
 vision true	1	0.03
 vision understands	1	0.03
 vision website	1	0.03
@@ -124195,6 +124250,7 @@ windows networking	1	0.03
 windows operating	1	0.03
 windows servers	1	0.03
 windows system	1	0.03
+wings development	1	0.03
 wings foundation	1	0.03
 wings stiftung	1	0.03
 wings vision	1	0.03
@@ -125371,6 +125427,7 @@ writer ensure	1	0.03
 writer experience	1	0.03
 writer extensive	1	0.03
 writer feel	1	0.03
+writer fleta	1	0.03
 writer follow	1	0.03
 writer forkedblock	1	0.03
 writer freelance	1	0.03
@@ -125390,13 +125447,14 @@ writer peerblock	1	0.03
 writer preferably	1	0.03
 writer press	1	0.03
 writer promote	1	0.03
-writer publish0x	1	0.03
+writer raketech	1	0.03
 writer resistance	1	0.03
 writer skills	1	0.03
 writer storyteller	1	0.03
 writer superior	1	0.03
 writer team	1	0.03
 writer tech	1	0.03
+writer tekton	1	0.03
 writer thirst	1	0.03
 writer tokenist	1	0.03
 writer totle	1	0.03
@@ -125901,6 +125959,7 @@ yrs of	1	0.03
 ys experience	1	0.03
 yul javascript	1	0.03
 yup pm	1	0.03
+yuser contract	1	0.03
 yuser creative	1	0.03
 yuser empowers	1	0.03
 yuser establish	1	0.03
@@ -126016,6 +126075,7 @@ zum beispiel	1	0.03
 zurich hearth	1	0.03
 zurich needing	1	0.03
 zurich remote	1	0.03
+zurich switzerland	1	0.03
 zurich zug	1	0.03
 zusammen um	1	0.03
 zwischen der	1	0.03
