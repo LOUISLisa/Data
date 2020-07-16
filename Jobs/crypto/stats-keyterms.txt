@@ -1,36 +1,36 @@
 Total Index Files in Path: 3393
 Num Index Files Containing Key Terms: 3277
 
-remote	1924	58.71
+remote	1915	58.44
 ethereum	1693	51.66
 trading	1651	50.38
-smart contract	1608	49.07
-bitcoin	1591	48.55
+smart contract	1609	49.10
+bitcoin	1592	48.58
 solidity	1586	48.40
-business development	1541	47.02
 cryptography	1516	46.26
-wallet	1491	45.50
+business development	1502	45.83
+wallet	1492	45.53
 web-3	1470	44.86
 crypto enthusiast	1399	42.69
 cryptocurrency	703	21.45
-decentralized	553	16.88
-financial	544	16.60
-full time	371	11.32
+decentralized	554	16.91
+financial	545	16.63
+full time	369	11.26
 dapps	340	10.38
-javascript	299	9.12
+javascript	300	9.15
 startup	265	8.09
 cryptocurrencies	263	8.03
-ico	252	7.69
-blockchain developer	246	7.51
-react	186	5.68
+ico	253	7.72
+blockchain developer	245	7.48
+react	187	5.71
 nodejs	185	5.65
 python	173	5.28
-back end	169	5.16
-full stack	165	5.04
-software engineer	163	4.97
+back end	170	5.19
+full stack	164	5.00
+software engineer	164	5.00
 html	162	4.94
-java	161	4.91
-front end	160	4.88
+java	162	4.94
+front end	159	4.85
 agile	140	4.27
 analytical	140	4.27
 css	133	4.06
@@ -67,7 +67,7 @@ continuous integration	52	1.59
 android	51	1.56
 golang	51	1.56
 ui ux	51	1.56
-ruby	47	1.43
+ruby	48	1.46
 rust	45	1.37
 typescript	45	1.37
 mysql	44	1.34
@@ -79,10 +79,10 @@ truffle	40	1.22
 encryption	39	1.19
 health care	38	1.16
 microservices	37	1.13
+stellar	35	1.07
 unit test	35	1.07
 azure	34	1.04
 jquery	34	1.04
-stellar	34	1.04
 gaming	33	1.01
 proof of stake	33	1.01
 web applications	33	1.01
@@ -94,9 +94,9 @@ machine learning	30	0.92
 social network	30	0.92
 e-commerce	29	0.88
 jira	29	0.88
+sales manager	29	0.88
 application development	28	0.85
 big data	28	0.85
-sales manager	28	0.85
 disruptive	26	0.79
 risk management	26	0.79
 tdd	26	0.79
@@ -122,7 +122,6 @@ chef	16	0.49
 hedge funds	16	0.49
 json	16	0.49
 spring boot	16	0.49
-tokenization	16	0.49
 asset management	15	0.46
 blockchain based	15	0.46
 defi	15	0.46
@@ -132,6 +131,7 @@ django	15	0.46
 insurtech	15	0.46
 sdlc	15	0.46
 staking	15	0.46
+tokenization	15	0.46
 ansible	14	0.43
 crypto wallet	14	0.43
 mobile apps	14	0.43
@@ -247,6 +247,7 @@ object oriented design	3	0.09
 parallel programming	3	0.09
 privacy tech	3	0.09
 private keys	3	0.09
+proof of trade	3	0.09
 systems implementation	3	0.09
 user facing	3	0.09
 virtual reality	3	0.09
@@ -270,7 +271,6 @@ prediction markets	2	0.06
 proof of care	2	0.06
 proof of previous	2	0.06
 proof of profitability	2	0.06
-proof of trade	2	0.06
 quorum	2	0.06
 side chain	2	0.06
 side-chain	2	0.06
