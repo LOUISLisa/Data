@@ -1,163 +1,173 @@
-Total Index Files in Path: 311
-Num Index Files Containing Key Terms: 311
+Total Index Files in Path: 415
+Num Index Files Containing Key Terms: 415
 
-remote	311	100.00
-full time	281	90.35
-privacy	281	90.35
-cloud	195	62.70
-smart contract	183	58.84
-software engineer	160	51.45
-github	108	34.73
-terraform	106	34.08
-collaboration	100	32.15
-javascript	82	26.37
-ruby	82	26.37
-product manager	72	23.15
-back end	70	22.51
-aws	63	20.26
-startup	55	17.68
-cloud services	51	16.40
-distributed systems	51	16.40
-linux	45	14.47
-python	43	13.83
-react	43	13.83
-elasticsearch	42	13.50
-java	42	13.50
-financial	39	12.54
-front end	38	12.22
-analytical	36	11.58
-devops	34	10.93
-golang	34	10.93
-swift	33	10.61
-full stack	30	9.65
-html	29	9.32
-sql	29	9.32
-agile	28	9.00
-git	28	9.00
-business development	27	8.68
-frameworks	27	8.68
-parity	26	8.36
-protocols	25	8.04
-docker	24	7.72
-azure	23	7.40
-compliance	23	7.40
-algorithms	22	7.07
-typescript	22	7.07
-web applications	22	7.07
-health care	21	6.75
-consensus	20	6.43
-continuous integration	19	6.11
-data science	19	6.11
-kubernetes	19	6.11
-clarity	18	5.79
-solidity	16	5.14
-code review	15	4.82
-ansible	14	4.50
-internet of things	14	4.50
-css	13	4.18
-rust	13	4.18
-angular	12	3.86
-dapps	12	3.86
-decentralized	12	3.86
-nodejs	12	3.86
-visualization	12	3.86
-kotlin	11	3.54
-stellar	11	3.54
-web-3	11	3.54
-automated testing	10	3.22
-cryptocurrency	10	3.22
-layer-2	10	3.22
-tdd	10	3.22
-ci cd	9	2.89
-encryption	9	2.89
-machine learning	9	2.89
-puppet	9	2.89
-chef	8	2.57
-django	8	2.57
-jira	8	2.57
-mysql	8	2.57
-postgres	8	2.57
-enterprise software	7	2.25
-ethereum	7	2.25
-mongodb	7	2.25
-unit test	7	2.25
-advertising	6	1.93
-application development	6	1.93
-consensus algorithms	6	1.93
-cryptography	6	1.93
-cyber	6	1.93
-design patterns	6	1.93
-nosql	6	1.93
-scala	6	1.93
-scripting	6	1.93
-sdk	6	1.93
-android	5	1.61
-continuous deployment	5	1.61
-genetic	5	1.61
-identity management	5	1.61
-off-chain	5	1.61
-open source tools	5	1.61
-sales manager	5	1.61
-social impact	5	1.61
-backbone	4	1.29
-graphql	4	1.29
-intellectual curiosity	4	1.29
-microservices	4	1.29
-open source technologies	4	1.29
-restful apis	4	1.29
-risk management	4	1.29
-strategic planning	4	1.29
-test automation	4	1.29
-big data	3	0.96
-business intelligence	3	0.96
-cloud computing	3	0.96
-data analytics	3	0.96
-etl	3	0.96
-gaming	3	0.96
-information technology	3	0.96
-js frameworks	3	0.96
-kafka	3	0.96
-laravel	3	0.96
-middleware	3	0.96
-spark	3	0.96
-staking	3	0.96
-acceptance test	2	0.64
-banking	2	0.64
-blockchain developer	2	0.64
-containers	2	0.64
-data structures	2	0.64
-defi	2	0.64
-developing and deploying	2	0.64
-fraud	2	0.64
-hadoop	2	0.64
-information systems	2	0.64
-kanban	2	0.64
-marketplace	2	0.64
-network security	2	0.64
-numpy	2	0.64
-scrum	2	0.64
-social good	2	0.64
-supply chain	2	0.64
-user facing	2	0.64
-voting	2	0.64
-web-2	2	0.64
-artificial intelligence	1	0.32
-data warehousing	1	0.32
-disruptive	1	0.32
-e-commerce	1	0.32
-embedded	1	0.32
-fabric	1	0.32
-forensic	1	0.32
-jquery	1	0.32
-large scale deployment	1	0.32
-mobile apps	1	0.32
-proof of concepts	1	0.32
-quality engineer	1	0.32
-rancher	1	0.32
-real estate	1	0.32
-sass	1	0.32
-sdlc	1	0.32
-spring boot	1	0.32
-subscription based	1	0.32
-ui ux	1	0.32
-webpack	1	0.32
+remote	415	100.00
+full time	383	92.29
+privacy	383	92.29
+smart contract	263	63.37
+cloud	249	60.00
+software engineer	218	52.53
+terraform	140	33.73
+collaboration	133	32.05
+github	118	28.43
+ruby	105	25.30
+javascript	97	23.37
+product manager	92	22.17
+back end	91	21.93
+startup	85	20.48
+aws	74	17.83
+cloud services	72	17.35
+linux	68	16.39
+distributed systems	63	15.18
+react	60	14.46
+front end	59	14.22
+financial	55	13.25
+java	52	12.53
+python	52	12.53
+elasticsearch	51	12.29
+golang	45	10.84
+analytical	44	10.60
+business development	40	9.64
+full stack	38	9.16
+git	38	9.16
+html	38	9.16
+swift	38	9.16
+agile	36	8.67
+devops	36	8.67
+frameworks	36	8.67
+compliance	34	8.19
+parity	33	7.95
+sql	33	7.95
+docker	32	7.71
+health care	31	7.47
+azure	29	6.99
+protocols	27	6.51
+algorithms	26	6.27
+web applications	26	6.27
+typescript	25	6.02
+data science	24	5.78
+code review	23	5.54
+consensus	21	5.06
+kubernetes	21	5.06
+clarity	20	4.82
+continuous integration	20	4.82
+css	19	4.58
+solidity	18	4.34
+nodejs	17	4.10
+visualization	17	4.10
+ansible	16	3.86
+rust	16	3.86
+angular	15	3.61
+decentralized	15	3.61
+dapps	14	3.37
+postgres	13	3.13
+ci cd	12	2.89
+internet of things	12	2.89
+kotlin	12	2.89
+layer-2	12	2.89
+web-3	12	2.89
+android	11	2.65
+automated testing	11	2.65
+cryptocurrency	11	2.65
+jira	11	2.65
+nosql	11	2.65
+stellar	11	2.65
+unit test	11	2.65
+chef	10	2.41
+django	10	2.41
+machine learning	10	2.41
+mysql	10	2.41
+puppet	10	2.41
+scripting	10	2.41
+tdd	10	2.41
+design patterns	9	2.17
+encryption	9	2.17
+social impact	9	2.17
+ethereum	8	1.93
+mongodb	8	1.93
+sales manager	8	1.93
+advertising	7	1.69
+application development	7	1.69
+cryptography	7	1.69
+cyber	7	1.69
+enterprise software	7	1.69
+genetic	7	1.69
+kafka	7	1.69
+scala	7	1.69
+backbone	6	1.45
+business intelligence	6	1.45
+cloud computing	6	1.45
+consensus algorithms	6	1.45
+continuous deployment	6	1.45
+data analytics	6	1.45
+graphql	6	1.45
+sdk	6	1.45
+containers	5	1.20
+identity management	5	1.20
+intellectual curiosity	5	1.20
+microservices	5	1.20
+off-chain	5	1.20
+open source technologies	5	1.20
+open source tools	5	1.20
+restful apis	5	1.20
+test automation	5	1.20
+big data	4	0.96
+gaming	4	0.96
+marketplace	4	0.96
+numpy	4	0.96
+risk management	4	0.96
+strategic planning	4	0.96
+acceptance test	3	0.72
+artificial intelligence	3	0.72
+blockchain developer	3	0.72
+data structures	3	0.72
+defi	3	0.72
+e-commerce	3	0.72
+etl	3	0.72
+information technology	3	0.72
+js frameworks	3	0.72
+kanban	3	0.72
+laravel	3	0.72
+middleware	3	0.72
+mobile apps	3	0.72
+scrum	3	0.72
+social good	3	0.72
+spark	3	0.72
+staking	3	0.72
+voting	3	0.72
+web-2	3	0.72
+banking	2	0.48
+developing and deploying	2	0.48
+disruptive	2	0.48
+fraud	2	0.48
+hadoop	2	0.48
+information systems	2	0.48
+jquery	2	0.48
+network security	2	0.48
+proof of concepts	2	0.48
+quality engineer	2	0.48
+sass	2	0.48
+spring boot	2	0.48
+supply chain	2	0.48
+ui ux	2	0.48
+user facing	2	0.48
+websocket	2	0.48
+cloud experience	1	0.24
+data warehousing	1	0.24
+digital asset	1	0.24
+distributed application	1	0.24
+embedded	1	0.24
+fabric	1	0.24
+forensic	1	0.24
+functional program	1	0.24
+gradle	1	0.24
+haskell	1	0.24
+intellij	1	0.24
+large scale deployment	1	0.24
+multithreading	1	0.24
+rancher	1	0.24
+real estate	1	0.24
+sdlc	1	0.24
+subscription based	1	0.24
+webpack	1	0.24
+wireframes	1	0.24
