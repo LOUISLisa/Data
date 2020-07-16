@@ -1,257 +1,259 @@
-Total Index Files in Path: 2602
-Num Index Files Containing Key Terms: 1934
+Total Index Files in Path: 2735
+Num Index Files Containing Key Terms: 2067
 
-collaboration	912	47.16
-cloud	882	45.60
-compliance	831	42.97
-financial	810	41.88
-artificial intelligence	747	38.62
-java	574	29.68
-software engineer	530	27.40
-machine learning	522	26.99
-python	470	24.30
-agile	440	22.75
-business development	416	21.51
-internet of things	413	21.35
-javascript	408	21.10
-backbone	356	18.41
-html	318	16.44
-full time	276	14.27
-health care	257	13.29
-data analytics	253	13.08
-linux	252	13.03
-sql	252	13.03
-nodejs	242	12.51
-startup	226	11.69
-devops	223	11.53
-docker	223	11.53
-disruptive	214	11.07
-frameworks	212	10.96
-cloud computing	209	10.81
-disruptive technologies	201	10.39
-remote	193	9.98
-react	191	9.88
-aws	190	9.82
-analytical	189	9.77
-big data	188	9.72
-algorithms	182	9.41
-back end	181	9.36
-supply chain	178	9.20
-genetic	176	9.10
-banking	168	8.69
-clarity	168	8.69
-unit test	164	8.48
-product manager	162	8.38
-angular	156	8.07
-ethereum	156	8.07
-front end	154	7.96
-intellectual curiosity	153	7.91
-scripting	147	7.60
-kubernetes	145	7.50
-hyperledger	142	7.34
-kafka	140	7.24
-protocols	139	7.19
-css	131	6.77
-emerging technologies	131	6.77
-git	129	6.67
-health industry	123	6.36
-health organizations	123	6.36
-trading	121	6.26
-containers	120	6.20
-mongodb	120	6.20
-application development	112	5.79
-swift	112	5.79
-microservices	111	5.74
-quantum computing	111	5.74
-android	106	5.48
-digital asset	105	5.43
-hadoop	104	5.38
-information technology	101	5.22
-scrum	101	5.22
-distributed systems	98	5.07
-scala	98	5.07
-visualization	94	4.86
-information systems	93	4.81
-azure	92	4.76
-privacy	92	4.76
-consensus	88	4.55
-asset management	87	4.50
-data science	86	4.45
-cryptography	85	4.40
-full stack	84	4.34
-nosql	84	4.34
-github	80	4.14
-capital markets	77	3.98
-fabric	76	3.93
-encryption	75	3.88
-cloud services	74	3.83
-decentralized	74	3.83
-golang	73	3.77
-rust	73	3.77
-mysql	71	3.67
-data structures	70	3.62
-elasticsearch	70	3.62
-risk management	69	3.57
-lisp	68	3.52
-spark	67	3.46
-middleware	66	3.41
-dlt	65	3.36
-cryptocurrency	63	3.26
-maven	63	3.26
-cognitive systems	62	3.21
-electromagnetic	62	3.21
-object oriented	62	3.21
-jquery	60	3.10
-puppet	60	3.10
-embedded	58	3.00
-smart contract	58	3.00
-code review	57	2.95
-graphql	57	2.95
-business intelligence	56	2.90
-functional test	56	2.90
-ansible	55	2.84
-typescript	55	2.84
-ruby	54	2.79
-chef	53	2.74
-web applications	53	2.74
-exchanges	50	2.59
-ci cd	49	2.53
-continuous integration	49	2.53
-e-commerce	49	2.53
-sdk	49	2.53
-loans	48	2.48
-json	47	2.43
-hbase	45	2.33
-bitcoin	44	2.28
-tokenization	44	2.28
-npm	43	2.22
-cosmos	42	2.17
-kotlin	41	2.12
-restful apis	41	2.12
-cyber	40	2.07
-developing and deploying	38	1.96
-gaming	38	1.96
-permissioned	37	1.91
-tableau	36	1.86
-asset tokenization	35	1.81
-network security	35	1.81
-proof of concept	35	1.81
-senior consultant	35	1.81
-design patterns	34	1.76
-insurtech	34	1.76
-quorum	34	1.76
-automated testing	33	1.71
-cryptographic protocols	33	1.71
-nlp	33	1.71
-jira	32	1.65
-pharmaceutical	31	1.60
-marketplace	30	1.55
-solidity	30	1.55
-object oriented programming	29	1.50
-sto	29	1.50
-digital asset exchange	28	1.45
-fraud	27	1.40
-rdbms	27	1.40
-advertising	25	1.29
-intellij	25	1.29
-matlab	25	1.29
-peer to peer	25	1.29
-real estate	25	1.29
-tdd	25	1.29
-j2ee	24	1.24
-off-chain	23	1.19
-proof of concepts	23	1.19
-verilog	23	1.19
-anti money laundering	22	1.14
-cryptocurrencies	22	1.14
-high performance computing	22	1.14
-sdlc	22	1.14
-dapps	21	1.09
-mobile apps	21	1.09
-fpga	20	1.03
-proof of stake	20	1.03
-proof of work	20	1.03
-terraform	19	0.98
-vhdl	19	0.98
-data warehousing	18	0.93
-functional program	18	0.93
-test automation	18	0.93
-wallet	18	0.93
-wasm	18	0.93
-wireframes	18	0.93
-enterprise software	17	0.88
-etl	17	0.88
-blockchain platforms	16	0.83
-blockchain research	16	0.83
-object oriented design	15	0.78
-ripple	15	0.78
-spring boot	15	0.78
-django	14	0.72
-corda	13	0.67
-kyc	13	0.67
-postgres	13	0.67
-smart cities	13	0.67
-strategic planning	13	0.67
-ui ux	13	0.67
-digital banking	12	0.62
-distributed application	12	0.62
-gradle	12	0.62
-interoperability	12	0.62
-platform developer	12	0.62
-blockchain developer	11	0.57
-continuous deployment	11	0.57
-multithreading	11	0.57
-investment funds	10	0.52
-containerization	9	0.47
-haskell	9	0.47
-defi	8	0.41
-hedge funds	8	0.41
-blockchain architecture	7	0.36
-ecr	7	0.36
-mesh	7	0.36
-social impact	7	0.36
-truffle	7	0.36
-unit and functional test	7	0.36
-zero knowledge	7	0.36
-consensus algorithms	6	0.31
-crypto wallet	6	0.31
-deliver production	6	0.31
-gpus	6	0.31
-kanban	6	0.31
-open source technologies	6	0.31
-sass	6	0.31
-solr	6	0.31
-web-3	6	0.31
-webpack	6	0.31
-blockchain based	5	0.26
-cloud experience	5	0.26
-financial application	5	0.26
-identity management	5	0.26
-ipfs	5	0.26
-layer-2	5	0.26
-metamask	5	0.26
-opensource	5	0.26
-sales manager	5	0.26
-scikit	5	0.26
-stellar	5	0.26
-tcl	5	0.26
-blockstack	4	0.21
-cannabis	4	0.21
-cognitive automation	4	0.21
-geth	4	0.21
-acceptance test	3	0.16
-alteryx	3	0.16
-analytical and problem solving	3	0.16
-babel	3	0.16
-beacon	3	0.16
-cryptoasset	3	0.16
-encryption signatures	3	0.16
-hash functions	3	0.16
-ico	3	0.16
-numpy	3	0.16
-predictive analytics	3	0.16
-social good	3	0.16
-threat modeling	3	0.16
+collaboration	977	47.27
+cloud	937	45.33
+compliance	900	43.54
+financial	848	41.03
+artificial intelligence	782	37.83
+java	591	28.59
+machine learning	562	27.19
+software engineer	539	26.08
+python	487	23.56
+business development	462	22.35
+agile	460	22.25
+internet of things	460	22.25
+javascript	423	20.46
+backbone	403	19.50
+html	323	15.63
+full time	278	13.45
+linux	268	12.97
+health care	260	12.58
+sql	258	12.48
+data analytics	255	12.34
+nodejs	252	12.19
+startup	250	12.09
+docker	237	11.47
+frameworks	234	11.32
+devops	232	11.22
+disruptive	222	10.74
+cloud computing	217	10.50
+analytical	211	10.21
+aws	209	10.11
+react	203	9.82
+disruptive technologies	201	9.72
+big data	199	9.63
+remote	199	9.63
+genetic	198	9.58
+back end	185	8.95
+supply chain	185	8.95
+algorithms	183	8.85
+banking	178	8.61
+ethereum	171	8.27
+unit test	170	8.22
+product manager	169	8.18
+clarity	168	8.13
+angular	167	8.08
+front end	158	7.64
+kubernetes	158	7.64
+kafka	154	7.45
+intellectual curiosity	153	7.40
+scripting	150	7.26
+hyperledger	149	7.21
+protocols	148	7.16
+git	138	6.68
+css	134	6.48
+emerging technologies	133	6.43
+trading	133	6.43
+containers	123	5.95
+health industry	123	5.95
+health organizations	123	5.95
+mongodb	120	5.81
+asset management	116	5.61
+microservices	116	5.61
+digital asset	115	5.56
+quantum computing	114	5.52
+application development	113	5.47
+hadoop	112	5.42
+swift	112	5.42
+distributed systems	110	5.32
+information technology	109	5.27
+scrum	109	5.27
+azure	107	5.18
+android	106	5.13
+scala	104	5.03
+information systems	97	4.69
+consensus	95	4.60
+visualization	94	4.55
+privacy	92	4.45
+cryptography	90	4.35
+full stack	88	4.26
+nosql	88	4.26
+capital markets	87	4.21
+data science	86	4.16
+github	82	3.97
+rust	81	3.92
+fabric	79	3.82
+cloud services	77	3.73
+decentralized	77	3.73
+encryption	76	3.68
+data structures	75	3.63
+dlt	75	3.63
+golang	75	3.63
+mysql	73	3.53
+spark	73	3.53
+elasticsearch	70	3.39
+middleware	69	3.34
+risk management	69	3.34
+lisp	68	3.29
+cryptocurrency	67	3.24
+object oriented	67	3.24
+puppet	64	3.10
+maven	63	3.05
+cognitive systems	62	3.00
+electromagnetic	62	3.00
+jquery	62	3.00
+exchanges	60	2.90
+smart contract	60	2.90
+business intelligence	59	2.85
+code review	59	2.85
+embedded	59	2.85
+functional test	59	2.85
+graphql	59	2.85
+typescript	59	2.85
+ansible	56	2.71
+ruby	55	2.66
+web applications	55	2.66
+chef	54	2.61
+ci cd	54	2.61
+continuous integration	53	2.56
+gaming	53	2.56
+tokenization	52	2.52
+bitcoin	51	2.47
+e-commerce	50	2.42
+loans	50	2.42
+marketplace	50	2.42
+json	49	2.37
+sdk	49	2.37
+hbase	45	2.18
+asset tokenization	43	2.08
+npm	43	2.08
+cosmos	42	2.03
+kotlin	41	1.98
+restful apis	41	1.98
+cyber	40	1.94
+design patterns	40	1.94
+quorum	40	1.94
+real estate	40	1.94
+cryptographic protocols	38	1.84
+developing and deploying	38	1.84
+permissioned	37	1.79
+sto	37	1.79
+digital asset exchange	36	1.74
+tableau	36	1.74
+network security	35	1.69
+proof of concept	35	1.69
+senior consultant	35	1.69
+insurtech	34	1.64
+object oriented programming	34	1.64
+automated testing	33	1.60
+fraud	33	1.60
+jira	33	1.60
+nlp	33	1.60
+solidity	33	1.60
+pharmaceutical	31	1.50
+rdbms	28	1.35
+advertising	27	1.31
+tdd	27	1.31
+intellij	26	1.26
+peer to peer	26	1.26
+cryptocurrencies	25	1.21
+investment funds	25	1.21
+matlab	25	1.21
+j2ee	24	1.16
+proof of stake	24	1.16
+sdlc	24	1.16
+terraform	24	1.16
+anti money laundering	23	1.11
+off-chain	23	1.11
+proof of concepts	23	1.11
+verilog	23	1.11
+dapps	22	1.06
+high performance computing	22	1.06
+mobile apps	21	1.02
+data warehousing	20	0.97
+fpga	20	0.97
+proof of work	20	0.97
+wasm	20	0.97
+etl	19	0.92
+vhdl	19	0.92
+wallet	19	0.92
+distributed application	18	0.87
+functional program	18	0.87
+test automation	18	0.87
+wireframes	18	0.87
+enterprise software	17	0.82
+blockchain platforms	16	0.77
+blockchain research	16	0.77
+continuous deployment	15	0.73
+django	15	0.73
+kyc	15	0.73
+object oriented design	15	0.73
+ripple	15	0.73
+spring boot	15	0.73
+corda	14	0.68
+smart cities	14	0.68
+strategic planning	14	0.68
+interoperability	13	0.63
+postgres	13	0.63
+ui ux	13	0.63
+blockchain developer	12	0.58
+digital banking	12	0.58
+gradle	12	0.58
+platform developer	12	0.58
+multithreading	11	0.53
+ecr	10	0.48
+mesh	10	0.48
+containerization	9	0.44
+haskell	9	0.44
+defi	8	0.39
+hedge funds	8	0.39
+unit and functional test	8	0.39
+webpack	8	0.39
+blockchain architecture	7	0.34
+social impact	7	0.34
+truffle	7	0.34
+zero knowledge	7	0.34
+cloud experience	6	0.29
+consensus algorithms	6	0.29
+crypto wallet	6	0.29
+deliver production	6	0.29
+gpus	6	0.29
+kanban	6	0.29
+open source technologies	6	0.29
+sales manager	6	0.29
+sass	6	0.29
+solr	6	0.29
+stellar	6	0.29
+tcl	6	0.29
+web-3	6	0.29
+blockchain based	5	0.24
+financial application	5	0.24
+identity management	5	0.24
+ipfs	5	0.24
+layer-2	5	0.24
+metamask	5	0.24
+opensource	5	0.24
+scikit	5	0.24
+babel	4	0.19
+blockstack	4	0.19
+cannabis	4	0.19
+cognitive automation	4	0.19
+geth	4	0.19
+acceptance test	3	0.15
+alteryx	3	0.15
+analytical and problem solving	3	0.15
+beacon	3	0.15
+cryptoasset	3	0.15
+custodial	3	0.15
+encryption signatures	3	0.15
+hash functions	3	0.15
+ico	3	0.15
+numpy	3	0.15
+predictive analytics	3	0.15
+rabbit mq	3	0.15
+social good	3	0.15
+threat modeling	3	0.15
 circuit design	2	0.10
 crypto enthusiast	2	0.10
 dlt service	2	0.10
@@ -260,17 +262,16 @@ ecmascript	2	0.10
 libra network	2	0.10
 mainnet	2	0.10
 proof of eligibility	2	0.10
-rabbit mq	2	0.10
 rpc	2	0.10
 testnet	2	0.10
 vyper	2	0.10
+augmented reality	1	0.05
 besu24	1	0.05
 blockchain services	1	0.05
 chaincode	1	0.05
 couchdb	1	0.05
 crawling	1	0.05
 cryptoassets	1	0.05
-custodial	1	0.05
 dao	1	0.05
 decentralized systems	1	0.05
 erlang	1	0.05
