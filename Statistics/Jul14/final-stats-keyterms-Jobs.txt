@@ -1,0 +1,536 @@
+Total Contributing Documents: 29712
+
+
+======================    industry  ==========================================
+financial                          		9528		32.07
+trading                            		3744		12.60
+web-3                              		2827		9.51
+digital asset                      		2359		7.94
+internet of things                 		1987		6.69
+banking                            		1485		5.00
+supply chain                       		1435		4.83
+health care                        		1096		3.69
+emerging technologies              		682		2.30
+defi                               		599		2.02
+capital markets                    		558		1.88
+marketplace                        		549		1.85
+anti money laundering              		493		1.66
+digital asset exchange             		478		1.61
+fraud                              		460		1.55
+identity management                		424		1.43
+cyber                              		396		1.33
+advertising                        		394		1.33
+real estate                        		373		1.26
+middleware                         		325		1.09
+asset management                   		321		1.08
+kyc                                		316		1.06
+gaming                             		312		1.05
+hedge funds                        		302		1.02
+information systems                		293		0.99
+e-commerce                         		280		0.94
+mobile apps                        		245		0.82
+network security                   		176		0.59
+health industry                    		173		0.58
+health organizations               		173		0.58
+insurtech                          		143		0.48
+quantum computing                  		141		0.47
+asset tokenization                 		132		0.44
+virtual reality                    		123		0.41
+cannabis                           		122		0.41
+pharmaceutical                     		113		0.38
+investment funds                   		91		0.31
+social network                     		84		0.28
+blockchain interoperability        		73		0.25
+social impact                      		71		0.24
+voting                             		71		0.24
+privacy compliance                 		63		0.21
+digital banking                    		52		0.18
+crowdfunding                       		43		0.14
+lending platforms                  		43		0.14
+smart cities                       		43		0.14
+augmented reality                  		38		0.13
+mobile payments                    		37		0.12
+fraud detection                    		31		0.10
+gambling                           		26		0.09
+digital asset platform             		25		0.08
+web-2                              		21		0.07
+prediction markets                 		16		0.05
+legal tech                         		9		0.03
+social good                        		9		0.03
+privacy tech                       		7		0.02
+online games                       		6		0.02
+loyalty programs                   		5		0.02
+digital collectible                		4		0.01
+edtech                             		3		0.01
+credential information             		1		0.00
+financial exchanges                		1		0.00
+
+======================    skill  ==========================================
+java                               		5886		19.81
+javascript                         		5187		17.46
+solidity                           		4956		16.68
+python                             		4597		15.47
+nodejs                             		3921		13.20
+frameworks                         		2990		10.06
+react                              		2949		9.93
+angular                            		2383		8.02
+golang                             		2311		7.78
+linux                              		2079		7.00
+sql                                		2064		6.95
+html                               		1937		6.52
+corda                              		1666		5.61
+css                                		1465		4.93
+scripting                          		1374		4.62
+typescript                         		1332		4.48
+data structures                    		1194		4.02
+microservices                      		1191		4.01
+android                            		1187		4.00
+rust                               		1161		3.91
+nosql                              		1136		3.82
+mongodb                            		1080		3.63
+application development            		1040		3.50
+mysql                              		1012		3.41
+cloud computing                    		1011		3.40
+information technology             		985		3.32
+scala                              		924		3.11
+parity                             		893		3.01
+json                               		772		2.60
+ruby                               		750		2.52
+swift                              		739		2.49
+web applications                   		691		2.33
+j2ee                               		678		2.28
+functional program                 		621		2.09
+kotlin                             		588		1.98
+restful apis                       		520		1.75
+ui ux                              		505		1.70
+spark                              		434		1.46
+postgres                           		424		1.43
+geth                               		418		1.41
+jquery                             		372		1.25
+visualization                      		339		1.14
+npm                                		330		1.11
+clarity                            		325		1.09
+rabbit mq                          		319		1.07
+haskell                            		317		1.07
+blockstack                         		309		1.04
+embedded                           		279		0.94
+spring boot                        		261		0.88
+elasticsearch                      		236		0.79
+laravel                            		209		0.70
+django                             		201		0.68
+wireframes                         		195		0.66
+multithreading                     		182		0.61
+json-rpc                           		173		0.58
+rdbms                              		169		0.57
+matlab                             		144		0.48
+tableau                            		140		0.47
+wasm                               		139		0.47
+numpy                              		122		0.41
+strategic planning                 		113		0.38
+systems implementation             		113		0.38
+cloud experience                   		106		0.36
+intellij                           		104		0.35
+gradle                             		102		0.34
+lisp                               		83		0.28
+data warehousing                   		61		0.21
+analytical and problem solving     		59		0.20
+fpga                               		59		0.20
+websocket                          		47		0.16
+infura                             		42		0.14
+chaincode                          		41		0.14
+verilog                            		34		0.11
+erlang                             		29		0.10
+forensic                           		28		0.09
+predictive analytics               		24		0.08
+scikit                             		23		0.08
+vyper                              		22		0.07
+nethermind                         		21		0.07
+ewasm                              		20		0.07
+solr                               		17		0.06
+pgp                                		13		0.04
+ecmascript                         		12		0.04
+parallel programming               		12		0.04
+couchdb                            		10		0.03
+circuit design                     		5		0.02
+kendo ui                           		5		0.02
+waffle                             		4		0.01
+crawling                           		3		0.01
+ethereumjs                         		2		0.01
+fpga design                        		2		0.01
+besu24                             		1		0.00
+multigeth                          		1		0.00
+
+======================    blockchain  ==========================================
+bitcoin                            		9681		32.58
+cryptocurrency                     		9231		31.07
+smart contract                     		8093		27.24
+ethereum                           		7877		26.51
+cryptography                       		5340		17.97
+solidity                           		4956		16.68
+decentralized                      		4310		14.51
+dlt                                		3806		12.81
+wallet                             		3370		11.34
+hyperledger                        		3169		10.67
+consensus                          		2675		9.00
+dapps                              		2205		7.42
+cryptocurrencies                   		2006		6.75
+peer to peer                       		1987		6.69
+fabric                             		1952		6.57
+corda                              		1666		5.61
+crypto enthusiast                  		1429		4.81
+encryption                         		1330		4.48
+rust                               		1161		3.91
+ripple                             		938		3.16
+ico                                		903		3.04
+off-chain                          		893		3.01
+parity                             		893		3.01
+blockchain platforms               		850		2.86
+consensus algorithms               		825		2.78
+blockchain research                		797		2.68
+encryption signatures              		764		2.57
+ipfs                               		711		2.39
+terraform                          		659		2.22
+backbone                           		633		2.13
+stellar                            		625		2.10
+kotlin                             		588		1.98
+blockchain based                   		552		1.86
+stable coin                        		488		1.64
+digital asset exchange             		478		1.61
+geth                               		418		1.41
+proof of stake                     		412		1.39
+cryptoasset                        		411		1.38
+tokenization                       		398		1.34
+cosmos                             		394		1.33
+quorum                             		385		1.30
+metamask                           		369		1.24
+cryptographic protocols            		341		1.15
+blockchain architecture            		331		1.11
+clarity                            		325		1.09
+middleware                         		325		1.09
+cryptoassets                       		323		1.09
+blockstack                         		309		1.04
+proof of work                      		290		0.98
+tendermint                         		285		0.96
+ropsten                            		280		0.94
+custodial                          		219		0.74
+proof of talent                    		210		0.71
+lightning network                  		192		0.65
+zcash                              		186		0.63
+litecoin                           		175		0.59
+blockchain services                		173		0.58
+crypto wallet                      		170		0.57
+private keys                       		148		0.50
+mainnet                            		141		0.47
+cross-chain                        		139		0.47
+proof of concept                   		133		0.45
+staking                            		127		0.43
+sto                                		122		0.41
+tokenomics                         		118		0.40
+proof of concepts                  		111		0.37
+validator                          		101		0.34
+cryptographic principles           		98		0.33
+dao                                		97		0.33
+side-chain                         		90		0.30
+dlt service                        		78		0.26
+utility token                      		76		0.26
+testnet                            		68		0.23
+layer-2                            		62		0.21
+monero                             		61		0.21
+libra network                      		55		0.19
+infura                             		42		0.14
+chaincode                          		41		0.14
+multi-chain                        		38		0.13
+enterprise blockchain software     		34		0.11
+proof of bandwidth                 		33		0.11
+proof of trust                     		24		0.08
+babel                              		23		0.08
+vyper                              		22		0.07
+nethermind                         		21		0.07
+ewasm                              		20		0.07
+substrate                          		18		0.06
+remix                              		17		0.06
+drizzle                            		14		0.05
+ganache                            		13		0.04
+beacon                             		12		0.04
+proof of randomness                		8		0.03
+blockchain agnostic                		7		0.02
+serenity                           		7		0.02
+proof of location                  		6		0.02
+kovan                              		5		0.02
+proof of consent                   		5		0.02
+digital collectible                		4		0.01
+multi currency                     		4		0.01
+multi currency wallet              		4		0.01
+side chain                         		4		0.01
+waffle                             		4		0.01
+interoperability platform          		3		0.01
+proof of ability                   		3		0.01
+proof of delivery                  		3		0.01
+proof of insurance                 		3		0.01
+proof of trade                     		3		0.01
+trinity                            		3		0.01
+beacon chain                       		2		0.01
+proof of bitcoin                   		2		0.01
+proof of care                      		2		0.01
+proof of eligibility               		2		0.01
+proof of existence                 		2		0.01
+proof of identity                  		2		0.01
+proof of previous                  		2		0.01
+proof of profitability             		2		0.01
+proof of that                      		2		0.01
+proof of your                      		2		0.01
+rootstock                          		2		0.01
+staker                             		2		0.01
+stellar core                       		2		0.01
+besu24                             		1		0.00
+multigeth                          		1		0.00
+nodeops                            		1		0.00
+non custodial                      		1		0.00
+parachain                          		1		0.00
+proof of a                         		1		0.00
+proof of accessstorage             		1		0.00
+proof of address                   		1		0.00
+proof of age                       		1		0.00
+proof of authority                 		1		0.00
+proof of citizenship               		1		0.00
+proof of either                    		1		0.00
+proof of history                   		1		0.00
+proof of immunity                  		1		0.00
+proof of impact                    		1		0.00
+proof of performance               		1		0.00
+proof of pre-order                 		1		0.00
+proof of reserves                  		1		0.00
+proof of reward                    		1		0.00
+proof of same                      		1		0.00
+proof of skill?                    		1		0.00
+proof of space                     		1		0.00
+proof of spacetime                 		1		0.00
+proof of speed??????????????????   		1		0.00
+proof of staking                   		1		0.00
+proof of technology                		1		0.00
+proof of their                     		1		0.00
+proof of verification              		1		0.00
+proof of work?                     		1		0.00
+public keys                        		1		0.00
+
+======================    blockchain proofs  ==========================================
+proof of stake                     		412		1.39
+proof of work                      		290		0.98
+proof of talent                    		210		0.71
+proof of concept                   		133		0.45
+proof of concepts                  		111		0.37
+proof of bandwidth                 		33		0.11
+proof of trust                     		24		0.08
+proof of randomness                		8		0.03
+proof of location                  		6		0.02
+proof of consent                   		5		0.02
+proof of ability                   		3		0.01
+proof of delivery                  		3		0.01
+proof of insurance                 		3		0.01
+proof of trade                     		3		0.01
+proof of bitcoin                   		2		0.01
+proof of care                      		2		0.01
+proof of eligibility               		2		0.01
+proof of existence                 		2		0.01
+proof of identity                  		2		0.01
+proof of previous                  		2		0.01
+proof of profitability             		2		0.01
+proof of that                      		2		0.01
+proof of your                      		2		0.01
+proof of a                         		1		0.00
+proof of accessstorage             		1		0.00
+proof of address                   		1		0.00
+proof of age                       		1		0.00
+proof of authority                 		1		0.00
+proof of citizenship               		1		0.00
+proof of either                    		1		0.00
+proof of history                   		1		0.00
+proof of immunity                  		1		0.00
+proof of impact                    		1		0.00
+proof of performance               		1		0.00
+proof of pre-order                 		1		0.00
+proof of reserves                  		1		0.00
+proof of reward                    		1		0.00
+proof of same                      		1		0.00
+proof of skill?                    		1		0.00
+proof of space                     		1		0.00
+proof of spacetime                 		1		0.00
+proof of speed??????????????????   		1		0.00
+proof of staking                   		1		0.00
+proof of technology                		1		0.00
+proof of their                     		1		0.00
+proof of verification              		1		0.00
+proof of work?                     		1		0.00
+
+======================    position  ==========================================
+remote                             		7391		24.88
+blockchain developer               		6771		22.79
+software engineer                  		6596		22.20
+full time                          		5654		19.03
+compliance                         		3791		12.76
+business development               		3235		10.89
+back end                           		2814		9.47
+product manager                    		2462		8.29
+devops                             		2109		7.10
+full stack                         		1813		6.10
+front end                          		1781		5.99
+information technology             		985		3.32
+risk management                    		441		1.48
+sales manager                      		270		0.91
+business intelligence              		221		0.74
+senior consultant                  		90		0.30
+quality engineer                   		51		0.17
+platform developer                 		26		0.09
+hardware engineer                  		21		0.07
+hardware developer                 		3		0.01
+protocol developer                 		2		0.01
+sofware engineer                   		1		0.00
+
+======================    algorithm  ==========================================
+cryptography                       		5340		17.97
+artificial intelligence            		3265		10.99
+algorithms                         		3184		10.72
+consensus                          		2675		9.00
+machine learning                   		1615		5.44
+encryption                         		1330		4.48
+data analytics                     		987		3.32
+consensus algorithms               		825		2.78
+big data                           		778		2.62
+hash functions                     		770		2.59
+object oriented                    		758		2.55
+data science                       		626		2.11
+graphql                            		591		1.99
+hadoop                             		378		1.27
+object oriented design             		355		1.19
+merkle tree                        		333		1.12
+etl                                		181		0.61
+private keys                       		148		0.50
+matlab                             		144		0.48
+nlp                                		143		0.48
+cross-chain                        		139		0.47
+hbase                              		118		0.40
+object oriented programming        		83		0.28
+cognitive systems                  		65		0.22
+layer-2                            		62		0.21
+zero knowledge                     		32		0.11
+forensic                           		28		0.09
+threat modeling                    		26		0.09
+predictive analytics               		24		0.08
+babel                              		23		0.08
+scikit                             		23		0.08
+alteryx                            		14		0.05
+cognitive automation               		11		0.04
+object model                       		4		0.01
+interoperability platform          		3		0.01
+patricia tree                      		3		0.01
+datarobot                          		2		0.01
+nlu                                		2		0.01
+graph theory                       		1		0.00
+nlg                                		1		0.00
+public keys                        		1		0.00
+vector analysis                    		1		0.00
+
+======================    infastructure  ==========================================
+cloud                              		6666		22.44
+aws                                		4292		14.45
+docker                             		2999		10.09
+frameworks                         		2990		10.06
+kubernetes                         		2119		7.13
+devops                             		2109		7.10
+azure                              		1970		6.63
+git                                		1524		5.13
+github                             		1433		4.82
+parity                             		893		3.01
+kafka                              		886		2.98
+cloud services                     		762		2.56
+ci cd                              		690		2.32
+terraform                          		659		2.22
+containers                         		471		1.59
+jira                               		422		1.42
+geth                               		418		1.41
+ansible                            		407		1.37
+containerization                   		395		1.33
+webpack                            		373		1.26
+truffle                            		327		1.10
+maven                              		241		0.81
+chef                               		204		0.69
+puppet                             		200		0.67
+developing and deploying           		78		0.26
+nethermind                         		21		0.07
+rancher                            		21		0.07
+zookeeper                          		16		0.05
+gpus                               		15		0.05
+drizzle                            		14		0.05
+ganache                            		13		0.04
+large scale deployment             		2		0.01
+besu24                             		1		0.00
+multigeth                          		1		0.00
+
+======================    test  ==========================================
+unit test                          		700		2.36
+automated testing                  		409		1.38
+functional test                    		335		1.13
+tdd                                		278		0.94
+test automation                    		179		0.60
+unit and functional test           		165		0.56
+acceptance test                    		112		0.38
+
+======================    process  ==========================================
+agile                              		3558		11.97
+continuous integration             		1087		3.66
+code review                        		880		2.96
+scrum                              		852		2.87
+sdlc                               		703		2.37
+ci cd                              		690		2.32
+continuous deployment              		108		0.36
+kanban                             		92		0.31
+
+======================    generic  ==========================================
+privacy                            		8048		27.09
+startup                            		3689		12.42
+collaboration                      		3376		11.36
+distributed systems                		2568		8.64
+protocols                          		2389		8.04
+analytical                         		2186		7.36
+exchanges                          		1814		6.11
+genetic                            		1212		4.08
+distributed application            		864		2.91
+permissioned                       		793		2.67
+disruptive                         		759		2.55
+design patterns                    		693		2.33
+sdk                                		627		2.11
+enterprise software                		483		1.63
+disruptive technologies            		333		1.12
+intellectual curiosity             		290		0.98
+opensource                         		280		0.94
+interoperability                   		261		0.88
+loans                              		216		0.73
+decentralized systems              		174		0.59
+rpc                                		168		0.57
+financial application              		105		0.35
+sass                               		80		0.27
+standards protocols                		70		0.24
+interoperable                      		67		0.23
+electromagnetic                    		66		0.22
+mesh                               		58		0.20
+js frameworks                      		45		0.15
+open source technologies           		40		0.13
+vhdl                               		29		0.10
+ecr                                		26		0.09
+high performance computing         		26		0.09
+user facing                        		23		0.08
+mqtt                               		16		0.05
+open source tools                  		16		0.05
+rsk                                		16		0.05
+tcl                                		13		0.04
+decentralised systems              		7		0.02
+deliver production                 		6		0.02
+disruptive solutions               		4		0.01
+server side language               		3		0.01
+subscription based                 		3		0.01
+teneo                              		3		0.01
+amelia                             		2		0.01
+dataiku                            		2		0.01
+workfusion                         		2		0.01
+opencl                             		1		0.00
+quasar                             		1		0.00
