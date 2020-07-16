@@ -1,175 +1,240 @@
-Total Index Files in Path: 908
-Num Index Files Containing Key Terms: 908
+Total Index Files in Path: 1230
+Num Index Files Containing Key Terms: 1230
 
-remote	871	95.93
-bitcoin	817	89.98
-solidity	814	89.65
-blockchain developer	811	89.32
-cryptocurrency	82	9.03
-financial	54	5.95
-decentralized	49	5.40
-full time	44	4.85
-ethereum	38	4.19
-agile	32	3.52
-software engineer	32	3.52
-ico	31	3.41
-startup	31	3.41
-opensource	29	3.19
-parity	29	3.19
-stable coin	28	3.08
-back end	26	2.86
-front end	25	2.75
-javascript	24	2.64
-trading	23	2.53
-cryptography	22	2.42
-digital asset	22	2.42
-protocols	22	2.42
-cryptocurrencies	20	2.20
-business development	18	1.98
-peer to peer	18	1.98
-smart contract	18	1.98
-analytical	16	1.76
-ipfs	16	1.76
-product manager	16	1.76
-python	16	1.76
-react	16	1.76
-full stack	15	1.65
-privacy	15	1.65
-cloud	13	1.43
-distributed systems	13	1.43
-advertising	12	1.32
-css	12	1.32
-dapps	12	1.32
-devops	12	1.32
-html	12	1.32
-java	12	1.32
-typescript	12	1.32
-github	11	1.21
-microservices	11	1.21
-nodejs	11	1.21
-rust	11	1.21
-banking	10	1.10
-pharmaceutical	10	1.10
-collaboration	9	0.99
-compliance	9	0.99
-enterprise software	9	0.99
-code review	8	0.88
-git	8	0.88
-mysql	8	0.88
-frameworks	7	0.77
-sql	7	0.77
-test automation	7	0.77
-wallet	7	0.77
-aws	6	0.66
-continuous integration	6	0.66
-exchanges	6	0.66
-functional program	6	0.66
-gaming	6	0.66
-ui ux	6	0.66
-ci cd	5	0.55
-graphql	5	0.55
-kubernetes	5	0.55
-marketplace	5	0.55
-staking	5	0.55
-web-3	5	0.55
-clarity	4	0.44
-crypto wallet	4	0.44
-digital asset platform	4	0.44
-dlt	4	0.44
-docker	4	0.44
-e-commerce	4	0.44
-golang	4	0.44
-hadoop	4	0.44
-jira	4	0.44
-metamask	4	0.44
-ripple	4	0.44
-spark	4	0.44
-algorithms	3	0.33
-angular	3	0.33
-anti money laundering	3	0.33
-artificial intelligence	3	0.33
-consensus	3	0.33
-cyber	3	0.33
-disruptive	3	0.33
-encryption	3	0.33
-fabric	3	0.33
-genetic	3	0.33
-kafka	3	0.33
-kyc	3	0.33
-machine learning	3	0.33
-maven	3	0.33
-network security	3	0.33
-postgres	3	0.33
-proof of stake	3	0.33
-scala	3	0.33
-scripting	3	0.33
-tdd	3	0.33
-tendermint	3	0.33
-zcash	3	0.33
-android	2	0.22
-cloud computing	2	0.22
-cross-chain	2	0.22
-crypto enthusiast	2	0.22
-digital asset exchange	2	0.22
-financial application	2	0.22
-haskell	2	0.22
-health care	2	0.22
-json	2	0.22
-linux	2	0.22
-litecoin	2	0.22
-mobile apps	2	0.22
-monero	2	0.22
-proof of work	2	0.22
-restful apis	2	0.22
-risk management	2	0.22
-sales manager	2	0.22
-sdk	2	0.22
-subscription based	2	0.22
-supply chain	2	0.22
-unit test	2	0.22
-wasm	2	0.22
-web applications	2	0.22
-analytical and problem solving	1	0.11
-application development	1	0.11
-asset management	1	0.11
-asset tokenization	1	0.11
-azure	1	0.11
-blockchain based	1	0.11
-blockchain research	1	0.11
-consensus algorithms	1	0.11
-continuous deployment	1	0.11
-cosmos	1	0.11
-crawling	1	0.11
-data science	1	0.11
-data structures	1	0.11
-decentralized systems	1	0.11
-defi	1	0.11
-elasticsearch	1	0.11
-forensic	1	0.11
-hedge funds	1	0.11
-hyperledger	1	0.11
-information systems	1	0.11
-intellectual curiosity	1	0.11
-intellij	1	0.11
-jquery	1	0.11
-kotlin	1	0.11
-lightning network	1	0.11
-mainnet	1	0.11
-middleware	1	0.11
-mongodb	1	0.11
-nosql	1	0.11
-numpy	1	0.11
-proof of concepts	1	0.11
-rdbms	1	0.11
-scrum	1	0.11
-social network	1	0.11
-solr	1	0.11
-spring boot	1	0.11
-terraform	1	0.11
-testnet	1	0.11
-tokenization	1	0.11
-truffle	1	0.11
-validator	1	0.11
-visualization	1	0.11
-web-2	1	0.11
-webpack	1	0.11
+remote	1148	93.33
+bitcoin	1057	85.93
+solidity	1049	85.28
+blockchain developer	1044	84.88
+parity	607	49.35
+cryptocurrency	503	40.89
+ico	306	24.88
+agile	286	23.25
+stable coin	277	22.52
+opensource	266	21.63
+financial	201	16.34
+decentralized	167	13.58
+ethereum	122	9.92
+full time	92	7.48
+trading	90	7.32
+software engineer	88	7.15
+startup	85	6.91
+digital asset	82	6.67
+javascript	65	5.28
+protocols	64	5.20
+cryptocurrencies	58	4.72
+peer to peer	54	4.39
+smart contract	54	4.39
+front end	53	4.31
+cryptography	51	4.15
+back end	47	3.82
+product manager	45	3.66
+cloud	43	3.50
+banking	41	3.33
+python	41	3.33
+java	38	3.09
+exchanges	37	3.01
+full stack	37	3.01
+wallet	37	3.01
+devops	35	2.85
+distributed systems	35	2.85
+microservices	35	2.85
+typescript	35	2.85
+react	34	2.76
+business development	33	2.68
+privacy	32	2.60
+compliance	31	2.52
+analytical	30	2.44
+github	30	2.44
+ipfs	29	2.36
+dapps	25	2.03
+rust	25	2.03
+css	24	1.95
+frameworks	24	1.95
+marketplace	24	1.95
+web-3	23	1.87
+aws	22	1.79
+sql	22	1.79
+advertising	21	1.71
+dlt	21	1.71
+html	21	1.71
+consensus	20	1.63
+gaming	20	1.63
+collaboration	19	1.54
+pharmaceutical	19	1.54
+code review	18	1.46
+nodejs	18	1.46
+enterprise software	17	1.38
+git	17	1.38
+defi	16	1.30
+golang	16	1.30
+mysql	15	1.22
+ui ux	15	1.22
+algorithms	14	1.14
+functional program	14	1.14
+artificial intelligence	13	1.06
+crypto wallet	13	1.06
+digital asset exchange	13	1.06
+docker	12	0.98
+graphql	12	0.98
+hedge funds	12	0.98
+staking	12	0.98
+test automation	12	0.98
+blockchain research	11	0.89
+e-commerce	11	0.89
+fabric	11	0.89
+kubernetes	11	0.89
+nosql	11	0.89
+postgres	11	0.89
+ripple	11	0.89
+encryption	10	0.81
+kafka	10	0.81
+metamask	10	0.81
+proof of stake	10	0.81
+tokenization	10	0.81
+angular	9	0.73
+azure	9	0.73
+kyc	9	0.73
+machine learning	9	0.73
+risk management	9	0.73
+cloud computing	8	0.65
+continuous integration	8	0.65
+cyber	8	0.65
+disruptive	8	0.65
+internet of things	8	0.65
+scala	8	0.65
+spark	8	0.65
+supply chain	8	0.65
+asset management	7	0.57
+digital asset platform	7	0.57
+hadoop	7	0.57
+health care	7	0.57
+jira	7	0.57
+real estate	7	0.57
+tendermint	7	0.57
+anti money laundering	6	0.49
+application development	6	0.49
+blockchain based	6	0.49
+ci cd	6	0.49
+clarity	6	0.49
+cloud services	6	0.49
+litecoin	6	0.49
+maven	6	0.49
+monero	6	0.49
+object oriented	6	0.49
+sales manager	6	0.49
+social network	6	0.49
+android	5	0.41
+cosmos	5	0.41
+crowdfunding	5	0.41
+genetic	5	0.41
+hyperledger	5	0.41
+mainnet	5	0.41
+mobile apps	5	0.41
+network security	5	0.41
+solr	5	0.41
+zcash	5	0.41
+consensus algorithms	4	0.33
+cross-chain	4	0.33
+distributed application	4	0.33
+elasticsearch	4	0.33
+emerging technologies	4	0.33
+haskell	4	0.33
+interoperability	4	0.33
+linux	4	0.33
+loans	4	0.33
+mongodb	4	0.33
+proof of work	4	0.33
+scripting	4	0.33
+sdk	4	0.33
+terraform	4	0.33
+truffle	4	0.33
+voting	4	0.33
+web applications	4	0.33
+ansible	3	0.24
+augmented reality	3	0.24
+big data	3	0.24
+crypto enthusiast	3	0.24
+data science	3	0.24
+erlang	3	0.24
+financial application	3	0.24
+fraud	3	0.24
+geth	3	0.24
+information technology	3	0.24
+investment funds	3	0.24
+jquery	3	0.24
+json	3	0.24
+restful apis	3	0.24
+sto	3	0.24
+tdd	3	0.24
+testnet	3	0.24
+validator	3	0.24
+virtual reality	3	0.24
+wasm	3	0.24
+webpack	3	0.24
+analytical and problem solving	2	0.16
+blockchain agnostic	2	0.16
+capital markets	2	0.16
+continuous deployment	2	0.16
+cryptographic protocols	2	0.16
+data structures	2	0.16
+decentralized systems	2	0.16
+embedded	2	0.16
+etl	2	0.16
+identity management	2	0.16
+intellectual curiosity	2	0.16
+kotlin	2	0.16
+middleware	2	0.16
+off-chain	2	0.16
+rdbms	2	0.16
+scrum	2	0.16
+social impact	2	0.16
+spring boot	2	0.16
+subscription based	2	0.16
+tokenomics	2	0.16
+unit test	2	0.16
+utility token	2	0.16
+visualization	2	0.16
+web-2	2	0.16
+asset tokenization	1	0.08
+backbone	1	0.08
+blockchain platforms	1	0.08
+crawling	1	0.08
+cryptoasset	1	0.08
+cryptographic principles	1	0.08
+dao	1	0.08
+data analytics	1	0.08
+data warehousing	1	0.08
+digital banking	1	0.08
+encryption signatures	1	0.08
+ethereumjs	1	0.08
+forensic	1	0.08
+gambling	1	0.08
+hash functions	1	0.08
+information systems	1	0.08
+intellij	1	0.08
+interoperable	1	0.08
+json-rpc	1	0.08
+kanban	1	0.08
+layer-2	1	0.08
+legal tech	1	0.08
+lightning network	1	0.08
+mesh	1	0.08
+mobile payments	1	0.08
+numpy	1	0.08
+permissioned	1	0.08
+privacy tech	1	0.08
+private keys	1	0.08
+proof of concept	1	0.08
+proof of consent	1	0.08
+proof of speed??????????????????	1	0.08
+remix	1	0.08
+rsk	1	0.08
+ruby	1	0.08
+sass	1	0.08
+stellar	1	0.08
+strategic planning	1	0.08
+substrate	1	0.08
+swift	1	0.08
+websocket	1	0.08
+wireframes	1	0.08
+zero knowledge	1	0.08
