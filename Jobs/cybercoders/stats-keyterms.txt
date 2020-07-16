@@ -1,150 +1,150 @@
-Total Index Files in Path: 82
-Num Index Files Containing Key Terms: 82
+Total Index Files in Path: 86
+Num Index Files Containing Key Terms: 86
 
-full time	78	95.12
-software engineer	54	65.85
-remote	49	59.76
-compliance	36	43.90
-genetic	36	43.90
-privacy	36	43.90
-financial	35	42.68
-java	30	36.59
-typescript	30	36.59
-javascript	29	35.37
-react	26	31.71
-startup	26	31.71
-aws	24	29.27
-golang	24	29.27
-nodejs	23	28.05
-sdk	23	28.05
-cryptography	18	21.95
-python	18	21.95
-cosmos	17	20.73
-linux	16	19.51
-sql	16	19.51
-cryptocurrency	14	17.07
-rust	14	17.07
-android	13	15.85
-ethereum	13	15.85
-full stack	13	15.85
-decentralized	12	14.63
-devops	12	14.63
-docker	12	14.63
-solidity	12	14.63
-distributed systems	11	13.41
-health care	11	13.41
-kotlin	11	13.41
-swift	11	13.41
-agile	9	10.98
-bitcoin	9	10.98
-embedded	9	10.98
-kubernetes	9	10.98
-angular	8	9.76
-back end	8	9.76
-exchanges	8	9.76
-trading	8	9.76
-artificial intelligence	7	8.54
-blockchain developer	7	8.54
-git	7	8.54
-mysql	7	8.54
-jquery	6	7.32
-loans	6	7.32
-protocols	6	7.32
-web applications	6	7.32
-algorithms	5	6.10
-ci cd	5	6.10
-encryption	5	6.10
-frameworks	5	6.10
-front end	5	6.10
-graphql	5	6.10
-jira	5	6.10
-json	5	6.10
-machine learning	5	6.10
-stellar	5	6.10
-ansible	4	4.88
-azure	4	4.88
-cloud	4	4.88
-code review	4	4.88
-css	4	4.88
-defi	4	4.88
-html	4	4.88
-internet of things	4	4.88
-pharmaceutical	4	4.88
-restful apis	4	4.88
-scala	4	4.88
-scrum	4	4.88
-spark	4	4.88
-spring boot	4	4.88
-terraform	4	4.88
-automated testing	3	3.66
-data structures	3	3.66
-django	3	3.66
-e-commerce	3	3.66
-network security	3	3.66
-product manager	3	3.66
-ruby	3	3.66
-supply chain	3	3.66
-ui ux	3	3.66
-unit test	3	3.66
-wasm	3	3.66
-application development	2	2.44
-augmented reality	2	2.44
-banking	2	2.44
-chef	2	2.44
-collaboration	2	2.44
-containerization	2	2.44
-continuous integration	2	2.44
-fpga	2	2.44
-gaming	2	2.44
-haskell	2	2.44
-microservices	2	2.44
-middleware	2	2.44
-mobile apps	2	2.44
-nosql	2	2.44
-object oriented	2	2.44
-object oriented programming	2	2.44
-puppet	2	2.44
-websocket	2	2.44
-backbone	1	1.22
-big data	1	1.22
-containers	1	1.22
-cryptocurrencies	1	1.22
-cryptographic protocols	1	1.22
-cyber	1	1.22
-data analytics	1	1.22
-data science	1	1.22
-disruptive	1	1.22
-disruptive technologies	1	1.22
-dlt	1	1.22
-emerging technologies	1	1.22
-etl	1	1.22
-fpga design	1	1.22
-functional test	1	1.22
-github	1	1.22
-js frameworks	1	1.22
-kafka	1	1.22
-laravel	1	1.22
-marketplace	1	1.22
-matlab	1	1.22
-metamask	1	1.22
-mongodb	1	1.22
-multithreading	1	1.22
-numpy	1	1.22
-opencl	1	1.22
-peer to peer	1	1.22
-postgres	1	1.22
-rdbms	1	1.22
-risk management	1	1.22
-sales manager	1	1.22
-server side language	1	1.22
-strategic planning	1	1.22
-tableau	1	1.22
-tdd	1	1.22
-threat modeling	1	1.22
-truffle	1	1.22
-unit and functional test	1	1.22
-verilog	1	1.22
-vhdl	1	1.22
-visualization	1	1.22
-wallet	1	1.22
-web-3	1	1.22
+full time	82	95.35
+software engineer	58	67.44
+remote	55	63.95
+compliance	39	45.35
+financial	37	43.02
+genetic	37	43.02
+privacy	37	43.02
+javascript	32	37.21
+react	30	34.88
+typescript	30	34.88
+startup	29	33.72
+java	28	32.56
+aws	25	29.07
+sdk	25	29.07
+golang	24	27.91
+nodejs	24	27.91
+python	22	25.58
+sql	18	20.93
+cosmos	17	19.77
+cryptography	17	19.77
+linux	17	19.77
+full stack	16	18.60
+devops	14	16.28
+rust	14	16.28
+android	13	15.12
+cryptocurrency	13	15.12
+docker	13	15.12
+ethereum	13	15.12
+back end	12	13.95
+decentralized	12	13.95
+health care	12	13.95
+solidity	12	13.95
+distributed systems	11	12.79
+swift	11	12.79
+kubernetes	10	11.63
+bitcoin	9	10.47
+kotlin	9	10.47
+loans	9	10.47
+mysql	9	10.47
+agile	8	9.30
+ci cd	8	9.30
+exchanges	8	9.30
+trading	8	9.30
+angular	7	8.14
+blockchain developer	7	8.14
+embedded	7	8.14
+encryption	7	8.14
+front end	7	8.14
+algorithms	6	6.98
+artificial intelligence	6	6.98
+css	6	6.98
+git	6	6.98
+html	6	6.98
+jquery	6	6.98
+json	6	6.98
+protocols	6	6.98
+ruby	6	6.98
+stellar	6	6.98
+web applications	6	6.98
+ansible	5	5.81
+cloud	5	5.81
+frameworks	5	5.81
+graphql	5	5.81
+jira	5	5.81
+machine learning	5	5.81
+scala	5	5.81
+terraform	5	5.81
+unit test	5	5.81
+code review	4	4.65
+data structures	4	4.65
+defi	4	4.65
+django	4	4.65
+gaming	4	4.65
+internet of things	4	4.65
+restful apis	4	4.65
+scrum	4	4.65
+spark	4	4.65
+application development	3	3.49
+automated testing	3	3.49
+azure	3	3.49
+banking	3	3.49
+chef	3	3.49
+containerization	3	3.49
+continuous integration	3	3.49
+network security	3	3.49
+product manager	3	3.49
+puppet	3	3.49
+ui ux	3	3.49
+wasm	3	3.49
+augmented reality	2	2.33
+collaboration	2	2.33
+cyber	2	2.33
+e-commerce	2	2.33
+fpga	2	2.33
+haskell	2	2.33
+middleware	2	2.33
+mobile apps	2	2.33
+nosql	2	2.33
+supply chain	2	2.33
+websocket	2	2.33
+advertising	1	1.16
+analytical	1	1.16
+backbone	1	1.16
+big data	1	1.16
+business intelligence	1	1.16
+containers	1	1.16
+cryptocurrencies	1	1.16
+cryptographic protocols	1	1.16
+data analytics	1	1.16
+disruptive	1	1.16
+disruptive technologies	1	1.16
+dlt	1	1.16
+electromagnetic	1	1.16
+emerging technologies	1	1.16
+etl	1	1.16
+fpga design	1	1.16
+functional test	1	1.16
+github	1	1.16
+j2ee	1	1.16
+js frameworks	1	1.16
+laravel	1	1.16
+marketplace	1	1.16
+matlab	1	1.16
+metamask	1	1.16
+microservices	1	1.16
+multithreading	1	1.16
+npm	1	1.16
+opencl	1	1.16
+pharmaceutical	1	1.16
+postgres	1	1.16
+rdbms	1	1.16
+real estate	1	1.16
+sales manager	1	1.16
+scripting	1	1.16
+server side language	1	1.16
+spring boot	1	1.16
+strategic planning	1	1.16
+tableau	1	1.16
+tdd	1	1.16
+threat modeling	1	1.16
+truffle	1	1.16
+unit and functional test	1	1.16
+verilog	1	1.16
+vhdl	1	1.16
+visualization	1	1.16
+wallet	1	1.16
+web-3	1	1.16
