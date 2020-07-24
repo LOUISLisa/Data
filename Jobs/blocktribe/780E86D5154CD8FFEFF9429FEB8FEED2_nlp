@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?country=United%20States&p=9",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/job/9127/nlp-nlu-software-engineer-data-engineer/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?categories%5B%5D=Database%20Developer%2C%20Engineer%20and%20Administrator%20%7C%20Blockchain&country=United%20States",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "NLP/NLU Software Engineer, Data engineer | Blocktribe",
+    "Hash": "780E86D5154CD8FFEFF9429FEB8FEED2",
+    "Url": "https://blocktribe.com/job/9127/nlp-nlu-software-engineer-data-engineer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Industry: Financial Markets Location: SF, Remote OK Type: Full time Vectorspace AI is a natural language processing dataset company. We use formal and experimental NLP/NLU models originally developed by our team at Lawrence Berkeley National Lab for the purpose of extracting hidden relationships between objects like stocks, genes, and drug compounds. Our utility-token API gives financial institutions access to updating correlation matrix datasets used to generate alpha. Learn more about our recent work with Elastic here: https://www.elastic.co/blog/generating-and-visualizing-alpha-with-vectorspace-ai-datasets-and-canvas We are looking for an NLP/NLU Engineer to help us scale our enterprise-grade correlation matrix dataset API. Required skills:?? Python, word2vec, GloVe, Scikit-learn, pandas, numpy, NLP and other word embedding libraries, standard correlation coefficient calculations. Details:?? Vector analysis and creation of variants for correlation coefficient calculations. We're using Python primarily along with Tcl related to data engineering, crawling, vector analysis and general data science operations. Data pipelines are maintained in Python along with near real-time reporting and visualization. Experience: Intern, entry level, junior and senior engineering and product related positions are available. Compensation (range): Market Pay Rate 100k-140k Email me jobs like this About Vectorspace.ai Vectorspace AI is a natural language processing dataset company. We use formal and experimental NLP/NLU models originally developed by our team at Lawrence Berkeley National Lab for the purpose of extracting hidden relationships between objects like stocks, genes, and drug compounds. Our utility-token API gives financial institutions access to updating correlation matrix datasets used to generate alpha. ",
+    "Location": "Remote",
+    "CompanyName": "Lawrence",
+    "Salary": "100k-140k",
+    "PostedDate": "Not Found"
+}
