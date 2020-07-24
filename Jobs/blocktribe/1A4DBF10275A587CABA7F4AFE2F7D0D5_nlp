@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/13768/senior-backend-engineer/",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Senior Backend Engineer | Blocktribe",
+    "Hash": "1A4DBF10275A587CABA7F4AFE2F7D0D5",
+    "Url": "https://blocktribe.com/job/13768/senior-backend-engineer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " We are working with a niffty Mobile VR Start-up who recently got acquired on April 2nd, 2020 by one of the largest Companies who have ever come out of Sweden! They are crafting advanced AI algorithms into exciting consumer experiences for a well-known and beloved global brand, with hundreds of millions of users. Currently, they have an opening for a high-impact backend engineer who is excited to craft cloud services and web apps for our AI pipelines and consumer app. This could be a great opportunity for an ambitious, hands-on, backend engineer interested in mass-scale platforms, machine learning, 3D vision and mobile apps. Responsibilities: Create new cloud services, features, and APIs to power our web & mobile products. Design and develop backend systems and infrastructure. Build infrastructure to enhance, optimize, measure and monitor our machine learning and computer vision pipeline. Manage, enhance and optimize backend database store. Create and distribute internal web app and command line tools to support the engineering and R&D teams. Requirements: Strong expertise in Python in Linux environments. Experience PostgreSQL. Experience with Django desirable. Experience with Node.js desirable. Strong understanding of Git development workflows and branching. Experience with Docker. Bonus: Experience with Kubernetes. Experience with task & message queues (e.g. Celery, RabbitMQ, Airflow, etc.). Experience with React/Redux. Benefits: Opportunity to work in a dynamic R&D team of software developers, computer vision, AI, computational photography, AR, and graphics professionals. Excellent health & retirement benefits. 2 days WFH Email me jobs like this About Intelletec ",
+    "Location": "Mobile, United States",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
