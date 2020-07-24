@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/9389/security-engineer/",
+        "https://blocktribe.com/jobs/"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type%5B%5D=Permanent&country=Germany",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Security Engineer | Blocktribe",
+    "Hash": "C836427EDF8CC18A73861839E87F392A",
+    "Url": "https://blocktribe.com/job/9389/security-engineer/",
+    "CrawledDate": "2020-06-06",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " CK Technical are recruiting for a Blockchain Security Engineer to join a development company at their site based in Berlin on a permanent basis. The Company: Our client is a leading developer of open source core infrastructure and technology for blockchains and the web 3.0 tech stack utilising P2P networking, consensus algorithms, cryptography, databases, and decentralised applications. The Role: As a Blockchain Security Engineer you will be working with the development team to ensure security is at the forefront of new technology development. Your main duties will be: . Breaking the code, protocols and infrastructure to produce reproduction reports for the team. . Self directed investigation of code utilising a range of tools and approaches. . Software Validation. Your Background: . Experience in security research and engineering. . An understanding of blockchain technology and distributed computing algorithms. . Experience with Rust programming language would be ideal. . Experience with open source software development would be ideal. Entitlement to work in the country where the services will be delivered is essential. For more information please contact Alex Tosney on 01246 457715 or email atosney@cktechnical.co.uk. Please quote reference 47683 in all correspondence. TECHGEN Pay Rate \u20ac60,000 - \u20ac85,000 Email me jobs like this About CK Technical Specialist recruitment consultancy for the global Blockchain technology sector Blockchain technology has been rapidly expanding across the global landscape delivering a wide range of decentralised technology solutions for various markets including finance, communications, supply chain, and healthcare. Blockchain technology is currently undergoing rapid adoption across the globe with large names such as JP Morgan and Facebook entering the space in recent months. The technology can be used as a decentralised ledger for transaction information and is the underpinning structure for Cryptocurrencies. CK Technical has been recruiting in the DLT and blockchain market for over 12 months with success in multiple countries sourcing specialist development and support staff such as Project Managers, Information Security Officers, and Developers to help our clients succeed with their projects. As of 2020 CK Technical are happy to announce a standalone service offering focused on global recruitment for experienced staff within the blockchain sector. Services we offer: Permanent Recruitment Contract / Temporary Recruitment Executive Search and Selection ",
+    "Location": "Berlin, DE",
+    "CompanyName": "CK",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
