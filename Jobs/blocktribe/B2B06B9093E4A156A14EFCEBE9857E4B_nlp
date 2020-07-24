@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/job/9263/full-stack-backend-engineer-stellar-network-go-golang-node-js-firebase-google-cloud-platform-microservices-docker-kubernetes-serverless-api/",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/",
+    "RequiredMatch": "stellar",
+    "DocumentType": "JobBoards",
+    "Title": "Full-Stack/Backend Engineer | Stellar Network, Go / Golang, Node.js, Firebase, Google Cloud Platform, Microservices, Docker, Kubernetes, Serverless, API | Blocktribe",
+    "Hash": "B2B06B9093E4A156A14EFCEBE9857E4B",
+    "Url": "https://blocktribe.com/job/9263/full-stack-backend-engineer-stellar-network-go-golang-node-js-firebase-google-cloud-platform-microservices-docker-kubernetes-serverless-api/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " We are looking for excellent back-end Golang engineers to join our project. Location can be remote. We do not look at this as a job but we are building a collective of amazing engineers and people working together to create a revolutionary App, backed by a system with cutting edge tech. As a project we prioritize value generation first for everyone. Scope of Work: \u200b* Implementation and re-design of Cloud System Architecture * Constant performance testing and improvement of our Cloud Architecture\u200b???? * Lots of work around trading and high volume data handling and transfer * Design and implementation of a low-latency, high-availability, and performant algorithms * \u200bWork with Stellar, Codius & Interledger - Distributed Ledger Technologies * Working on completely novel financial products & services in the crypto/blockchain/DLT world, setting up the base-layer infrastructure of a trading system * Possibly Artificial Intelligence, Machine Learning and Deep Learning Skills & requirements \u200b* 3+ years of experience as a back-end engineer, language agnostic but Go, JavaScript, basic knowledge of NodeJS required. Would be good to have basic AngularJS/Angular 7 skills for data binding. * Strong proficiency & experience working with Golang, Microservices, Google Cloud Services and Firebase Services as well as Docker & Kubernetes. * \u200bExperience and passion working with distributed systems and networking, Stellar advantageous. * Strong interest in blockchains/DLT and related technologies, for our solution Stellar and potentially Codius & Interstellar will be required * Passion for delivering quality, secure code, robust architectures and proficient at testing * User authentication and authorization between multiple systems, servers, and environments * Interest in privacy and cryptography, trading and financial services * Potential Interest or experience in Artificial Intelligence, Machine Learning & Deep Learning *\u200bUnderstanding fundamental design principles behind various consensus algorithms *Understanding differences between dPOS, DAGs, Plasma, BFT, aBFT, etc. *Implementing automated testing platforms and unit tests *Proficient understanding of code versioning tools, such as Git Your education or experience is much less relevant than your skills and drive. We mainly look for people who are passionate about projects they work on and have the drive to see a project through. The code will be mostly done in Golang. ================================================================================== What to send: \u200b1] Anything that reflects on your knowledge and experience in the field 2] Links to your GitHub/Stack Overflow/Portfolio/something awesome you've built that you\u2019re proud of 3] A resume and/or LinkedIn profile 4] Ca you provide references for your work history? 5] How many hours/week would you be able to work on the project? 6] Are you fluent in English? Pay Rate TBD Email me jobs like this About GRAYLL A Simple App for Freedom, Prosperity & Wealth Inception Our vision is to offer an App which enables people to create freedom, prosperity & wealth without trading time for income.??The team has gained experience working at start-ups, hedge funds, investment firms, banks and listed global corporations.?? GRAYLL is focused on crypto-currency markets and tokenized assets. The systems can be applied to anything, for example commodities, art, real estate, weather metrics, social media trend data and so forth. GRAYLL will be simple to use for everyone like many popular mobile & web applications. Similar to Gmail, Instagram and Snapchat signing up and using the GRAYLL App will be a user friendly experience. Applied DLT & Machine Learning to an algorithmic financial system that creates exponential profits automatically, accessible via a simple App. ",
+    "Location": "Not Found",
+    "CompanyName": "Google",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
