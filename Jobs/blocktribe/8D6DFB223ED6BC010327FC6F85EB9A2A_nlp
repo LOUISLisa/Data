@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/job/9201/back-end-developer-express-js-and-node-js/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type%5B%5D=Permanent&state=Remote",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Back End Developer (Express.js and Node.js) | Blocktribe",
+    "Hash": "8D6DFB223ED6BC010327FC6F85EB9A2A",
+    "Url": "https://blocktribe.com/job/9201/back-end-developer-express-js-and-node-js/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " We\u2019re looking for talented developers with a range of skills to help us build the future of crypto payments. Our core consumer facing product, BlockCard, is a crypto debit card available in the US. We have built a whitelabel platform for easily onboarding partners to run their own cryptocurrency debit card programs using our technology. Existing partners include both Litecoin and Bitcoin.com. Ideal candidates live in either Charlotte, NC, Atlanta, GA, or Alpharetta, GA. Willing to hire remotely for exceptional candidates residing in the US. RESPONSIBILITIES Ultimately, you\u2019ll be responsible for helping our team build and maintain BlockCard. As an early member of our team, you have the opportunity to help shape our internal processes and culture. You will have a direct impact on our application architecture. You\u2019ll get the chance to work across a variety of technologies. As much of our team works remotely, we look for candidates with strong communication and problem solving skills. We expect you to be able to take end-to-end ownership of product features. You will become a subject matter expert as it pertains to our underlying application architecture. You should be well versed in debugging and troubleshooting user reported errors as well as providing fixes. You should be able to succinctly convey business requirements to the development team and de-obfuscate development decisions back to leadership. You will play on improving the underlying application architecture in terms of performance, caching, security, uptime, and error handling. You will be responsible with helping to move us to a CI/CD environment, which entails a shift in the development. REQUIREMENTS * A strong background in writing Node.js applications (i.e. Express.js) * A background in CS: algorithms, data structures, system design, and database design * A history of unit testing or behavior driven development experience * Prior experience with continuous integration and/or automated build tools such as Jenkins, CircleCI, or TravisCI * A strong interest in blockchain and cryptocurrencies (are you hodling?) EXPERIENCE We favor candidates with experience in several of the following languages and frameworks: * Node.js (Express.js and Typescript) * Laravel (PHP) * Go * Vue.js * React * React Native NICE TO HAVES * Experience working with highly available application architectures * API design experience * DevOps or Linux systems administration experience * Cloud management experience (AWS, Google Cloud) * Redis experience * MySQL and/or Postgres experience * Socket.IO (WebSockets) experience * Algorithmic trading experience Lastly, if you have prior experience working with blockchain related applications, exchange APIs, or core cryptocurrency nodes such as bitcoind, geth/parity, Stellar Horizon, or others, please let us know. Email me jobs like this About Ternio Ternio is driving the use of blockchain and cryptocurrency into everyday life by providing white-label products to enterprise customers. Ternio\u2019s crypto debit card (BlockCard) gives cryptocurrency real world spending power. Ternio\u2019s blockchain framework (Lexicon) demonstrates how blockchain can make business better, faster, more efficient. Ternio has solved the issues related to blockchain scalability and payment utility of cryptocurrency. BlockCard??? is crypto debit card platform enabling card holders to purchase what they want with cryptocurrency anywhere VISA is accepted. BlockCard is the fastest, cheapest, and most convenient way for consumers to use their cryptocurrency when and how they want. ",
+    "Location": "Remote",
+    "CompanyName": "PHP",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
