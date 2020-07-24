@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/job/9336/smart-contract-developers-for-defi-project/",
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type%5B%5D=Permanent&state=Victoria",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Smart Contract Developers for DeFi project | Blocktribe",
+    "Hash": "953F99ECB0E1829D9A4B3666ED87B864",
+    "Url": "https://blocktribe.com/job/9336/smart-contract-developers-for-defi-project/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " We're looking for smart contract developers to join our fast growing team at Konkrete. Konkrete is a real world asset tokenisation protocol for the DeFi ecosystem. Our first product is Konkrete.Finance, where we'll allow real estate developers to onboard their assets on chain as collateral for lenders. We're seeking switched on and capable developers to bring this product to market and refine it over time. We will also be building an open money market which will accept our assets as well any other assets which are onboarded via our protocol. Experience in DeFi protocols will be looked upon favourably but not critical. Remote work possible as long as you can work to our timezone business hours (Melbourne, VIC). Pay Rate $80k-$120k Email me jobs like this About Konkrete Konkrete is a real world asset tokenisation protocol ",
+    "Location": "Remote",
+    "CompanyName": "Konkrete",
+    "Salary": "$80k-$120k",
+    "PostedDate": "Not Found"
+}
