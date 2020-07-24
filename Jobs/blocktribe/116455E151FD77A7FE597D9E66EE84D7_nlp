@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/11032/backend-engineer/",
+        "https://blocktribe.com/jobs/"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type%5B%5D=Permanent&country=Poland",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Backend Engineer | Blocktribe",
+    "Hash": "116455E151FD77A7FE597D9E66EE84D7",
+    "Url": "https://blocktribe.com/job/11032/backend-engineer/",
+    "CrawledDate": "2020-05-20",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " ConsenSys is a blockchain software technology company focused on building infrastructure, tools, and products for Institutions, Enterprises, and developers. Our mission is to drive adoption of the decentralized world wide web (Web3) and the Ethereum ecosystem, the only current candidate to be the automatic, objective trust foundation and base settlement layer for the planet. About Codefi Compliance Codefi Compliance is building a regulatory and compliance service platform for digital assets to fulfill market and business requirements to meet regulatory expectations, build trust to Digital Assets & provide with approachable AML processes. At Codefi Compliance, we believe that the future of the global economy will be based on interconnected decentralised digital assets. Codefi Compliance is actively developing compliance technologies to help businesses in joining decentralised revolution effortlessly and support Governments, and people to prevent financial crimes and fraud. We are looking for backend developers to create a new RegTech solution that will reduce risks related to blockchain activities for all network participants.?? Responsibilities: A day in the life of a Backend Dev Ship high quality, well-tested code Communicate effectively about progress, ideas, problems Participate in product design thinking?? Grow with team, product and web3 world Ideal Experience and Skills Strong experience coding with Golang and Python Knowledge how to build, document, and maintain APIs, services, and systems Experience with SQL and/or NoSQL Experience in an Agile development team Good interpersonal skills and ability to work with constantly evolving, decentralized, diverse teams to get things done Self-sufficient, self-starter and a fast learner High levels of emotional intelligence supporting intellectually curiosity, professionalism, and dynamic conversations Nice to Have?? Working experience on Git, JIRA, Confluence Solid experience and background working with AWS services (EC2, VPC, ELB, S3, CloudFormation, RDS, Lambda, SQS, etc.) Experience with Spark, Scala Proven interest and knowledge of blockchain technologies and cryptocurrencies Enjoys finding new technologies and processes that make life easier Experience working with a distributed team Experience working in a start-up culture A willingness to help out where needed - regardless of the scope of your role ConsenSys is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our technology is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law.?? Click here for the latest updates from ConsenSys. ConsenSys is aware of fraudulent recruitment practices and we encourage all applicants to review our best practices to protect yourself which can be found here . Email me jobs like this About Token Foundry @ ConsenSys Consensys is a venture studio harnessing the power of Ethereum to build decentralized infrastructure and applications.??At the Token Foundry we look to onboard promising blockchain projects??and help facilitate safe and transparent token sales with sound protocol architectures. We have a strong sense of cryptoeconomics, game theory and decentralized ledger??systems to help consult??projects and??facilitate a new token economy!?? ",
+    "Location": "Codefi",
+    "CompanyName": "Codefi",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
