@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/9210/react-js-developer/",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type%5B%5D=Contractor",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "React JS Developer | Blocktribe",
+    "Hash": "15A469BD4F0D37D906A454308CA2A005",
+    "Url": "https://blocktribe.com/job/9210/react-js-developer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " We are a DeFi Liquidity project looking for an experienced React JS frontend Developer to help develop our Web DAPP.?? Ideally the candidate would also have web3 / truffle experience.?? This position can be remote for the right candidate.?? Pay Rate Depends on location/experience Email me jobs like this About Alkemi Alkemi offers a community-based liquidity solution to address the significant crypto-market price inefficiencies amidst fragmented centralized exchange markets; it further serves as a natural bridge to provide the liquidity required to support the influx of decentralized and peer to peer exchange platforms. ",
+    "Location": "Remote",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
