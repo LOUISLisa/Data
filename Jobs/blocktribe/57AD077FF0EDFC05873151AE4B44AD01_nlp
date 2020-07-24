@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?country=United%20States&p=9",
+    "OutLinks": [
+        "https://blocktribe.com/job/9355/backend-developer/",
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type%5B%5D=Remote",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Backend Developer | Blocktribe",
+    "Hash": "57AD077FF0EDFC05873151AE4B44AD01",
+    "Url": "https://blocktribe.com/job/9355/backend-developer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " We are f2pool??& stakefish We are a shark and a fish happily swimming together, creating a unique ecosystem within the crypto space! The shark, f2pool, is the leading Bitcoin and Ethereum mining pool serving more than 100 countries!?? We are home to over 40 PoW cryptocurrencies. The fish, stakefish, is a leading staking service provider, partnering with exciting new PoS projects. We provide a fair opportunity for everyone holding cryptocurrencies to contribute to network security and earn rewards! What are we looking for? Our next Backend Developer will: Create backend server code that are secure, fast and extensible Design database schema that??is performant, scalable and maintainable Leverage continuous integration and other modern techniques to improve development velocity Leverage automated testing framework to create test cases Build great products that are beautiful, simple, and delightful Continuously iterate and improve using collected metrics and direct user feedbacks Proactively make suggestions for improving our products and internal processes Is this you? Top-notch software engineers, with a passion for blockchain. 5+ years of experiences with creating complex software systems You should be well-versed in at least one programming language such as Python, Golang, Rust or Elixir and have no problem jumping to new ones. You should know your way around Linux and have a very good understanding of the stack of your choice \u2014 from the web framework and database, down to the network level protocols. Deep experience with databases such as PostgreSQL If those describe you, this is the right opportunity for you! Why are we awesome you ask? We are a truly global team! We are digital nomads coming from more than 12 different countries, working from wherever we want. We have a collective mission, to provide meaningful services and bring a unique value to users within the crypto space. We are looking for fun, curious and committed individuals to swim with us! Email me jobs like this About bitfish We know validating. ",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
