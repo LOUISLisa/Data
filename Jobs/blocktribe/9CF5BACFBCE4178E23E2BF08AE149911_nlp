@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/job/9156/blockchain-writer-researcher/",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?categories%5B%5D=Other%20%7C%20Blockchain",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Blockchain Writer & Researcher | Blocktribe",
+    "Hash": "9CF5BACFBCE4178E23E2BF08AE149911",
+    "Url": "https://blocktribe.com/job/9156/blockchain-writer-researcher/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Crypto Infos is a Blockchain, Digital Asset and Fintech News agency based in Europe with a focus on Fintech, DLTs, digital assets, Blockchain and education. We aim to expand our services and increase our community through regular high quality content articles, blogs and analysis. Our Digital Footprint so far: \u2022 https://cryptoinfos.eu \u2022 https://www.linkedin.com/company/crypto-infos ",
+    "Location": "Europe",
+    "CompanyName": "Infos",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
