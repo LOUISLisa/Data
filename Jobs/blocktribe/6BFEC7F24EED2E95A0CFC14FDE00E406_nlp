@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/job/9183/blockchain-writer/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?categories%5B%5D=%20Marketing%20%7C%20Blockchain",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Blockchain Writer | Blocktribe",
+    "Hash": "6BFEC7F24EED2E95A0CFC14FDE00E406",
+    "Url": "https://blocktribe.com/job/9183/blockchain-writer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " We are looking for a blockchain writer who has medium to advanced knowledge of blockchain technology and cryptocurrencies. You should be comfortable working in a startup environment, and are able to learn about complex blockchain related topics quickly. The ideal candidate will excel at explaining complex topics in a clear, concise, and easy-to-understand manner. In addition, you should have a passion for blockchain technology, cryptocurrencies, and web 3.0. ?? Duties: ?? Write several articles per week on topics surrounding the TOP Network platform. These could be educational technical articles, or anything you can think of to promote and spread the word about TOP. Work with members of the development team to understand new technological innovations regarding the platform, and relay that information to the community through easily digestible articles or other means.?? Help organize and setup meetups, hackathons, and other offline events. Interact with the TOP Network community and help out with community management through social media channels such as Telegram. Dream up new ideas to grow and expand the community, whether that be through YouTube videos, creative promotional activities, or anything else you can think of. Edit documents and articles created by the Chinese team after translation. Minimum Qualifications: ?? This is an on-site job. Must be located or willing to relocate to the Bay Area in California. Previous writing or journalism experience. An understanding of general blockchain related concepts including: consensus mechanisms, p2p networks, blockchain as a data structure, and some knowledge of the inner workings of Bitcoin and Ethereum. Willing to travel to China and other countries ?? Bonus Skills: ?? Being able to speak Mandarin is a plus, but not a requirement. Previous public speaking experience Email me jobs like this About TOP Network TOP Network is a full-stack blockchain platform built to support real-world businesses. TOP Network is powered by 4th-generation blockchain technology, and is the world\u2019s first full-state sharding public chain. Equipped with high TPS, airtight security, and extremely fast confirmation times, TOP Chain is a reliable platform for services demanding high-frequency transactions such as communications, gaming, social media, big data, artificial intelligence, IoT, and more. With a large 80 million user base from pre-existing communications applications, TOP Network is looking to storm the scene and finally bring mass adoption to the blockchain space. ",
+    "Location": "China",
+    "CompanyName": "TOP",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
