@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/job/9176/senior-software-developer/",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type%5B%5D=Permanent&state=Canton%20of%20Zug",
+    "RequiredMatch": "proof of stake",
+    "DocumentType": "JobBoards",
+    "Title": "Senior Software Developer | Blocktribe",
+    "Hash": "2FF94F0CEA6B9993CF91C301E2C60F19",
+    "Url": "https://blocktribe.com/job/9176/senior-software-developer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Alex Tosney is recruiting for a Software Developer to join a blockchain technology start-up to work on their proof of stake blockchain platform for distributed applications. This is a permanent position that can be 100% remote based. The main purpose of the role will be to define and implement state of the art technical solutions, that are scalable, measurable and secure. Further responsibilities will include: ?? Architect scalable backend systems, services, and APIs ?? Evolve our long-term vision for maintaining and scaling our backend systems ?? Design high reliability services that can withstand large fluctuations in traffic ?? Monitor our backend performance, identify performance bottlenecks, and find ways to reliably resolve them ?? Write backend code that is fast, reliable, but also highly secure ?? Maintain and evolve our quickly-growing test suite ?? Collaborate effectively with other staff to solve complex problems. ?? Provide mentorship and lead strong development practices inside the team. In order to be considered for this role, you will be required to have the following qualifications, skills and experience: ?? Working experience with Rust and a solid foundation with C++, Java, and/or Scala. ?? Experience with mathematics and computational mathematics within blockchain domain. ?? B.S., M.S., or Ph.D. in Computer Science, Math, or another technical field preferred (equivalent professional experience is acceptable) ?? Expertise in Scala. ?? Extensive professional experience in a full stack capacity ?? Experience leading a team of engineers ?? Experience with blockchain and smart contract technologies, related cryptographic principles, both theory & practice ?? DevOps knowledge For more information or to apply for this position, please contact Alex Tosney on 0041 (0) 41 7825 08 443 or email atosney@ckqls.ch. Please could you send any correspondence in English. Please quote reference 46898 in all correspondence. Email me jobs like this About CK Technical Specialist recruitment consultancy for the global Blockchain technology sector Blockchain technology has been rapidly expanding across the global landscape delivering a wide range of decentralised technology solutions for various markets including finance, communications, supply chain, and healthcare. Blockchain technology is currently undergoing rapid adoption across the globe with large names such as JP Morgan and Facebook entering the space in recent months. The technology can be used as a decentralised ledger for transaction information and is the underpinning structure for Cryptocurrencies. CK Technical has been recruiting in the DLT and blockchain market for over 12 months with success in multiple countries sourcing specialist development and support staff such as Project Managers, Information Security Officers, and Developers to help our clients succeed with their projects. As of 2020 CK Technical are happy to announce a standalone service offering focused on global recruitment for experienced staff within the blockchain sector. Services we offer: Permanent Recruitment Contract / Temporary Recruitment Executive Search and Selection ",
+    "Location": "Remote",
+    "CompanyName": "CK",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
