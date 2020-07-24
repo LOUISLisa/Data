@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/13705/senior-backend-engineer/",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Senior Backend Engineer | Blocktribe",
+    "Hash": "8AA970391914B204E872238E3FCB520D",
+    "Url": "https://blocktribe.com/job/13705/senior-backend-engineer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Our client's mission is to drive mainstream cryptocurrency adoption. As a software engineer, you will help build a platform accessible to hundreds of millions of users. Responsibilities Tackle and solve hard engineering and user experience problems in an elegant and seamless manner. Participate in all stages of development including refining product vision, gathering requirements, software system design, coding, testing, release, and support. Skills: Track record of shipping high quality projects Passion for cryptocurrencies Experience with API design and development Experience with unit and functional testing, debugging, and performance tuning Their stack is built using a combination of Python, Django, Node.js, Go, PostgreSQL, Redis, and backbone.js. (Prior experience with these exact languages/technologies is not required.) Email me jobs like this About Intelletec ",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
