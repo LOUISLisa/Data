@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/job/13770/head-of-infrastructure-devops-u0026-sre/",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Head of Infrastructure (DevOps \\u0026 SRE) | Blocktribe",
+    "Hash": "C58804816CD0D4434A23E150C2666E22",
+    "Url": "https://blocktribe.com/job/13770/head-of-infrastructure-devops-u0026-sre/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Intelletec has partnered with a fintech startup that is looking for its first Infrastructure Engineer to help them define and implement how they deploy and run software in the cloud. This is an opportunity to start as an individual contributor and help us build and lead the Infrastructure Engineering team. You are a self-starter passionate about automation who is comfortable working cross-functionally with other teams. What you'll do : Work in a small, tight knit cross-functional team Be part of a high energy, fun, world class engineering team Contribute to the design, implementation and running of a high-volume, low-latency, distributed transaction processing systems See your contributions make a weekly impact to an evolving product What you bring: BA/BS degree in Computer Science or a related technical field 5+ years relevant work experience Strong Computer Science fundamentals Solid grasp of your favorite modern programming language Passion for uptime and automation Knowledge of best practices related to security, performance, and disaster recovery Brownie points for : Familiarity with Google Cloud and Google Kubernetes Engine Working knowledge of Kubernetes PostgreSQL experience Familiarity with Agile, CI/CD, DevOps Tech Stack: Kotlin, Java gRPC, Protocol Buffers, jOOQ, Dagger, Swagger PostgreSQL Google Kubernetes Engine Good to know : Competitive salary based on experience, with full medical and dental benefits Stock in an early stage startup that is growing Flexible WFH and vacation policy Free daily lunches Free snacks & drinks Monthly team events outside the office Monthly stipend for commuter benefits and card testing Office right next to Caltrain Email me jobs like this About Intelletec ",
+    "Location": "Not Found",
+    "CompanyName": "Google",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
