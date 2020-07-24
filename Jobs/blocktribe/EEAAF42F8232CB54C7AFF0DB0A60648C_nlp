@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/9328/analytic-ga/",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?categories%5B%5D=Other%20%7C%20Blockchain",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Analytic GA | Blocktribe",
+    "Hash": "EEAAF42F8232CB54C7AFF0DB0A60648C",
+    "Url": "https://blocktribe.com/job/9328/analytic-ga/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Hello We are looking for someone who can set up and pass moderation on our google account advertising for blockchain casino.???? search and banner ads through google ads to any countries (except the USA) Long-term work if everything goes well. ?? Please write if you have experience and you are sure that you know how to make traffic and pass moderation Email me jobs like this About Workagency ",
+    "Location": "United StatesA",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
