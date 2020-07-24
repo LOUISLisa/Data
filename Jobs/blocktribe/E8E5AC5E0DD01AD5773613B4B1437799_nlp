@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/9414/software-developer/",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?categories%5B%5D=DevOps%20%7C%20Blockchain&job_type%5B%5D=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Software Developer | Blocktribe",
+    "Hash": "E8E5AC5E0DD01AD5773613B4B1437799",
+    "Url": "https://blocktribe.com/job/9414/software-developer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " About the role We are looking for talented developers with a minimum of 2 years experience to join our fast-growing tech team to develop, implement, integrate and support the next generation of cryptocurrency services for the fast-growing community of digital currency investors. Our ideal candidate is a passionate and entrepreneurial problem-solver who wants to work in an early stage business, start-up environment. Our mission is to make digital currency investments simple, safe and secure for everyone and we aspireto be more than a typical cryptocurrency wallet: we\u2019re setting out to solve all the problems that exist around owning cryptocurrency with a product that\u2019s fair, transparent and easy to use. We are a Cardiff-based fintech / insurtech start up so you will be in at the beginning working with us to change the way people accumulate, hold and manage their cryptocurrency. This will be a fun and dynamic, yet challenging role which will suit someone who is focused, embraces change and wants to create something completely new. Requirements A minimum 2 years of working full time in a commercial development environment. Team player - ??work is agile at its core, with collaborative workshop and team at heart of every deliverable, so the ability to effectively contribute to this process is essential. Prepared to learn new technologies, face and resolve challenges and consistently deliver to high standards. Agile experience (eg. Scrum/Kanban) DevOps experience desired but not essential Security architecture and awareness desired but not essential Essential Skills Go Mongo JS/Vue Node Docker/Containerisation Git and understanding of effective source control Additional Skills Mongo aggregation AWS. (S3, EC2, ECC, Elastic Bean Stalk) CI/CD platforms Linux / Bash Package Competitive salary and bonus scheme. Share options available. Pension. Flexible and remote working available. Central office in Cardiff Bay area. Why Coincover? Coincover was founded in 2018 in Cardiff with the aim of making owning cryptocurrency safer and more accessible. It is the first and only service to guarantee digital funds will not be lost or stolen. By combining insurance with the latest security features, Coincover significantly reduces risk and makes digital currency investments simple, safe and secure for retail and business customers. Coincover is growing fast. Since our initial launch in June we are already covering more than 10,000 wallets, protecting more than $250 Million in crypto assets, have helped recover $300K+ funds. Yet, this is just the beginning and this is a brilliant opportunity to get in on a start-up right at the beginning. Cryptocurrency ownership is growing fast and getting more mainstream but to many it still feels like a risky investment. Coincover is changing this. Backed by Hambro Perks Insurtech Gateway, the Development Bank of Wales and others, we are creating the easiest way to protect and manage digital currency anywhere in the world. Apply Please send your CV along with a message as to why your are interested in the role to??careers@coincover.com Email me jobs like this About Coincover Coincover is the leader in delivering security and assurance in cryptocurrency for individual investors, fund managers, professional traders and corporate customers. Founded in 2018, we provide lost key protection, cryptocurrency wills, theft insurance and accumulation plans for our customers. We are regulated by the UK Financial Conduct Authority, backed by venture capital and the Welsh Government Bank, with insurance provided by Lloyds of London members. Our founding team have, finance, blockchain, technology and cybersecurity expertise having worked with the UK Government, NASDAQ listed companies, the police, and armed forces. We used this experience to design and build a comprehensive digital asset security platform for consumers and business customers. This platform enables us to offer a growing range of real-world services for the digital asset marketplace. ",
+    "Location": "Remote",
+    "CompanyName": "Development",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
