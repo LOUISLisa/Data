@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/job/9255/blockchain-engineers/",
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?categories%5B%5D=Software%20Architect%20%7C%20Blockchain&job_type%5B%5D=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Blockchain Engineers | Blocktribe",
+    "Hash": "C3B451B7BC6CC532A60CDD847FD4F92B",
+    "Url": "https://blocktribe.com/job/9255/blockchain-engineers/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " We are looking for some great blockchain Developers and team leaders who would be interested in joining a well funded FinTech Start-Up in Abu Dhabi. Role description: Develop Ethereum smart contracts course and trainees studying Work with the latest technologies (Ethereum/Solidity, web3.js, truffle) Provide intro to the Ethereum ecosystem for the trainees Studying trainees of smart contracts development, testing, migrating to the public test networks and main network ??Required skills: Excellent understanding of the Ethereum technology Understanding how Ethereum virtual machine works Strong experience in Solidity Ethereum smart contracts testing Experience with next stack: solidity, web3.js, truffle ??Desired skills: Experience with EOS, Tezos Excellent English communication skills Email me jobs like this About Cander Group We deliver wold class talent to world class clients. Specializing in everything digital and fintech - Cander is your GO TO recruiter in the industry?? ",
+    "Location": "Abu Dhabi, AE",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
