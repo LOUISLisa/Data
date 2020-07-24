@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?country=United%20States&p=9",
+    "OutLinks": [
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/9444/principal-blockchain-engineer/",
+        "https://blocktribe.com/jobs/"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?country=United%20States&p=9",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Principal Blockchain Engineer | Blocktribe",
+    "Hash": "37BF4CC675E49BB5D6410E038DCBDEA0",
+    "Url": "https://blocktribe.com/job/9444/principal-blockchain-engineer/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Abra Want to transform the financial industry? Abra is working on the world's first multi-currency, multi-crypto mobile wallet that lets you buy, sell, hold, and send fiat and crypto currencies all in the palm of your hand. Position Overview Abra is looking for blockchain experts who wants to work on smart contracts, multi-signatures, and block chain inputs and outputs. You will write server side code that powers Abra's mobile apps. You will build a robust and scalable backend infrastructure that facilitates cryptocurrency transactions between smartphone users all around the world. You are the go to person on the team, leading other engineers technically to build great products. Finally, you will also help with writing test automation to assure that our solutions delight our customers. Responsibilities Collaboratively identify product requirements and design architecture with Product, UX, and Mobile App development team Write server side REST APIs for crypto-currency transactions Develop smart contracts with multi-signature capabilities Write automated tests for those APIs Conduct early project scoping and collaborate with cross-functional teams. Skills and Requirements +5 Years in server side development Deep experience in UTXOs, blockchain, P2SH, experience with BitcoinJ a plus Deep expertise in REST and RESTful APIs JBehave or Cucumber equivalent, Git, continuous integration tools (Jenkins) Ability to work effectively, efficiently and independently with minimal oversight Excellent organizational skills and attention to detail Strong communication, collaboration and interpersonal skills. BS/MS in Computer Science or a related field Experience in modern test techniques such as Test and Behavior Driven Development (TDD and BDD) Familiarity with Agile / Scrum Email me jobs like this About ABRA At Abra, we\u2019re making cryptocurrency investing simple. Abra operates an easy to use app - with 20 cryptos and 50 fiat currencies available. Users can buy, sell, store, and invest in cryptocurrencies, plus manage all crypto investments, in one single place. Our vision is an open, global financial system that is easily accessible to everyone. ",
+    "Location": "Abra",
+    "CompanyName": "Position",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
