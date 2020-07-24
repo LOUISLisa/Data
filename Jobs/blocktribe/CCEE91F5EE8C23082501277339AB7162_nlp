@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career",
+        "https://blocktribe.com/job/13703/sr-python-engineer-data-engineering/"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Sr Python Engineer (Data Engineering) | Blocktribe",
+    "Hash": "CCEE91F5EE8C23082501277339AB7162",
+    "Url": "https://blocktribe.com/job/13703/sr-python-engineer-data-engineering/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Senior Python Engineer (Data Engineer) ",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
