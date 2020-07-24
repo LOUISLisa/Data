@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/13717/director-of-data-engineering/",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Director of Data Engineering | Blocktribe",
+    "Hash": "ADFC4A8F046E6F643943DAD7D075174C",
+    "Url": "https://blocktribe.com/job/13717/director-of-data-engineering/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Our fast-growing Healthtech company is looking for a Director of Data Engineering for a new area of the business. Have you worked in the Health and Wellness space and have a passion for driving better health and financial outcomes for individuals? Does your passion for building and scaling teams get you out of bed every morning? The Analytics Engineering team is currently looking for an exceptional Director of Engineering to join our team in Wellesley MA/ Hartford CT. POSITION SUMMARY Directs the activities of one or more data engineering teams. Provides operational as well strategic leadership for the design, development, testing and delivery of large scale data centric frameworks and integration. Fundamental Components: Leads development and execution of highly complex and large scale data structures and pipelines to organize, collect and standardize data to generate insights and addresses reporting needs. Leads big data centric migration efforts from on-prem to cloud platforms, hands on experience with cloud engineering and migration. Leverages broad knowledge of market-leading edge technologies and specialized expertise in programming skills such as Python or Java or any of the major languages to creatively solve highly complex business problems. Anticipates and solves highly complex problems with detailed knowledge of multiple programming languages and data infrastructure. BACKGROUND/EXPERIENCE desired: 10 or more years of progressively experience leading engineering teams, in a hands-on fashion. Extensively knowledge and experience with big data/Hadoop technologies. Extensively knowledge and experience with cloud architecture and engineering, with at least one major platform (AWS, Azure, GCP). Expert experience implementing complex, enterprise-wide data transformation and processing solutions. Expertise in Java, Python, Hive, Cassandra, Pig, MySQL or NoSQL or similar. Superior collaboration and communication skills within and across teams. Strong problem solving skills and critical thinking ability. Email me jobs like this About Intelletec ",
+    "Location": "Wellesley, Massachusetts, United States",
+    "CompanyName": "Analytics",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
