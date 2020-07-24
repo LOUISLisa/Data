@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/job/13706/product-data-analyst-blockchain/",
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Product Data Analyst (Blockchain) | Blocktribe",
+    "Hash": "583387A70CF3D932F9136423BC16BC15",
+    "Url": "https://blocktribe.com/job/13706/product-data-analyst-blockchain/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " A fast-growing Blockchain company based in the Bay Are are looking for a Product focused Data Analyst to join a growing team Skills : You will do deep data dives and track metrics around our product in order to understand how it is being used, how recent changes have affected metrics, and where optimization opportunities are for our business and product. You will also work on data-analytic projects with marketing, life-cycle, operations, the executive team that require you to have flexible quantitative skills. You will communicate your findings in presentations, build dashboards and visualizations, and be the go-to person for questions about data. Work closely with product manager and product design team. Experience : You have an excellent product sense and 2+ years industry experience in product analytics. Given that you will work across a variety of domains in this role, the ideal person would also have some experience in business, marketing or operations analytics but that is not as important as product analytics. You should have strong SQL skills which will not only enable you to drill deeply down into the data looking for insights but to also help others on the team gain access to more insightful data (e.g., dashboards). If you can supplement or mostly replace SQL with Python, that's a plus but not necessary. Given that this role will require you to present your findings, visually in dashboards and in presentations, and to work with people across teams, it is critical that you are an excellent communicator. Ideally, you would have experience either with visualization tools, or Pythonic approaches to data visualization. You should also have strong quantitative skills and a basic understanding in statistics (e.g., when you find an interesting pattern, you can figure out when it is just noise). We are not, however, looking for someone with a background in machine learning and advanced statistics. You should be able to work independently and take ownership of your projects. Compensation Circa $150,000 base To find out more get in touch with william@intelletec.com Email me jobs like this About Intelletec ",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "$150,000",
+    "PostedDate": "Not Found"
+}
