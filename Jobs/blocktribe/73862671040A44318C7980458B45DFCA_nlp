@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/job/9145/software-architect/",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?categories%5B%5D=Software%20Architect%20%7C%20Blockchain",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Software Architect | Blocktribe",
+    "Hash": "73862671040A44318C7980458B45DFCA",
+    "Url": "https://blocktribe.com/job/9145/software-architect/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Who we are: IOV provides universal name service for wallet users. \"We believe in a world where anyone can create their own blockchain and integrate it into a global ecosystem.\"\u200b IOV solves the problem of complexity, human error and lack of interoperability when exchanging digital assets on the blockchain. Job description What we can offer * Challenging work in the blockchain space * Opportunity to take responsibility for the platform and the services * Collaborative environment and a place to learn and innovate * Real projects, a good codebase, and a running platform * We love open source and contribute back to the community * Remote work via Slack, Github, Zoom Some technologies we use * Go * Typescript * NodeJs * Tendermint * Protobuf * Terraform * Kubernetes * Prometheus * Grafana ** IOV is an equal opportunity employer, supporting inclusiveness in all aspects of life, including Religion, Sex, Gender Identity, Sexuality, Age, Disability, Ethnicity and Race. ** Email me jobs like this About IOV Access all blockchains from one personalized address. ",
+    "Location": "Remote",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
