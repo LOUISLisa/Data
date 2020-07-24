@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/job/11029/apply-here-if-you-don-t-see-a-job-listed/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type%5B%5D=Permanent&state=Massachusetts",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Apply HERE (if you don't see a job listed) | Blocktribe",
+    "Hash": "3DD50C13B7A942500FDEDC5AAFDEB986",
+    "Url": "https://blocktribe.com/job/11029/apply-here-if-you-don-t-see-a-job-listed/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Description Opportunities at Elliptic We're always on the lookout for exceptional talent so if you can't see a role listed that fits your exact skill set, send your CV across along with a brief introduction of yourself, the type of role you're interested in and why you think you're a great fit for Elliptic. If we think there could be a match, we'll be in touch! About us: At Elliptic, we believe cryptocurrency will play a huge role in the future of value transfer, and we care deeply about helping to build this future. In order for cryptocurrency to flourish, it's important to prevent criminal abuse of the technology. Elliptic is the global leader in detecting, preventing, and pursuing criminal activity in cryptocurrencies. Our clients include the world's leading cryptocurrency exchanges, financial institutions and government agencies. Our unique platform gives us an unparalleled understanding of cryptocurrency capital flows, using a combination of network science and machine learning to aggregate and interpret vast quantities of transaction data. We provide anti-money laundering (AML) compliance software and investigative services to the leading participants in the cryptocurrency ecosystem. Customers rely on us to analyse more than $150bn of their transactions every month, and include cryptocurrency businesses, major financial institutions, and federal government agencies. The company has offices in London, NYC, Singapore & Tokyo. We are backed by SBI Group, Albion VC, Octopus Ventures, SignalFire, Paladin Capital, Santander InnoVentures, and Digital Currency Group. Elliptic is not a traditional financial services firm. We pride ourselves on having a laid-back and friendly ethos, while still expecting great things from our team. Fascinating work is the norm - working at Elliptic is never boring! Benefits Competitive salary Share options Private health insurance & wellness incentive programmes Work pension scheme Shiny laptop and multiple monitors Budget for training materials, events, and conferences Collaborative, flexible and friendly environment with options for remote working Quarterly full day offsites Annual company 3 day offsite Coffee and beer! Being part of a business with a purpose, and the opportunity to work with a passionate team of mission-driven people who'll stretch and challenge you Email me jobs like this About Elliptic We identify illicit activity on the Bitcoin blockchain and provide actionable intelligence to financial institutions and law enforcement agencies. We believe Blockchains are the future of value transfer: Wedbush and the World Economic Forum have independently estimated that by 2025, 10% of economic activity will be on blockchains. Blockchains promise to bring a new world of value exchange; but they will also bring a new world of illicit activity. Clients have used Elliptic to assess risk on more than $2BN in bitcoin transactions, and we have supported live investigations with law enforcement in the US, UK and EU. \u201c[Elliptic] will be a huge benefit to Bitcoin-related businesses attempting to decrease risk factors.\u201d - The Telegraph \u201c[Elliptic\u2019s software] is a big deal for banks\u201d - Business Insider ",
+    "Location": "Remote",
+    "CompanyName": "Albion",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
