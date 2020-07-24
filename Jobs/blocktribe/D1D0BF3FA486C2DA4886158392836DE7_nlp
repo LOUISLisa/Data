@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?country=United%20States&p=5",
+    "OutLinks": [
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/13654/fullstack-developer/",
+        "https://blocktribe.com/jobs/"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?country=United%20States&p=5",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Fullstack Developer | Blocktribe",
+    "Hash": "D1D0BF3FA486C2DA4886158392836DE7",
+    "Url": "https://blocktribe.com/job/13654/fullstack-developer/",
+    "CrawledDate": "2020-05-20",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Fullstack Developer If you're seeking an exciting career opportunity or an authentic chance to learn new technologies and feel that you are up to the challenge please get in touch:?? YOU????have a place in this team and project! Requirements 3+ years JavaScript development experience Ability to work as a teammate in a fast-paced team Experience with software testing and continuous integration Eye for detail Good English skills written and spoken Check the details and apply here:??https://hack.akasha.org/fullstack-developer Email me jobs like this About AKASHA Foundation Together with a group of independent thinkers hacking under the Swiss AKASHA Foundation umbrella, we are bravely experimenting with new technologies in the search for solutions that can transform the Web into an ecosystem in service of humanity. On this note, we are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. What's meaningful to us is being a friendly, passionate person resonating with our purpose and genuinely interested in doing a phenomenal job towards a better world through technology, while also having fun along the way :) ",
+    "Location": "Not Found",
+    "CompanyName": "AKASHA",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
