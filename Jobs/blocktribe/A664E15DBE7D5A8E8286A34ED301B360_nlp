@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/job/9275/bitcoin-developer-for-coding-raw-transactions-signing-in-mobile-javascript/",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?categories%5B%5D=Developer%2FEngineer%20Front%20End%20%7C%20Blockchain",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Bitcoin developer for coding raw transactions signing in mobile javascript | Blocktribe",
+    "Hash": "A664E15DBE7D5A8E8286A34ED301B360",
+    "Url": "https://blocktribe.com/job/9275/bitcoin-developer-for-coding-raw-transactions-signing-in-mobile-javascript/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Deliverable is a documented and easy to follow piece of code, written in Javascript to be executed in an existent mobile wallet. The purpose of the code is to sign bitcoin-like raw transactions, using a private key stored in the mobile device. The transactions to be signed, are a bit different to the normal BTC payment transaction, but anyway are transactions compatible with bitcoin core. A regular bitcoin node is able to sign this types of txs without modification. The existent wallet is a slightly modified Bitcoin Copay wallet. It would be equally accepted to take Bitcoin Copay wallet code and adapt it to make it possible the signing of this type of TXs. Exact transaction samples will be provided after quotation. Pay Rate To be agreed Email me jobs like this About Jaspercoin SME's top Blockchain Network in Latin America ",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
