@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/job/11204/software-engineer-platform-lithuania/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type%5B%5D=Permanent&state=Vilnius%20County",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Software Engineer, Platform - Lithuania | Blocktribe",
+    "Hash": "FF14C87C6116913C4A128C1134FC2CCF",
+    "Url": "https://blocktribe.com/job/11204/software-engineer-platform-lithuania/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Blockchain.com is the world's leading software platform for digital assets. Offering the largest production blockchain platform in the world, we share the passion to code, create, and ultimately build an open, accessible and fair financial future, one piece of software at a time. We are looking for software engineers from a variety of technical backgrounds with a proven track record in building scalable, reliable and performant systems. You will play a critical role in evolving the core platform which drives our retail products. Our engineering teams are involved in all aspects of the product lifecycle, from idea generation, design, prototyping, planning, execution and shipping. We are looking for software engineers who care about software excellence, are advocates of best practices and love learning new skills. WHAT YOU WILL DO: Be at the forefront of the cryptocurrency ecosystem building out new distributed software to handle our rapidly growing user base of 41M+ wallets. Be a part of a dedicated engineering team committed to rapidly shipping, and iterating on products that directly impact millions of users. Gain exposure to an array of open-source technologies such as Kafka, PostgreSQL, Redis, Cassandra, RabbitMQ, etc. Optimise existing systems for scalability, extensibility and performance whilst building out reusable, modular code for use across Blockchain's products. Ensure security is at the forefront of everything you do, employing advanced encryption schemes to secure user and company data. Work within interdisciplinary teams to continually deliver the highest quality software to our users. WHAT YOU WILL NEED: The foremost quality for this position or any position at Blockchain.com is integrity. You possess an innate curiosity, are a strong advocate for the best engineering practices and thrive on learning new technologies. You take a pragmatic approach to developing clean solutions to complex problems. You have some experience building and shipping highly-available, fault tolerant distributed systems. You pride yourself on consistent high levels of test coverage, strong technical documentation and effective monitoring. Understanding of algorithms, data structures, databases and large-scale systems. An appreciation of the entire stack (including but not limited to front-end, service oriented architecture, databases, network layers, etc.) and how they impact the performance of your application. Preferably experience in at least one JVM based language such as Java, Kotlin, Scala, etc. COMPENSATION & PERKS: Office centrally located in the old town of Vilnius Private insurance Unlimited vacation policy; work hard and take time when you need it. Apple equipment. Full time salary based on experience. APPLICATION: Favorite GIF. LinkedIn profile. Link to Github, StackOverflow, personal website and/or blog (if applicable). Email me jobs like this About Blockchain Our mission is??building an open, accessible and fair financial future, one piece of software at a time. ",
+    "Location": "Lithuania",
+    "CompanyName": "COMPENSATION",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
