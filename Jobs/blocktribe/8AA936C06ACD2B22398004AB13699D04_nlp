@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/",
+    "OutLinks": [
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/14065/software-test-engineer-manual/",
+        "https://blocktribe.com/jobs/"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Software Test Engineer - Manual | Blocktribe",
+    "Hash": "8AA936C06ACD2B22398004AB13699D04",
+    "Url": "https://blocktribe.com/job/14065/software-test-engineer-manual/",
+    "CrawledDate": "2020-06-06",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " We are searching for a Manual Software Test Engineer to join our outstanding Quality Assurance team. You will be working on our Daedalus team and contributing towards one of our most exciting projects - Cardano. The ideal candidate will be pro-active in terms of working within the team to ensure that all facets of product quality are considered and validated accordingly. The role would suit someone with a proven track record working to ensure quality within an Agile development environment and a passion for ensuring that product quality is of the highest possible standard. Location IOHK is a fully distributed organization and therefore this is a remote position. However, due to team distribution for this role, preference will be shown to applicants based European timezones. Your mission Work within development teams to ensure that code is sufficiently tested and that test coverage is extensive. Promote a strong focus on quality throughout all stages of the SDLC (ie, software quality as a discipline) Research and develop tools and methods to continuously improve our product and process quality. Analyze all aspects of product quality (eg, functionality, security, robustness, and performance) and ensure they are always of the highest standard. Your expertise We are searching for someone who has extensive experience in testing, ideally five years or more, and preferably including performance and security testing. Some other great things that you could bring to IOHK are: Proven ability and a drive to learn new technologies. Experience working in an Agile development environment (Scrum or Kanban). Expertise with tools and procedures for the execution of various types of tests (eg, unit tests, property tests, integration tests, end-to-end tests, UI tests, performance tests, stress tests, fault tolerance tests). Blockchain experience is advantageous but relevant technical experience will also be considered. Experience with some or all of the following: Virtualization - VMware, Hyper-V Linux Git Performance and security testing Distributed systems and networking. If this sounds like the type of exciting new challenge you are looking for, we'd love to hear from you. Email me jobs like this About IOHK Founded in 2015, Input Output HK is one of the world's pre-eminent blockchain research & engineering companies. Committed to the highest principles of academic rigour and evidence-based software development, the company builds high-assurance blockchain solutions for public, private sector and governmental clients. It is also the the driving force behind the decentralised cryptocurrency and smart contract platform, Cardano. IOHK is a truly global organization with a remote team of people across more than 40 countries. ",
+    "Location": "Remote",
+    "CompanyName": "Daedalus",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
