@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/job/9175/quality-assurance-software-engineer/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?categories%5B%5D=DevOps%20%7C%20Blockchain&job_type%5B%5D=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Quality Assurance Software Engineer | Blocktribe",
+    "Hash": "266CA85E23F235B5C22B0F279CF5D763",
+    "Url": "https://blocktribe.com/job/9175/quality-assurance-software-engineer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Alex Tosney is recruiting for a Quality Assurance Software Engineer to join a start-up research organisation looking to lead the development and adoption of decentralised web technologies and framework. This is an exciting opportunity to join a fully funded start-up organisation in a permanent position to drive the development of blockchain technology. The main purpose of the role will be to help the grants management team to determine the viability of deliverables from grantees. This will involve quickly understanding different technology stacks, the underlying requirements of the software, and performing functional testing to determine if the requirements have been met. Depending on the project, it may also involve review and inspection of codebases in a variety of languages and frameworks, such as Rust, JavaScript, and node.js. Other duties will include to: - Evaluate grant milestone delivery, including reviewing documentation, compiling their projects, and functional testing of these projects. - Interact with the applying teams, in order to answer their questions and better understand their deliverables. - Interact with relevant teams (e.g., legal, finance, collaborations, community building) at agreed points of the application process. - Help to prepare the decisions for the Grants Committee. - Improve the process of evaluating grant milestone deliverables. In order to be considered for this role, you will be required to have the following qualifications, skills and experience: - Knowledge and understanding of blockchain technologies and applications. - Technical ability to evaluate software implementation: setting up environments; compiling complex projects and their dependencies; reviewing and analyzing code. - Technical ability to test software: reading, writing and evaluating test plans; running and evaluating automated test suites; reviewing and testing functionality. - Ability to work in a variety of development environments and languages. - Approachable and clear communication style. - Experience and proficiency in programming, e.g., in Rust, JavaScript, C, C++. - Experience and proficiency in Docker and VSCode. - Experience with Linux, and other Unix-based OSes. For more information or to apply for this position, please contact Alex Tosney on 0041 (0) 41 7276 793 or email atosney@ckqls.ch. Please quote reference 47060 in all correspondence. Pay Rate 80,000 - 90,000 CHF Email me jobs like this About CK Technical Specialist recruitment consultancy for the global Blockchain technology sector Blockchain technology has been rapidly expanding across the global landscape delivering a wide range of decentralised technology solutions for various markets including finance, communications, supply chain, and healthcare. Blockchain technology is currently undergoing rapid adoption across the globe with large names such as JP Morgan and Facebook entering the space in recent months. The technology can be used as a decentralised ledger for transaction information and is the underpinning structure for Cryptocurrencies. CK Technical has been recruiting in the DLT and blockchain market for over 12 months with success in multiple countries sourcing specialist development and support staff such as Project Managers, Information Security Officers, and Developers to help our clients succeed with their projects. As of 2020 CK Technical are happy to announce a standalone service offering focused on global recruitment for experienced staff within the blockchain sector. Services we offer: Permanent Recruitment Contract / Temporary Recruitment Executive Search and Selection ",
+    "Location": "Not Found",
+    "CompanyName": "CK",
+    "Salary": "80,000 - 90,000",
+    "PostedDate": "Not Found"
+}
