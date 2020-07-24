@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/job/9347/experienced-front-end-dapp-developer/",
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?categories%5B%5D=Developer%2FEngineer%20Front%20End%20%7C%20Blockchain",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Experienced Front-end DApp Developer | Blocktribe",
+    "Hash": "AD2B3632CB48583D56729B0A28B010DE",
+    "Url": "https://blocktribe.com/job/9347/experienced-front-end-dapp-developer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " About the Company: At Alkemi we are building software that connects exchanges to liquidity providers without the added risk and headaches of requiring custody. Alkemi\u2019s platform provides the non-custodial infrastructure for digital assets to connect with exchanges. We facilitate open access to liquidity and streamline settlement for our customers (e.g. institutional capital allocators) and partners (exchange venues & third party providers), solving the problem of digital asset market inefficiency. For more info on Alkemi visit our Github and Medium pages linked to our company profile. About Us: Alkemi team members are humble and curious entrepreneurs, builders, and tinkerers who share a passion to demystify Open Finance and tap its potential to create change in the world. Our people are our greatest strength: our diverse crew flourishes in a distributed hierarchy where personal autonomy and professional growth are encouraged. We value our culture above else: regardless of where you came from, what you studied, or who you used to work for, your role here will necessitate both a high level of creativity and strategic thinking on complex issues. Everyone here is a team player, and no one fits in a box. We\u2019re all driven by an insatiable thirst for learning and development, and that\u2019s what brings us together. About the role: We\u2019re looking for a talented Front-end DApp Developer to help us build a variety of clean, functional and intuitive browser based applications within the DeFi space. As a core Alkemi developer you will work closely with our development team while taking real ownership over your work - both your open source code and the resulting applications will be visible and utilised in the heart of DeFi. Our current front-end stack is centered around Vuejs solidity and Web3js however as an early engineer you will play a key role in architecting the system and as such are free to propose the best tools for the job. Responsibilities: \u2022 Develop, deliver and refine Alkemi\u2019s current and future array of web applications including a liquidity reserve management interface, exchange container interface and a switchboard management interface. \u2022 Deliver high-quality code that is maintainable, readable and fit for open source libraries \u2022 Provide value to our agile development approach and collaborate efficiently with the core development team Requirements: \u2022 Provable ability to ship high quality, well crafted code in modern JavaScript frameworks \u2022 Strong knowledge of Vue.js, Angular, HTML and CSS \u2022 Experience interacting and working with Web3js \u2022 Competent in converting designs and mockups into applications \u2022 Comfortable working with Github/Bitbucket as part of a team \u2022 Ability to self-motivate, prioritize tasks, and drive projects to completion \u2022 Proven experience working on Blockchain or Cryptocurrency projects Nice to have: \u2022 Experience with any of the following: Golang, Graphql, Node.js. Solidity or Truffle \u2022 Stock/Currency (FOREX) exchange platform development \u2022 Passion for cryptocurrency trading. Compensation: Salary + Equity Pay Rate $45k \u2013 $65k USD \u2022 0.0% \u2013 2.0% equity Email me jobs like this About Alkemi Alkemi offers a community-based liquidity solution to address the significant crypto-market price inefficiencies amidst fragmented centralized exchange markets; it further serves as a natural bridge to provide the liquidity required to support the influx of decentralized and peer to peer exchange platforms. ",
+    "Location": "Alkemi",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
