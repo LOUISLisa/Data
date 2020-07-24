@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/job/8476/blockchain-developer/",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Blockchain Developer | Blocktribe",
+    "Hash": "5B3B19A47166C93CD0C631DEEE903624",
+    "Url": "https://blocktribe.com/job/8476/blockchain-developer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " We are looking for a Blockchain engineer with at least 3 years of solid development experience developing on the Ethereum, Bitcoin core and Smart contracts platform. You will be working in close collaboration with a Techie CTO, the Chief Trading Strategist, and an innovation mindset management! ?? About your Talents: Exceptional programming skills in Java Spring, Spring Boot, Microservices. AWS deployment: EC2 Understand business logic of application and do Smart Contracts development on Solidity Develop UI/UX for blockchain solutions UI/UX (Javascript, React, Mithril) Consolidate codebase and enforce testing standards Develop modular smart contract wallet Webservices (Restful/SOAP), AWS API Gateway, Redis, Solidity, Experience working with functional / lambda programming languages \u2013 Smart Contract Languages (Solidity, Chain Code), Haskell, or Scala FP Working knowledge of Linux command line with shell scripting NoSQL databases DevOps (e.g. Maven, Jenkins, Nexus) Interacting with API\u2019s using multithreaded technologies (GRPC, RXJava) Proficient with JavaScript libraries such as jQuery, Angular, Bootstrap, React.js e Experience with Apache Kafka Experience with Kubernetes or Docker Web Services technologies experience i.e. REST. GitHub or similar C++, C#, Objective C, Java, Python, Lua, ActionScript 2,3, JavaScript, PHP, XML, JSON MySQL, Oracle, PostgresSQL Databases Tools eg. Microsoft Visual Studio, Xcode, NetBeans, Perforce etc. AngularJS, Web3 JS, Node JS, ASP .NET, Web API, Typescript. ?? ??Must have: Solid understanding of Relayers, Cryptocurrency exchanges and liquidity protocols (Hydro, Ox etc), Order Matching algorithms, Gas prices, Develop ERC20 token/Smart Contracts base on Ethereum network?? Creating Ethereum smart contracts and deploying them to different test networks such as Rinkeby, Ropsten.?? Good understanding of Sentiment analysis, Artificial Intelligence (trading bot), Business Intelligence dashboards, Machine Learning. Implementation and deployment of private networks on Ethereum.?? Competent at identifying & solving business problems and analysing patterns & insights within structured and unstructured data. Regular code audits, code improvements, quality built in the coding. Good spoken and written English Good understanding of ICOs, STOs, Token economics ?? Nice to have: Block chain node core development Spring, Spring Boot ?? About the Rewards! Work with the most popular block chain experts in the industry. Learn and build your skills with a techie CTO and larger management. Work closely with trading strategists. Family culture. Flexible timings. ?? Email me jobs like this About Meterqubes Solutions LLC ",
+    "Location": "Spring, United States",
+    "CompanyName": "Bootstrap",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
