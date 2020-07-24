@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/",
+    "OutLinks": [
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/11195/front-end-engineer-lithuania/",
+        "https://blocktribe.com/jobs/"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type%5B%5D=Permanent&country=Lithuania",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Front End Engineer - Lithuania | Blocktribe",
+    "Hash": "FA338BF40EC3CDF0B5064EB8866499DB",
+    "Url": "https://blocktribe.com/job/11195/front-end-engineer-lithuania/",
+    "CrawledDate": "2020-06-06",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Blockchain.com is the world's leading software platform for digital assets. Offering the largest production blockchain platform in the world, we share the passion to code, create, and ultimately build an open, accessible and fair financial future, one piece of software at a time. Blockchain.com's development team is building technologies that are revolutionizing the financial services industry by empowering millions across the globe to authenticate and transact immediately and without costly intermediaries. We are looking for a Front End Engineer to join our growing development teams in order to rapidly create, iterate and launch high quality software that empower users all over the world. Ultimately, you should be able to adapt easily to meet the needs of our fast growth and the rapidly evolving crypto ecosystem. Our development team is tackling some of the most interesting problems in the crypto space while rapidly and securely scaling a distributed platform that touches millions of people a day. We want you to join us! WHAT YOU WILL DO: Build beautiful user interfaces across our exciting product portfolio. Work closely with our designers through to implementation to best serve the needs of current a future customers. Write well-tested, reliable code for use by millions of users who use our wallet. Proactively collaborate with team members, ensuring the sharing of knowledge and efficient division of labour. Work on the most interesting and challenging problems in the cryptocurrency space. Get exposure to the latest technologies and developments in a technology and product driven company. Work on an industry-leading product with millions of users. WHAT YOU WILL NEED: The foremost quality for this position or any position at Blockchain.com is integrity. At least 2 years of experience working with JavaScript and client-side web applications preferred. You thrive on learning new technologies and don't believe in one-size-fits-all solutions. That being said, you can expect to work with ES6, Styled Components, and React/Redux. You should be able to adapt easily to meet the needs of our massive growth and rapidly evolving business environment. You rely on others' candid feedback for continuous improvement. You understand requirements beyond the written word and have a sharp eye. Strong analytical and problem solving skills. COMPENSATION & PERKS: Office centrally located in the old town of Vilnius Private insurance Unlimited vacation policy; work hard and take time when you need it. Apple equipment. Full time salary based on experience. APPLICATION: Resume and/or CV and LinkedIn profile. Link to Github or Stackoverflow. Personal websites or blogs (if applicable). Your favourite GIF. Email me jobs like this About Blockchain Our mission is??building an open, accessible and fair financial future, one piece of software at a time. ",
+    "Location": "Lithuania",
+    "CompanyName": "COMPENSATION",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
