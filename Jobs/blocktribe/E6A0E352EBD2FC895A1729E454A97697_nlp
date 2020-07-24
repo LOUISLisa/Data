@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/job/13718/senior-engineer-ai/",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Senior Engineer - AI | Blocktribe",
+    "Hash": "E6A0E352EBD2FC895A1729E454A97697",
+    "Url": "https://blocktribe.com/job/13718/senior-engineer-ai/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Our Series A client is hiring aspiring industrialists for their SaaS solution. They have opportunities for talented engineers eager to do math, travel the world, and be part of the next industrial revolution. Their solution employs algorithmic modelling and reinforcement learning to help manufacturers automate and optimize their production planning process. Their products increase production throughput and order fulfilment while decreasing downtime and working capital. They use clients' existing operational data to create a cloud-deployed AI production planner, which provides actionable plans and schedules. Their current customers include the world's largest chemical manufacturer, BASF, the world's largest ATM manufacturer, Diebold Nixdorf, as well as other household names like Stanley Black & Decker. The team comes out of Stanford and MIT and we are looking to grow the team aggressively -- yes, especially during quarantine! They're looking for smart and energetic people to join. Manufacturing optimization is a robust and reliable challenge, demanding real-world problem-solving. If you're after work that challenges you intellectually and puts performance engineering and algorithms skills into real use, let's talk! Skills: Python Email me jobs like this About Intelletec ",
+    "Location": "Not Found",
+    "CompanyName": "BASF",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
