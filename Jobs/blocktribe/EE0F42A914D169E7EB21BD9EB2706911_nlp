@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/8906/blockchain-project-manager/",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?categories%5B%5D=Development%20Manager%20%7C%20Blockchain&job_type%5B%5D=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Blockchain Project Manager | Blocktribe",
+    "Hash": "EE0F42A914D169E7EB21BD9EB2706911",
+    "Url": "https://blocktribe.com/job/8906/blockchain-project-manager/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Cryptexxx - In search of a project manager who must be well-organized, knowledge of blockchain industry. This project manager will be responsible for the stability and the token sale of Cryptexxx Email me jobs like this About Cryptexxx CrypteXXX is a new and innovative Blockchain Platform that will connect every market participant through a new scalable Blockchain Hive. CrypteXXX will focus on providing complete end-to-end blockchain solutions. Our platform will adopt Lightning-Network technology from Bitcoin, enabling fast and secure transactions without any large delays in confirmation. By using our platform entrepreneurs can release new coins and other blockchain projects in a new, unique, and decentralized manner, adding both stability and security. Any cryptocurrency on our platform will go through a Zero-Knowledge Proof, endowing it with privacy. We are offering a scalability solution that links multiple sibling chains into a coherent network. In most simple form, the CrypteXXX coin will be used to make purchases with privacy. We will keep continuously developing more technology modules. ",
+    "Location": "Not Found",
+    "CompanyName": "Lightning-Network",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
