@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/job/13652/developer-relations/",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type%5B%5D=Permanent&state=Remote",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Developer Relations | Blocktribe",
+    "Hash": "E7D5674CB4EA76DB012C615587836845",
+    "Url": "https://blocktribe.com/job/13652/developer-relations/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Developer Relations If you're seeking an exciting career opportunity or an authentic chance to learn new technologies and feel that you are up to the challenge please get in touch: YOU??have a place in this team and project! Requirements Experience in building and growing a developer community Experience in creating documentation/guides for developers Experience writing blogs meant for a technical/developer audience Ability to make complex technical jargon understandable to the layperson across a variety of mediums including video/audio/interviews with press An inquisitive mind, willing to undertake study in order to upskill in relevant areas Skilled in building relationships within a business and development context Check details and apply here:??https://hack.akasha.org/developer-relations Email me jobs like this About AKASHA Foundation Together with a group of independent thinkers hacking under the Swiss AKASHA Foundation umbrella, we are bravely experimenting with new technologies in the search for solutions that can transform the Web into an ecosystem in service of humanity. On this note, we are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. What's meaningful to us is being a friendly, passionate person resonating with our purpose and genuinely interested in doing a phenomenal job towards a better world through technology, while also having fun along the way :) ",
+    "Location": "Not Found",
+    "CompanyName": "AKASHA",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
