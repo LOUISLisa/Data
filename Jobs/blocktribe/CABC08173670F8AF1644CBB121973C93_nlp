@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/13775/frontend-engineer/",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Frontend Engineer | Blocktribe",
+    "Hash": "CABC08173670F8AF1644CBB121973C93",
+    "Url": "https://blocktribe.com/job/13775/frontend-engineer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Our client is developing magical experiences for a well-known and beloved global brand with hundreds of millions of users. We have an opening for a talented and creative front-end developer who is excited to push the envelope of consumer web applications, ready to add engaging features to our flagship experience. Responsibilities Participate in the full development lifecycle, including ownership of design and architectural decisions, coding, and production releases Design and develop software following best practices and using modern technologies Work collaboratively with people across different teams to deliver feature-rich projects Participate in design and code reviews Research and implement new web technologies Advocate for code quality and high coding standards Skills: 3+ years of experience developing modern, responsive, web applications Experience developing visually-compelling consumer and/or social applications Experience building full-stack applications and deep understanding of related technologies Solid understanding of best practices for building cross-browser and cross-platform applications and the constraints of web technologies Expert in JavaScript (ES6+), HTML5, CSS3 Understanding of JavaScript preprocessing and module bundlers such as Webpack Has built non-trivial apps in React and Redux Experience working with NodeJS and Express applications Passionate about developing amazing, visually-engaging user experiences Track record of being adventurous and creative in life Experience with Git and CLI tools Experience with Agile development. Computer Science degree (or equivalent) is preferred Bonus points for wireframing & interaction design skills Bonus points for hands on web design skills Bonus points for experience working with 3D graphics or augmented reality applications Benefits Ability to develop amazing experiences for hundreds of millions of users Opportunity to work in a dynamic R&D team of software developers, computer vision, AI, computational photography, AR, and graphics professionals. Excellent health & retirement benefits. Located in downtown Mountain View, California --- an easy walk from restaurants, coffee shops, the Stevens Creek Trail, and Caltrain commuter rail. Email me jobs like this About Intelletec ",
+    "Location": "Opportunity, United States",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
