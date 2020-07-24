@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/",
+    "OutLinks": [
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/14047/senior-infrastructure-engineer/",
+        "https://blocktribe.com/jobs/"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type%5B%5D=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Senior Infrastructure Engineer | Blocktribe",
+    "Hash": "FB81DDFBB3F50676C1305DEA6295BBA5",
+    "Url": "https://blocktribe.com/job/14047/senior-infrastructure-engineer/",
+    "CrawledDate": "2020-06-06",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Intelletec is working with a corporate and consumer well-being and productivity platform aimed at changing the way we work and live. Their mission is to end the epidemic of stress and burnout by offering companies and individuals sustainable, science-based solutions to enhance both well-being and performance. Their three interconnected core components are: corporate trainings and workshops that bring the latest strategies and tools around health and well-being to organizations; a media platform that serves as the global hub for the conversation about well-being and performance, with an emphasis on action; and an e-commerce platform that offers a curated selection of the best technology and products for well-being. As a Senior Infrastructure Engineer, you will play a significant role in building and operating their cloud-based SaaS infrastructure. This role encompasses a broad range of engineering skills and disciplines. You will primarily be focused on designing, implementing, and building tooling around our cloud infrastructure and architecture. As a B2B SaaS platform, we also expect you to be security-minded, and to care deeply about site reliability. What You'll Do Partnering with other engineers to build and streamline CI/CD pipelines Building out an enterprise-wide monitoring and alerting architecture for our platform Automating our use of Azure/AWS and other cloud technologies through IaC tools such as Terraform Improving our development platform and developer experience by helping us migrate to a service-oriented architecture Helping us roll out new technologies such as Kubernetes Qualifications 4+ years of industry experience in engineering roles: DevOps, Infrastructure Engineering, or Site Reliability Engineering role 2+ years experience building cloud applications on AWS/Azure Must be able to demonstrate programming skills (Go preferably, etc) Solid knowledge of automation through Infrastructure as Code, preferably with Terraform Prior experience automating cloud environments with configuration management platforms (Ansible, Salt, etc) Solid knowledge of networking (specifically cloud networking and technologies such as VPCs) Excellent written and oral communication, with the ability to write and maintain excellent documentation Added Bonuses (not required) Extensive experience with Terraform and multi-account Azure architectures Experience with modern cloud-native runtime platforms and tech, such as k8s, Istio, and Envoy What they Offer Being part of a mission-driven company that's truly making a difference in the lives of people around the world Ability to develop within the company and shape our growth strategy A human-centric culture with a range of wellness perks and benefits A competitive compensation package Medical, dental and vision coverage + 401k program with company match Generous paid time-off programs Email me jobs like this About Intelletec ",
+    "Location": "Salt, ES",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
