@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/job/13704/sr-full-stack-engineer/",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Sr Full Stack Engineer | Blocktribe",
+    "Hash": "7251B2ED23756556A412E8C6D7136113",
+    "Url": "https://blocktribe.com/job/13704/sr-full-stack-engineer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Senior Full Stack Engineer We are looking for a product-focused developer with experience building rich, complex web services and applications. You should be passionate about what you work on, excited to improve yourself as a developer, and happy to help those around you. Responsibilities Iterate with engineering and design team on product definition and implementation Craft delightful user experiences Take ownership of feature development Fix bugs Requirements 2+ years of experience Expert in JavaScript, HTML, CSS, Node.js Complete understanding of the DOM and browser technology Working collaboratively with source control, pull requests, code reviews, etc Excellent communication skills Bonus points Experience with: React and/or React-Native TypeScript Email me jobs like this About Intelletec ",
+    "Location": "Not Found",
+    "CompanyName": "DOM",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
