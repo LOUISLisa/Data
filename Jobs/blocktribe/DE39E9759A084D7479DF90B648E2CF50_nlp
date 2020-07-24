@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/14138/senior-backend-engineer/",
+        "https://blocktribe.com/jobs/"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Senior Backend Engineer | Blocktribe",
+    "Hash": "DE39E9759A084D7479DF90B648E2CF50",
+    "Url": "https://blocktribe.com/job/14138/senior-backend-engineer/",
+    "CrawledDate": "2020-06-22",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " **THIS ROLE CAN BE FULLY-REMOTE, OR NYC HQ** My client is one of the most different and Unique ad-tech Companies around are continuing to grow. They are 50+ people now, looking grow significantly again in 2020. Initially funded by a $25m raise, they are growing fast, and very profitable with a low burn rate. For Background, the Company has developed a unified video ad platform with a real-time A.I. The platform is a solution allowing Brands and Publishers to measure Customer Intent Data across TV, Mobile, and Web while integrating secure blockchain technology. From game-changing cryptography to the latest in cloud engineering, you will be working with powerful new technologies coupled with world-class design to deliver evolved solutions. What You'll Bring: 4+ years' experience working in an advanced environment, less if you can hold your own :) Strong Javascript expertise - React (preferred) Back-End experience with Golang, Python, Ruby, NodeJS Knowledge and hands-on experience with Github and Linux Deep understanding of design patterns, software development methodologies, and principles You have experience developing protobuf and JSON-based API endpoints Strong understanding of cloud infrastructure and cloud computing. concepts, especially on Google Cloud Platform - Firebase, Firestore You're passionate about close collaboration with design, product, and marketing Stack: Back End: Golang, Google Cloud (especially App Engine, Stackdriver, BigTable, BigQuery, Cloud Functions, and Firestore) Front End: React, Redux The Rest: Google's Firebase, particularly Firestore, NoSQL Google's GCP Suite web3.js, solidity On Offer: Base salary is one of the strongest in the market Unlimited Vacation, plus additional paid company holidays. Health, Dental & Vision Insurance Commuter Benefits Parental Leave Lots of other perks! Email me jobs like this About Intelletec ",
+    "Location": "Remote",
+    "CompanyName": "Google",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
