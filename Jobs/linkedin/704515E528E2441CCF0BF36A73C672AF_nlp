@@ -1,0 +1,23 @@
+{
+    "SeedUrl": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20blockchain",
+    "OutLinks": [
+        "https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy",
+        "https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/search/?keywords=blockchain%20blockchain",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Dock hiring Blockchain Engineer in San Francisco, California, United States | LinkedIn",
+    "Hash": "704515E528E2441CCF0BF36A73C672AF",
+    "Url": "https://www.linkedin.com/jobs/view/blockchain-engineer-at-dock-1871855688?refId=35f7430d-d687-497d-ab7a-523dc54402d9&position=6&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click",
+    "CrawledDate": "2020-05-21",
+    "DomainId": "linkedin",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " dock.io is seeking a senior blockchain engineer who is passionate about technology, loves code, and capable of taking initiative. Primary Responsibilities Develop, build and maintain smart contracts. Plan and design token mechanics with the team. Be able to communicate work and contribute to technical documentation. Help develop architecture and product design The Ideal Candidate Should Have Experience with Ethereum and generalized blockchain Experience with architecture and design of blockchain solutions Working knowledge of cryptographic libraries and concepts Knowledge of python is strongly preferred Experience with AWS 5 years of dev experience and 1+ year of blockchain preferred Company Benefits Competitive salary Token options Annual company retreat ",
+    "Location": "San Francisco, California, United States",
+    "CompanyName": "Dock",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
