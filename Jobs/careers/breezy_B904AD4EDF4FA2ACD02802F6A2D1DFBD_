@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://terra.breezy.hr/p/f619b8115f0b-web-engineer",
+    "OutLinks": [
+        "https://app.breezy.hr/api/apply/linkedin?position_id=13e73f56ea80",
+        "https://breezy.hr/mb/portal?utm_campaign=portal_referral&cpn=Terraform%20Labs",
+        "https://terra.breezy.hr/",
+        "https://terra.breezy.hr/p/13e73f56ea80-quant-engineer/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://terra.breezy.hr/",
+    "RequiredMatch": "terraform",
+    "DocumentType": "Careers",
+    "Title": "Quant Engineer at Terraform Labs",
+    "Hash": "B904AD4EDF4FA2ACD02802F6A2D1DFBD",
+    "Url": "https://terra.breezy.hr/p/13e73f56ea80-quant-engineer",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "breezy",
+    "TackIt": "true",
+    "Body": "%HEADER_COMPANY_WEBSITE% Quant Engineer Remote Worldwide %LABEL_POSITION_TYPE_FULL_TIME% Engineering %BREADCRUMB_JOB_OPENINGS% Quant Engineer %BUTTON_APPLY_TO_POSITION% %BUTTON_APPLY_USING_LINKED_IN% Terra\u2019s mission is to set money free. We believe that money is a form of technology that can be innovated on. As a pioneer in monetary technology, we build open infrastructure, rethink monetary policy, and create revolutionary applications that sets the stage for open financial platforms. As featured in: TechCrunch: \"Terra is an ambitious crypto project to build a stable coin through e-commerce\" Fortune: \"Cryptocurrency Exchanges Back $32 Million Stable Coin Project\" Venture Beat: \"Terra gets $32 million to build the future of money with blockchain\" Tech in Asia: \"Terra's plan for a blockchain PayPal alternative gets $32m from top crypto exchanges\" You will be responsible for the following: Apply mathematical techniques and/or write software to develop, analyze, and implement statistical models Development of tools for numerical and statistical analyses that are needed for managing robust signals processing from big data Collaborate with technical team members to conceive new ideas, formulate systematic strategies, and critically evaluate system performance from an operational standpoint Staying up-to-date with the most current research You will find it easier to do your job if you have the following qualities. Needless to say, none of these qualities supersede your intellectual and professional curiosity: Successful candidates will be exceptionally familiar in their respective quantitative field of statistics, math, physics, engineering, and/or computer science with the ability to conceptualize informality into academically rigorous arguments Outstanding academic and professional track record, a technical degree, and a demonstrated history or aptitude for developing successful mathematical models and employing quantitative methods Strong quantitative and analytical skill set and software design skills Willingness to stay up to date with the most modern research theory and methods C++, and familiarity numerical programming languages and tools (R/Python/SAS/SPSS and/or Mathematica/MATLAB/Maple) Familiarity with algebraic modeling languages (AML) Basic understanding of optimization, RMT, statistical modeling, econometrics, and signal processing Knowledge or strong interest in financial markets, blockchain, and cryptocurrencies English and/or Korean fluency with ability to communicate in English If you are tired of simply making money and hope to go down the rabbit hole to rethink how money works, then Terra is the right place for you. %BUTTON_APPLY_TO_POSITION% %BUTTON_APPLY_USING_LINKED_IN% %FOOTER_POWERED_BY%breezy"
+}

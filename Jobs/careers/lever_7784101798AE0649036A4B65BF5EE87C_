@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://jobs.lever.co/kraken/c9dba4fb-ae6c-4d3f-84b7-66d28b89ef1e?lever-origin=applied&lever-source[]",
+    "OutLinks": [
+        "https://jobs.lever.co/kraken",
+        "https://jobs.lever.co/kraken/39031c44-2060-467d-8991-79f23deacbb8/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/kraken",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "Careers",
+    "Title": "Kraken Digital Asset Exchange - Backend Engineer - Crypto/Payments (Remote - Americas)",
+    "Hash": "7784101798AE0649036A4B65BF5EE87C",
+    "Url": "https://jobs.lever.co/kraken/39031c44-2060-467d-8991-79f23deacbb8",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "lever",
+    "TackIt": "true",
+    "Body": "Backend Engineer - Crypto/Payments (Remote - Americas) Remote / Engineering / Remote Full-time Apply for this job About Kraken Our mission is to accelerate the adoption of cryptocurrency so that you and the rest of the world can achieve financial freedom and inclusion. Â Founded in 2011 and with over 4 million clients, Kraken is one of the world's largest, most successful bitcoin exchanges and we're growing faster than ever. Our range of successful products are playing an important role in the mainstream adoption of crypto assets. Â We attract people who constantly push themselves to think differently and chart exciting new paths in a rapidly growing industry. Kraken is a diverse group of dreamers and doers who see value in being radically transparent. Let's change the way the world thinks about money! Join the revolution! About the Role This role is remote. Our Engineering team is having a blast while delivering the most sophisticated crypto-trading platform out there. Help us continue to define and lead the industry. Responsibilities Integrate our financial systems with blockchain currencies and banks Writing reusable, testable, and efficient code Design and implementation of low-latency, high-availability, and performant applications Implementation of security and data protection systems Write highly scaleable, high volume services Create optimized database schemas Own, develop and maintain financial services Requirements 3+ years of experience as a backend developer Experience with Blockchain daemons such as Bitcoind, Litecoind or Parity Strong proficiency with either Rust or Node.js, TypeScript and various frameworks Ability to handle the DevOps side of financial services using tools like Docker Understanding the nature of asynchronous programming and its quirks and workarounds Understanding accessibility and security complianceÂ  Understanding user authentication and authorization between multiple systems, servers, and environments Understanding fundamental design principles behind a scalable application Experience with automated testing platforms and unit tests Proficient understanding of code versioning tools, such as Git Basic experience with other languages such as: C++ or Go Desire to make the best trading platform out there Strong passion for Bitcoin and other cryptocurrencies We\u2019re powered by people from around the world with their own unique backgrounds and experiences. We value all Krakenites and their talents, contributions, and perspectives. Check out all our open roles at https://jobs.lever.co/kraken. We\u2019re excited to see what you\u2019re made of. Â  Learn more about us: Watch \"Working at Kraken\" Follow us on Twitter Catch up on our blog Follow us on LinkedIn Apply for this job Kraken Digital Asset Exchange Home PageJobs powered by"
+}

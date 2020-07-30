@@ -1,0 +1,21 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://www.spl.yt/intern-business-development",
+    "DomainId": "spl",
+    "OutLinks": [
+        "https://dapp.spl.yt/",
+        "https://spl.yt/",
+        "https://spl.yt/old/?p=1066",
+        "https://spl.yt/old/wp-includes/wlwmanifest.xml",
+        "https://spl.yt/old/wp-json/",
+        "https://spl.yt/old/xmlrpc.php?rsd"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://www.spl.yt/intern-business-development",
+    "DocumentType": "Careers",
+    "Title": "spl.yt demo",
+    "Hash": "6F768D5AF8385B37EDBEEAC2AD99D7EF",
+    "TackIt": "true",
+    "Body": "Demo login Email * Password * Request Access",
+    "Url": "https://dapp.spl.yt/"
+}

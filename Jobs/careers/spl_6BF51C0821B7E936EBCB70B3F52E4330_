@@ -1,0 +1,24 @@
+{
+    "SeedUrl": "https://www.spl.yt/intern-business-development",
+    "OutLinks": [
+        "https://dapp.spl.yt/",
+        "https://www.spl.yt/",
+        "https://www.spl.yt/careers",
+        "https://www.spl.yt/contact",
+        "https://www.spl.yt/devs",
+        "https://www.spl.yt/learn-more",
+        "https://www.spl.yt/privacy",
+        "https://www.spl.yt/splytcorefoundation"
+    ],
+    "ContentType": "text/html",
+    "Parent": "https://www.spl.yt/careers",
+    "RequiredMatch": "decentralized",
+    "DocumentType": "Careers",
+    "Title": "spl.yt \u2013 decentralized E-commerce",
+    "Hash": "6BF51C0821B7E936EBCB70B3F52E4330",
+    "Url": "https://www.spl.yt/quality-analyst",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "spl",
+    "TackIt": "true",
+    "Body": "Home Learn More Devs RESOURCES Blog Careers Try Now Go Back Quality Analyst Location: Santa Monica, CA - Remote Option Company Background Spl.yt Core Foundation, a Science Blockchain-backed company operating out of Santa Monica, CA, is an open-sourced global inventory and affiliate marketing platform. The platform is a smart contract-based e-commerce protocol that will transform the way businesses market, operate, and sell online nearly for free by removing intermediaries. Spl.yt\u2019s top smart contract capabilities include a real-time inventory system, automated affiliate marketing rewards, fractional asset sales and management, inter-marketplace reputation tracking, and an alternative dispute resolution system. All of these features are powered by the blockchain, assuring that anyone who buys or sells things powered by Spl.yt will have the fairest and most secure e-commerce experience possible. For more details, please visit https://www.spl.yt/. Position Summary The Quality Analyst will support the team in producing stable and expected products based on requirements and implementation testing. This associate will report directly to the CTO. Responsibilities Work with the developers to get new features and pipelines Lead A/B testing, unit testing, and regression test cases Must be able to follow up on new features as well as production testing Qualifications 2+ years as a Quality Analyst in a web/software-based company Experience stress testing Ethereum contracts for speed, consistency, and accuracy Create test plans that outline approaches to tests and risk mitigation Create and document test cases based on product requirements Execute test plans and test cases Log and report test results Write detailed defect reports and work with development to assist with troubleshooting, resolution, and validation Support the release process and perform production site verification testing Other duties required by management A BA or BS Degree is required, preferably in a related field Blockchain experience, mainly with Ethereum, is a big bonus Knowledge of software development, QA methodologies, and release process Experience with Agile scrum methodologies Experience with Agile sprint management and bug tracking solutions, such as Jira or VersionOne Ability to multitask to meet deadlines. Experience running automated tests Understanding of the architecture around web applications (web server, client/server communication, databases, proxy, etc.) Ability to execute SQL queries and to make simple changes to existing ones Experience with Linux and ability to execute commands involving directory navigation, directory listing, and program execution Strong attention to detail and work ethic APPLY NOW News & Announcements Stay connected with Spl.yt Get Notified CONTACT US | PRIVACY POLICY ASK US ANYTHING AT HELLO@SPL.YT 2019 SPL.YT CORE FOUNDATION ALL RIGHTS RESERVED"
+}

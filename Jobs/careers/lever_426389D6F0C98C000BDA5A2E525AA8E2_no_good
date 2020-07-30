@@ -1,0 +1,17 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/862be203-1cb0-45d7-ba10-60c78eac9d11/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora",
+    "DocumentType": "Careers",
+    "Title": "Findora - Quality Assurance Engineer, China",
+    "Hash": "426389D6F0C98C000BDA5A2E525AA8E2",
+    "TackIt": "true",
+    "Body": "Quality Assurance Engineer, China Beijing / Engineering / Full-time Apply for this job Software Quality Assurance Engineers work with a talented team of systems, research, and full stack engineers and architects as Findora builds out its core infrastructure and specific applications. The core engineering team\u2019s primary focus is to build out the Findora platform, a highly performant distributed system incorporating significant innovations in cryptography, storage/authenticated data structures, and consensus/state machine replication. Additionally, as the platform is implemented, a growing number of ecosystem applications will be developed atop the Findora infrastructure, requiring a reliable base upon which to build. Software Quality Assurance Engineers must collaborate effectively with the core engineering team to make Findora applications as robust and straightforward as possible.Â We are looking for meticulous and articulate engineers with a passion for high quality financial systems.Â  Responsibilities Interactive software testing of web-based and network based services Test automation developmentÂ  Discovery, documentation, and tracking of defects and usabilityÂ issues Requirements B.S. degree in Computer Science or similar field; or equivalent practical experience 4+ years of Software Quality Assurance work Excellent communication and collaboration skills Familiarity with command line testing Familiarity with network services testing Familiarity with one or more test automation tools Proficient in written English and Chinese Preferred Experience with software in the financial/fintech industry Experience with financial services Passion for automated testing Perks Opportunities to create test systems and automation Work on new products and problems in an emerging field Learn from systems engineering and cryptography domain experts in a mentorship-oriented work culture Make a big impact as an early contributor Apply for this job Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora/862be203-1cb0-45d7-ba10-60c78eac9d11"
+}

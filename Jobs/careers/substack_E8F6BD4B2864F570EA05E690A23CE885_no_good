@@ -1,0 +1,29 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://substack.com/?utm_source=substack&utm_medium=web&utm_content=footer",
+    "DomainId": "substack",
+    "OutLinks": [
+        "https://on.substack.com/?utm_medium=menu",
+        "https://on.substack.com/?utm_source=substack&utm_medium=web&utm_content=footer",
+        "https://on.substack.com/p/a-better-future-for-news",
+        "https://on.substack.com/p/a-new-game",
+        "https://substack.com/",
+        "https://substack.com/discover",
+        "https://substack.com/going-paid?utm_source=menu-drop-down",
+        "https://substack.com/going-paid?utm_source=substack&utm_medium=web&utm_content=footer",
+        "https://substack.com/jobs",
+        "https://substack.com/jobs?utm_source=substack&utm_medium=menu",
+        "https://substack.com/jobs?utm_source=substack&utm_medium=web&utm_content=footer",
+        "https://substack.com/privacy",
+        "https://substack.com/tos",
+        "https://support.substack.com/hc/en-us?s=support%40substack.com"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://substack.com/?utm_source=substack&utm_medium=web&utm_content=footer",
+    "DocumentType": "Careers",
+    "Title": "Substack - Jobs",
+    "Hash": "E8F6BD4B2864F570EA05E690A23CE885",
+    "TackIt": "true",
+    "Body": "Writers Switch to Substack Why go paid? Writer resources HelpAbout us About Jobs Blog Sign inGet started Help build a better business model for writing Substack lets writers connect with their audience on their own terms and earn money doing it. We make it simple for writers to publish to an email list that they own, get discovered on the web, and charge for subscriptions. More than 100,000 people pay to subscribe to writers across the Substack network, and the top writers are making hundreds of thousands of dollars a year. Substack\u2019s model depends on the success of writers using Substack \u2013 we only make money when they do. Join our growing team Â  Â  Â Â  Â© 2020 Substack Inc. See privacy and terms Company@SubstackInc AboutHelpJobsBlog WritersSwitch to SubstackWhy go paid?Writer resourcesHelp This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts",
+    "Url": "https://substack.com/jobs?utm_source=substack&utm_medium=web&utm_content=footer"
+}

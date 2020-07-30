@@ -1,0 +1,17 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/88501a0d-a86d-4cd2-b0b7-8625a107b02b/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora/88501a0d-a86d-4cd2-b0b7-8625a107b02b",
+    "DocumentType": "Careers",
+    "Title": "Findora - Systems Engineer",
+    "Hash": "22017B5AB7D2AB3C8381A719F9B7F497",
+    "TackIt": "true",
+    "Body": "Systems Engineer Menlo Park, CA / Engineering / Full-time Submit your application Resume/CV ATTACH RESUME/CV Couldn't auto-read resume. Analyzing resume... Success! File exceeds the maximum upload size of 100MB. Please try a smaller size. Full nameâ± Emailâ± Phone Current company Links LinkedIn URL Twitter URL GitHub URL Portfolio URL Other website Additional information Submit application Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora/88501a0d-a86d-4cd2-b0b7-8625a107b02b/apply"
+}

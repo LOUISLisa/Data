@@ -1,0 +1,31 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/37609efc-adee-45a6-a182-38b42fbac09f",
+        "https://jobs.lever.co/findora/7ddb0f62-feda-47fc-9613-27b21ac385c7",
+        "https://jobs.lever.co/findora?location=Beijing",
+        "https://jobs.lever.co/findora?location=Beijing&team=Business%20Development",
+        "https://jobs.lever.co/findora?location=Beijing&team=Design",
+        "https://jobs.lever.co/findora?location=Beijing&team=Engineering",
+        "https://jobs.lever.co/findora?location=Beijing&team=Marketing",
+        "https://jobs.lever.co/findora?location=Beijing&team=Operations",
+        "https://jobs.lever.co/findora?location=Beijing&team=Product",
+        "https://jobs.lever.co/findora?location=Beijing&team=Product&commitment",
+        "https://jobs.lever.co/findora?location=Beijing&team=Product&commitment=Full-time",
+        "https://jobs.lever.co/findora?location=Beijing&team=Research",
+        "https://jobs.lever.co/findora?location=Menlo%20Park%2C%20CA&team=Product",
+        "https://jobs.lever.co/findora?location=Seoul&team=Product",
+        "https://jobs.lever.co/findora?team=Product"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora?location=Beijing",
+    "DocumentType": "Careers",
+    "Title": "Findora",
+    "Hash": "65EEF52EE1F39AFF14429CC16A332D57",
+    "TackIt": "true",
+    "Body": "Filter by: Beijing All Beijing Menlo Park, CA Seoul Product All Business Development Design Engineering Human Resources Marketing Operations Product Research Work type All Full-time Uncategorized Product Apply Product Manager, China BeijingProduct Apply Solutions Architect, China BeijingProduct Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora?location=Beijing&team=Product"
+}

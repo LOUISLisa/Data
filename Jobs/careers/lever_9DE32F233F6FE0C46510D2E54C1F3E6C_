@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/88501a0d-a86d-4cd2-b0b7-8625a107b02b/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora",
+    "RequiredMatch": "rust",
+    "DocumentType": "Careers",
+    "Title": "Findora - Systems Engineer",
+    "Hash": "9DE32F233F6FE0C46510D2E54C1F3E6C",
+    "Url": "https://jobs.lever.co/findora/88501a0d-a86d-4cd2-b0b7-8625a107b02b",
+    "CrawledDate": "2020-07-30",
+    "DomainId": "lever",
+    "TackIt": "true",
+    "Body": "Systems Engineer Menlo Park, CA / Engineering / Full-time Apply for this job Systems Engineers work with a talented team of systems and research engineers and architects as Findora builds out its core infrastructure and specific applications. The core engineering team\u2019s primary focus is to build out the Findora platform, a highly performant distributed system incorporating significant innovations in cryptography, storage/authenticated data structures, and consensus/state machine replication. Additionally, as the platform is implemented, a growing number of ecosystem applications will be developed atop the Findora infrastructure, requiring a full stack engineering effort. Engineers must collaborate effectively with the research team to bring theoretical breakthroughs into practice and collectively make architectural and engineering decisions alongside the researchers, architects, and fellow engineers. Responsibilities Building the underlying core Findora infrastructure, a state-of-the-art distributed system primarily implemented in Rust Creating the interface and integration process for new and existing financial service products to move their operations onto the Findora platform Integrating our cryptographic library (written in Rust), which enables new privacy/compliance tools, with a blockchain base layer for assets, accounts, transfers, smart contracts, etc. Development of specialized financial apps such as lending platforms, exchanges, and investment funds on the underlying blockchain Architecting the process of large-scale deployment of the entire stack Minimum Qualifications Meaningful computer science and software development experience with awareness of engineering and security best practices Great communication skills and energy Preferred Experience with software development for enterprise consumers Experience with distributed systems and/or databases in a production environment Experience with cryptography and/or blockchain systems Experience with Rust and/or C++ in a production environment Experience designing and implementing scalable and high performance platforms Openness to travel and potentially international relocation Perks Work on new problems in an emerging field Learn from systems engineering, cryptography, and finance domain experts in a mentorship-oriented work culture Make a big impact as an early contributor Apply for this job Findora Home PageJobs powered by"
+}

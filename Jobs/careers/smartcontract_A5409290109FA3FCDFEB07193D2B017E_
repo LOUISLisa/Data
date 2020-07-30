@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://careers.smartcontract.com/",
+    "OutLinks": [
+        "https://careers.smartcontract.com/",
+        "https://careers.smartcontract.com/o/business-development-chainlink",
+        "https://careers.smartcontract.com/o/business-development-chainlink/c/new"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://careers.smartcontract.com/o/business-development-chainlink",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "Careers",
+    "Title": "Business Development, Chainlink - Chainlink",
+    "Hash": "A5409290109FA3FCDFEB07193D2B017E",
+    "Url": "https://careers.smartcontract.com/o/business-development-chainlink/c/new",
+    "CrawledDate": "2020-07-29",
+    "DomainId": "smartcontract",
+    "TackIt": "true",
+    "Body": "Company website Business Development, Chainlink Marketing Remote job Job openings Business Development, Chainlink Application form Personal information Tell us something about yourself Full name * Email address * Phone number * Photo Add file We accept PNG, JPG, and JPEG files CV/Resume * Upload your CV or resume file Add file We accept PDF, DOC, DOCX, JPG and PNG files. Cover letter Insert your cover letter here \n Questions Please fill in additional questions Do you have at least 1+ years of experience in the blockchain space?YesNo * required fields Hiring With"
+}

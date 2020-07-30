@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.arcblock.io/en/jobs#op-254242-backend-engineer-beijing",
+    "OutLinks": [
+        "https://www.arcblock.io/en/jobs",
+        "https://www.arcblock.io/en/open-chain-access-protocol"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://www.arcblock.io/en/jobs/",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "Careers",
+    "Title": "Open Chain Access Protocol",
+    "Hash": "7517D88578340A9236DC31F0F33FE050",
+    "Url": "https://www.arcblock.io/en/open-chain-access-protocol/",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "arcblock",
+    "TackIt": "true",
+    "Body": "Platform A Complete Blockchain Platform A platform to build, manage and deploy the next generation of decentralized applications and blockchain experiences. Overview ABT Network ABT Node ABT Wallet Blocklet SDK Decentralized Identity Open Chain Access Protocol Miners Developer Welcome Home Developers Resources, documentation, tutorials and code samples for any developer project Overview DApps Workshop Engineer Blog Documentation GitHub Community Whitepaper Solutions Learning About About US Learn more about the company, FAQs and how to partner with us. Overview FAQs Partnership Sign In Open Chain Access Protocol Sign In Open Chain Access Protocol A powerful protocol for accessing underlying blockchains and making it easy for your application to work with different blockchains automatically. The New Middle Layer A simple, unified way to access data from different blockchains. The Open Chain Access Layer gives developers APIs that enable open connectivity and access to different blockchain protocols. Chain Adapters and are designed to add and support existing and new blockchain protocols in a unified way. Scalable API access to different blockchain networks Use the web-based developer tool to immediately begin accessing data from different chains for your project. Create, Save and Reuse Create queries and playbooks to easily reuse or insert your query into your application. Interactive GraphQL Console Access any supported blockchain protocol through a single, unified interface. Ethereum, Bitcoin and More Get real-time data. As soon as a block updates, you can access it in the playground. Integrated documentation Find the schema, query or subscription through integrated documentation center. Learn More About OCAP Contact Us FOLLOW US PRODUCTOverviewABT NetworkABT NodeABT WalletBlockletsSDKOCAP LEARN MORECommunityDApps WorkshopDocumentationEngineering BlogLearningSolutions ABOUT USTeamJobsLeaderShipPartnersNews & Events CONTACT USSupport Â© ArcBlock 2017 - 2020 Terms of Service | Privacy | Service Level | Site Map"
+}

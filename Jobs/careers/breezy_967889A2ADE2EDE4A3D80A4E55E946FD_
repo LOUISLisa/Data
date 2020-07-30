@@ -1,0 +1,28 @@
+{
+    "SeedUrl": "https://terra.breezy.hr/p/f619b8115f0b-web-engineer",
+    "OutLinks": [
+        "https://breezy.hr/mb/portal?utm_campaign=portal_referral&cpn=Terraform%20Labs",
+        "https://terra.breezy.hr/",
+        "https://terra.breezy.hr/p/13e73f56ea80-quant-engineer",
+        "https://terra.breezy.hr/p/58aa29daf666-technical-product-manager",
+        "https://terra.breezy.hr/p/6735b5df2d64-core-engineer",
+        "https://terra.breezy.hr/p/8b61a6aa884b-bd-lead",
+        "https://terra.breezy.hr/p/8b872bbe315c-dev-relations-engineer",
+        "https://terra.breezy.hr/p/c60933bcb4a8-mobile-engineer",
+        "https://terra.breezy.hr/p/e02508507759-visual-designer",
+        "https://terra.breezy.hr/p/eebd747b7ab6-core-researcher",
+        "https://terra.breezy.hr/p/f619b8115f0b-web-engineer",
+        "https://terra.breezy.hr/p/ff07f353a164-pr-lead"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://terra.breezy.hr/p/f619b8115f0b-web-engineer",
+    "RequiredMatch": "decentralized",
+    "DocumentType": "Careers",
+    "Title": "%DOC_TITLE%Terraform Labs",
+    "Hash": "967889A2ADE2EDE4A3D80A4E55E946FD",
+    "Url": "https://terra.breezy.hr/",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "breezy",
+    "TackIt": "true",
+    "Body": "%HEADER_COMPANY_WEBSITE% Gallery %BUTTON_VIEW_OPENINGS% At Terra, we are reimagining finance as you know it. From designing a decentralized stablecoin to building a blockchain-powered payment service, the work we do is reshaping the future of payments and creating a world where everyone can transact freely. To get there, we\u2019ve gathered brilliant minds who are laser-focused on delivering the next big innovation in the story of money. We are looking for people with a hunger for solving problems, because the hardest challenges are often the most rewarding. Join our team and help us build the future of money. %HEADER_OUR_OPEINGS% %LABEL_DEPARTMENTS%%DROPDOWN_ANY_DEPARTMENT%Business DevelopmentEngineeringResearchOther %LABEL_LOCATIONS%%DROPDOWN_ANY_LOCATION%Seoul, KRWorldwide Seoul, KR %BUTTON_APPLY% Mobile Engineer Seoul, KR %LABEL_POSITION_TYPE_FULL_TIME% Engineering%BUTTON_APPLY% %BUTTON_APPLY% QA Engineer Seoul, KR - %LABEL_POSITION_TYPE_REMOTE% %LABEL_POSITION_TYPE_FULL_TIME% Engineering%BUTTON_APPLY% %BUTTON_APPLY% Visual Designer Seoul, KR %LABEL_POSITION_TYPE_FULL_TIME%%BUTTON_APPLY% %BUTTON_APPLY% Web Engineer Seoul, KR - %LABEL_POSITION_TYPE_REMOTE% %LABEL_POSITION_TYPE_FULL_TIME% Engineering%BUTTON_APPLY% Worldwide %BUTTON_APPLY% BD Lead Remote Worldwide %LABEL_POSITION_TYPE_FULL_TIME% Business Development%BUTTON_APPLY% %BUTTON_APPLY% Core Engineer Remote Worldwide %LABEL_POSITION_TYPE_FULL_TIME% Engineering%BUTTON_APPLY% %BUTTON_APPLY% Core Researcher Remote Worldwide %LABEL_POSITION_TYPE_FULL_TIME% Research%BUTTON_APPLY% %BUTTON_APPLY% Dev Relations Engineer Remote Worldwide %LABEL_POSITION_TYPE_FULL_TIME% Engineering%BUTTON_APPLY% %BUTTON_APPLY% PR Lead Remote Worldwide %LABEL_POSITION_TYPE_FULL_TIME% Business Development%BUTTON_APPLY% %BUTTON_APPLY% Quant Engineer Remote Worldwide %LABEL_POSITION_TYPE_FULL_TIME% Engineering%BUTTON_APPLY% %BUTTON_APPLY% Technical Product Manager Remote Worldwide %LABEL_POSITION_TYPE_FULL_TIME% Engineering%BUTTON_APPLY% %FOOTER_POWERED_BY%breezy"
+}

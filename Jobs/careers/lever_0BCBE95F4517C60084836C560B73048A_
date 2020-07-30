@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://jobs.lever.co/kraken/c9dba4fb-ae6c-4d3f-84b7-66d28b89ef1e?lever-origin=applied&lever-source[]",
+    "OutLinks": [
+        "https://jobs.lever.co/kraken",
+        "https://jobs.lever.co/kraken/63619e11-9b60-48a7-9cd1-84a28a9352e7/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/kraken",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "Careers",
+    "Title": "Kraken Digital Asset Exchange - Application Security Engineer",
+    "Hash": "0BCBE95F4517C60084836C560B73048A",
+    "Url": "https://jobs.lever.co/kraken/63619e11-9b60-48a7-9cd1-84a28a9352e7",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "lever",
+    "TackIt": "true",
+    "Body": "Application Security Engineer Remote / IT and Security / Remote Full-time Apply for this job About Kraken Our mission is to accelerate the adoption of cryptocurrency so that you and the rest of the world can achieve financial freedom and inclusion. Â Founded in 2011 and with over 4 million clients, Kraken is one of the world's largest, most successful bitcoin exchanges and we're growing faster than ever. Our range of successful products are playing an important role in the mainstream adoption of crypto assets. Â We attract people who constantly push themselves to think differently and chart exciting new paths in a rapidly growing industry. Kraken is a diverse group of dreamers and doers who see value in being radically transparent. Let's change the way the world thinks about money! Join the revolution! The Application Security Engineer will be responsible for integrating security into the development of applications.Â Â The engineer will work closely with Kraken's Product and software development teams to threat model, vulnerability scan and penetration test the early software, system and architecture while identifying the required control points in the application stack.Â Â The engineer will also closely work with developers to diagnose, document and remediate security vulnerabilities.Â Â The engineer will also be responsible for evaluating, recommending and implementing security related software on the SDLC.Â Â Further, the engineer must be comfortable leading and training developers in secure best practices. Requirements 3+ years of Development experience Proficient in a primary development language Organized, responsive problem solver Strong understanding of application security frameworks Thorough knowledge of OWASP Top 10 & ASVS Understanding of Security Code Reviews and Strong Self-started able to operate independently Excellent oral/written presentation skills with the ability to teach and communicate effectively to developers and leadership. Understanding Continuous Integrations / Testing / Delivery Knowledge of JIRA, Burp, Confluence, SAST, DAST We\u2019re powered by people from around the world with their own unique backgrounds and experiences. We value all Krakenites and their talents, contributions, and perspectives. Check out all our open roles at https://jobs.lever.co/kraken. We\u2019re excited to see what you\u2019re made of. Â  Learn more about us: Watch \"Working at Kraken\" Follow us on Twitter Catch up on our blog Follow us on LinkedIn Apply for this job Kraken Digital Asset Exchange Home PageJobs powered by"
+}

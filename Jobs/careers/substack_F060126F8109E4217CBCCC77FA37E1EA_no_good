@@ -1,0 +1,21 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://substack.com/?utm_source=substack&utm_medium=web&utm_content=footer",
+    "DomainId": "substack",
+    "OutLinks": [
+        "https://status.substack.com/",
+        "https://support.substack.com/hc/en-us",
+        "https://support.substack.com/hc/en-us/categories/360002403472-Writers",
+        "https://support.substack.com/hc/en-us/categories/360002411231-General",
+        "https://support.substack.com/hc/en-us/categories/360002411451-Readers",
+        "https://support.substack.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.substack.com%2Fhc%2Fen-us&locale=en-us"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://support.substack.com/hc/en-us?s=support%40substack.com",
+    "DocumentType": "Careers",
+    "Title": "Substack, Inc",
+    "Hash": "F060126F8109E4217CBCCC77FA37E1EA",
+    "TackIt": "true",
+    "Body": "Sign in Writers If you're writing on Substack, get help with all your publishing, payments, and people questions here. Readers If you're reading on Substack, get help with your account, payments, and subscriptions here. General Questions about Substack for the generally curious. Looking for advice on how to make the most of Substack? Check out our writer resources. Is Substack down or are you having a service issue? Check out our status page. Can't find what you're looking for? Contact support@substack.com. Substack, Inc",
+    "Url": "https://support.substack.com/hc/en-us"
+}

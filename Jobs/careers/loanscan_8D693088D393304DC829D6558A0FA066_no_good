@@ -1,0 +1,14 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://loanscan.io/",
+    "DomainId": "loanscan",
+    "OutLinks": [],
+    "ContentType": "text/xml",
+    "Parent": "https://loanscan.io/",
+    "DocumentType": "Careers",
+    "Title": "",
+    "Hash": "8D693088D393304DC829D6558A0FA066",
+    "TackIt": "true",
+    "Body": "Loanscan Use Loanscan to search the loans. loan dharma makerdao compound cdp contact@loanscan.io",
+    "Url": "https://loanscan.io/opensearch.xml"
+}

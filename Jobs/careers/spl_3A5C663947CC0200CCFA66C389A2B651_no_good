@@ -1,0 +1,14 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://www.spl.yt/intern-business-development",
+    "DomainId": "spl",
+    "OutLinks": [],
+    "ContentType": "application/xml",
+    "Parent": "https://dapp.spl.yt/",
+    "DocumentType": "Careers",
+    "Title": "",
+    "Hash": "3A5C663947CC0200CCFA66C389A2B651",
+    "TackIt": "true",
+    "Body": "<\/head> WordPress Yes Yes WordPress images/wlw/wp-icon.png images/wlw/wp-watermark.png View site Dashboard {blog-postapi-url}/../wp-admin/ {blog-postapi-url}/../wp-admin/post.php?action=edit&post={post-id} 0 Manage Comments images/wlw/wp-comments.png {blog-postapi-url}/../wp-admin/edit-comments.php",
+    "Url": "https://spl.yt/old/wp-includes/wlwmanifest.xml"
+}

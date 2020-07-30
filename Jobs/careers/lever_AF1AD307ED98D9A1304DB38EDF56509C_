@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/59f4f5ff-3bce-445b-81f9-c9be88ed0bc7/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora",
+    "RequiredMatch": "rust",
+    "DocumentType": "Careers",
+    "Title": "Findora - DevOps Engineer",
+    "Hash": "AF1AD307ED98D9A1304DB38EDF56509C",
+    "Url": "https://jobs.lever.co/findora/59f4f5ff-3bce-445b-81f9-c9be88ed0bc7",
+    "CrawledDate": "2020-07-30",
+    "DomainId": "lever",
+    "TackIt": "true",
+    "Body": "DevOps Engineer Menlo Park, CA / Engineering / Full-time Apply for this job DevOps Engineers work with a talented team of systems and research engineers and architects to build out Findora's core infrastructure and specific applications. The core engineering team\u2019s primary focus is to build out the Findora platform, a highly performant distributed system incorporating significant innovations in cryptography, storage/authenticated data structures, and consensus/state machine replication. Additionally, as the platform is implemented, a growing number of ecosystem applications will be developed atop Findora, requiring a full stack engineering effort. Engineers must collaborate effectively with the research team to bring theoretical breakthroughs into practice and collectively make architectural and engineering decisions alongside the researchers, architects, and peer engineers.Â  DevOps engineers must develop the infrastructure necessary to test and deploy Findora's core platform.Â  Responsibilities Building deployment tools for the underlying core Findora infrastructure, a state-of-the-art distributed system primarily implemented in Rust Build monitoring solutions that ensure that the Findora network is healthy Perform detailed and helpful code reviews Minimum qualifications 3+ years DevOps or relevant experience Experience with continuous integration and continuous development Preferred Experience with the major cloud services (AWS/GCP/Azure) Experience with infrastructure components (Docker, Nginx, etc.) Experience with Rust in a production environment Experience with cryptography and/or blockchain systems Experience working with security-critical systems Openness to travel and potentially international relocation Perks Work on new problems in an emerging field Learn from systems engineering, cryptography, and finance domain experts in a mentorship-oriented work culture Make a big impact as an early contributor Apply for this job Findora Home PageJobs powered by"
+}

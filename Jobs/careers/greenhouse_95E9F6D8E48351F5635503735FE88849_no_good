@@ -1,0 +1,24 @@
+{
+    "SeedUrl": "https://boards.greenhouse.io/robinhood",
+    "OutLinks": [
+        "http://www.greenhouse.io/careers?gh_src=ti7lw0",
+        "https://developers.greenhouse.io/assessment.html",
+        "https://developers.greenhouse.io/candidate-ingestion.html",
+        "https://developers.greenhouse.io/gho.html",
+        "https://developers.greenhouse.io/harvest.html",
+        "https://developers.greenhouse.io/job-board.html",
+        "https://developers.greenhouse.io/webhooks.html",
+        "https://greenhouse.io/"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.greenhouse.io/privacy-policy",
+    "DocumentType": "Careers",
+    "Title": "Developer Resources | Greenhouse",
+    "Hash": "95E9F6D8E48351F5635503735FE88849",
+    "Url": "https://developers.greenhouse.io/",
+    "CrawledDate": "2020-07-14",
+    "DomainId": "greenhouse",
+    "Language": "UNKNOWN",
+    "TackIt": "true",
+    "Body": "Developer Resources Harvest API Programmatically access your jobs, candidates, interviews, and other data from Greenhouse. Job Board API Build careers pages with a unique look and feel, construct department-level pages and more! Web Hooks Be notified when particular events happen on Greenhouse. Onboarding API Programmatically access your employee information from Greenhouse Onboarding. Ingestion API Enables sourcing partners to submit prospects and candidates to Greenhouse. Assessment API Enables assessment platforms to seamlessly integrate with Greenhouse. Engineering Blog We're Hiring! View on GitHub"
+}

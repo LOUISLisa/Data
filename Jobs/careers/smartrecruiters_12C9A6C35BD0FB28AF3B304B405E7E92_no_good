@@ -1,0 +1,14 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://www.smartrecruiters.com/Square/743999697689349",
+    "DomainId": "smartrecruiters",
+    "OutLinks": [],
+    "ContentType": "application/xml",
+    "Parent": "https://www.smartrecruiters.com/?utm_source=referral&utm_medium=jobadpage&utm_campaign=jobad&utm_content=none&km_partner=none&km_adgroup=none&utm_term=none&km_matchtype=none",
+    "DocumentType": "Careers",
+    "Title": "",
+    "Hash": "12C9A6C35BD0FB28AF3B304B405E7E92",
+    "TackIt": "true",
+    "Body": "<\/head> WordPress Yes Yes WordPress images/wlw/wp-icon.png images/wlw/wp-watermark.png View site Dashboard {blog-postapi-url}/../wp-admin/ {blog-postapi-url}/../wp-admin/post.php?action=edit&post={post-id} 0 Manage Comments images/wlw/wp-comments.png {blog-postapi-url}/../wp-admin/edit-comments.php",
+    "Url": "https://cdn.smartrecruiters.com/wp-includes/wlwmanifest.xml"
+}

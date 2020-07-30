@@ -1,0 +1,16 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://web3.bamboohr.com/jobs/view.php?",
+    "DomainId": "bamboohr",
+    "OutLinks": [
+        "https://web3.bamboohr.com/jobs",
+        "https://web3.bamboohr.com/jobs/"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "DocumentType": "Careers",
+    "Title": "BambooHR",
+    "Hash": "8B0E22DC3E44D32B2C0EAD573CB6FD05",
+    "TackIt": "true",
+    "Body": "Web 3.0 Technologies Foundation Privacy Policy Â Â·Â  Terms of Service Â Â Â·Â  Â© 2008\u20132020 BambooHR All rights reserved. Submit Application Cancel",
+    "Url": "https://web3.bamboohr.com/jobs/"
+}

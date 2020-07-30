@@ -1,0 +1,19 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://substack.com/?utm_source=substack&utm_medium=web&utm_content=footer",
+    "DomainId": "substack",
+    "OutLinks": [
+        "https://support.substack.com/hc/en-us",
+        "https://support.substack.com/hc/en-us/categories/360002411451-Readers",
+        "https://support.substack.com/hc/en-us/sections/360007423692-General",
+        "https://support.substack.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.substack.com%2Fhc%2Fen-us%2Fcategories%2F360002411451-Readers&locale=en-us"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://support.substack.com/hc/en-us?s=support%40substack.com",
+    "DocumentType": "Careers",
+    "Title": "Readers \u2013 Substack, Inc",
+    "Hash": "B2062FB5D4FA3AF48915F9BDCF773E87",
+    "TackIt": "true",
+    "Body": "Sign in Substack, Inc Readers Readers If you're reading on Substack, get help with your account, payments, and subscriptions here. General What cards do you accept? Will my subscription automatically renew? Why is my payment to renew a subscription failing? How do I change my subscription plan? I requested my account password, but I haven't received an email. I signed up for a publication, but their emails aren't getting through. What should I do? See all 20 articles Substack, Inc",
+    "Url": "https://support.substack.com/hc/en-us/categories/360002411451-Readers"
+}

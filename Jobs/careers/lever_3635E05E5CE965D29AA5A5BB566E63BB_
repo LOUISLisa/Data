@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://jobs.lever.co/kraken/c9dba4fb-ae6c-4d3f-84b7-66d28b89ef1e?lever-origin=applied&lever-source[]",
+    "OutLinks": [
+        "https://jobs.lever.co/kraken",
+        "https://jobs.lever.co/kraken/4019a818-4a7b-46ef-9225-c53c7a7f238c/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/kraken",
+    "RequiredMatch": "rust",
+    "DocumentType": "Careers",
+    "Title": "Kraken Digital Asset Exchange - Backend Engineer - Rust (Remote)",
+    "Hash": "3635E05E5CE965D29AA5A5BB566E63BB",
+    "Url": "https://jobs.lever.co/kraken/4019a818-4a7b-46ef-9225-c53c7a7f238c",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "lever",
+    "TackIt": "true",
+    "Body": "Backend Engineer - Rust (Remote) Remote / Engineering / Remote Full-time Apply for this job About Kraken Our mission is to accelerate the adoption of cryptocurrency so that you and the rest of the world can achieve financial freedom and inclusion. Â Founded in 2011 and with over 4 million clients, Kraken is one of the world's largest, most successful bitcoin exchanges and we're growing faster than ever. Our range of successful products are playing an important role in the mainstream adoption of crypto assets. Â We attract people who constantly push themselves to think differently and chart exciting new paths in a rapidly growing industry. Kraken is a diverse group of dreamers and doers who see value in being radically transparent. Let's change the way the world thinks about money! Join the revolution! About the Role This is a fully remote role, we will consider applicants based in North America, South America and EMEA Our Engineering team is having a blast while delivering the most sophisticated crypto-trading platform out there. Help us continue to define and lead the industry. As part of Kraken's Core Backend team, you will work within a world-class team of engineers building Kraken's infrastructure using Rust. As a Backend Engineer, you help design and implement new services, and port legacy ones into Rust. You will work on projects through their lifecycle, from their initial requirements, implementation and up to production. Responsibilities Design and implementation of Micro-services in Rust Port legacy Micro-services to Rust Writing reusable, testable, and efficient code Implementation of security and data protection systems Write highly scalable, high volume services Requirements At least 3 years of experience in software engineering Experience writing network services or asynchronous code in Rust Experience using a Linux server environment Ability to independently debug problems involving the network and operating system Proactive, self-driven mindset A strong candidate will also Be familiar with deployment using Docker Have experience with other strongly typed languages Have experience with distributed systems, SQL, Redis and Kafka Be passionate about secure, reliable and fast software Have open source contributions, including in Rust Be familiar with PHP We\u2019re powered by people from around the world with their own unique backgrounds and experiences. We value all Krakenites and their talents, contributions, and perspectives. Check out all our open roles at https://jobs.lever.co/kraken. We\u2019re excited to see what you\u2019re made of. Â  Learn more about us: Watch \"Working at Kraken\" Follow us on Twitter Catch up on our blog Follow us on LinkedIn Apply for this job Kraken Digital Asset Exchange Home PageJobs powered by"
+}

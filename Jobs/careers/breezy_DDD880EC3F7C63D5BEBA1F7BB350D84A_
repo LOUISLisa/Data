@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://terra.breezy.hr/p/f619b8115f0b-web-engineer",
+    "OutLinks": [
+        "https://app.breezy.hr/api/apply/linkedin?position_id=8b872bbe315c",
+        "https://breezy.hr/mb/portal?utm_campaign=portal_referral&cpn=Terraform%20Labs",
+        "https://terra.breezy.hr/",
+        "https://terra.breezy.hr/p/8b872bbe315c-dev-relations-engineer/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://terra.breezy.hr/",
+    "RequiredMatch": "terraform",
+    "DocumentType": "Careers",
+    "Title": "Dev Relations Engineer at Terraform Labs",
+    "Hash": "DDD880EC3F7C63D5BEBA1F7BB350D84A",
+    "Url": "https://terra.breezy.hr/p/8b872bbe315c-dev-relations-engineer",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "breezy",
+    "TackIt": "true",
+    "Body": "%HEADER_COMPANY_WEBSITE% Dev Relations Engineer Remote Worldwide %LABEL_POSITION_TYPE_FULL_TIME% Engineering %BREADCRUMB_JOB_OPENINGS% Dev Relations Engineer %BUTTON_APPLY_TO_POSITION% %BUTTON_APPLY_USING_LINKED_IN% Terra\u2019s mission is to set money free. We believe that money is a form of technology that can be innovated on. As a pioneer in monetary technology, we build open infrastructure, rethink monetary policy, and create revolutionary applications that sets the stage for open financial platforms. As featured in: TechCrunch: \"Terra is an ambitious crypto project to build a stable coin through e-commerce\" Fortune: \"Cryptocurrency Exchanges Back $32 Million Stable Coin Project\" Venture Beat: \"Terra gets $32 million to build the future of money with blockchain\" Tech in Asia: \"Terra's plan for a blockchain PayPal alternative gets $32m from top crypto exchanges\" You will be solving these problems at Terra: Build tooling & SDKs that eases the process of building applications on the Terra blockchain Write technical documentation & guidebooks to facilitate developer onboarding and education Build developer ecosystems around the Terra blockchain platform Form internal direction on the future roadmap of the Terra protocol, and communicate community requests for features Participate in the design of performant and resilient distributed applications Work alongside a cross-functional team including engineering, design, community, product, and business You will find it easier to do your job if you have the following qualities. Needless to say, none of these qualities supersede your intellectual and professional curiosity: Passion for clear communication & educating fellow developers Passion for building applications using Golang, Rust or C/C++ Excellent understanding of distributed system technology Experience working and contributing or leading to open source projects If you are tired of simply making money and hope to go down the rabbit hole to rethink how money works, then Terra is the right place for you. %BUTTON_APPLY_TO_POSITION% %BUTTON_APPLY_USING_LINKED_IN% %FOOTER_POWERED_BY%breezy"
+}

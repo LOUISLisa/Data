@@ -1,0 +1,17 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/960a4d2f-fdcf-4a7b-9fc6-ded7ee31894c/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora",
+    "DocumentType": "Careers",
+    "Title": "Findora - UI Designer, China",
+    "Hash": "761042CB96CEED3F036DAA37EB6E08DC",
+    "TackIt": "true",
+    "Body": "UI Designer, China Beijing / Design / Apply for this job Apply for this job Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora/960a4d2f-fdcf-4a7b-9fc6-ded7ee31894c"
+}

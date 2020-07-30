@@ -1,0 +1,22 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://substack.com/?utm_source=substack&utm_medium=web&utm_content=footer",
+    "DomainId": "substack",
+    "OutLinks": [
+        "https://holapapi.substack.com/",
+        "https://holapapi.substack.com/account",
+        "https://holapapi.substack.com/archive?utm_source=menu-dropdown",
+        "https://holapapi.substack.com/privacy",
+        "https://holapapi.substack.com/tos",
+        "https://substack.com/?utm_source=substack&utm_medium=web&utm_content=footer",
+        "https://support.substack.com/hc/en-us?s=support%2Bholapapi%40substack.com"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://holapapi.substack.com/",
+    "DocumentType": "Careers",
+    "Title": "My Account - Â¡Hola Papi!",
+    "Hash": "08B2A485CFC66799F82001D7CA0BA5EF",
+    "TackIt": "true",
+    "Body": "Â¡Hola Papi! Subscribe About Archive Help Sign in My Account Â© 2020 JuanPa. See privacy and terms Publish on Substack This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts",
+    "Url": "https://holapapi.substack.com/account"
+}

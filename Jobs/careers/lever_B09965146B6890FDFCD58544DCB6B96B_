@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/d48aa8bd-8e89-4f48-ab93-689526a0bb08/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora",
+    "RequiredMatch": "decentralized",
+    "DocumentType": "Careers",
+    "Title": "Findora - Researcher, Financial Systems",
+    "Hash": "B09965146B6890FDFCD58544DCB6B96B",
+    "Url": "https://jobs.lever.co/findora/d48aa8bd-8e89-4f48-ab93-689526a0bb08",
+    "CrawledDate": "2020-07-30",
+    "DomainId": "lever",
+    "TackIt": "true",
+    "Body": "Researcher, Financial Systems Menlo Park, CA / Research / Full-time Apply for this job Findora is a next-generation network, designed to be the trusted global financial infrastructure and the ideal hub for decentralized financial apps.Â Findora envisions a world where financial networks are compliant and publicly auditable at all times. By putting assets and financial agreements on a distributed ledger, Findora will eliminate fraud, reduce costs of compliance, and enable brand new types of capital markets. The Findora ecosystem will host applications ranging from P2P lending to alternative asset issuance/exchange.Â  Developing successful financial applications requires a deep understanding of the systems they are targeting. For instance, creating an asset issuance platform requires in-depth knowledge of the range of potential assets, their classes, relevant regulations, and all relevant actors. We are looking for a researcher with a background in financial or economic systems to conduct thorough research on the financial systems Findora is targeting.Â  Responsibilities Conduct thorough research on financial systems Findora is targeting (P2P lending, asset issuance/exchange, etc.)Â  Understand the major actors and rules of target financial systemsÂ  Coordinate with the product and design teams to ensure Findora's systems take into account all financial edge cases Conduct quantitative studies on financial systems to predict network usage/throughput requirements Minimum qualifications BS or MS in Computer Science, Mathematics, or Economics Experience studying and/or implementing financial systems and financial technology Preferred PhD in Mathematics, Economics, or another related field Deep understanding of blockchain systems Understanding of algorithmic game theory and/or quantitative financial modeling Perks Work on new problems in an emerging field Learn from systems engineering, cryptography, and finance domain experts in a mentorship-oriented work culture Make a big impact as an early contributor Apply for this job Findora Home PageJobs powered by"
+}

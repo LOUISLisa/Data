@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://jobs.lever.co/kraken/c9dba4fb-ae6c-4d3f-84b7-66d28b89ef1e?lever-origin=applied&lever-source[]",
+    "OutLinks": [
+        "https://jobs.lever.co/kraken",
+        "https://jobs.lever.co/kraken/a29c70fb-218f-4754-9bef-7e9147fa39e9/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/kraken",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "Careers",
+    "Title": "Kraken Digital Asset Exchange - Data Engineer (Remote)",
+    "Hash": "6C2CC4EB10E3EC47A8F78096EECA41B6",
+    "Url": "https://jobs.lever.co/kraken/a29c70fb-218f-4754-9bef-7e9147fa39e9",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "lever",
+    "TackIt": "true",
+    "Body": "Data Engineer (Remote) Remote / Engineering / Remote Full-time Apply for this job About Kraken Our mission is to accelerate the adoption of cryptocurrency so that you and the rest of the world can achieve financial freedom and inclusion. Â Founded in 2011 and with over 4 million clients, Kraken is one of the world's largest, most successful bitcoin exchanges and we're growing faster than ever. Our range of successful products are playing an important role in the mainstream adoption of crypto assets. Â We attract people who constantly push themselves to think differently and chart exciting new paths in a rapidly growing industry. Kraken is a diverse group of dreamers and doers who see value in being radically transparent. Let's change the way the world thinks about money! Join the revolution! About the role The data engineering team is responsible for designing and implementing scalable solutions that allow the company to make data-driven decisions fast and accurately on several terabytes of data. The data engineering team has just launched the company\u2019s new data warehouse, and you will be responsible for creating various pipelines to move vast amounts of data into the new warehouse. Responsibilities Build scalable and reliable data pipeline that collects, transforms, loads and curates data from internal systems Augment data platform with data pipelines from select external systems Ensure high data quality for pipelines you build and make them auditable Drive data systems to be as near real-time as possible Support design and deployment of distributed data store that will be central source of truth across the organization Build data connections to company's internal IT systems Develop, customize, configure self service tools that help our data consumers to extract and analyzeÂ  Â  Â  data from our massive internal data store Evaluate new technologies and build prototypes for continuous improvements in data engineering Requirements 5+Â  years of work experience in relevant field (Data Engineer, DW Engineer, Software Engineer, etc) Experience with data warehouse technologies and relevant data modeling best practices (Spark, Presto, Druid, etc.) Experience building data pipelines/ETL and familiarity with design principles Excellent SQL skills Proficiency in a major programming language (e.g. Java, C++, etc.) and/or a scripting language (Javascript, Python, etc.) Experience with business requirements gathering for data sourcing We\u2019re powered by people from around the world with their own unique backgrounds and experiences. We value all Krakenites and their talents, contributions, and perspectives. Check out all our open roles at https://jobs.lever.co/kraken. We\u2019re excited to see what you\u2019re made of. Â  Learn more about us: Watch \"Working at Kraken\" Follow us on Twitter Catch up on our blog Follow us on LinkedIn Apply for this job Kraken Digital Asset Exchange Home PageJobs powered by"
+}

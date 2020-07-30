@@ -1,0 +1,18 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://terra.breezy.hr/p/c60933bcb4a8-mobile-engineer",
+    "DomainId": "breezy",
+    "OutLinks": [
+        "https://breezy.hr/mb/portal?utm_campaign=portal_referral&cpn=Terraform%20Labs",
+        "https://terra.breezy.hr/",
+        "https://terra.breezy.hr/p/c60933bcb4a8-mobile-engineer"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://terra.breezy.hr/p/c60933bcb4a8-mobile-engineer",
+    "DocumentType": "Careers",
+    "Title": "Mobile Engineer",
+    "Hash": "3191F993F44CE2CA803D4FAD8EB5A672",
+    "TackIt": "true",
+    "Body": "Mobile Engineer %HEADER_APPLICATION_SUBMITTED% %SUBHEADER_APPLICATION_SUBMITTED% Mobile Engineer Seoul, KR %LABEL_POSITION_TYPE_FULL_TIME% Engineering %BREADCRUMB_JOB_OPENINGS% Mobile Engineer %BUTTON_APPLY% %HEADER_PERSONAL_DETAILS% %PLACEHOLDER_FULL_NAME%* %ERROR_INVALID_FORM_FULL_NAME% %PLACEHOLDER_EMAIL_ADDRESS%* %ERROR_INVALID_FORM_EMAIL_ADDRESS%%ERROR_INVALID_FORM_EMAIL_ADDRESS% %PLACEHOLDER_PHONE_NUMBER%* %ERROR_INVALID_FORM_PHONE_NUMBER% %HEADER_EXPERIENCE% %HEADER_WORK_HISTORY%* %LINK_DELETE% %LINK_ADD_POSITION% %ERROR_INVALID_FORM_RESPONSE% %HEADER_EDUCATION%* %LINK_DELETE% %LINK_ADD_EDUCATION% %ERROR_INVALID_FORM_RESPONSE% %HEADER_EXPERIENCE_SUMMARY% %HEADER_RESUME%* {{candidate.resume.file_name}}%LINK_UPLOAD_RESUME% %ERROR_INVALID_FORM_RESUME% %HEADER_COVER_LETTER% A cover letter is required. %BUTTON_SUBMIT_APPLICATION% %ERROR_INVALID_FORM% {{ errorMessage }} %FOOTER_POWERED_BY%breezy",
+    "Url": "https://terra.breezy.hr/p/c60933bcb4a8-mobile-engineer/apply"
+}

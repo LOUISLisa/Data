@@ -1,0 +1,24 @@
+{
+    "SeedUrl": "https://www.spl.yt/intern-business-development",
+    "OutLinks": [
+        "https://dapp.spl.yt/",
+        "https://www.spl.yt/",
+        "https://www.spl.yt/careers",
+        "https://www.spl.yt/contact",
+        "https://www.spl.yt/devs",
+        "https://www.spl.yt/learn-more",
+        "https://www.spl.yt/privacy",
+        "https://www.spl.yt/splytcorefoundation"
+    ],
+    "ContentType": "text/html",
+    "Parent": "https://www.spl.yt/careers",
+    "RequiredMatch": "decentralized",
+    "DocumentType": "Careers",
+    "Title": "spl.yt \u2013 decentralized E-commerce",
+    "Hash": "D1B9BB581DDAE711A20B04847773905C",
+    "Url": "https://www.spl.yt/solidity-developer",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "spl",
+    "TackIt": "true",
+    "Body": "Home Learn More Devs RESOURCES Blog Careers Try Now Go Back Solidity Developer Location: Santa Monica, CA - Remote Option Company Background Spl.yt Core Foundation, a Science Blockchain-backed company operating out of Santa Monica, CA, is an open-sourced global inventory and affiliate marketing platform. The platform is a smart contract-based e-commerce protocol that will transform the way businesses market, operate, and sell online nearly for free by removing intermediaries. Spl.yt\u2019s top smart contract capabilities include a real-time inventory system, automated affiliate marketing rewards, fractional asset sales and management, inter-marketplace reputation tracking, and an alternative dispute resolution system. All of these features are powered by the blockchain, assuring that anyone who buys or sells things powered by Spl.yt will have the fairest and most secure e-commerce experience possible. For more details, please visit https://www.spl.yt/. Position Summary The Solidity Developer will be responsible for maintaining current Ethereum contracts, and will work with developers to implement new features and test out-of-the box technologies for viability. This team member will report directly to the CTO. Responsibilities Work with existing contracts and implement new features based on the project\u2019s pipeline Research and test new technologies to use for the current project Assist in creating client/server-side application stack Must maintain efficiency in blockchain Document new solutions as well as maintaining records of existing ones Qualifications A Bachelor's Degree in Computer Science or Information Technologies 2+ years working with backend/databases 1+ years of experience working in blockchain-related fields Experience picking up existing open source solutions and working with them Strong knowledge of common algorithms and data structures Familiarity with cryptography Familiarity with P2P networks Strong knowledge of concurrency, and experience writing efficient and safe multithreaded code APPLY NOW News & Announcements Stay connected with Spl.yt Get Notified CONTACT US | PRIVACY POLICY ASK US ANYTHING AT HELLO@SPL.YT 2019 SPL.YT CORE FOUNDATION ALL RIGHTS RESERVED"
+}

@@ -1,0 +1,31 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/483bfcda-afca-4abc-a153-f4dcf29d9141",
+        "https://jobs.lever.co/findora/960a4d2f-fdcf-4a7b-9fc6-ded7ee31894c",
+        "https://jobs.lever.co/findora/9eab6981-6a1c-4142-9158-097e6fbf2558",
+        "https://jobs.lever.co/findora?team=Business%20Development",
+        "https://jobs.lever.co/findora?team=Design",
+        "https://jobs.lever.co/findora?team=Design&commitment",
+        "https://jobs.lever.co/findora?team=Design&commitment=Full-time",
+        "https://jobs.lever.co/findora?team=Design&location=Beijing",
+        "https://jobs.lever.co/findora?team=Design&location=Menlo%20Park%2C%20CA",
+        "https://jobs.lever.co/findora?team=Design&location=Seoul",
+        "https://jobs.lever.co/findora?team=Engineering",
+        "https://jobs.lever.co/findora?team=Marketing",
+        "https://jobs.lever.co/findora?team=Operations",
+        "https://jobs.lever.co/findora?team=Product",
+        "https://jobs.lever.co/findora?team=Research"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora",
+    "DocumentType": "Careers",
+    "Title": "Findora",
+    "Hash": "F2E49702F0191A768C42117F500A98CA",
+    "TackIt": "true",
+    "Body": "Filter by: Location All Beijing Menlo Park, CA Seoul Design All Business Development Design Engineering Human Resources Marketing Operations Product Research Work type All Full-time Uncategorized Design Apply Graphic Designer Menlo Park, CADesign Apply Head of Design Menlo Park, CADesign Apply UI Designer, China BeijingDesign Apply UI/UX Designer Menlo Park, CADesign Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora?team=Design"
+}

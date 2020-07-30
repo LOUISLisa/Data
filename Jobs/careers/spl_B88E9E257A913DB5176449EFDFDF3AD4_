@@ -1,0 +1,24 @@
+{
+    "SeedUrl": "https://www.spl.yt/intern-business-development",
+    "OutLinks": [
+        "https://dapp.spl.yt/",
+        "https://www.spl.yt/",
+        "https://www.spl.yt/careers",
+        "https://www.spl.yt/contact",
+        "https://www.spl.yt/devs",
+        "https://www.spl.yt/learn-more",
+        "https://www.spl.yt/privacy",
+        "https://www.spl.yt/splytcorefoundation"
+    ],
+    "ContentType": "text/html",
+    "Parent": "https://www.spl.yt/intern-business-development",
+    "RequiredMatch": "decentralized",
+    "DocumentType": "Careers",
+    "Title": "spl.yt \u2013 decentralized e-commerce",
+    "Hash": "B88E9E257A913DB5176449EFDFDF3AD4",
+    "Url": "https://www.spl.yt/contact",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "spl",
+    "TackIt": "true",
+    "Body": "Home Learn More Devs RESOURCES Blog Careers Try Now CONTACT OUR TEAM Our team is happy to answer any questions. Fill out the form and we will be in touch as soon possible. Name Email Company Website Subject Please select an option I\u2019m an interested Seller I\u2019m an interested Affiliate I want to get involved in the ecosystem Other Message Submit News & Announcements Stay connected with Spl.yt Get Notified CONTACT US | PRIVACY POLICY ASK US ANYTHING AT HELLO@SPL.YT 2019 SPL.YT CORE FOUNDATION ALL RIGHTS RESERVED"
+}

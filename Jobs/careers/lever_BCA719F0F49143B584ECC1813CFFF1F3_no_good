@@ -1,0 +1,29 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora?location=Beijing",
+        "https://jobs.lever.co/findora?team=Business%20Development&location=Beijing",
+        "https://jobs.lever.co/findora?team=Design&location=Beijing",
+        "https://jobs.lever.co/findora?team=Engineering&location=Beijing",
+        "https://jobs.lever.co/findora?team=Marketing&location=Beijing",
+        "https://jobs.lever.co/findora?team=Operations&location=Beijing",
+        "https://jobs.lever.co/findora?team=Product&location=Beijing",
+        "https://jobs.lever.co/findora?team=Research",
+        "https://jobs.lever.co/findora?team=Research&location=Beijing",
+        "https://jobs.lever.co/findora?team=Research&location=Beijing&commitment",
+        "https://jobs.lever.co/findora?team=Research&location=Beijing&commitment=Full-time",
+        "https://jobs.lever.co/findora?team=Research&location=Menlo%20Park%2C%20CA",
+        "https://jobs.lever.co/findora?team=Research&location=Seoul"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora?team=Research",
+    "DocumentType": "Careers",
+    "Title": "Findora",
+    "Hash": "BCA719F0F49143B584ECC1813CFFF1F3",
+    "TackIt": "true",
+    "Body": "Filter by: Beijing All Beijing Menlo Park, CA Seoul Research All Business Development Design Engineering Human Resources Marketing Operations Product Research Work type All Full-time Uncategorized No job postings match these filters. Go back to all job postings Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora?team=Research&location=Beijing"
+}

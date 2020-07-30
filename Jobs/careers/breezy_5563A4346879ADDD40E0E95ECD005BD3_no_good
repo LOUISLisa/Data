@@ -1,0 +1,17 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://omise.breezy.hr/p/6561d9fb6cc2-legal-officer/apply",
+    "DomainId": "breezy",
+    "OutLinks": [
+        "https://breezy.hr/mb/portal?utm_campaign=portal_referral&cpn=Omise",
+        "https://omise.breezy.hr/"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://omise.breezy.hr/",
+    "DocumentType": "Careers",
+    "Title": "Omise Referral Portal",
+    "Hash": "5563A4346879ADDD40E0E95ECD005BD3",
+    "TackIt": "true",
+    "Body": "Employee Sign-in Enter your @omise.co address below and we\u2019ll send you an email with a magic link to sign-in with. @omise.co Send me a sign-in email %FOOTER_POWERED_BY%breezy",
+    "Url": "https://omise.breezy.hr/team/signin"
+}

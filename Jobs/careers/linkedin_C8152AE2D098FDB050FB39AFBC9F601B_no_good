@@ -1,0 +1,14 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://www.linkedin.com/jobs/view/customer-experience-product-manager-at-bakkt-1521301855",
+    "DomainId": "linkedin",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.linkedin.com/jobs/product-manager-jobs?trk=expired_jd_redirect",
+    "DocumentType": "Careers",
+    "Title": "Reset Password | LinkedIn",
+    "Hash": "C8152AE2D098FDB050FB39AFBC9F601B",
+    "TackIt": "true",
+    "Body": "Linkedin Sign inJoin now First, let's find your account Please enter your email or phone Email or phone CancelFind account LinkedInÂ© 2020 User Agreement Privacy Policy Community Guidelines Cookie Policy Copyright Policy Send Feedback",
+    "Url": "https://www.linkedin.com/uas/request-password-reset?trk=public_jobs_create-alert-modal_forgot_password"
+}

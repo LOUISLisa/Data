@@ -1,0 +1,16 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://omise.breezy.hr/p/6561d9fb6cc2-legal-officer/apply",
+    "DomainId": "breezy",
+    "OutLinks": [
+        "https://breezy.hr/mb/portal?utm_campaign=portal_referral&cpn=Omise",
+        "https://omise.breezy.hr/"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "DocumentType": "Careers",
+    "Title": "Legal Specialist",
+    "Hash": "03FC6100B84E1FAAFA380B759966F364",
+    "TackIt": "true",
+    "Body": "Legal Specialist %HEADER_POSITION_CLOSED% %SUBHEADER_POSITION_CLOSED% %FOOTER_POWERED_BY%breezy",
+    "Url": "https://omise.breezy.hr/p/6561d9fb6cc2-legal-officer/apply"
+}

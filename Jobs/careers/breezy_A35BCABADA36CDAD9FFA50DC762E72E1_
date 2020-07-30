@@ -1,0 +1,19 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://terra.breezy.hr/p/f619b8115f0b-web-engineer",
+    "DomainId": "breezy",
+    "OutLinks": [
+        "https://app.breezy.hr/api/apply/linkedin?position_id=f619b8115f0b",
+        "https://breezy.hr/mb/portal?utm_campaign=portal_referral&cpn=Terraform%20Labs",
+        "https://terra.breezy.hr/",
+        "https://terra.breezy.hr/p/f619b8115f0b-web-engineer/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "RequiredMatch": "terraform",
+    "DocumentType": "Careers",
+    "Title": "Web Engineer at Terraform Labs",
+    "Hash": "A35BCABADA36CDAD9FFA50DC762E72E1",
+    "TackIt": "true",
+    "Body": "%HEADER_COMPANY_WEBSITE% Web Engineer Seoul, KR - %LABEL_POSITION_TYPE_REMOTE% %LABEL_POSITION_TYPE_FULL_TIME% Engineering %BREADCRUMB_JOB_OPENINGS% Web Engineer %BUTTON_APPLY_TO_POSITION% %BUTTON_APPLY_USING_LINKED_IN% Terra\u2019s mission is to set money free. We believe that money is a form of technology that can be innovated on. As a pioneer in monetary technology, we build open infrastructure, rethink monetary policy, and create revolutionary applications that sets the stage for open financial platforms. As featured in: TechCrunch: \"Terra is an ambitious crypto project to build a stable coin through e-commerce\" Fortune: \"Cryptocurrency Exchanges Back $32 Million Stable Coin Project\" Venture Beat: \"Terra gets $32 million to build the future of money with blockchain\" Tech in Asia: \"Terra's plan for a blockchain PayPal alternative gets $32m from top crypto exchanges\" You will be solving these problems at Terra: Build applications based on web stack to request transactions to the blockchain and handle responses Build a dashboard to monitor history of the blockchain Build web applications for our payment system Design and write reusable UI components You will find it easier to do your job if you have the following qualities. Needless to say, none of these qualities supersede your intellectual and professional curiosity: TypeScript, JavaScript ES6+, React CSS3, SCSS, Media Query Familiarity with functional programming and unit testing Ability to write simple and readable codes Great communication skills Experience contributing to the open source community Enjoy pursuing personal projects If you are tired of simply making money and hope to go down the rabbit hole to rethink how money works, then Terra is the right place for you. %BUTTON_APPLY_TO_POSITION% %BUTTON_APPLY_USING_LINKED_IN% %FOOTER_POWERED_BY%breezy",
+    "Url": "https://terra.breezy.hr/p/f619b8115f0b-web-engineer"
+}

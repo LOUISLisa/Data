@@ -1,0 +1,28 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://substack.com/?utm_source=substack&utm_medium=web&utm_content=footer",
+    "DomainId": "substack",
+    "OutLinks": [
+        "https://on.substack.com/?utm_medium=menu",
+        "https://on.substack.com/?utm_source=substack&utm_medium=web&utm_content=footer",
+        "https://substack.com/",
+        "https://substack.com/content",
+        "https://substack.com/dispute",
+        "https://substack.com/going-paid?utm_source=menu-drop-down",
+        "https://substack.com/going-paid?utm_source=substack&utm_medium=web&utm_content=footer",
+        "https://substack.com/jobs?utm_source=substack&utm_medium=menu",
+        "https://substack.com/jobs?utm_source=substack&utm_medium=web&utm_content=footer",
+        "https://substack.com/pa",
+        "https://substack.com/privacy",
+        "https://substack.com/tos",
+        "https://support.substack.com/hc/en-us?s=support%40substack.com"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://substack.com/privacy",
+    "DocumentType": "Careers",
+    "Title": "Content Guidelines",
+    "Hash": "78AA4DC4AB9E83017737DB695D8CBA0A",
+    "TackIt": "true",
+    "Body": "Writers Switch to Substack Why go paid? Writer resources HelpAbout us About Jobs Blog Sign inGet started Documents Terms of Use Privacy Policy Publisher Agreement Content Guidelines Copyright Dispute Policy Content Guidelines Effective date: March 26, 2020 Substack is a place for independent writing. We host and celebrate a diverse range of thought and discussion. The following guidelines outline what is and is not acceptable on Substack. In interpreting and enforcing these guidelines, we may consult outside experts, research, and industry best practices. If you encounter content that may be in breach of these guidelines or have any questions about them, you can email us at tos@substackinc.com.Â  If we determine that any content is in breach of these guidelines, we may remove it, hide it from public view, or impose other restrictions. This is an evolving document: we reserve the right to update these Content Guidelines at our discretion and without notice.Â  LegalÂ  Please respect people\u2019s intellectual property and don\u2019t infringe on their privacy or any other legal rights. Don\u2019t publish anything that violates laws or regulations.Â  You and you alone are responsible for the content you publish on Substack, and liable for any harm caused by the content you publish. In GeneralÂ  We want Substack to be a safe place for discussion and expression. At the same time, we believe that critique and discussion of controversial issues are part of robust discourse, so we work to find a reasonable balance between these two priorities. In all cases, Substack does not allow harassment or threats.Â  HateÂ  Substack cannot be used to publish content or fund initiatives that call for violence, exclusion, or segregation based on protected classes. Offending behavior includes serious attacks on people based on their race, ethnicity, national origin, religion, sex, gender, sexual orientation, age, disability or medical condition. Private informationÂ  You may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so. Plagiarism Do not publish any material that was written or created by someone else and claim it as your own. Impersonation We don\u2019t allow impersonation, which includes posing as another person, brand, or organization. This applies to Substack itself: don\u2019t use Substack\u2019s name, logo, or trademark in any way that misrepresents the company or misleads others.Â  People restricted from making money on Substack Substack\u2019s payments are processed through Stripe, which excludes certain types of businesses from using their service. Please refer to the Stripe Service Agreement (see the US agreement here) and Stripe\u2019s restricted businesses for more information about restricted business categories and practices. Harmful and illegal activities We don\u2019t allow content that promotes harmful or illegal activities, including material that advocates, threatens, or shows you causing harm to yourself, other people, or animals. Spam and phishing We are vehemently anti-spam and anti-phishing. If you are importing a mailing list from another platform, please ensure it\u2019s made up of people who explicitly opted-in to receive emails from your specific publication. Don\u2019t add people to your mailing list without their consent, and don\u2019t import your contacts list or social graphs. Similarly, you may not create publications for spamming or phishing purposes. Don\u2019t post spam when interacting with others on Substack, such as in comments, discussion threads, or email replies. Nudity, porn, erotica We don\u2019t allow porn or sexually exploitative content. We allow artistic expressions of nudity and erotica on Substack, but we may hide it from Substack\u2019s discovery features, including search and Substack.com.Â  Substack readers The philosophy behind these guidelines also applies to Substack readers. We believe that writers are most capable of managing their communities, but there are some occasions when we will review reports of readers\u2019 behavior. Â© 2020 Substack Inc. See privacy and terms Company@SubstackInc AboutHelpJobsBlog WritersSwitch to SubstackWhy go paid?Writer resourcesHelp This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts",
+    "Url": "https://substack.com/content"
+}

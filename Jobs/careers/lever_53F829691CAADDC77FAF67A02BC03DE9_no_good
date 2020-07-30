@@ -1,0 +1,30 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/960a4d2f-fdcf-4a7b-9fc6-ded7ee31894c",
+        "https://jobs.lever.co/findora?location=Beijing",
+        "https://jobs.lever.co/findora?location=Beijing&team=Business%20Development",
+        "https://jobs.lever.co/findora?location=Beijing&team=Design",
+        "https://jobs.lever.co/findora?location=Beijing&team=Design&commitment",
+        "https://jobs.lever.co/findora?location=Beijing&team=Design&commitment=Full-time",
+        "https://jobs.lever.co/findora?location=Beijing&team=Engineering",
+        "https://jobs.lever.co/findora?location=Beijing&team=Marketing",
+        "https://jobs.lever.co/findora?location=Beijing&team=Operations",
+        "https://jobs.lever.co/findora?location=Beijing&team=Product",
+        "https://jobs.lever.co/findora?location=Beijing&team=Research",
+        "https://jobs.lever.co/findora?location=Menlo%20Park%2C%20CA&team=Design",
+        "https://jobs.lever.co/findora?location=Seoul&team=Design",
+        "https://jobs.lever.co/findora?team=Design"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora?location=Beijing",
+    "DocumentType": "Careers",
+    "Title": "Findora",
+    "Hash": "53F829691CAADDC77FAF67A02BC03DE9",
+    "TackIt": "true",
+    "Body": "Filter by: Beijing All Beijing Menlo Park, CA Seoul Design All Business Development Design Engineering Human Resources Marketing Operations Product Research Work type All Full-time Uncategorized Design Apply UI Designer, China BeijingDesign Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora?location=Beijing&team=Design"
+}

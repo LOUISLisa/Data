@@ -1,0 +1,22 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://terra.breezy.hr/p/f619b8115f0b-web-engineer",
+    "DomainId": "breezy",
+    "OutLinks": [
+        "https://breezy.hr/mb/portal?utm_campaign=portal_referral&cpn=Breezy%20HR",
+        "https://jobs.breezy.hr/",
+        "https://jobs.breezy.hr/p/8fd9a3b2d124-backend-node-js-javascript-engineer",
+        "https://jobs.breezy.hr/p/b941ea74f293-customer-success-agent",
+        "https://jobs.breezy.hr/p/c8c386cfecfc-software-engineer-frontend",
+        "https://jobs.breezy.hr/p/da420a8cfd85-mongodb-dba",
+        "https://jobs.breezy.hr/team/portal"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://breezy.hr/mb/portal?utm_campaign=portal_referral&cpn=Terraform%20Labs",
+    "DocumentType": "Careers",
+    "Title": "%DOC_TITLE%Breezy HR",
+    "Hash": "24752A3367C7C80EE436310E3D104387",
+    "TackIt": "true",
+    "Body": "%HEADER_COMPANY_WEBSITE% %HEADER_EMPLOYEES% Perks Come Join Our Team Join the small team doing BIG things in recruitment%BUTTON_VIEW_OPENINGS% Breezy is based in Jacksonville, FL and is one of the fastest growing and most loved HR technology solutions in the world. In just 5 years our software is aready powering the hiring processes of over 6000 companies around the world and we aren't slowing down. If you're interested in joining a team who loves what they do and like to have while they do it, check out our opens ð and apply. Take a breather and get fed with our team lunches each and every Friday. Great benefits. Medical, dental, vision, 401k and more! An amazing company culture filled with super talented people. %HEADER_OUR_OPEINGS% Jacksonville, FL %BUTTON_APPLY% Backend Node.js Javascript Engineer Jacksonville, FL - %LABEL_POSITION_TYPE_REMOTE% %LABEL_POSITION_TYPE_FULL_TIME% Engineering%BUTTON_APPLY% %BUTTON_APPLY% Customer Success Agent Jacksonville, FL - %LABEL_POSITION_TYPE_REMOTE% %LABEL_POSITION_TYPE_FULL_TIME% Customer Success%BUTTON_APPLY% %BUTTON_APPLY% MongoDB DBA Jacksonville, FL - %LABEL_POSITION_TYPE_REMOTE% %LABEL_POSITION_TYPE_FULL_TIME% Platform%BUTTON_APPLY% %BUTTON_APPLY% Software Engineer, Frontend Jacksonville, FL - %LABEL_POSITION_TYPE_REMOTE% %LABEL_POSITION_TYPE_FULL_TIME% Engineering%BUTTON_APPLY% Our Team Jessica Customer Success Joe Engineering Nate Customer Success Samiur Sales Kyle Sales Darren CEO / Product Brett Engineering Mike Mobile Jesse Marketing Larry Engineering NIna Marketing Sarah Design Tyler Engineering Tori Sales Keysha Customer Success Lindsay Customer Success Karen Customer Success Travis Engineering %FOOTER_POWERED_BY%breezy",
+    "Url": "https://jobs.breezy.hr/"
+}

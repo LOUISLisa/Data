@@ -1,0 +1,31 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/37312049-cc0f-48e7-bf9d-45803a2ea2e5",
+        "https://jobs.lever.co/findora/a1f604db-4391-4ed4-832e-624bae80a1c1",
+        "https://jobs.lever.co/findora?commitment",
+        "https://jobs.lever.co/findora?team=Business%20Development&commitment",
+        "https://jobs.lever.co/findora?team=Design&commitment",
+        "https://jobs.lever.co/findora?team=Engineering",
+        "https://jobs.lever.co/findora?team=Engineering&commitment",
+        "https://jobs.lever.co/findora?team=Engineering&commitment&location=Beijing",
+        "https://jobs.lever.co/findora?team=Engineering&commitment&location=Menlo%20Park%2C%20CA",
+        "https://jobs.lever.co/findora?team=Engineering&commitment&location=Seoul",
+        "https://jobs.lever.co/findora?team=Engineering&commitment=Full-time",
+        "https://jobs.lever.co/findora?team=Marketing&commitment",
+        "https://jobs.lever.co/findora?team=Operations&commitment",
+        "https://jobs.lever.co/findora?team=Product&commitment",
+        "https://jobs.lever.co/findora?team=Research&commitment"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora?team=Engineering",
+    "DocumentType": "Careers",
+    "Title": "Findora",
+    "Hash": "E3B1AAC69BE482CDFB8C2CD4DB4420AD",
+    "TackIt": "true",
+    "Body": "Filter by: Location All Beijing Menlo Park, CA Seoul Engineering All Business Development Design Engineering Human Resources Marketing Operations Product Research (No work type) All Full-time Uncategorized Engineering Apply Back-End Engineer, China BeijingEngineering Apply Director of Engineering, China BeijingEngineering Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora?team=Engineering&commitment"
+}

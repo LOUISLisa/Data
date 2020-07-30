@@ -1,0 +1,17 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/c27bde8a-7951-435c-bab2-8708ccf0992a/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora",
+    "DocumentType": "Careers",
+    "Title": "Findora - Full Stack Engineer, China",
+    "Hash": "50B2909219A84644EB0B9CA7FF48C34E",
+    "TackIt": "true",
+    "Body": "Full Stack Engineer, China Beijing / Engineering / Full-time Apply for this job Apply for this job Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora/c27bde8a-7951-435c-bab2-8708ccf0992a"
+}

@@ -1,0 +1,17 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/1b1e9bc4-62fe-4af3-9a1d-40ee9771688b/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora",
+    "DocumentType": "Careers",
+    "Title": "Findora - Front-End Engineer, China",
+    "Hash": "EAD2459F3DECA856DCDA326B4517E559",
+    "TackIt": "true",
+    "Body": "Front-End Engineer, China Beijing / Engineering / Full-time Apply for this job Front-end Engineers work with a talented team of systems, research, and full stack engineers and architects as Findora builds out its core infrastructure and specific applications. The core engineering team\u2019s primary focus is to build out the Findora platform, a highly performant distributed system incorporating significant innovations in cryptography, storage/authenticated data structures, and consensus/state machine replication. Additionally, as the platform is implemented, a growing number of ecosystem applications will be developed atop the Findora infrastructure, requiring a full stack engineering effort. Front-end engineers must collaborate effectively with graphic designers and UI/UX designers to make Findora applications as frictionless as possible.Â We are looking for talented front-end engineers to implement fluid interfaces for our products.Â  Responsibilities Front-end web and mobile application development using a variety of languages, tools, and frameworks, including React, Node.js, HTML/CSS/JavaScript, Prisma/GraphQL, Docker, etc. Implement pixel-perfect mock-ups and designsÂ  Collaborate with product, design, and business teams to define feature specifications, design mockups, and implement a wide suite of tools built on Findora Minimum requirements B.S. degree in Computer Science or similar field; or equivalent practical experience 2+ years of programming experience UX/design experience Great communication and teamwork skills to plan and meet product milestones Understanding of best security practices Ability to create clean and modular code Preferred Experience with enterprise software development Experience with/understanding of cryptography, blockchain, and/or financial services Familiarity with full stack development and deployment best practices Design intuition and skill Perks Work on new problems in an emerging field Learn from systems engineering and cryptography domain experts in a mentorship-oriented work culture Make a big impact as an early contributor Apply for this job Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora/1b1e9bc4-62fe-4af3-9a1d-40ee9771688b"
+}

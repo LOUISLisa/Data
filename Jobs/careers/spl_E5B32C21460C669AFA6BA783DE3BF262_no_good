@@ -1,0 +1,14 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://www.spl.yt/intern-business-development",
+    "DomainId": "spl",
+    "OutLinks": [],
+    "ContentType": "text/xml; charset=UTF-8",
+    "Parent": "https://dapp.spl.yt/",
+    "DocumentType": "Careers",
+    "Title": "",
+    "Hash": "E5B32C21460C669AFA6BA783DE3BF262",
+    "TackIt": "true",
+    "Body": "WordPress https://wordpress.org/ https://spl.yt/old",
+    "Url": "https://spl.yt/old/xmlrpc.php?rsd"
+}

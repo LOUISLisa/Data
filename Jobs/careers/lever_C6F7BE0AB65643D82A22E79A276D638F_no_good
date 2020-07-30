@@ -1,0 +1,33 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/05546a6c-a045-42c5-a822-6dec2c94544e",
+        "https://jobs.lever.co/findora/6318593d-7eda-4312-8c10-ff40e7cd591d",
+        "https://jobs.lever.co/findora/a2134488-027a-45fa-a3ab-109de20cb785",
+        "https://jobs.lever.co/findora/d48aa8bd-8e89-4f48-ab93-689526a0bb08",
+        "https://jobs.lever.co/findora/dff905f2-9072-466b-b2d9-7d2be2e69cdf",
+        "https://jobs.lever.co/findora?team=Business%20Development",
+        "https://jobs.lever.co/findora?team=Design",
+        "https://jobs.lever.co/findora?team=Engineering",
+        "https://jobs.lever.co/findora?team=Marketing",
+        "https://jobs.lever.co/findora?team=Operations",
+        "https://jobs.lever.co/findora?team=Product",
+        "https://jobs.lever.co/findora?team=Research",
+        "https://jobs.lever.co/findora?team=Research&commitment",
+        "https://jobs.lever.co/findora?team=Research&commitment=Full-time",
+        "https://jobs.lever.co/findora?team=Research&location=Beijing",
+        "https://jobs.lever.co/findora?team=Research&location=Menlo%20Park%2C%20CA",
+        "https://jobs.lever.co/findora?team=Research&location=Seoul"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora",
+    "DocumentType": "Careers",
+    "Title": "Findora",
+    "Hash": "C6F7BE0AB65643D82A22E79A276D638F",
+    "TackIt": "true",
+    "Body": "Filter by: Location All Beijing Menlo Park, CA Seoul Research All Business Development Design Engineering Human Resources Marketing Operations Product Research Work type All Full-time Uncategorized Research Apply Research Scientist, AGT/Economics Menlo Park, CAResearch Apply Research Scientist, Consensus/Distributed Systems Menlo Park, CAResearch Apply Research Scientist, Cryptography Menlo Park, CAResearch Apply Research Scientist, Programming Languages Menlo Park, CAResearch Apply Researcher, Financial Systems Menlo Park, CAResearch Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora?team=Research"
+}

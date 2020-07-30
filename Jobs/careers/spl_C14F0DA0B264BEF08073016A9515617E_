@@ -1,0 +1,24 @@
+{
+    "SeedUrl": "https://www.spl.yt/intern-business-development",
+    "OutLinks": [
+        "https://dapp.spl.yt/",
+        "https://www.spl.yt/",
+        "https://www.spl.yt/careers",
+        "https://www.spl.yt/contact",
+        "https://www.spl.yt/devs",
+        "https://www.spl.yt/learn-more",
+        "https://www.spl.yt/privacy",
+        "https://www.spl.yt/splytcorefoundation"
+    ],
+    "ContentType": "text/html",
+    "Parent": "https://www.spl.yt/careers",
+    "RequiredMatch": "decentralized",
+    "DocumentType": "Careers",
+    "Title": "spl.yt \u2013 decentralized E-commerce",
+    "Hash": "C14F0DA0B264BEF08073016A9515617E",
+    "Url": "https://www.spl.yt/backend-developer",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "spl",
+    "TackIt": "true",
+    "Body": "Home Learn More Devs RESOURCES Blog Careers Try Now Go Back Backend Developer Location: Santa Monica, CA - Remote Option Company Background Spl.yt Core Foundation, a Science Blockchain-backed company operating out of Santa Monica, CA, is an open-sourced global inventory and affiliate marketing platform. The platform is a smart contract-based e-commerce protocol that will transform the way businesses market, operate, and sell online nearly for free by removing intermediaries. Spl.yt\u2019s top smart contract capabilities include a real-time inventory system, automated affiliate marketing rewards, fractional asset sales and management, inter-marketplace reputation tracking, and an alternative dispute resolution system. All of these features are powered by the blockchain, assuring that anyone who buys or sells things powered by Spl.yt will have the fairest and most secure e-commerce experience possible. For more details, please visit https://www.spl.yt/. Position Summary The Back End Developer will be handling the MEAN stack or something similar to it. This team member will be responsible for creating lean systems that supports blockchain technologies, and will report directly to the CTO. Responsibilities Work closely with other developers on creating a blockchain-based end-to-end product Suggest limitations and find solutions to blockages on major alterations Will work with all core devs on getting projects completed Must be able to work on site with the team, and confront any additional production environment bugs Qualifications B.S. in Computer Science or Software Engineering 3+ years of experience in server-side development 1+ years of developing in the Express framework in a production environment 1+ years of developing REST API Extensive knowledge of object-oriented architectural and design patterns Must be able to adapt and learn newer technologies like IPFS, Swarm, IPDB, and other distributed storage solutions Experience working with complex database schemas (MongoDB, IPFS, Swarm, etc.) Motivation, ambition, and strong communication and collaboration skills Experience with continuous integration and a deployment environment Experience with end-to-end data and large-scale performance challenges A good understanding of Agile concepts An appreciation for automated testing and code maintainability APPLY NOW News & Announcements Stay connected with Spl.yt Get Notified CONTACT US | PRIVACY POLICY ASK US ANYTHING AT HELLO@SPL.YT 2019 SPL.YT CORE FOUNDATION ALL RIGHTS RESERVED"
+}

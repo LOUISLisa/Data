@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://jobs.lever.co/kraken/c9dba4fb-ae6c-4d3f-84b7-66d28b89ef1e?lever-origin=applied&lever-source[]",
+    "OutLinks": [
+        "https://jobs.lever.co/kraken",
+        "https://jobs.lever.co/kraken/5285e452-2ff1-4b2e-bb99-d23136833ea3/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/kraken",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "Careers",
+    "Title": "Kraken Digital Asset Exchange - Blue Team Engineer",
+    "Hash": "52A0C4AD50DFA3113232D4EB5CB2FA10",
+    "Url": "https://jobs.lever.co/kraken/5285e452-2ff1-4b2e-bb99-d23136833ea3",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "lever",
+    "TackIt": "true",
+    "Body": "Blue Team Engineer Remote / IT and Security / Full-time, Onsite or Remote Apply for this job About Kraken Our mission is to accelerate the adoption of cryptocurrency so that you and the rest of the world can achieve financial freedom and inclusion. Â Founded in 2011 and with over 4 million clients, Kraken is one of the world's largest, most successful bitcoin exchanges and we're growing faster than ever. Our range of successful products are playing an important role in the mainstream adoption of crypto assets. Â We attract people who constantly push themselves to think differently and chart exciting new paths in a rapidly growing industry. Kraken is a diverse group of dreamers and doers who see value in being radically transparent. Let's change the way the world thinks about money! Join the revolution! The Blue Team Engineer will take lead in the build out and maintenance of the Blue Team infrastructure as well as help develop new detections that keeps us at pace with the latest threats and attacker techniques.Â Â This position reports to our Blue Team leader and is a member of the 24x7 security team responsible for triaging and escalating security events across the Kraken digital asset exchange. Requirements Experience as an engineer working with security tooling traditionally found in a SOC (Security Operations Centre). Proven record of infrastructure design, creating mature maintenance workflows and documenting backup/restore procedures. Understanding of detection and alerting technologies, their benefits and trade-off considerations. Previous experience of managing SIEM products is a plus Knowledge of scripting and query languages used to develop detection signatures is a plus We\u2019re powered by people from around the world with their own unique backgrounds and experiences. We value all Krakenites and their talents, contributions, and perspectives. Check out all our open roles at https://jobs.lever.co/kraken. We\u2019re excited to see what you\u2019re made of. Â  Learn more about us: Watch \"Working at Kraken\" Follow us on Twitter Catch up on our blog Follow us on LinkedIn Apply for this job Kraken Digital Asset Exchange Home PageJobs powered by"
+}

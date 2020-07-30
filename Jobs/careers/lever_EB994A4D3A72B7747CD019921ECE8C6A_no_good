@@ -1,0 +1,32 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/2e19c34e-e05e-4575-91a8-2f0d4284ab97",
+        "https://jobs.lever.co/findora/c736b7cf-fd1f-4688-8166-51f02e4fccd9",
+        "https://jobs.lever.co/findora/deb68018-2a23-4709-aee1-f51ffbfb387d",
+        "https://jobs.lever.co/findora?location=Beijing",
+        "https://jobs.lever.co/findora?location=Beijing&team=Business%20Development",
+        "https://jobs.lever.co/findora?location=Beijing&team=Business%20Development&commitment",
+        "https://jobs.lever.co/findora?location=Beijing&team=Business%20Development&commitment=Full-time",
+        "https://jobs.lever.co/findora?location=Beijing&team=Design",
+        "https://jobs.lever.co/findora?location=Beijing&team=Engineering",
+        "https://jobs.lever.co/findora?location=Beijing&team=Marketing",
+        "https://jobs.lever.co/findora?location=Beijing&team=Operations",
+        "https://jobs.lever.co/findora?location=Beijing&team=Product",
+        "https://jobs.lever.co/findora?location=Beijing&team=Research",
+        "https://jobs.lever.co/findora?location=Menlo%20Park%2C%20CA&team=Business%20Development",
+        "https://jobs.lever.co/findora?location=Seoul&team=Business%20Development",
+        "https://jobs.lever.co/findora?team=Business%20Development"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora?location=Beijing",
+    "DocumentType": "Careers",
+    "Title": "Findora",
+    "Hash": "EB994A4D3A72B7747CD019921ECE8C6A",
+    "TackIt": "true",
+    "Body": "Filter by: Beijing All Beijing Menlo Park, CA Seoul Business Development All Business Development Design Engineering Human Resources Marketing Operations Product Research Work type All Full-time Uncategorized Business Development Apply Business Development Associate, China BeijingBusiness Development Apply Director of Business Development, China BeijingBusiness Development Apply Executive Assistant, China BeijingBusiness Development Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora?location=Beijing&team=Business%20Development"
+}

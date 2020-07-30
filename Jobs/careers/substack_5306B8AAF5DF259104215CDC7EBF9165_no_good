@@ -1,0 +1,18 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://substack.com/?utm_source=substack&utm_medium=web&utm_content=footer",
+    "DomainId": "substack",
+    "OutLinks": [
+        "https://support.substack.com/hc/en-us",
+        "https://support.substack.com/hc/en-us/categories/360002411231-General",
+        "https://support.substack.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.substack.com%2Fhc%2Fen-us%2Fcategories%2F360002411231-General&locale=en-us"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://support.substack.com/hc/en-us?s=support%40substack.com",
+    "DocumentType": "Careers",
+    "Title": "General \u2013 Substack, Inc",
+    "Hash": "5306B8AAF5DF259104215CDC7EBF9165",
+    "TackIt": "true",
+    "Body": "Sign in Substack, Inc General General Questions about Substack for the generally curious. Frequently Asked Questions How do the top publication lists on Substack's homepage work? How much does Substack cost? I'm having trouble loading the website. What should I do? Is Substack GDPR compliant? Are you hiring? I have a question that's not listed here. Substack, Inc",
+    "Url": "https://support.substack.com/hc/en-us/categories/360002411231-General"
+}

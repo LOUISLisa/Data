@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://jobs.lever.co/kraken/c9dba4fb-ae6c-4d3f-84b7-66d28b89ef1e?lever-origin=applied&lever-source[]",
+    "OutLinks": [
+        "https://jobs.lever.co/kraken",
+        "https://jobs.lever.co/kraken/e2227d64-aa87-4393-8158-d6087e6a015b/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/kraken",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "Careers",
+    "Title": "Kraken Digital Asset Exchange - CE API Specialist - Americas (Canada & South America)",
+    "Hash": "45860587CBDE6D01D8D6849F2A1AF8C0",
+    "Url": "https://jobs.lever.co/kraken/e2227d64-aa87-4393-8158-d6087e6a015b",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "lever",
+    "TackIt": "true",
+    "Body": "CE API Specialist - Americas (Canada & South America) Remote / Client Services / Remote Full-time Apply for this job About Kraken Our mission is to accelerate the adoption of cryptocurrency so that you and the rest of the world can achieve financial freedom and inclusion. Â Founded in 2011 and with over 4 million clients, Kraken is one of the world's largest, most successful bitcoin exchanges and we're growing faster than ever. Our range of successful products are playing an important role in the mainstream adoption of crypto assets. Â We attract people who constantly push themselves to think differently and chart exciting new paths in a rapidly growing industry. Kraken is a diverse group of dreamers and doers who see value in being radically transparent. Let's change the way the world thinks about money! Join the revolution! As a Client Engagement API specialist you will be the first point of contact when our clients need assistance with our REST and WebSocket APIs. Our API support team handles inquiries from clients using our API to implement various projects, from mobile apps to high frequency trading bots. You will work closely with our other client engagement support teams to solve client\u2019s technical API issues, while providing the excellent customer service our clients expect from Kraken. This is a remote position Responsibilities Answer clients\u2019 API questions via multiple support channels. Diagnose and resolve clients\u2019 API related issues. Assist clients in implementing their API code. Develop and maintain our official API libraries/wrappers in multiple programming languages. Develop internal and client facing API documentation and training resources. Assist in the management of our API support team Requirements Advanced knowledge and experience using Python. Basic knowledge of and experience of additional programming languages (Javascript, PHP, C, for example). Ability to write technical documentation in a user friendly format. Nice to haves Experience working with REST and WebSocket APIs. Experience with Google Sheets and Google Scripts. Language ability (in addition to English). We\u2019re powered by people from around the world with their own unique backgrounds and experiences. We value all Krakenites and their talents, contributions, and perspectives. Check out all our open roles at https://jobs.lever.co/kraken. We\u2019re excited to see what you\u2019re made of. Â  Learn more about us: Watch \"Working at Kraken\" Follow us on Twitter Catch up on our blog Follow us on LinkedIn Apply for this job Kraken Digital Asset Exchange Home PageJobs powered by"
+}

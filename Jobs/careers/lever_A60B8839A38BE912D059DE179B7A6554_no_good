@@ -1,0 +1,28 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora?location=Beijing",
+        "https://jobs.lever.co/findora?location=Menlo%20Park%2C%20CA",
+        "https://jobs.lever.co/findora?location=Seoul",
+        "https://jobs.lever.co/findora?location=Seoul&commitment",
+        "https://jobs.lever.co/findora?location=Seoul&commitment=Full-time",
+        "https://jobs.lever.co/findora?location=Seoul&team=Business%20Development",
+        "https://jobs.lever.co/findora?location=Seoul&team=Design",
+        "https://jobs.lever.co/findora?location=Seoul&team=Engineering",
+        "https://jobs.lever.co/findora?location=Seoul&team=Marketing",
+        "https://jobs.lever.co/findora?location=Seoul&team=Operations",
+        "https://jobs.lever.co/findora?location=Seoul&team=Product",
+        "https://jobs.lever.co/findora?location=Seoul&team=Research"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora",
+    "DocumentType": "Careers",
+    "Title": "Findora",
+    "Hash": "A60B8839A38BE912D059DE179B7A6554",
+    "TackIt": "true",
+    "Body": "Filter by: Seoul All Beijing Menlo Park, CA Seoul Team All Business Development Design Engineering Human Resources Marketing Operations Product Research Work type All Full-time Uncategorized Business Development Apply Head of Korea SeoulBusiness Development Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora?location=Seoul"
+}

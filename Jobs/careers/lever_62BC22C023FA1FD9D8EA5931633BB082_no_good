@@ -1,0 +1,17 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/d48aa8bd-8e89-4f48-ab93-689526a0bb08/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora/d48aa8bd-8e89-4f48-ab93-689526a0bb08",
+    "DocumentType": "Careers",
+    "Title": "Findora - Researcher, Financial Systems",
+    "Hash": "62BC22C023FA1FD9D8EA5931633BB082",
+    "TackIt": "true",
+    "Body": "Researcher, Financial Systems Menlo Park, CA / Research / Full-time Submit your application Resume/CV ATTACH RESUME/CV Couldn't auto-read resume. Analyzing resume... Success! File exceeds the maximum upload size of 100MB. Please try a smaller size. Full nameâ± Emailâ± Phone Current company Links LinkedIn URL Twitter URL GitHub URL Portfolio URL Other website Additional information Submit application Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora/d48aa8bd-8e89-4f48-ab93-689526a0bb08/apply"
+}

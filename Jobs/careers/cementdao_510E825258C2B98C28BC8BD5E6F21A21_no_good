@@ -1,0 +1,20 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://www.cementdao.com/senior-strategic",
+    "DomainId": "cementdao",
+    "OutLinks": [
+        "https://es.cementdao.com/white-paper",
+        "https://www.cementdao.com/",
+        "https://www.cementdao.com/privacy-policy",
+        "https://www.cementdao.com/white-paper",
+        "https://zh.cementdao.com/white-paper"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://www.cementdao.com/",
+    "DocumentType": "Careers",
+    "Title": "CementDAO | White Paper",
+    "Hash": "510E825258C2B98C28BC8BD5E6F21A21",
+    "TackIt": "true",
+    "Body": "EN EN ES ZH Â© Copyright 2019Â by 1A1Z Ltd. All rights reserved. Privacy Policy.",
+    "Url": "https://www.cementdao.com/white-paper"
+}

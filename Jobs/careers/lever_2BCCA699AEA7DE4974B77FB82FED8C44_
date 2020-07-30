@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/1eb0914d-2f6d-4d93-8f15-3d7007e4f97e/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora",
+    "RequiredMatch": "decentralized",
+    "DocumentType": "Careers",
+    "Title": "Findora - Technical Writer",
+    "Hash": "2BCCA699AEA7DE4974B77FB82FED8C44",
+    "Url": "https://jobs.lever.co/findora/1eb0914d-2f6d-4d93-8f15-3d7007e4f97e",
+    "CrawledDate": "2020-07-30",
+    "DomainId": "lever",
+    "TackIt": "true",
+    "Body": "Technical Writer Menlo Park, CA / Engineering / Full-time Apply for this job Findora is a next-generation network, designed to be the trusted global financial infrastructure and the ideal hub for decentralized financial apps. We are looking for a talented technical writer to create documentation for Findora's core technology. The ideal candidate is an expert writer with a deep understanding of technology and the ability to pick up new concepts quickly.Â  Responsibilities Design, write, and update technical briefs, API documentation, and code samples Create documentation to streamline communication between members of the engineering team Write technical pitches and decks Minimum qualifications Excellent communication skills and strong grasp of the English language Strong attention to detail 2+ years experience drafting technical documentationÂ  Strong programming abilitiesÂ  B.S. degree in Computer Science or similar field; or equivalent practical experience Preferred Proficiency in written Mandarin Basic knowledge of financial services, blockchain, and cryptography Experience creating user guides and other external developer documentation Perks Work on new problems in an emerging field Learn from finance and cryptography domain experts in a mentorship-oriented work culture Make a big impact as an early contributor Apply for this job Findora Home PageJobs powered by"
+}

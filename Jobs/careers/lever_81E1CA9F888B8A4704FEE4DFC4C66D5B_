@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/dff905f2-9072-466b-b2d9-7d2be2e69cdf/apply"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "Careers",
+    "Title": "Findora - Research Scientist, AGT/Economics",
+    "Hash": "81E1CA9F888B8A4704FEE4DFC4C66D5B",
+    "Url": "https://jobs.lever.co/findora/dff905f2-9072-466b-b2d9-7d2be2e69cdf",
+    "CrawledDate": "2020-07-30",
+    "DomainId": "lever",
+    "TackIt": "true",
+    "Body": "Research Scientist, AGT/Economics Menlo Park, CA / Research / Full-time Apply for this job Research Scientists work with a talented team of engineers, architects, and researchers from various fields to build out Findora. Findora\u2019s research team operates at the cutting-edge of cryptography, distributed systems, economics/algorithmic game theory, and consensus, staying up-to-date on new developments. Researchers must identify theoretical breakthroughs relevant to Findora and work closely with the engineering team to bring them into practice. As a member of the research team, you will work closely with industry-leading cryptographers who have made substantial contributions to blockchain privacy and scalability (Bulletproofs, batching techniques for accumulators, solvency proofs, VDFs, to name a few). Responsibilities Stay up-to-date on new developments in areas such as voting, cryptoeconomics, auction mechanisms, consensus, and other areas of algorithmic game theory, and determine their applicability to Findora Design and validate economic incentives for validators and other nodes on the Findora network Design efficient markets for Findora's financial applications Minimum qualifications MS or PhD in Computer Science, Mathematics, Economics, or another relevant field Preferred Track record of relevant peer-reviewed publications Experience with blockchain systems and consensus protocols Experience with algorithmic game theory or market designÂ  Perks Work on new problems in an emerging field Learn from systems engineering, cryptography, and finance domain experts in a mentorship-oriented work culture Make a big impact as an early contributor Apply for this job Findora Home PageJobs powered by"
+}

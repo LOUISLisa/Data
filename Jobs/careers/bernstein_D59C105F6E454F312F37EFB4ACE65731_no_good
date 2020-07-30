@@ -1,0 +1,14 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://www.bernstein.io/web-developer-intern",
+    "DomainId": "bernstein",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.bernstein.io/web-developer-intern",
+    "DocumentType": "Careers",
+    "Title": "Bernstein",
+    "Hash": "D59C105F6E454F312F37EFB4ACE65731",
+    "TackIt": "true",
+    "Body": "",
+    "Url": "https://app.bernstein.io/"
+}

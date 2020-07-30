@@ -1,0 +1,33 @@
+{
+    "CrawledDate": "2020-07-30",
+    "SeedUrl": "https://jobs.lever.co/findora",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/findora",
+        "https://jobs.lever.co/findora/33a39f8e-ccbe-4d08-b477-5cde961c8235",
+        "https://jobs.lever.co/findora/51a50ebc-0604-49ec-abc7-97ceb535f6d1",
+        "https://jobs.lever.co/findora/63e199f6-bf91-4a89-8f04-030e5fa79172",
+        "https://jobs.lever.co/findora/9928aa49-f326-4091-89cb-122ae0879ff0",
+        "https://jobs.lever.co/findora?location=Beijing",
+        "https://jobs.lever.co/findora?location=Beijing&team=Business%20Development",
+        "https://jobs.lever.co/findora?location=Beijing&team=Design",
+        "https://jobs.lever.co/findora?location=Beijing&team=Engineering",
+        "https://jobs.lever.co/findora?location=Beijing&team=Marketing",
+        "https://jobs.lever.co/findora?location=Beijing&team=Marketing&commitment",
+        "https://jobs.lever.co/findora?location=Beijing&team=Marketing&commitment=Full-time",
+        "https://jobs.lever.co/findora?location=Beijing&team=Operations",
+        "https://jobs.lever.co/findora?location=Beijing&team=Product",
+        "https://jobs.lever.co/findora?location=Beijing&team=Research",
+        "https://jobs.lever.co/findora?location=Menlo%20Park%2C%20CA&team=Marketing",
+        "https://jobs.lever.co/findora?location=Seoul&team=Marketing",
+        "https://jobs.lever.co/findora?team=Marketing"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://jobs.lever.co/findora?location=Beijing",
+    "DocumentType": "Careers",
+    "Title": "Findora",
+    "Hash": "4296CE6CDDEE1FB62D8C36DC21AEBA86",
+    "TackIt": "true",
+    "Body": "Filter by: Beijing All Beijing Menlo Park, CA Seoul Marketing All Business Development Design Engineering Human Resources Marketing Operations Product Research Work type All Full-time Uncategorized Marketing Apply Community Manager, China BeijingMarketing Apply Content Director, China BeijingMarketing Apply Director of Marketing, China BeijingMarketing Apply Head of Marketing, China BeijingMarketing Findora Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/findora?location=Beijing&team=Marketing"
+}

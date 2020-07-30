@@ -1,0 +1,20 @@
+{
+    "CrawledDate": "2020-07-05",
+    "SeedUrl": "https://jobs.lever.co/cointracker",
+    "DomainId": "lever",
+    "OutLinks": [
+        "https://jobs.lever.co/cointracker",
+        "https://jobs.lever.co/cointracker/abb7f14c-5ad4-474a-ad5a-5356969b2121",
+        "https://jobs.lever.co/cointracker?commitment=Full-Time",
+        "https://jobs.lever.co/cointracker?location=Remote",
+        "https://jobs.lever.co/cointracker?team=Engineering"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Language": "Norwegian",
+    "DocumentType": "Careers",
+    "Title": "CoinTracker",
+    "Hash": "A22A7BA1A60AC5EE288C033B97438BCA",
+    "TackIt": "true",
+    "Body": "Filter by: Location All Remote Team All Engineering Work type All Full-Time Engineering Apply Senior Software Engineer RemoteEngineering CoinTracker Home PageJobs powered by",
+    "Url": "https://jobs.lever.co/cointracker"
+}
