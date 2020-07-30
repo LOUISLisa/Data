@@ -1,0 +1,32 @@
+{
+    "SeedUrl": "https://remotewoman.com/remote-developer-jobs",
+    "OutLinks": [
+        "https://remotewoman.com/job/devops-engineer-19/",
+        "https://remotewoman.com/job/engineering-manager-15/",
+        "https://remotewoman.com/job/front-end-developer-2/",
+        "https://remotewoman.com/job/senior-software-engineer-vault-2/",
+        "https://remotewoman.com/job/sr-ruby-on-rails-engineer-growth-self-service/",
+        "https://remotewoman.com/job/sr-software-engineer-resilience-engineering/",
+        "https://remotewoman.com/job/sr-software-engineer-resilience-engineering/remotewoman.com/success-stories",
+        "https://remotewoman.com/post-job-now/",
+        "https://remotewoman.com/remote-design-jobs/",
+        "https://remotewoman.com/remote-developer-jobs/",
+        "https://remotewoman.com/remote-marketing-jobs/",
+        "https://remotewoman.com/remote-product-jobs/",
+        "https://remotewoman.com/remote-sales-jobs/",
+        "https://remotewoman.com/remote-support-jobs/",
+        "https://remotewoman.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fremotewoman.com%2Fjob%2Fsr-software-engineer-resilience-engineering%2F",
+        "https://remotewoman.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fremotewoman.com%2Fjob%2Fsr-software-engineer-resilience-engineering%2F&format=xml"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://remotewoman.com/remote-developer-jobs/",
+    "DocumentType": "JobBoards",
+    "Title": "Sr Software Engineer \u2013 Resilience Engineering \u2013 Remote Woman",
+    "Hash": "5CE3D420F973E9F6E498E58DDBDCEEA9",
+    "Url": "https://remotewoman.com/job/sr-software-engineer-resilience-engineering/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "remotewoman",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": "Remote Woman Remote jobs at trusted companies Close Search for: Search Remote Jobs Marketing Design Developer Product Sales Support Success Stories Community Podcast Post Jobs Menu Sr Software Engineer \u2013 Resilience Engineering Full Time San Francisco or Remote Posted 2 days ago Netflix Overview The big picture To support such a large subscriber base, we run a large, distributed, and ever-changing system. The Resilience Engineering team\u2019s goal is to make this complex system as well understood as possible to reduce the risk of making changes in our production environment. The Resilience Engineering team finds vulnerabilities, risks, and limits in our system before they lead to large scale issues. To do this, we build an Infrastructure Experimentation platform for Netflix Engineers to safely experiment with their services in production as well as tools that provide operational insights. Our platform uses a Canary strategy to run chaos, load, and software change experiments in production so that engineers can better understand the limits of their application and the Netflix ecosystem. Our production environment is complex. We are looking for someone to join our team that is comfortable with ambiguity, but also great at driving ambiguity down. Our perfect candidate must have a great desire to help engineers around them succeed, be comfortable consulting with engineers that are implementing our tools when needed, and realize that building strong relationships with partner teams will allow their own team to succeed faster than if we work alone. Who you are You are extremely comfortable with complex distributed systems You can work independently but enjoy working on a team and building strong relationships You care about what makes a team great and do your part to make that a reality You write testable, clear, and re-usable code You are humble and eager to learn from mistakes and you socialize the lessons learned You can argue both sides of most disagreements You collaborate well with your team and partner teams You reflect and seek feedback on your code, design choices, and the project trade-offs you make What you\u2019ll do Study the problems in the software resilience, operational, and delivery spaces Work with Service-owning teams to help them experiment with their applications in production using our tools and platforms Create new solutions and see them through, from conception to production Write code to support our existing solutions Build platforms that give Netflix Engineers confidence in the operations of their application Work with partner teams to create a cohesive experience for service owning engineers Requirements You have built or contributed to a variety of systems, ideally in different technologies You are an expert in a modern programming language and very comfortable writing in Java You are at the point in your career where learning new technology and getting up to speed on new codebases has become routine and your growth areas are more focused on how humans work well together Nice to have Experience creating products for engineers Experience developing telemetry tools Experience building data-driven apps Experience with real-time or near real-time data Experience with experimentation Apply for job Apply for job If this job interests you but you aren\u2019t certain if you meet all of theÂ requirements, apply anyway! More Jobs Website Twitter Or view all jobs: Developer jobs Marketing jobs Product jobs Design jobs Sales jobs Support jobs & learn about: remote work Related Jobs Front-End Developer Hopin All-in-one live online events platform for connecting distributed communities. Anywhere Full Time Posted 2 months ago DevOps Engineer Hopin All-in-one live online events platform for connecting distributed communities. Anywhere Full Time Posted 2 weeks ago Engineering Manager Hopin All-in-one live online events platform for connecting distributed communities. Anywhere Full Time Posted 4 days ago MAIN Podcast Community Post a job Remote Work Virtual Wedding Instagram Twitter Login REMOTE JOBS Developer jobs Marketing jobs Product jobs Design jobs Sales jobs Support jobs JOBS IN YOUR CITY Los Angeles jobs New York City jobs San Francisco jobs Chicago jobs Seattle jobs Austin jobs London jobs Paris jobs Berlin jobs POST YOUR JOBS Post a job We\u2019ve helped the world\u2019s top companies hire a talented, diverse pool of job candidates \u2013 view our success stories here. Terms & Privacy Policy & hello@remotewoman.com @ 2020 RemoteWoman \u2014 All Rights Reserved My account Post a job Back to Top Marketing Developer Design Product Sales Support"
+}
