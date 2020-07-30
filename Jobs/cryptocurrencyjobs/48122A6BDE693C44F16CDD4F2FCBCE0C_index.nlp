@@ -1,0 +1,32 @@
+{
+    "Body": " Newsletter Every week we send out a summary with the best new blockchain and cryptocurrency jobs. Subscribe for job updates. Subscribe We promise not to spam or share your email. ???????????? 2020 Cryptocurrency Jobs", 
+    "CompanyName": "Cryptocurrency Jobs Newsletter", 
+    "ContentType": "text/html", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "cryptocurrencyjobs", 
+    "Hash": "48122A6BDE693C44F16CDD4F2FCBCE0C", 
+    "KeyTerms": "cryptocurrency", 
+    "Language": "English", 
+    "Location": "Not Found", 
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/", 
+        "https://cryptocurrencyjobs.co/cdn-cgi/l/email-protection", 
+        "https://cryptocurrencyjobs.co/job-collections/", 
+        "https://cryptocurrencyjobs.co/newsletter/", 
+        "https://cryptocurrencyjobs.co/opensearch.xml", 
+        "https://cryptocurrencyjobs.co/partners/", 
+        "https://cryptocurrencyjobs.co/post-a-job/", 
+        "https://cryptocurrencyjobs.co/salaries/", 
+        "https://cryptocurrencyjobs.co/startups/", 
+        "https://cryptocurrencyjobs.co/terms/"
+    ], 
+    "Parent": "https://cryptocurrencyjobs.co/", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://cryptocurrencyjobs.co/", 
+    "TackIt": "false", 
+    "Title": "Blockchain and Cryptocurrency Jobs Newsletter", 
+    "Url": "https://cryptocurrencyjobs.co/newsletter/"
+}

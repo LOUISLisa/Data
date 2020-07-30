@@ -1,0 +1,24 @@
+{
+    "Body": " System Administrator Engineer at Verte Square, LLC Bellevue, WA ???????????? About the Job Our client, a platform leader in the U.S. blockchain industry, is seeking a System Administrator Engineer to join their growing engineering team. Being founded by three cybersecurity engineers in 2014, their mission is to advance the blockchain industry by fostering innovation and incubating new and emerging technology. Their platform connects buyers and sellers, transforming the way goods, services and operations are managed. As such, they are investing heavily on growing the overall team, and more specifically, the engineering team. They are obsessive about uptime, code correctness, and delivering quality results and are hiring additional engineers that share their values to help build the next generation of their backend solutions and trading tools.???????????? ???????????? In particular, they are looking for a System Administrator Engineer who is experienced in working on large transactional systems servicing millions of customers a day and possesses a determination for getting it right the first time. This role will be the resident expert on setup, operation, and maintenance of third party blockchain services to facilitate their integration with the trading platform and their proper operation in production. In this capacity, they will interface and collaborate with external blockchain development teams, in-house software engineers, and wallet operations engineers. An ideal candidate for this position is adept at learning how to use new services and tools, reading through documentation, digging through source code, and communicating with others. They enjoy the challenge of troubleshooting software issues, take pride in writing quality documentation, can juggle multiple tasks at a time, and pivot as priorities change/issues arise.???????????? Responsibilities: Maintain a working relationship with 3rd party blockchain development teams to learn their services and tools and to help them improve documentation and fix bugs Install, configure, tune, and maintain 3rd party services that communicate with blockchain networks Author robust documentation for operations engineers to troubleshoot issues with blockchain node services Build scripts and tooling to facilitate operation, upkeep, and monitoring of blockchain services Requirements:???????????? Deep understanding of Linux primitives, GNU tools, shell scripting Excellent verbal and written communication skills Experience with virtualization and containerization technologies (Docker, LXC, etc.) Ability to program in Javascript/NodeJS and similar languages Experience with version control systems such as Git Greater consideration will be given to those applicants who can demonstrate the following skills: Security Fundamentals Experience building tools and services on cloud infrastructure (e.g. Azure, AWS) Understanding of blockchain technologies and peer networking Experience with relational databases such as SQL Server This client is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.???????????? ???????????? ", 
+    "CompanyName": "Verte Square, LLC", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "monster", 
+    "Hash": "1A092792D9551D58EF0FE1FE0224E5CA", 
+    "KeyTerms": "trading, genetic, wallet, nodejs, javascript, docker, sql, containerization, cloud, scripting, back end, blockchain services, git, linux, software engineer, aws, azure", 
+    "Language": "English", 
+    "Location": "Bellevue, Washington, United States", 
+    "OutLinks": [
+        "https://job-openings.monster.com/System-Administrator-Engineer-Bellevue-WA-US-Verte-Square-LLC/f46b545f-1fa0-41df-95cc-44b89b382b55", 
+        "https://job-openings.monster.com/system-administrator-engineer-bellevue-wa-us-verte-square-llc/f46b545f-1fa0-41df-95cc-44b89b382b55"
+    ], 
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10", 
+    "TackIt": "true", 
+    "Title": "System Administrator Engineer job at Verte Square, LLC | Monster.com", 
+    "Url": "https://job-openings.monster.com/system-administrator-engineer-bellevue-wa-us-verte-square-llc/f46b545f-1fa0-41df-95cc-44b89b382b55"
+}

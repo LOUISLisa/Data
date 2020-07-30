@@ -1,0 +1,24 @@
+{
+    "Body": " Performance Engineer at Park Hudson International LLC New York, NY 10123 ???????????? About the Job About The Role: Develop automated framework for running system-wide end-to-end test suits of the full stack that includes the platform, services layer, GRPC and REST APIs, SDKs, application components (middleware), wallets and other integrations. Our network is a distributed system with platform and services software running on various geographically distributed nodes, and the mirror nodes. This job would require detailed performance profiling of various components of this distributed system. Develop test infrastructure (functionality tests, negative tests and performance tests), reporting mechanism and automate the process Skills and Qualities Needed: 3+ years of experience Proficient in end-to-end testing frameworks Proficient in automation using ansible and terraform Proficient in HCL, Bash, Python, GoLang Experience in smoke testing, feature testing, negative testing, performance testing is highly desired Experience in distributed systems is highly desired Experience in blockchain technologies such as wallets is a + Familiarity with test-driven software development processes and continuous integration tools and systems Strong ability and willingness to quickly adapt to a complex and changing environment Self-motivated, independent and driven with an attention to detail Bachelor's degree in Computer Science or similar field, or equivalent work experience ", 
+    "CompanyName": "Park Hudson International LLC", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "monster", 
+    "Hash": "1C72D23A74C18C4C5A565A45AC854F54", 
+    "KeyTerms": "continuous integration, python, frameworks, golang, full stack, distributed systems, terraform, middleware, ansible", 
+    "Language": "English", 
+    "Location": "New York, New York, United States", 
+    "OutLinks": [
+        "https://job-openings.monster.com/Performance-Engineer-New-York-NY-US-Park-Hudson-International-LLC/4499a491-0b91-4f6a-81c2-3414e15066ed", 
+        "https://job-openings.monster.com/performance-engineer-new-york-ny-us-park-hudson-international-llc/4499a491-0b91-4f6a-81c2-3414e15066ed"
+    ], 
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "terraform", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10", 
+    "TackIt": "true", 
+    "Title": "Performance Engineer job at Park Hudson International LLC | Monster.com", 
+    "Url": "https://job-openings.monster.com/performance-engineer-new-york-ny-us-park-hudson-international-llc/4499a491-0b91-4f6a-81c2-3414e15066ed"
+}

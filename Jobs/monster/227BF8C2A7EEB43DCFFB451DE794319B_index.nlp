@@ -1,0 +1,24 @@
+{
+    "Body": " Solutions Architect at EDI Staffing Woodcliff Lake, NJ 07677 ???????????? About the Job Primary Purpose and Goal Responsible for the technical deployment of business applications as directed by the Senior Solution Architect . Support the Senior Solution Architect in their role as trusted advisor and representative in any technical matter as required Manage and implement the technical alignment of Global/Regional/Local configuration and deployment architectures with respect to supporting core infrastructure items; for example, operating systems, productivity tools, browsers, and database technologies Manage and implement the determination of requirements for all aspects of technical delivery and configuration, including: documentation, workshops, forums, training and contribute to their development and delivery. Coordinate these activities and other communications as directed by ITS Global Work with Global/Regional/Local IT teams to help them configure implementations, plan functional and performance testing as well as facilitate the transition of systems through delivery into formal support processes Participate as required in any technical task as directed by the Head of Application Delivery Proficient in C# and .Net core framework. Strong understanding of microservice architectures, principles and patterns. Experience with containerization related management stacks like Docker, Swarm, Kubernetes. Solid understanding of NoSQL database modeling and design. Solid understanding of Azure PaaS services. Business driven and result-oriented individual. Passionate about open source and delivering quality software Effective communication & collaboration skills. Exhibit attention to detail and continuously strive to produce the highest quality code, design, and documentationGood to have skillsGood to have skills Experience working with large scale data processing using Hadoop stack. Understanding of messaging systems and data pipelines such as Azure Data factory and Kafka. Experience in blockchain technology and crypto-currency. Strong knowledge of SQL and experience with Microsoft SQL Server Open source contributor. Minimum five years' experience as a Technical/Solutions Architect Minimum twelve years project experience in delivery of enterprise systems with an emphasis on globally available applications In-depth knowledge of the Microsoft platform (IIS, .NET, Web Services, SQL Server, SharePoint, Windows Server, Clustering, Active Directory etc..) Experience in SOA and middleware technologies like Application Gateways, IBM WSSR, IBM MQ, IBM WMB/IIB, TIBCO, Active MQ, Mulesoft ESB or similar, Gateway appliances, like CA Layer 7 or IBM Datapower. Experience in Big Data and Streaming technologies, like Spark, Storm, Flink, IBM BigInsights, kafka Knowledge of application, database, system, and network design Experience configuring and delivery of third party products (e.g. workflow and orchestration engines, Practice Management Systems, Portals, Document Management Systems etc...) Confidence in dealing with staff, managers and partners across the firm Good knowledge of regional issues and structures, ability to work with people from many different cultural backgrounds Education / Academics Bachelor's degree or higher from an accredited college/university in Computer Science or related field ", 
+    "CompanyName": "EDI Staffing", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "monster", 
+    "Hash": "227BF8C2A7EEB43DCFFB451DE794319B", 
+    "KeyTerms": "containerization, kubernetes, spark, collaboration, kafka, hadoop, big data, docker, nosql, azure, sql, middleware", 
+    "Language": "English", 
+    "Location": "Woodcliff Lake", 
+    "OutLinks": [
+        "https://job-openings.monster.com/Solutions-Architect-Woodcliff-Lake-NJ-US-EDI-Staffing/944aa56a-2e53-4dbd-ad2b-14e7272629d0", 
+        "https://job-openings.monster.com/solutions-architect-woodcliff-lake-nj-us-edi-staffing/944aa56a-2e53-4dbd-ad2b-14e7272629d0"
+    ], 
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=13", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=13", 
+    "TackIt": "true", 
+    "Title": "Solutions Architect job at EDI Staffing | Monster.com", 
+    "Url": "https://job-openings.monster.com/solutions-architect-woodcliff-lake-nj-us-edi-staffing/944aa56a-2e53-4dbd-ad2b-14e7272629d0"
+}

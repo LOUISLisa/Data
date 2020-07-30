@@ -1,0 +1,26 @@
+{
+    "Body": " Looking for Build and Repository Manager/Architect at SV Professionals LLC Arlington, VA 22201 ?? About the Job Build & Repository Manager ?? Location: Remote now during COVID Blacksburg or Arlington, VA ?? Requirements: ?? ??Cmake ?? ??Linux ?? ??C++ ?? ??Git ?? ??Monorepo (Mono repository/repositories) ?? Also Preferred: ?? ??GitHub ?? ??Other programming languages: ?? ??Javascript/Typescript, Java, Swift, Kotlin ?? ?? Description We are seeking a Build and Repository Manager to lead the transformation of our developer\u2019s environments and experience. This individual will work with multiple engineering teams building Block.one\u2019s EOSIO blockchain software and products that use the EOSIO blockchain at their core. This individual will help design, develop, and transition to a new source code management and build process that improves our software developer\u2019s experience across all of our interrelated products.?? They will support the developer\u2019s environments and troubleshoot any issues with the developer's ability to set up new environments or switch between them. Interaction across teams requires strong fundamentals in communication and organization in addition to the technical and developmental skills required to operate in a multi programming language environment. Responsibilities Responsible for the overall planning, execution, adoption, and success of complex technical projects related to our source code control and software build system and infrastructure. Design and maintain the build and repository systems that are used to deliver our software. Responsible for cross-platform software builds for OSX and multiple Linux distributions. Deep dive into software developer\u2019s build or environment issues to find efficient solutions. Provide strong technical leadership, focus on continuous improvement. Conduct code reviews, and technical contributions to the build and CI system. Maintain a high bar for technical quality and developer experience. Attention to detail and a passion for correctness. ?? Qualifications BS degree in Computer Science or related field, or equivalent experience. Expert level with cmake Experience with cross-platform software builds for both OSX and Linux. Experience with package systems for multiple Linux distributions. Expert level experience with git, GitHub, and GitHub Enterprise. Strong background with C++, its dependencies to libraries and header files and Cmake. 5+ years experience in build system management and repository management. Extensive experience working with large monorepos. Strong understanding of build and packaging systems used by multiple languages including: C++, Javascript/Typescript, Java Familiarity with Swift, Cotlin, and Java. Great creative and innovative problem-solving skills. Self-directed driving product and technology innovation in a fast moving, startup environment. Familiarity with blockchain a plus, but not required ", 
+    "CompanyName": "SV Professionals LLC", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-09", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "monster", 
+    "Hash": "8F3BD14EA493E3BEE80082EBF3022DCD", 
+    "KeyTerms": "github, git, java, startup, linux, kotlin, code review, typescript, remote, javascript, swift", 
+    "Language": "English", 
+    "Location": "Remote", 
+    "OutLinks": [
+        "https://job-openings.monster.com/looking-for-build-repository-manager-architect-arlington-va-us-sv-professionals-llc/217327337", 
+        "https://job-openings.monster.com/Looking-for-Build-Repository-Manager-Architect-Arlington-VA-US-SV-Professionals-LLC/217327337", 
+        "https://job-openings.monster.com/v2/job/apply?jobId=217327337"
+    ], 
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=2&page=2", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "kotlin", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=2&page=2", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "Looking for Build and Repository Manager/Architect job at SV Professionals LLC | Monster.com", 
+    "Url": "https://job-openings.monster.com/looking-for-build-repository-manager-architect-arlington-va-us-sv-professionals-llc/217327337"
+}

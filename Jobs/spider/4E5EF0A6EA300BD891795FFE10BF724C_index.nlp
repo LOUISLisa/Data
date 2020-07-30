@@ -1,0 +1,24 @@
+{
+    "Body": "Technology Docs IBC ERTP SES Zoe Testnet Company About Team Papers FAQs Blog Events Join Us Secure Smart Contracts Agoric empowers developers to execute transactions, establish new markets, and craft novel exchanges \u2014 all without centralized control. Learn More Check out our virtual hackathon, on now! Join here Our Chain + Interops Whether projects need an independent blockchain or the benefits of inter-blockchain communication, Agoric has it covered. Learn More Get Coding From getting-started tools, to detailed documentation, to weekly engineering reports, to virtual hackathons and other events, Agoric brings JavaScript developers up to speed quickly. Learn More \"I've worked with Mark on the JavaScript TC39 committee for over 10 years and he has done more than anyone to bring real world security to the JS community.\" \u2014 Brendan Eich, creator of JavaScript, CEO of Brave Software Read the Agoric Canon Over the years, the Agoric team has published a number of papers about smart contracts, markets in computation, secure programming, object capabilities, and other related topics. Learn More Videos from Agoric Zoe and ERTP: Offer Safety for Smart Contracts Dean Tribble, CEO of Agoric, presents Zoe, Agoric's framework for building smart contracts like auctions, swaps, decentralized exchanges, and more. Watch Video Programming Secure Smart Contracts Mark S. Miller, Chief Scientist of Agoric, talks about creating an object-capability (ocap) secure subset of JavaScript to support simple composition with least authority. Watch Video Agoric Speaker Series with Protocol Labs These are monthly educational events presented by Protocol Labs and Agoric where experts from both teams do an in-depth talk on a particular blockchain subject. Watch Series ???????????? 2020 Agoric Systems Operating Company. All Rights Reserved. [email????????????protected] Company About Team Blog Events Papers FAQs Join Us Technology Documentation Testnet ERTP: Electronic Rights Transfer Protocol Zoe: Offer-Safety Enforcement SES: Secure ECMAScript IBC Subscribe to our newsletter for updates", 
+    "CompanyName": "ERTP", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "agoric", 
+    "Hash": "4E5EF0A6EA300BD891795FFE10BF724C", 
+    "KeyTerms": "smart contract, exchanges, decentralized, testnet, javascript, ecmascript", 
+    "Language": "English", 
+    "Location": "Agoric", 
+    "OutLinks": [
+        "https://agoric.com/jobs/"
+    ], 
+    "Parent": "https://cryptocurrencyjobs.co/marketing/agoric-marketing-director/", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "testnet", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://cryptocurrencyjobs.co/", 
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- agoric", 
+    "TackIt": "false", 
+    "Title": "Secure smart contracts - Agoric", 
+    "Url": "https://agoric.com/?ref=cryptocurrencyjobs.co"
+}

@@ -1,0 +1,25 @@
+{
+    "Body": "Careers IT Senior Backend Developer (Remote) Remote ???????????? | ???????????? Full Time Apply Now Keyrock is expanding! ???????????? Keyrock was founded in 2017 and has quickly grown from 3 to more than 25 people today. As an industry recognized liquidity provider and market maker, Keyrock is a leading European creator of algorithmic trading technology in the digital asset space. With VC backing and a constantly expanding client base, Keyrock is one of Belgium\u2019s fastest-growing SaaS fintech companies. We are now looking to add an experienced backend engineer to our team to work in a rapidly evolving environment. You will be working in collaboration with our engineers, data scientists, and architects to develop new features, integrate new liquidity sources and structure financial systems. ???????????? Backend Developer???????????? ???????????? We are looking for a remote backend developer to support the growth of our infrastructure, which is based on an exciting and constantly evolving technology stack. It currently includes Node.js, Python, Rust, PostgreSQL (TimescaleDB), Docker and Pulsar. Your mission would be to develop new features, develop trading algorithms, integrate thirty party APIs and propose improvements to our current infrastructure. N.B. we are looking for candidates based somewhere with a time difference of at least 6 hours from Brussels????????????(in either direction), in order to provide coverage outside the working hours of our main office. What you will be doing Build internal and external tools to support Keyrock trading activities Setup and deployment of algorithms Integrate cryptocurrency exchanges, banks and brokers APIs to the keyrock infrastructure Implement financial logic on multiple Keyrock microservices. Skills and experience ???????????? Team player Knowledge in Linux administration, networking, and clustering Node.js MongoDB Redis Ideally, experience in an environment with streaming data Deep understanding of the full web technology stack (e.g. HTTP, cookies, asset loading, caching, REST, etc) ???????????? Basic understanding of the financial market, orderbooks, and trading At least 5 years of professional experience ???????????? That little extra Interest in Blockchain/DLT and digital assets Background or interest in financial/capital markets Rust / C++ What to expect from Keyrock ???????????? The opportunity to work closely with market leaders in a fast-growing industry on a daily basis Being part of a fast-growing start-up with a global presence Competitive salary and benefits and exciting growth path The freedom to create your own intrapreneurial experience A ton of fun in a thriving team Submit Your Application You have successfully applied You have errors in applying Apply With Resume * First Name * Middle Name Last Name * Email * Mobile Phone Social Network and Web Links Provide us with links to see some of your work (Git/ Dribble/ Behance/ Pinterest/ Blog/ Medium) +", 
+    "CompanyName": "DLT", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "freshteam", 
+    "Hash": "2E88A8B652509D022CFF46E67B8DACDA", 
+    "KeyTerms": "trading, algorithms, python, digital asset, financial, exchanges, nodejs, remote, dlt, capital markets, full time, docker, microservices, cryptocurrency, social network, rust, back end, git, collaboration, linux, mongodb", 
+    "Language": "English", 
+    "Location": "Remote", 
+    "OutLinks": [
+        "https://keyrock.freshteam.com/jobs", 
+        "https://keyrock.freshteam.com/jobs/o4X54MFpmjCW/senior-backend-developer-remote?ref=cryptocurrencyjobs.co"
+    ], 
+    "Parent": "https://cryptocurrencyjobs.co/engineering/keyrock-senior-backend-developer/", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "cryptocurrency", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://cryptocurrencyjobs.co/", 
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- freshteam", 
+    "TackIt": "false", 
+    "Title": "Careers", 
+    "Url": "https://keyrock.freshteam.com/jobs/o4X54MFpmjCW/senior-backend-developer-remote?ref=cryptocurrencyjobs.co"
+}

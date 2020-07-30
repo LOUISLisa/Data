@@ -1,0 +1,26 @@
+{
+    "Body": "Home Technology Applications Team Investors Partners Customers StarkWare Labs StarkEx Resources Open Positions STARK 101 StarkWare Sessions Senior Backend Software Engineer Talk to us Back to all Positions What you need to succeed At least 5 years of development experience in a high-level object-oriented language (preference for Python and C++) University graduate in Computer Science (with a high GPA) Experience building complex, high-scale, high-performance software Curious by nature and a quick learner Ideally experience with: Advanced OOM and design patterns Performance optimizations Linux operating system, its internals and ecosystem Interaction with NoSQL databases at scale Implementation of services in a micro-services architecture Interaction with tools such as Kubernetes, Docker, Kafka, Flask, or similar Algorithm development Cryptographic primitives and protocols Blockchain technologies CI/CD and TDD methodologies Subscribe to our mailing list Join Now Leave this field empty if you're human: Follow us Home Technology Applications Team Investors StarkEx Resources Open Positions ", 
+    "CompanyName": "Computer", 
+    "ContentType": "text/html; charset=UTF-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "starkware", 
+    "Hash": "C7B1EA32EC5D0F405A5A85E274CFC2DF", 
+    "KeyTerms": "kubernetes, algorithms, python, nosql, docker, back end, tdd, design patterns, linux, kafka, ci cd, software engineer, protocols", 
+    "Language": "English", 
+    "Location": "University, United States", 
+    "OutLinks": [
+        "https://starkware.co/jobs", 
+        "https://starkware.co/jobs/", 
+        "https://starkware.co/jobs/senior-backend-software-engineer/"
+    ], 
+    "Parent": "https://cryptocurrencyjobs.co/engineering/starkware-senior-backend-software-engineer/", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://cryptocurrencyjobs.co/", 
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- starkware", 
+    "TackIt": "false", 
+    "Title": "Senior Backend Software Engineer - StarkWare", 
+    "Url": "https://starkware.co/jobs/senior-backend-software-engineer/?ref=cryptocurrencyjobs.co"
+}

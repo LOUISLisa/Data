@@ -1,0 +1,33 @@
+{
+    "Body": "Categories All Digital Marketing Writing & Translation Video & Animation Music & Audio Programming & Tech Business Fun & Lifestyle ICO & Blockchain Accounts & Followers Graphics & Design XXX Sign In Join Find gig Search Category All ({{ get_cat_value_all() }}) {{ c.name }} ({{ get_cat_value_full(c.value) }}) {{ s.name }} ({{ get_cat_value(c.value,s.value) }}) Show Advanced Options Hide Advanced Options Price ???????????? ???????????? Apply Rating 5.0 4.0 & up 3.0 & up 2.0 & up 1.0 & up Skills Relevance Relevance Price: Low to High Price: High to Low Average Rating Most Ratings FREE-{{ job.discount }}% {{ job.name }} {{ job.short }} @{{ job.freelancer }} ???????????? {{ getValueEtherHigh(job.price) }}.{{ getValueEtherLow(job.price) }} {{ job.rating.toFixed(1) }} ({{ job.rating_amount }}) No Disputes Won Lost We didn't find any results for your search. {{ n + calculatefpd -1 }} {{ n + calculatefpd -1 }} Categories Digital Marketing Writing & Translation Video & Animation Music & Audio Programming & Tech Business Fun & Lifestyle ICO & Blockchain Accounts & Followers Graphics & Design XXX Token Get Lancer Token Marketcap Whitepaper About Press & News Partnerships Privacy Policy Terms of Service Imprint Community Blog Forum Chat BitcoinTalk Steemit Pinterest Instagram Become Affiliate Contact [email????????????protected] [email????????????protected] Apps Designed by Freepik | Privacy-Policy | Terms of Service ???????????? Atlas3 GmbH 2018 Home Calculator Find gig Sign In Join Crypto Calculator ???????????? Amount Currency USD - US Dollar GBP - British Pound EURO - Euro CNY - Chinese Yuan RUB - Russian Rubel JPY - Japanese Yen CAD - Canadian Dollar BTC - Bitcoin ETH - Ethereum DGB - Digibyte DOGE - Dogecoin ETC - Ethereum Classic LTC - Litecoin ZEC - ZCash DASH - Dash XRP - Ripple XMR - Monero Amount Currency USD - US Dollar GBP - British Pound EURO - Euro CNY - Chinese Yuan RUB - Russian Rubel JPY - Japanese Yen CAD - Canadian Dollar BTC - Bitcoin ETH - Ethereum DGB - Digibyte DOGE - Dogecoin ETC - Ethereum Classic LTC - Litecoin ZEC - ZCash DASH - Dash XRP - Ripple XMR - Monero Exchange Rates provided by Cryptonator Close ???????????? Welcome to the Blocklancer alpha release! This is an alpha release. This platform is running in the Ropsten-Testnet. You can explore the functionality of the platform, create a profile, create gigs, accept gigs, start disputes and bid. We will add new features step by step. Do not send any real Ether. Please use Ropsten-Ether! You are welcome to explore the platform and please send us your feedback. Kind regards Your Blocklancer Team Close", 
+    "CompanyName": "EURO", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-05", 
+    "DocumentType": "Careers", 
+    "DomainId": "blocklancer", 
+    "Hash": "AD80157F8094F780CFFE823FC6DA5863", 
+    "KeyTerms": "cryptocurrency, ethereum, litecoin, ico, ripple, zcash, privacy, monero, bitcoin", 
+    "Language": "English", 
+    "Location": "United States", 
+    "OutLinks": [
+        "https://blocklancer.net/jobs/", 
+        "https://blocklancer.net/jobs/cat1=1/", 
+        "https://blocklancer.net/jobs/cat1=10/", 
+        "https://blocklancer.net/jobs/cat1=11/", 
+        "https://blocklancer.net/jobs/cat1=2/", 
+        "https://blocklancer.net/jobs/cat1=3/", 
+        "https://blocklancer.net/jobs/cat1=4/", 
+        "https://blocklancer.net/jobs/cat1=5/", 
+        "https://blocklancer.net/jobs/cat1=6/", 
+        "https://blocklancer.net/jobs/cat1=7/", 
+        "https://blocklancer.net/jobs/cat1=8/", 
+        "https://blocklancer.net/jobs/cat1=9/"
+    ], 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "cryptocurrency", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://blocklancer.net/jobs/cat1=9/", 
+    "TackIt": "true", 
+    "Title": "Blocklancer - freelance and earn Ether cryptocurrency", 
+    "Url": "https://blocklancer.net/jobs/cat1=9/"
+}

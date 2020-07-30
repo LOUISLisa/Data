@@ -1,0 +1,25 @@
+{
+    "Body": " Senior Software Engineer at My Job Tank San Francisco, CA 94108 ???????????? About the Job The hiring company is working on AI & Blockchain technology. The vision is to build an emerging technology, partnering with HR / Staffing agencies on implementation of the next generation decentralized professional network. The hiring company is seeking highly motivated engineers who had strong developer experienced or familiar with Ethereum (or other blockchain architecture), to join the team in San Francisco (remote position is available) tasked with building the distributed application. The????????????ideal candidates should have????????????built and released distributed applications or have been part of the open source Blockchain community. ???????????? Job Responsibilities Design and implement several blockchain proofs of concepts based on Ethereum smart contracts. Work with HR/Staffing agencies on improving and implementing placement procedures on block chains. Maintain internal testes and external service connectors. Contribute to a series of token sale campaigns by providing technical support. ???????????? Requirements Must have a BS in Computer Science.Must have 2+ years of experience with distributed software development or 5+ years of general backend development. Must have hands-on experience with all aspects of softwareDevelopment: data, server side, UI, and open source software. Cloud architecture and scalable solutions including orchestration & containers. Must have experience with Linux, Open source, Python, Golang or Java Server apps. Must be able to provide GitHub profile or project code samples (300 lines+). Passion for TDD and continuous learning. No Fear of startup engineering - breaking then fixing things. High motivated in blockchain technology and community. ???????????? Benefits Base Salary D.O.E $130,000-$180,000 Health insurance Vested tokens as bonus ", 
+    "CompanyName": "My Job Tank", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "monster", 
+    "Hash": "8A5793983BAA2A1AC47F77A4295CCD36", 
+    "KeyTerms": "python, github, golang, decentralized, remote, distributed application, artificial intelligence, blockchain architecture, cloud, ethereum, back end, java, tdd, smart contract, startup, linux, containers, software engineer", 
+    "Language": "English", 
+    "Location": "Remote", 
+    "OutLinks": [
+        "https://job-openings.monster.com/Senior-Software-Engineer-San-Francisco-CA-US-My-Job-Tank/a5e1935f-649e-4df0-a299-f8c3b24b6595", 
+        "https://job-openings.monster.com/senior-software-engineer-san-francisco-ca-us-my-job-tank/a5e1935f-649e-4df0-a299-f8c3b24b6595"
+    ], 
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "$130,000-$180,000", 
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "Senior Software Engineer job at My Job Tank | Monster.com", 
+    "Url": "https://job-openings.monster.com/senior-software-engineer-san-francisco-ca-us-my-job-tank/a5e1935f-649e-4df0-a299-f8c3b24b6595"
+}

@@ -1,0 +1,24 @@
+{
+    "Body": "Products Seamless Key Management Torus Wallet An instant and comprehensive platform - Transact with your email and social IDs - Purchase cryptocurrencies within your DApp - Compatible across all browsers and platforms - OAuth logins DirecAuth App-scoped key management - Key management with a familiar user flow - Web/mobile/native apps compatible - Your own user experience - Blockchain agnostic - Unique app-scoped user keys DocumentationAbout UsContact Us Products Seamless Key Management Torus Wallet An instant and comprehensive platform - Transact with your email and social IDs - Purchase Cryptocurrencies without leaving your DApp - Compatible across all browsers and platforms - OAuth Logins DirectAuth App-scoped key management - Key management with a familiar user flow - Web/mobile/native apps compatible - Your own user experience - Blockchain agnostic - Unique app-scoped user keys DocumentationAbout UsContact Us Secure, Non-custodial, Open-source Seamless Key Management Torus is an open-source key management system that makes Web3.0 applications feel just like Web2.0 Try it nowGet started Trusted by Leading companies and projects integrated with usMore Projects Authentication abstracted for the decentralized ecosystem Built and designed to be trustless, users\u2019 identities are not controlled by any central authority. One-click logins Sign in with OAuths or custom authentication methods Non-custodial Splitting key custody via distributed key generation Completely open-source Don\u2019t trust, verify Powered by distributed key generation Torus' key management solutions are supported by the Torus Network - a secure set of nodes run by large ecosystem stakeholders.Learn more Different solutions to suit your needs Optimize your application for your users Torus Wallet Single sign-on / account recovery Customizable pre-built UI Fiat onramps Interact with any OAuth account Learn more DirectAuth Single sign-on / account recovery Own your UX Web / desktop / mobile-native Custom authentication methods Blockchain-agnostic Learn more Integrate your application in just five minutes Implement non-custodial key management fast, increase focus on your users' demands Torus Wallet DirectAuth // npm i @toruslabs/torus-embed \u200dimport Torus from \"@toruslabs/torus-embed\"; import Web3 from \"web3\"; \u200d const torus = new Torus(); await torus.init(); await torus.login(); // await torus.ethereum.enable() const web3 = new Web3(torus.provider); const torus = new DirectWebSdk({ ????????????????????????baseUrl: \"http://localhost:3000/serviceworker/\", ????????????????????????GOOGLE_CLIENT_ID: \"MY CLIENT ID GOOGLE\", ????????????????????????proxyContractAddress: \"0x4023d2a0D330bF11426B12C6144Cfb96B7fa6183\", ???????????????????????????????????? ????????????????????????????????????// details for test net network: \"ropsten\", // details for test net }); await torus.init(); const userInfo = await torus.triggerLogin(\"google\", \"google-MY SPECIFIC VERIFIER\"); Featured on Stay up to date with Torus Read our latest updates and articlesVisit Medium Join our community COMPANY About usMediaPartnersJoin usContact us", 
+    "CompanyName": "GOOGLE", 
+    "ContentType": "text/html", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "tor", 
+    "Hash": "618017DA32CAE5A41818AE4A4C6579CD", 
+    "KeyTerms": "blockchain agnostic, ethereum, wallet, web-2, web-3, npm, decentralized, cryptocurrencies, ropsten", 
+    "Language": "English", 
+    "Location": "Not Found", 
+    "OutLinks": [
+        "https://tor.us/?ref=cryptocurrencyjobs.co"
+    ], 
+    "Parent": "https://cryptocurrencyjobs.co/engineering/torus-developer-intern/", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "cryptocurrencies", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://cryptocurrencyjobs.co/", 
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- tor", 
+    "TackIt": "false", 
+    "Title": "Torus Labs - Seamless Key Management", 
+    "Url": "https://tor.us/?ref=cryptocurrencyjobs.co"
+}

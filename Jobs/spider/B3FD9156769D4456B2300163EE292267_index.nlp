@@ -1,0 +1,22 @@
+{
+    "Body": "%HEADER_COMPANY_WEBSITE% Position Closed Sorry, this position is no longer accepting candidates. %FOOTER_POWERED_BY%breezy", 
+    "CompanyName": "LATOKEN", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "breezy", 
+    "Hash": "B3FD9156769D4456B2300163EE292267", 
+    "KeyTerms": "blockchain developer", 
+    "Language": "English", 
+    "Location": "Not Found", 
+    "OutLinks": [], 
+    "Parent": "https://cryptocurrencyjobs.co/engineering/latoken-blockchain-developer-junior/", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://cryptocurrencyjobs.co/", 
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- breezy", 
+    "TackIt": "false", 
+    "Title": "Blockchain Developer (Junior) at LATOKEN", 
+    "Url": "https://latoken.breezy.hr/p/aa4a6e7b750b01-blockchain-developer-junior?source=cryptocurrencyjobs"
+}

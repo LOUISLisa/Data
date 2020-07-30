@@ -1,0 +1,25 @@
+{
+    "Body": "Menu Home Services Assurance Engineering Research & Development Training Products Crytic iVerify Our Expertise Binary Analysis Blockchain Cryptography Compiler Engineering Machine Learning Open Source Software About Company Publications Blog Contact Deepening the Science of Security Since 2012, Trail of Bits has helped secure some of the world\u2019s most targeted organizations and products. We combine high-end security research with a real-world attacker mentality to reduce risk and fortify????????????code. Request a Quote Philosophy We don\u2019t just fix bugs, we fix software. When our research into the depths of code and devices exposes gaps in the market, we engineer foundational tools to close them. Services Software Assurance Security Engineering Research & Engineering Training Research & Development Binary Ninja Binary Ninja offers security researchers a real -and easy- choice of reversing platforms. Its accessible interface and powerful automated analyses are a force multiplier for a researcher\u2019s human intuition. We want to accelerate adoption of Binary Ninja, so we\u2019re developing learning materials to help prospective users jump in now. Sienna Locomotive Sienna Locomotive brings fuzzing and crash triage to developers who lack detailed knowledge of vulnerabilities, how fuzzers work, and how to configure them. It works on Windows, was built on open-source software, and incorporates new research in crash triage to make fuzzing easy and effective. Leveraging the Analog Domain for Security (LADS) As a performer in DARPA's Leveraging the Analog Domain for Security program, we're writing program analysis tools to help protect low-resource systems from advanced cyber threats, such as RowHammer, which allow individual bits to get flipped in arbitrary program memory. The automated program analyzer we're engineering is built on Manticore, our Python symbolic execution platform. Manticore Manticore unlocks the power of symbolic execution for security researchers. It's pure Python with minimal dependencies that can operate on x86, x64, and ARM binaries and Ethereum smart contracts. Anyone with experience in exploitation or reversing can use the API to create specialized binary analysis or software security tools. CTF Field Guide Capture the flag (CTF) competitions provide an ideal platform for students to learn to think like attackers. And yet most schools and colleges lack the expertise to form and train CTF teams for competition. This guide closes the gap, and addresses the larger skills gap in the cybersecurity industry. More Research In the Press \u201cTech Firms Push Toward a Future Without Passwords\u201d \u201cFacebook, Security Firm Team Up to Port OS Monitor to Windows\u201d \u201cThe Rise of the Hackbots\u201d \u201cApple vs the Government of the United States\u201d \u201cDARPA Helps Cadets, Midshipmen Prep for Cyber Mission\u201d \u201cNew Documents Solve a Few Mysteries in the Apple-FBI Saga\u201d From our Blog An Echidna for all seasons Two years ago, we open-sourced Echidna, our property-based smart contract fuzzer. Echidna is one of the tools we use most in smart contract assessments. According to our records, Echidna was used in about 35% of our smart contract audits during the past two years. Announcing the Zeek Agent The Zeek Network Security Monitor provides a powerful open-source platform for network traffic analysis. However, from its network vantage point, Zeek lacks access to host-level semantics, such as the process and user accounts that are responsible for any connections observed. The new Zeek Agent fills this gap by interfacing Zeek directly with your endpoints, providing semantic context that\u2019s highly valuable for making security decisions. Organizations We Support Services Company Contact Us Empire Hacking Twitter LinkedIn GitHub Blog Newsletter Signup:", 
+    "CompanyName": "Echidna", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "trailofbits", 
+    "Hash": "2CAD59509B263F6FC1D9EDAD7BCED63A", 
+    "KeyTerms": "ethereum, cyber, python, github, network security, smart contract, cryptography, machine learning", 
+    "Language": "English", 
+    "Location": "United States", 
+    "OutLinks": [
+        "https://www.trailofbits.com/?ref=cryptocurrencyjobs.co", 
+        "https://www.trailofbits.com/expertise/open-source-software/"
+    ], 
+    "Parent": "https://cryptocurrencyjobs.co/engineering/trail-of-bits-blockchain-security-engineer/", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://cryptocurrencyjobs.co/", 
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- trailofbits", 
+    "TackIt": "false", 
+    "Title": "Trail of Bits", 
+    "Url": "https://www.trailofbits.com/?ref=cryptocurrencyjobs.co"
+}

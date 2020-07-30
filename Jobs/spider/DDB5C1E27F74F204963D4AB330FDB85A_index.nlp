@@ -1,0 +1,25 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://boards.greenhouse.io/honeyminer/jobs/1543107?gh_src=cryptocurrencyjobs",
+        "https://boards.greenhouse.io/honeyminer/jobs/honeyminer.com"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/honeyminer-site-reliability-engineer-sre/",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "JobBoards",
+    "Title": "Job Application for Site Reliability Engineer (SRE) at Honeyminer",
+    "Hash": "DDB5C1E27F74F204963D4AB330FDB85A",
+    "Url": "https://boards.greenhouse.io/honeyminer/jobs/1543107?gh_src=cryptocurrencyjobs",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "greenhouse",
+    "Language": "Unknown",
+    "TackIt": "false",
+    "Body": "Apply Now Site Reliability Engineer (SRE) at Honeyminer (View all jobs) New York or San Francisco Honeyminer is building the world\u2019s largest market for computation. We started out building tools to optimize cryptocurrency mining - helping anyone mine with the efficiency of the most sophisticated professionals. Through this, we\u2019ve built a \u201cnetwork of networks\u201d - connecting users to dozens of cryptocurrency networks and other demand for high-value computation work, easily and efficiently. Our founders are distributed systems and security experts, who believe in the power of markets and distributed systems; we started Honeyminer to enable everyone around the world to securely participate in this revolution - whether they have an industrial mining operation or simply a personal laptop. Our world-class engineering team loves the challenge of combining user-driven design philosophy with delivering unparalleled performance. Our working environment is dynamic and highly collaborative. We operate at the frontier - helping launch new non-sovereign monies and helping distributed data center operators in 167 countries around the world. Interesting problems abound. At scale, we will be operating a massive computing network with demanding performance requirements. As a Site Reliability Engineer (SRE), you will work closely with our engineering team and to securely scale our platform globally. You will guide our engineering team with your passion for understanding the sources of system instability and compliment the group by designing solutions. You\u2019ll educate and mentor our engineering team - ensuring we not only prioritize reliability from the beginning, but we learn to predict it as well. Responsibilities You will design and build tools, frameworks, systems, and processes the Honeyminer team uses to build, scale, and deploy our platform Your research into proof of concepts will lead us to implement findings into production You will use platform data to identify trends in system performance and design predictive solutions to recurrent issues You will identify edge cases, simplify over-complications, and build resilience in Honeyminer\u2019s network Requirements You\u2019ve excelled in supporting and improving environments that demand near 100%, in SRE or DevOps role You live and breathe all things cloud, including automation tools (terraform, kubernetes, python) You know how to strategically develop and manage long term solutions while delivering on short-term tactical projects with grace You have built a foundational understanding of running applications on distributed systems through your education and experience You support Honeyminer\u2019s mission and are excited by the technical challenges of building a massive decentralized computing network ???????????? Apply for this Job * Required First Name * Last Name * Email * Phone Resume/CV Drop files here ???????????????????????? Attach Dropbox Google Drive Paste \n Cover Letter Drop files here ???????????????????????? Attach Dropbox Google Drive Paste \n LinkedIn Profile Website How did you hear about this job? Powered by???????????? Read our Privacy Policy",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- greenhouse",
+    "KeyTerms": "cryptocurrency, cloud, kubernetes, python, frameworks, devops, privacy, distributed systems, terraform, decentralized, proof of concepts",
+    "Location": "New York, United States",
+    "CompanyName": "Honeyminer",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
+}
