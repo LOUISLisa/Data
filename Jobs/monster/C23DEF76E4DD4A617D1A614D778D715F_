@@ -1,0 +1,25 @@
+{
+    "Body": " Staff Engineer - Performance Engineering at VMware Palo Alto, CA ???????????? About the Job Search Jobs Job Description Business????????????Summary The performance of the blockchain solution is the fundamental impediment against pervasive adoption of this emerging technology that promises to change the world. The Performance Engineering Team is working on profiling bottlenecks and optimizing the blockchain solution. In the process, we are building industry standard benchmarks, and contributing to the open source community. Job Role and Responsibilities Come be a part of a team of highly skilled engineers proactively participating in advancing blockchain technology to provide the most performant, reliable, and scalable blockchain platform.???????????? Insights into your role Profiling and analyzing the end-to-end transaction flow in the blockchain solution \u2013 commit, consensus, distributed ledger, smart contracts/DApps and distributed network. Identify performance bottleneck and prototype optimization recommendations Automate performance measurement and analysis tools Build analysis models for performance metrics from both of on-prem and cloud environments Publish performance whitepapers, blogs, sizing guides and tuning guides Required Skills 8+ year experience in computer systems engineering MS or PhD in Computer Science Strong programming experience in C++ Excellent analytical and debugging skills Prior experience optimizing complex distributed systems Experience working with performance benchmarks and performance testing methodology Understanding of computer system architecture and trade-offs in optimization decisions Can-do mindset of solving engineering problems and making rapid progress towards product performance goals Preferred Skills: Strong programming skills in Scala Studied and/or experimented with blockchain technologies \u2013 understanding of consensus protocols, built DApps using Go/Solidity/DAML. Worked with Open Tracing tools to analyze distributed systems Excellent communication skills to explain your results and solution VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind:????????????VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. VMware will provide reasonable accommodation to employees who have protected disabilities consistent with local law. \u200b Search Jobs ", 
+    "CompanyName": "VMware", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "monster", 
+    "Hash": "C23DEF76E4DD4A617D1A614D778D715F", 
+    "KeyTerms": "consensus, cloud, genetic, analytical, scala, smart contract, dapps, distributed systems, protocols, dlt, solidity", 
+    "Language": "English", 
+    "Location": "Palo Alto, California, United States", 
+    "OutLinks": [
+        "https://job-openings.monster.com/Staff-Engineer-Performance-Engineering-Palo-Alto-CA-US-VMware/9d6ef814-9859-430a-bbd0-f7216dfd2de3", 
+        "https://job-openings.monster.com/staff-engineer-performance-engineering-palo-alto-ca-us-vmware/9d6ef814-9859-430a-bbd0-f7216dfd2de3", 
+        "https://job-openings.monster.com/staff-engineer-performance-engineering-palo-alto-ca-us-vmware/https%3A%2F%2Fcareers.vmware.com%2F"
+    ], 
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10", 
+    "TackIt": "true", 
+    "Title": "Staff Engineer - Performance Engineering job at VMware | Monster.com", 
+    "Url": "https://job-openings.monster.com/staff-engineer-performance-engineering-palo-alto-ca-us-vmware/9d6ef814-9859-430a-bbd0-f7216dfd2de3"
+}

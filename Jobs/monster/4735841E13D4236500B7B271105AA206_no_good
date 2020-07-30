@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=2&page=2",
+    "OutLinks": [
+        "https://job-openings.monster.com/Salesforce-Developer-Architect-Plano-TX-US-Collabera/218821211",
+        "https://job-openings.monster.com/salesforce-developer-architect-plano-tx-us-collabera/218821211"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=2&page=2",
+    "DocumentType": "JobBoards",
+    "Title": "Salesforce Developer/Architect job at Collabera | Monster.com",
+    "Hash": "4735841E13D4236500B7B271105AA206",
+    "Url": "https://job-openings.monster.com/salesforce-developer-architect-plano-tx-us-collabera/218821211",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "monster",
+    "Language": "Italian",
+    "TackIt": "true",
+    "Body": " Salesforce Developer/Architect from Collabera Plano, TX Â  About the Job Plano, Texas Skills : Salesforce,python,API,Java Description : Position:Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Â Â Salesforce Developer/ArchitectÂ  Location:Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Plano, TX Duration:Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 6 Month Contract to hire Description:- Write, design, code, test, implement, debug, and validate applications; document design decisions and develop modular software components; monitor system performance metrics, and identify potential risks/issues. Collaborate in an Agile scrum team with product owners and fellow software engineers to deliver upon most important business and technical priorities. Provide active mentorship/guidance to fellow members of the agile tech team and participate in internal and external technology conference & communities. What you would expect to work on here: Â force.com technologies including SFDC triggers and controllers, VF page development, sObjects, and SOQL, Batch Apex and/or Schedule Apex development, Object Oriented Languages (Java, C# and Go), Cloud Based Technologies (AWS, DevOps and Serverless), Front End Frameworks (Angular, React, Node.js), Cutting Edge Data Tools (Python, Spark, Machine Learning) and Next Generation technologies (AI, Blockchain). Basic Qualifications: Bachelor\u2019s degree At least 5 years of experience in software development At least 4 years of experience as a Salesforce developer At least 1 year of experience with Salesforce Lightning web components (LWC), SFDX CLI, Visual Studio Code, & Git Preferred Qualifications: Salesforce Developer Certification 6+ years of experience with the Salesforce development 4+ years of experience with Service Oriented Architecture 4+ years of experience with SOAP/REST API development. "
+}

@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=12",
+    "OutLinks": [
+        "https://job-openings.monster.com/Full-Stack-JavaScript-Developer-Arlington-VA-US-Capital-TechSearch/c25f5965-23eb-45b9-ba93-8e3fbea072cb",
+        "https://job-openings.monster.com/full-stack-javascript-developer-arlington-va-us-capital-techsearch/c25f5965-23eb-45b9-ba93-8e3fbea072cb",
+        "https://job-openings.monster.com/v2/job/apply?jobId=c25f5965-23eb-45b9-ba93-8e3fbea072cb"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=12",
+    "DocumentType": "JobBoards",
+    "Title": "Full-Stack JavaScript Developer job at Capital TechSearch | Monster.com",
+    "Hash": "A4C68DC70D733BFA2E3C2372571AB183",
+    "Url": "https://job-openings.monster.com/full-stack-javascript-developer-arlington-va-us-capital-techsearch/c25f5965-23eb-45b9-ba93-8e3fbea072cb",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "monster",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Full-Stack JavaScript Developer at Capital TechSearch Arlington, VA 22201 Â  About the Job Full-Stack DeveloperÂ (node.js, react, java, javascript) Arlington, VA Our client is searching for a full-stack software engineer to join their product development team. You: You have built highly scalable products that involve some, or all of the following components: fault-tolerance, high availability, and distributed microservices. You have a deep respect for the challenges associated with operating a large-scale system in production, and your designs and implementations reflect that understanding. You are a Node.js enthusiast with real-world experience. You know the difference between unit and integration tests and why each type is important. You have a keen understanding of Microservices and how they are modeled; you are not intimidated by concepts like Messaging Buses (eg Kafka, NATS), Pub-Sub, and Clustering. You know the modern technical stack from the network up and are incredibly grateful that you can programmatically control all of it thanks to AWS or Azure or Google. Find unconventional solutions to the most challenging problems. Great attitude. Willing to share your knowledge and learn from others. Experience: 5+ years of relevant experience and/or a bachelor s degree in Computer Science. Experience with some mix of (node.js, React, Express, Java, or similar). Microservices/REST, Containers. Agile SDLC. Why this role: Full-time role Great benefits (free health for you and your family) 1 block from the metro 100% commercial Product Development Work-life balance Work with new technologies Blockchain, AI ***Candidates must have current work authorization in the US. "
+}

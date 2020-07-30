@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=14",
+    "OutLinks": [
+        "https://job-openings.monster.com/Full-Stack-Developer-Co-Op-King-of-Prussia-PA-US-Vertex-Inc/abb1d060-fe4b-46bc-aa35-dd10695b38d4",
+        "https://job-openings.monster.com/full-stack-developer-co-op-king-of-prussia-pa-us-vertex-inc/abb1d060-fe4b-46bc-aa35-dd10695b38d4",
+        "https://job-openings.monster.com/full-stack-developer-co-op-king-of-prussia-pa-us-vertex-inc/https%3A%2F%2Fars2.equest.com%2F%3Fresponse_id%3D3b4a85369ee4bb81839e86cb8493ee61"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=14",
+    "DocumentType": "JobBoards",
+    "Title": "Full Stack Developer - Co Op job at Vertex Inc | Monster.com",
+    "Hash": "25DCBAE47EDB087025A3FAE6D31A74EA",
+    "Url": "https://job-openings.monster.com/full-stack-developer-co-op-king-of-prussia-pa-us-vertex-inc/abb1d060-fe4b-46bc-aa35-dd10695b38d4",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "monster",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Full Stack Developer - Co Op at Vertex Inc King of Prussia, PA 19406 Â  About the Job Vertex Inc. has two dynamic fast-paced opportunities on our Innovation Labs, based in our King of Prussia, Pennsylvania location. Current projects include; blockchain, robotic process automation, machine learning, and other emerging technologies. We are seeking individuals who love technology, love programming, and have an entrepreneurial spirit. In the Innovation Labs everyone is expected to be creative, experimental, self-starting, opinionated, unafraid of failure, and a leader. If you want to learn a lot and make an impact by contributing as a member of our full-stack cloud development team on the AWS platform this is the co-op for you. We are seeking candidates from majors that have software development and/or cloud development operations (DevOps) background. We may offer co-ops the opportunity to contribute on a part-time basis after the co-op period. In this role, you will: Work with Java/Spring Framework, Rest service architecture, PostgreSQL database, and Angular UI Work with Docker, AWS Lambda, AWS CodeBuild, and Continuous Integration\\Deployment practices Participate in daily Agile/Scrum stand up meetings Participate as a full team member on multiple projects from the first to the last day Participate with the business team to work with partners and prospective clients Assist in the development of application requirements and solution designs Work within a Windows environment to code and test software to be deployed on AWS in Linux You will occasionally be invited to participate in activities with other co-ops throughout the company. Actively pursuing a Bachelor's Degree in Business Administration, Logistics, Supply Chain Management, or equivalent degree Must have and maintain a minimum 3.0 GPA "
+}

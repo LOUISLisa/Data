@@ -1,0 +1,24 @@
+{
+    "Body": " Full Stack Web & AWS Developer at NTT DATA, Inc. Wausau, WI ?? About the Job Reference # : 19-05746 Title : Full Stack Web & AWS Developer Location : Wausau, WI Position Type : Full Time/Contract Experience Level : Start Date / End Date : 06/17/2019 / 12/31/2019 ?? Description Location preference is Wausau WI but would also consider Dover NH. They would also consider a remote worker, but the person will need to come onsite to WI for a 4 week duration. This onsite portion has not been scheduled yet. Heavy preference on WI location GRS IT is seeking a full stack web developer to support Underwriting Strategy and Performance. An AWS infrastructure skillset is required; specifically, CFT deployments to EC2 instances. Developer should have experience with full stack web development with React. This role would be filled for the remainder of 2019 and we will evaluate extension for 2020. There will be two primary responsibilities: ? Re-platform an existing web application from LM Internal Cloud to LM AWS Instance. These should be relatively straight forward for a developer of this skillset. Mentoring will be provided. ? Own the maintenance and support of a Corda Blockchain environment that is deployed natively to AWS. A formal training session will be provided and a minimum of four weeks in Wausau, Wi is required. Preferably the individual would relocated to Wausau, WI Specific Responsibilities Include: ? Primary: Re-platform existing web application deployed to the LM internal cloud (ICCU) to AWS u-sing LM's stack. One-time effort. ? Primary: Own maintenance of a complex Corda blockchain infrastructure that is deployed via AWS, EC2, and CFTs which has a both external and internal presence. On-going effort. ? Secondary: Supplement web development teams by being able to take on web development tickets utilizing Java, React, Spring, and NodeJS. Required skills: ? AWS infrastructure experience. Deploy applications to Amazon AWS using Cloud Formation Templates and EC2 instances. (JSON, YAML) ? Full stack web development using Java, JavaScript, Spring Boot, React ? Bachelor's or Master's degree in technical discipline or equivalent experience, technical degree preferred, a continuous learner of technologies ? Experience using CI/CD pipelines (GIT, Bamboo or Jenkins) ? Strong oral and written communication skills; presentation skills ? Strong collaboration, prioritization, and flexibility skills required Nice to have: ? Experience with NodeJs (Angular if no React experience) ? Corda Blockchain and Distributed Ledger experience ? Familiar with AWS resources such as SNS, SQS, Lambda, EC2, ELB, ECS, Fargate ? Experience with scripting languages like Python and Unix Shell/Bash ? Experience with security and identity best practices (OAUTH, JWT) Logistics: ? Remainder of 2019. Extension through 2020 likely. ? Preferred: Wausau, WI (minimum of 4 weeks reqired) ? Secondary: Dover, NH ", 
+    "CompanyName": "NTT DATA, Inc", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-07", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "monster", 
+    "Hash": "0EE4D5CE9EABFBE1D090CBCBF7CA8088", 
+    "KeyTerms": "python, corda, react, nodejs, remote, full time, dlt, javascript, cloud, angular, scripting, spring boot, java, git, collaboration, full stack, ci cd, json, aws", 
+    "Language": "English", 
+    "Location": "Remote", 
+    "OutLinks": [
+        "https://job-openings.monster.com/Full-Stack-Web-AWS-Developer-Wausau-WI-US-NTT-DATA-Inc/54d65c7e-2c0b-4510-afb3-bfdb7e91069b", 
+        "https://job-openings.monster.com/full-stack-web-aws-developer-wausau-wi-us-ntt-data-inc/54d65c7e-2c0b-4510-afb3-bfdb7e91069b"
+    ], 
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=13", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "corda", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=13", 
+    "TackIt": "true", 
+    "Title": "Full Stack Web & AWS Developer job at NTT DATA, Inc | Monster.com", 
+    "Url": "https://job-openings.monster.com/full-stack-web-aws-developer-wausau-wi-us-ntt-data-inc/54d65c7e-2c0b-4510-afb3-bfdb7e91069b"
+}

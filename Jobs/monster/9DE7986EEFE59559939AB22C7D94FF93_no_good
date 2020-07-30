@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=15",
+    "OutLinks": [
+        "https://job-openings.monster.com/Senior-Software-Engineer-San-Francisco-CA-US-IntelliPro-Group-Inc./4dab08e0-712d-4e6b-8cc5-4d463d188819",
+        "https://job-openings.monster.com/senior-software-engineer-san-francisco-ca-us-intellipro-group-inc/4dab08e0-712d-4e6b-8cc5-4d463d188819"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=15",
+    "DocumentType": "JobBoards",
+    "Title": "Senior Software Engineer job at IntelliPro Group Inc. | Monster.com",
+    "Hash": "9DE7986EEFE59559939AB22C7D94FF93",
+    "Url": "https://job-openings.monster.com/senior-software-engineer-san-francisco-ca-us-intellipro-group-inc/4dab08e0-712d-4e6b-8cc5-4d463d188819",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "monster",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Senior Software Engineer at IntelliPro Group Inc. San Francisco, CA Â  About the Job The Role: As a Software Engineer you will be responsible for developing and maintaining various websites, API\u2019s, and servers, as well as creating the technologies that revolutionize the web we call home. We believe in a better Internet: one that\u2019s powered by people. Our Ideal Candidate: 5+ years of professional software development experience 3+ years of C++ (C++11/14) recent engineering experience Familiar with SQL and DBMS Strong system design knowledge Strong understanding of CAP theorem Strong understanding / relevant work-experience with networking concepts and protocols. Nice to Have: Significant experience building applications using C/C++ (and Python) Experience building and maintaining large-scale distributed systems in production Windows development knowledge Security awareness, with an emphasis on designing for security best practices Experience or solid understanding on cryptography Sound understanding of peer-to-peer protocols Experience working and contributing to open source projects Experience leading and guiding open source projects (preferred) Experience with 1 or more of the following: Blockchain, BitTorrent protocol, gRPC, Protobuf Bachelor's Degree in Computer Science Strong Windows development experience and have familiarity with Linux or Mac You Will: Build new distributed technology, inside of OurÂ products Participate in the design of performant and resilient distributed applications Integrate research results into real programs Work alongside a cross-functional team including engineering, design, community, product, and business Engage and educate the community, from users to contributors Create elegant, reusable open source solutions to hard distributed systems problems Contribute to steering and maintenance of the C++ implementations of OurÂ applications Participate in the design of performant and resilient distributed protocols Integrate research results into real programs Provide code reviews, guidance, and encouragement for open source contributors around the world Â  "
+}

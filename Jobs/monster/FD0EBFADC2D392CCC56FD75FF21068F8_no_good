@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10",
+    "OutLinks": [
+        "https://job-openings.monster.com/Software-Technology-Manager-Washington-DC-US-Rigil-Corporation/325bc052-6e70-44d6-898c-1f8009d93820",
+        "https://job-openings.monster.com/software-technology-manager-washington-dc-us-rigil-corporation/325bc052-6e70-44d6-898c-1f8009d93820"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10",
+    "DocumentType": "JobBoards",
+    "Title": "Software Technology Manager job at Rigil Corporation | Monster.com",
+    "Hash": "FD0EBFADC2D392CCC56FD75FF21068F8",
+    "Url": "https://job-openings.monster.com/software-technology-manager-washington-dc-us-rigil-corporation/325bc052-6e70-44d6-898c-1f8009d93820",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "monster",
+    "Language": "Italian",
+    "TackIt": "true",
+    "Body": " Software Technology Manager at Rigil Corporation Washington, DC 20024 Â  About the Job Role: Software Technology Manager About Rigil Rigil is an award-winning, woman-owned, small business that specializes in technology consulting, strategy consulting and product development. We value teamwork and strive to build strong leaders. Location: Washington, DC Job type: Full time Â  Job Description: Manage various customer application development projects. Assist with developing solutions based on customer requirements. Assist with a technical writeup for proposals. Write technical white papers and blogs. Build and deliver technical presentations for an internal and external audiences. Manage information technology projects. Keep abreast of the latest technologies and keep leadership and colleagues informed of the same. Research new technologies and solutions. Â  Minimum qualifications: Hands-on software development experience using Java, .NET, Python or other 3rd Gen programming languages - min 2-3 years A leader who has led a team for developing software applications for 2-3 years Delivered a large enterprise-scale application. Must include mobile deployment as well Excellent customer engagement skills User-focused with a knack for user experience Good knowledge of old and new technologies (Programming languages, DevOps, Blockchain, AI/ML, etc.) "
+}

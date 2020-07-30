@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10",
+    "OutLinks": [
+        "https://job-openings.monster.com/Software-Development-Manager-Lumedic-Job-Number-260991-Seattle-WA-US-Swedish-Health-Services/77c02493-df85-4ea2-b21f-4fb6b007412c",
+        "https://job-openings.monster.com/software-development-manager-lumedic-job-number-260991-seattle-wa-us-swedish-health-services/77c02493-df85-4ea2-b21f-4fb6b007412c"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10",
+    "DocumentType": "JobBoards",
+    "Title": "Software Development Manager - Lumedic - (Job Number: 260991) job at Swedish Health Services | Monster.com",
+    "Hash": "17FF0BE55B476549D046B7866C7114D8",
+    "Url": "https://job-openings.monster.com/software-development-manager-lumedic-job-number-260991-seattle-wa-us-swedish-health-services/77c02493-df85-4ea2-b21f-4fb6b007412c",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "monster",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Software Development Manager - Lumedic - (Job Number: 260991) at Swedish Health Services Seattle, WA Â  About the Job Providence St. Joseph HealthÂ is calling aÂ Software Development Manager - LumedicÂ to our location in Seattle, WA. Lumedic is a next-generation platform for empowering patients and providers to improve access and streamline the administration of healthcare. Built on blockchain, machine learning and a patient-centric design that transforms how healthcare is run. We\u2019re working to transform the patient experience for healthcare, and looking for team members who are as passionate about our mission as we are. We are seeking a Software Development Manager to grow and manage the engineering team that is building our platform. This role owns the integrity of our product development, ensures we are following best practices, and guides architectural decisions. Additionally, the Software Development Manager works to improve the efficiency of the system's performance while managing and mentoring engineers how to problem solve and improve the work they do with respect to quality, efficiency and collaborative communication across the organization. In this position you will have the following responsibilities: Hire and develop top talent within your own team and participate in hiring across other teams. Provide coaching on relevant competencies for the engineers in your own team and others as needed. Act as a catalyst to drive your staff\u2019s career development by providing actionable feedback, coaching and finding opportunities within and outside of your team. Drive your team to innovate and deliver roadmap features with agility and high quality. Ensure a set of development practices are followed to assure quality and long-term health of our products. Perform reviews of all designs to make sure that they address failure modes, scalability, security and are suitable for our products. Represent your team in cross-functional discussions. Work with the product and program management team to maintain a roadmap for your team. Provide operational support for the services you own. This includes acting as an escalation path to resolve issues. Make improvements to your services to improve their success. This includes performing routine review of key metrics, diving deep into significant anomalies and taking corrective actions as necessary. Promote and demonstrate the operational excellence mentality within your team. Run meetings, create and maintain timelines, and keep large, diverse groups informed of progress and obstacles. Manage engineering vendors and review deliverables to ensure that goals are being met. "
+}

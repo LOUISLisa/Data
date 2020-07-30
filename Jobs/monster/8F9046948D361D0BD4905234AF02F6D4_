@@ -1,0 +1,16 @@
+{
+    "CrawledDate": "2020-01-25",
+    "DomainId": "monster",
+    "OutLinks": [
+        "https://job-openings.monster.com/blockchain-engineer-c-developer-Arlington-VA-US-Randstad/6ce4fc42-4f6e-4c01-ac9e-4ccf446409b2",
+        "https://www.monster.com/",
+        "https://www.monster.com/jobs/",
+        "https://job-openings.monster.com/blockchain-engineer-c-developer-arlington-va-us-randstad/6ce4fc42-4f6e-4c01-ac9e-4ccf446409b2"
+    ],
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=7&page=2",
+    "DocumentType": "JobBoards",
+    "Title": "blockchain engineer / c++ developer job at Randstad | Monster.com",
+    "Hash": "8F9046948D361D0BD4905234AF02F6D4",
+    "Body": " blockchain engineer / c++ developer at Randstad Arlington, VA 22201 ? About the Job Blockchain Engineer / C++ Developer job details: location:Arlington, VA salary:$150,000 - $190,000 per year date posted:Tuesday, December 24, 2019 job type:Permanent industry:Professional, Scientific, and Technical Services reference:726420 job description Blockchain Engineer / C++ Developer job summary: We are looking for passionate software developers to join our team in Arlington, Virginia. You will be responsible for helping design and develop the open source EOSIO blockchain software and other future decentralized projects, and to coordinate with the rest of the team working on various layers of infrastructure. We program in C++ and love it, if you love to program in modern C++ this job is for you! location: Arlington, Virginia job type: Permanent salary: $150,000 - 190,000 per year work hours: 9am to 5pm education: Bachelors responsibilities: Responsibilities Design, build, and maintain efficient, reusable, and reliable C++ code Develop blockchain solutions and provide support for blockchain development Implement high performance and top quality software modules Identify bottlenecks and bugs, and devise solutions to these problems Help maintain code quality, organization, and automatization Contribute to internal and external documentation for our products Able to work independently with minimal guidance on tasks qualifications: Qualifications Strong proficiency in C++, with solid knowledge of language specification. Experience with C++ 11 or 14 required, particularly mastery of STL, Boost and Lambdas. 4+ years of experience, preferably in an environment where latency and speed are factors (e.g., finance) BA/MS degree in Computer Science or related degree Familiarity with blockchain a plus, but not required Experience of writing native modules for use by high-level languages (node.js, wasm, etc) Experience with contributing to open source projects skills: Team Player, Great Communicator, Programming expereince in Modern C+Equal Opportunity Employer: Race, Color, Religion, Sex, Sexual Orientation, Gender Identity, National Origin, Age, Genetic Information, Disability, Protected Veteran Status, or any other legally protected group status. ",
+    "Url": "https://job-openings.monster.com/blockchain-engineer-c-developer-arlington-va-us-randstad/6ce4fc42-4f6e-4c01-ac9e-4ccf446409b2"
+}

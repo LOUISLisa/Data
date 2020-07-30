@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10",
+    "OutLinks": [
+        "https://job-openings.monster.com/Front-End-Developer-Boston-MA-US-Broadridge-Financial-Solutions/168120db-ce83-4c1b-8834-14684791e8c5",
+        "https://job-openings.monster.com/front-end-developer-boston-ma-us-broadridge-financial-solutions/168120db-ce83-4c1b-8834-14684791e8c5"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10",
+    "DocumentType": "JobBoards",
+    "Title": "Front End Developer job at Broadridge Financial Solutions | Monster.com",
+    "Hash": "B34A279B2B956A6A73DCE69605B2323A",
+    "Url": "https://job-openings.monster.com/front-end-developer-boston-ma-us-broadridge-financial-solutions/168120db-ce83-4c1b-8834-14684791e8c5",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "monster",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Front End Developer at Broadridge Financial Solutions Boston, MA Â  About the Job Broadridge, a global fintech leader with over $4 billion in revenue, provides communications, technology, data, and analytics. We help drive business transformation for our clients with solutions for enriching client engagement, navigating risk, optimizing efficiency, and generating revenue growth. Broadridge employs over 10,000 full-time associates globally with a significant presence in North America, Europe, and Asia. Please visit our website at www.broadridge.com to learn more. Are you looking for a great opportunity with a growing company? Broadridge is hiring! As a Senior Front-End developer, you will collaborate with other developers, product managers, and QA to build a system for managing private equity investments. You will be part of a team responsible for implementing the full private equity investment lifecycle, using modern technologies including cloud infrastructure and blockchain, and supporting clients with a global scope. This will involve a mix of supporting existing logic and clients in production, while having many \u201cgreenfield\u201d chances to create and implement new functionality in the system. We are looking for well-rounded developers who work well in a development team using iterative development methodologies to build robust, high-quality production systems. Responsibilities: + You will develop new user-facing features + You\u2019ll troubleshoot, test and maintain the core product software + Build reusable code and libraries for future use + You will ensure the technical feasibility of UI/UX designs + Optimize application for maximum speed and scalability + Contribute in all phases of the development lifecycle + Follow industry best practices Qualifications: + 5+ years of front-end development experience. + Experience developing cloud-hosted, responsive, single page web applications + Experience with at least one of object oriented Node.js/Python/Java/Scala/.Net + High proficiency with client-side JavaScript frameworks (preferably React/Redux and Angular) + Experience writing REST APIs and GraphQL + Experience using AWS or other cloud infrastructure provider Broadridge is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or any other protected status. \"Our Associates Matter. Everyone Benefits from Diversity & Inclusion. Diverse & Inclusive Teams Drive Growth.\" US applicants: Click here to view the \"EEO is the Law\" poster. "
+}

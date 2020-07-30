@@ -1,0 +1,26 @@
+{
+    "Body": " Sr. Security Engineer at Sourceology Palo Alto, CA ???????????? About the Job BitGo is looking for a????????????Senior Security Engineer????????????to help build out and maintain our Threat and Vulnerability Management program. You will be part of a talented team of engineers that demonstrate superb technical competency, delivering mission critical infrastructure and ensuring the highest levels of availability, performance and security. Qualified engineers will have a background in penetration testing and/or ethical hacking. Specific responsibilities include: Responsibilities: Perform penetration tests, code reviews, and document threat models. Plan and lead red team (hacking) exercise operations against the corporation for the purpose of training incident response teams. Plan and lead purple team (attack/defend) exercises in collaboration with the broader Security and DevOps teams. Develop tools and maintain the red team's operational infrastructure. Track and research the latest attacks and how they might apply to our environments. Develop the red team roadmap and drive the direction for the red team program as a whole. Participation in on-call security rotation. Required Skills & Experience:???????????? BitGo is looking for people who are passionate about their craft, take full ownership for their work and projects, and believe in transparent and collaborative culture with the goal of making BitGo successful. Required:???????????? Proven working experience in installing, configuring and troubleshooting UNIX /Linux based environments. Proficiency with cloud technology and deployments: Amazon Web Services, Microsoft Azure, Google Cloud. Proficiency with at least three (3) or more of the following: mobile security, telecom protocols, operating systems, reverse engineering, forensics, network analysis, vulnerability assessment or malware. Working knowledge of at least one scripting or coding language. Familiarity with container technologies to include container orchestration and microservices. Working knowledge of software development. Experience in network analysis methodologies. Experience in drafting reports, documenting case details, and able to summarize findings and recommendations based on system analysis. Demonstrated strong written and verbal communication skills Experience with monitoring systems. Experience with automation software. (e.g., Drone, Puppet, Chef) Solid scripting skills. (e.g., shell scripts, Perl, Ruby, Python) Solid networking knowledge. (OSI network layers, TCP/IP) Minimum of 10 years of relevant experience. You are a huge fan of blockchain technology and cryptocurrencies. Security Certification: CEH, GIAC or equivalent pen testing cert. BS (or equivalent) in Cyber security, Information Security, IT, EE, Network Engineering, Computer Science, or related field.???????????? Why Join BitGo? Disrupting an industry takes vision, innovation, passion, technical chops, drive to deliver, collaboration, and execution. Join a team of great people who strive for excellence and personify our corporate values of ownership, craftsmanship, and open communication. We are looking for new colleagues who bring innovative ways of thinking and problem solving, and who want risks to be part of the team that changes the world\u2019s financial markets. Here are some of the benefits of working at BitGo: Competitive base salary, bonus and stock options 100% company paid????????????health insurance for employee, partner and dependents Up to 5% 401k company match Paid parental leave, Paid vacation Free commuter/parking pass; 5 min from Caltrain Free custom lunches, dinners and snacks???????????? Computer equipment and workplace furniture to suit your needs Great colleagues and inspiring startup environment Benefits may vary based on location.???????????? Cryptocurrencies are the most disruptive change the financial services industry has seen in years. Join us and you\u2019ll be able to look back and say you were part of the team that transformed investing. ", 
+    "CompanyName": "Sourceology", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "monster", 
+    "Hash": "947E87A95FA9736CC77988228EE595E2", 
+    "KeyTerms": "python, financial, chef, cryptocurrencies, microservices, ruby, cloud, puppet, scripting, cyber, disruptive, collaboration, devops, startup, linux, code review, protocols, azure", 
+    "Language": "English", 
+    "Location": "Palo Alto, California, United States", 
+    "OutLinks": [
+        "https://job-openings.monster.com/Sr.-Security-Engineer-Palo-Alto-CA-US-Sourceology/218356156", 
+        "https://job-openings.monster.com/sr-security-engineer-palo-alto-ca-us-sourceology/218356156", 
+        "https://job-openings.monster.com/v2/job/apply?jobId=218356156"
+    ], 
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=2&page=2", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=2&page=2", 
+    "Startup": "True", 
+    "TackIt": "true", 
+    "Title": "Sr. Security Engineer job at Sourceology | Monster.com", 
+    "Url": "https://job-openings.monster.com/sr-security-engineer-palo-alto-ca-us-sourceology/218356156"
+}

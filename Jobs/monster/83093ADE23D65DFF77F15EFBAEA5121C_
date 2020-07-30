@@ -1,0 +1,24 @@
+{
+    "Body": " Cloud Application Developer at Tailored Management, Inc. Wausau, WI 54401 ?? About the Job Our client is seeking a Cloud Developer to support Underwriting Strategy and Performance. An AWS infrastructure skillset is required; specifically, CFT deployments to EC2 instances. Developer should have experience with full stack web development with React. There will be two primary responsibilities: ?? Re-platform an existing web application from LM Internal Cloud to LM AWS Instance. These should be relatively straight forward for a developer of this skillset. Mentoring will be provided. ?? Own the maintenance and support of a Corda Blockchain environment that is deployed natively to AWS. A formal training session will be provided and a minimum of four weeks in Wausau, Wi is required. Preferably the individual would relocate to Wausau, WI Specific Responsibilities Include: ?? Re-platform existing web application deployed to the LM internal cloud (ICCU) to AWS u-sing LM's stack. One-time effort. ?? Own maintenance of a complex Corda blockchain infrastructure that is deployed via AWS, EC2, and CFTs which has a both external and internal presence. On-going effort. ?? Supplement web development teams by being able to take on web development tickets utilizing Java, React, Spring, and NodeJS. Required skills: ?? AWS infrastructure experience. Deploy applications to Amazon AWS using Cloud Formation Templates and EC2 instances. (JSON, YAML) ?? Full stack web development using Java, JavaScript, Spring Boot, React ?? Familiar with AWS resources such as SNS, SQS, Lambda, EC2, ELB, ECS, Fargate ?? Experience with scripting languages like Python and Unix Shell/Bash ?? Experience using CI/CD pipelines (GIT, Bamboo or Jenkins) ?? Strong oral and written communication skills; presentation skills ?? Strong collaboration, prioritization, and flexibility skills required Desired Skills: ?? Experience with NodeJS (Angular if no React experience) ?? Corda Blockchain and Distributed Ledger experience ?? Experience with security and identity best practices (OAUTH, JWT) Logistics: ?? Preferred: Wausau, WI (minimum of 4 weeks required) ?? Secondary: Dover, NH ", 
+    "CompanyName": "Tailored Management", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-06-07", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "monster", 
+    "Hash": "83093ADE23D65DFF77F15EFBAEA5121C", 
+    "KeyTerms": "python, corda, react, nodejs, dlt, javascript, cloud, scripting, angular, spring boot, java, git, collaboration, full stack, ci cd, json, aws", 
+    "Language": "English", 
+    "Location": "Wausau, Wisconsin, United States", 
+    "OutLinks": [
+        "https://job-openings.monster.com/Cloud-Application-Developer-Wausau-WI-US-Tailored-Management/2898f513-22a7-4cfc-be8c-47e60e8c1dcf", 
+        "https://job-openings.monster.com/cloud-application-developer-wausau-wi-us-tailored-management/2898f513-22a7-4cfc-be8c-47e60e8c1dcf"
+    ], 
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain%20scripting", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "corda", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain%20scripting", 
+    "TackIt": "true", 
+    "Title": "Cloud Application Developer job at Tailored Management | Monster.com", 
+    "Url": "https://job-openings.monster.com/cloud-application-developer-wausau-wi-us-tailored-management/2898f513-22a7-4cfc-be8c-47e60e8c1dcf"
+}

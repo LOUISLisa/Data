@@ -1,0 +1,25 @@
+{
+    "Body": " Systems Administrator at Dilanti Media Limited Willemstad 0000CW ?? About the Job Position & Compensation package Full-time System Administrator position for Dilanti Media in our Malta or Curacao office.??Relocation package available. Salary 35K to 45K USD depending on experience. Job Description You will be responsible for the setup, maintenance and optimization of our technical infrastructure. You will be the point of contact for our technical service providers and internally for all technical infrastructure matters. In a fun and stimulating environment you will be working together with experienced developers and other staff members that love automation and innovation. Duties & Responsibilities Ownership of all all things servers which translates into setup, maintain, secure and support/troubleshooting linux servers (Ubuntu & CentOs). Be the point of contact for our hosting partners and internally for all things servers. Install and administrate 3rd party software on servers. Manage domains and their DNS records. Setup, manage, secure inhouse nameservers. Continuous monitoring of servers, websites and services to facilitate 24/7-365 operation. Essential Skills Deep knowledge & highly experienced with Ubuntu, CentOS, LAMP and LEMP. Excellent bash scripting knowledge for linux. Experience with automation technologies to facilitate working smart when it comes to deployments, testing, backups and so on. Deep knowledge of apache/nginx/sql. Deep knowledge of cloud hosting and cloud computing. Experience with bitbucket, github, trello/jira/confluence. Experience with CMS installations for example WordPress. Experience with CDN (Content Delivery Networks). Experience with anonymous proxies such as SquidProxies. Experience with Docker. Experience with REDIS. Competencies Can do attitude. Problemsolver. Be able to work under pressure and without supervision. About Dilanti Media Dilanti Media was founded in January 2018 by industry veterans Johan Styren former CEO at LeoVegas & Valentin Alsen former head of SEO @ Catena Media. The company develop and operate affiliate marketing properties in several industries such as the online gambling, forex and crypto industry. Main office is located in Malta with subsidiary in Curacao (Dutch Caribbean) and employees and consultants in other oversees locations. What really differentiates Dilanti Media from our competitors is our innovative technology and data driven approach to online marketing. By developing a technical platform that automates mundane tasks, consolidate self gathered and 3rd party data into actionable tasks for our system and workforce or for informed business decisions we have been able to develop quality websites at scale. ", 
+    "CompanyName": "Dilanti Media Limited", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-05-13", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "monster", 
+    "Hash": "A5180FBD6DC9B21573EC996C9E37F1BB", 
+    "KeyTerms": "cloud, scripting, github, linux, gambling, cloud computing, full time, sql, jira, docker", 
+    "Language": "English", 
+    "Location": "Malta", 
+    "OutLinks": [
+        "https://job-openings.monster.com/Systems-Administrator-Willemstad-AN-Dilanti-Media-Limited/205662475", 
+        "https://job-openings.monster.com/systems-administrator-willemstad-an-dilanti-media-limited/205662475", 
+        "https://job-openings.monster.com/v2/job/apply?jobId=205662475"
+    ], 
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain%20crypto", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "crypto", 
+    "Salary": "35K to 45K", 
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain%20crypto", 
+    "TackIt": "true", 
+    "Title": "Systems Administrator job at Dilanti Media Limited | Monster.com", 
+    "Url": "https://job-openings.monster.com/systems-administrator-willemstad-an-dilanti-media-limited/205662475"
+}

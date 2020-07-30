@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10",
+    "OutLinks": [
+        "https://job-openings.monster.com/Security-Engineer-Seattle-WA-US-CyberCoders/218374365",
+        "https://job-openings.monster.com/security-engineer-seattle-wa-us-cybercoders/218374365",
+        "https://job-openings.monster.com/v2/job/apply?jobId=218374365"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.monster.com/jobs/search/?q=Blockchain&stpage=1&page=10",
+    "DocumentType": "JobBoards",
+    "Title": "Security Engineer job at CyberCoders | Monster.com",
+    "Hash": "C993F2798F8E6FCB9AD5EAEA77F11934",
+    "Url": "https://job-openings.monster.com/security-engineer-seattle-wa-us-cybercoders/218374365",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "monster",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Security Engineer at CyberCoders Seattle, WA 98101 Â  About the Job If you are a Security Engineer with experience, please read on! Based in Seattle, WA with other offices in the US and abroad, we innovate cybersecurity with products and services which focus on securing web, mobile and desktop applications, IoT services, embedded/firmware, and more. We are backed by expert security practitioners and researchers who ensure our solutions reflect the current security landscape. Software runs the world and we help you secure it. ***Relocation assistance for out-of-state candidates*** Top Reasons to Work with Us 1. We are a close-knit team of Security Experts working with top clients like Disney, pwc, and Microsoft. 2. Our company is well-grounded, financially stable, and puts a heavy emphasis on employee learning and career growth. 3. We take care of our employees with competitive compensation/benefits/perks/etc. What You Will Be Doing - Work closely with other application security engineers to perform reviews and tests on Web and Conventional applications as well as embedded, firmware, mobile and more - Develop tools to aid penetration test automation and effectiveness - Perform manual and automated techniques to assess risks and circumvent security mechanisms of devices and applications - Create threat models that result in more secure application design - Design and develop security testing scenarios - Technical documentation to report security recommendations, test plans, etc. - Review code for common security vulnerabilities - 10 - 20% travel to client sites to conduct in-person security reviews, training, and assessments What You Need for this Position 3+ years in security/tech role and experience with: - Web app penetration testing with Burp Suite, SQLMap, Metasploit, IDAPro, etc. - Programming in an object-oriented language (C/C++, Java, Python, .NET, etc.) - Knowledge of specific attack types and common security bug categories - Ability to perform Dynamic and/or Static Code Analysis Desired but not required: - BS in Computer Science or related - Experience developing automated Pen-testing tools - Debugging applications with complex security vulnerabilities - Training/knowledge in cryptography, blockchain, etc. What's In It for You - Competitive salary + Equity - ~90% covered medical/dental/vision premiums - 401k matching at 6% - Unlimited PTO Flexible work hours - Company sponsored learning development - we even encourage additional time off to pursue personal research projects - Free coffee, snacks, beverages, among other office treats So, if you are a Security Engineer with experience, please apply today! "
+}
