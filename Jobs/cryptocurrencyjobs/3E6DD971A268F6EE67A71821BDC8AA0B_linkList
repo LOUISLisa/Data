@@ -1,0 +1,29 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/",
+        "https://cryptocurrencyjobs.co/cdn-cgi/l/email-protection",
+        "https://cryptocurrencyjobs.co/job-collections/",
+        "https://cryptocurrencyjobs.co/newsletter/",
+        "https://cryptocurrencyjobs.co/opensearch.xml",
+        "https://cryptocurrencyjobs.co/partners/",
+        "https://cryptocurrencyjobs.co/post-a-job/",
+        "https://cryptocurrencyjobs.co/salaries/",
+        "https://cryptocurrencyjobs.co/startups/",
+        "https://cryptocurrencyjobs.co/startups/decrypt/",
+        "https://cryptocurrencyjobs.co/terms/"
+    ],
+    "LinkUrlMatch": "Jobs at",
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/research/",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "JobBoards",
+    "Title": "Jobs at Decrypt \u2013 Cryptocurrency Jobs",
+    "Hash": "3E6DD971A268F6EE67A71821BDC8AA0B",
+    "Url": "https://cryptocurrencyjobs.co/startups/decrypt/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cryptocurrencyjobs",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": " Decrypt The entrepreneurs guide to Web 3.0. Hiring at Decrypt? Post a job Open Positions Â© 2020 Cryptocurrency Jobs"
+}

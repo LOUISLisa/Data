@@ -1,0 +1,29 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/",
+        "https://cryptocurrencyjobs.co/cdn-cgi/l/email-protection",
+        "https://cryptocurrencyjobs.co/job-collections/",
+        "https://cryptocurrencyjobs.co/newsletter/",
+        "https://cryptocurrencyjobs.co/opensearch.xml",
+        "https://cryptocurrencyjobs.co/partners/",
+        "https://cryptocurrencyjobs.co/post-a-job/",
+        "https://cryptocurrencyjobs.co/salaries/",
+        "https://cryptocurrencyjobs.co/startups/",
+        "https://cryptocurrencyjobs.co/startups/infura/",
+        "https://cryptocurrencyjobs.co/terms/"
+    ],
+    "LinkUrlMatch": "Jobs at",
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/product-marketing/",
+    "RequiredMatch": "infura",
+    "DocumentType": "JobBoards",
+    "Title": "Jobs at Infura \u2013 Cryptocurrency Jobs",
+    "Hash": "7449983EA7FD633B29B6D2920D6D1DC0",
+    "Url": "https://cryptocurrencyjobs.co/startups/infura/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cryptocurrencyjobs",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": " Infura Building an infrastructure platform for the decentralized web. Hiring at Infura? Post a job Open Positions Â© 2020 Cryptocurrency Jobs"
+}

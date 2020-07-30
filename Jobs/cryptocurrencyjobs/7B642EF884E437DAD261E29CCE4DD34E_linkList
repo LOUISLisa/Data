@@ -1,0 +1,29 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/",
+        "https://cryptocurrencyjobs.co/cdn-cgi/l/email-protection",
+        "https://cryptocurrencyjobs.co/job-collections/",
+        "https://cryptocurrencyjobs.co/newsletter/",
+        "https://cryptocurrencyjobs.co/opensearch.xml",
+        "https://cryptocurrencyjobs.co/partners/",
+        "https://cryptocurrencyjobs.co/post-a-job/",
+        "https://cryptocurrencyjobs.co/salaries/",
+        "https://cryptocurrencyjobs.co/startups/",
+        "https://cryptocurrencyjobs.co/startups/altcoin-fantasy/",
+        "https://cryptocurrencyjobs.co/terms/"
+    ],
+    "LinkUrlMatch": "Jobs at",
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/startups/",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "JobBoards",
+    "Title": "Jobs at Altcoin Fantasy \u2013 Cryptocurrency Jobs",
+    "Hash": "7B642EF884E437DAD261E29CCE4DD34E",
+    "Url": "https://cryptocurrencyjobs.co/startups/altcoin-fantasy/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cryptocurrencyjobs",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": " Altcoin Fantasy Cryptocurrency trading simulator. Hiring at Altcoin Fantasy? Post a job Open Positions Â© 2020 Cryptocurrency Jobs"
+}

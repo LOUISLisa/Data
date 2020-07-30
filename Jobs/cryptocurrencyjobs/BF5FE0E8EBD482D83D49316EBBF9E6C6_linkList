@@ -1,0 +1,29 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/",
+        "https://cryptocurrencyjobs.co/cdn-cgi/l/email-protection",
+        "https://cryptocurrencyjobs.co/job-collections/",
+        "https://cryptocurrencyjobs.co/newsletter/",
+        "https://cryptocurrencyjobs.co/opensearch.xml",
+        "https://cryptocurrencyjobs.co/partners/",
+        "https://cryptocurrencyjobs.co/post-a-job/",
+        "https://cryptocurrencyjobs.co/salaries/",
+        "https://cryptocurrencyjobs.co/startups/",
+        "https://cryptocurrencyjobs.co/startups/breez/",
+        "https://cryptocurrencyjobs.co/terms/"
+    ],
+    "LinkUrlMatch": "Jobs at",
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/startups/",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "JobBoards",
+    "Title": "Jobs at Breez \u2013 Cryptocurrency Jobs",
+    "Hash": "BF5FE0E8EBD482D83D49316EBBF9E6C6",
+    "Url": "https://cryptocurrencyjobs.co/startups/breez/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cryptocurrencyjobs",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": " Breez A non-custodial Lightning client & hub that enables seamless bitcoin payments. Hiring at Breez? Post a job Open Positions Â© 2020 Cryptocurrency Jobs"
+}

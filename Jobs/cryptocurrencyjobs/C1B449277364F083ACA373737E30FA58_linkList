@@ -1,0 +1,29 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/",
+        "https://cryptocurrencyjobs.co/cdn-cgi/l/email-protection",
+        "https://cryptocurrencyjobs.co/job-collections/",
+        "https://cryptocurrencyjobs.co/newsletter/",
+        "https://cryptocurrencyjobs.co/opensearch.xml",
+        "https://cryptocurrencyjobs.co/partners/",
+        "https://cryptocurrencyjobs.co/post-a-job/",
+        "https://cryptocurrencyjobs.co/salaries/",
+        "https://cryptocurrencyjobs.co/startups/",
+        "https://cryptocurrencyjobs.co/startups/etcdev/",
+        "https://cryptocurrencyjobs.co/terms/"
+    ],
+    "LinkUrlMatch": "Jobs at",
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/golang/",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "JobBoards",
+    "Title": "Jobs at ETCDEV \u2013 Cryptocurrency Jobs",
+    "Hash": "C1B449277364F083ACA373737E30FA58",
+    "Url": "https://cryptocurrencyjobs.co/startups/etcdev/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cryptocurrencyjobs",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": " ETCDEV Ethereum classic development. Hiring at ETCDEV? Post a job Open Positions Â© 2020 Cryptocurrency Jobs"
+}

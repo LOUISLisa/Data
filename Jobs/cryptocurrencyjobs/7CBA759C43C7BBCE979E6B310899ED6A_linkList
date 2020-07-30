@@ -1,0 +1,29 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/",
+        "https://cryptocurrencyjobs.co/cdn-cgi/l/email-protection",
+        "https://cryptocurrencyjobs.co/job-collections/",
+        "https://cryptocurrencyjobs.co/newsletter/",
+        "https://cryptocurrencyjobs.co/opensearch.xml",
+        "https://cryptocurrencyjobs.co/partners/",
+        "https://cryptocurrencyjobs.co/post-a-job/",
+        "https://cryptocurrencyjobs.co/salaries/",
+        "https://cryptocurrencyjobs.co/startups/",
+        "https://cryptocurrencyjobs.co/startups/superblocks/",
+        "https://cryptocurrencyjobs.co/terms/"
+    ],
+    "LinkUrlMatch": "Jobs at",
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/startups/",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "JobBoards",
+    "Title": "Jobs at Superblocks \u2013 Cryptocurrency Jobs",
+    "Hash": "7CBA759C43C7BBCE979E6B310899ED6A",
+    "Url": "https://cryptocurrencyjobs.co/startups/superblocks/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cryptocurrencyjobs",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": " Superblocks Decentralization tools. Hiring at Superblocks? Post a job Open Positions Â© 2020 Cryptocurrency Jobs"
+}

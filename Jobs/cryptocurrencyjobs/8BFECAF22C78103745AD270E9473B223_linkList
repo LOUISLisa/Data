@@ -1,0 +1,29 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/",
+        "https://cryptocurrencyjobs.co/cdn-cgi/l/email-protection",
+        "https://cryptocurrencyjobs.co/job-collections/",
+        "https://cryptocurrencyjobs.co/newsletter/",
+        "https://cryptocurrencyjobs.co/opensearch.xml",
+        "https://cryptocurrencyjobs.co/partners/",
+        "https://cryptocurrencyjobs.co/post-a-job/",
+        "https://cryptocurrencyjobs.co/salaries/",
+        "https://cryptocurrencyjobs.co/startups/",
+        "https://cryptocurrencyjobs.co/startups/cabana-blockchain/",
+        "https://cryptocurrencyjobs.co/terms/"
+    ],
+    "LinkUrlMatch": "Jobs at",
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/jobs-that-pay-in-crypto/",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Jobs at Cabana Blockchain \u2013 Cryptocurrency Jobs",
+    "Hash": "8BFECAF22C78103745AD270E9473B223",
+    "Url": "https://cryptocurrencyjobs.co/startups/cabana-blockchain/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cryptocurrencyjobs",
+    "Language": "Slovenian",
+    "TackIt": "false",
+    "Body": " Cabana Blockchain Developing blockchain-enabled IoT devices for your smart home. Hiring at Cabana Blockchain? Post a job Open Positions Â© 2020 Cryptocurrency Jobs"
+}

@@ -1,0 +1,204 @@
+Total Index Files in Path: 2443
+Num Index Files Containing Key Terms: 2443
+
+cryptocurrency	2443	100.00
+full time	2158	88.33
+financial	801	32.79
+remote	698	28.57
+ethereum	520	21.29
+javascript	472	19.32
+bitcoin	431	17.64
+software engineer	372	15.23
+trading	330	13.51
+digital asset	258	10.56
+solidity	236	9.66
+smart contract	235	9.62
+front end	219	8.96
+business development	208	8.51
+decentralized	204	8.35
+full stack	200	8.19
+web-3	195	7.98
+back end	189	7.74
+react	188	7.70
+product manager	183	7.49
+defi	170	6.96
+devops	155	6.34
+nodejs	155	6.34
+compliance	139	5.69
+python	129	5.28
+aws	116	4.75
+blockchain developer	113	4.63
+linux	103	4.22
+cryptography	99	4.05
+java	99	4.05
+golang	94	3.85
+digital asset exchange	91	3.72
+typescript	85	3.48
+stellar	84	3.44
+docker	83	3.40
+truffle	77	3.15
+wallet	76	3.11
+kyc	71	2.91
+ui ux	71	2.91
+android	65	2.66
+parity	65	2.66
+banking	61	2.50
+anti money laundering	59	2.42
+kubernetes	58	2.37
+cryptocurrencies	57	2.33
+sql	52	2.13
+swift	48	1.96
+blockstack	46	1.88
+rust	44	1.80
+ruby	41	1.68
+marketplace	38	1.56
+dapps	37	1.51
+cloud	35	1.43
+cryptoassets	35	1.43
+hedge funds	34	1.39
+loans	34	1.39
+angular	32	1.31
+dlt	32	1.31
+protocols	31	1.27
+tendermint	31	1.27
+ico	30	1.23
+peer to peer	30	1.23
+asset management	27	1.11
+startup	24	0.98
+consensus	23	0.94
+graphql	23	0.94
+exchanges	21	0.86
+gaming	21	0.86
+scala	21	0.86
+tokenization	21	0.86
+cloud computing	18	0.74
+hyperledger	18	0.74
+ripple	18	0.74
+privacy	17	0.70
+collaboration	16	0.65
+distributed systems	16	0.65
+internet of things	16	0.65
+machine learning	16	0.65
+sales manager	16	0.65
+capital markets	15	0.61
+chaincode	15	0.61
+kotlin	15	0.61
+metamask	15	0.61
+algorithms	14	0.57
+blockchain research	14	0.57
+zcash	14	0.57
+agile	13	0.53
+django	13	0.53
+frameworks	13	0.53
+analytical	12	0.49
+staking	12	0.49
+github	11	0.45
+stable coin	11	0.45
+supply chain	11	0.45
+big data	10	0.41
+blockchain based	10	0.41
+crypto wallet	10	0.41
+cryptoasset	10	0.41
+advertising	9	0.37
+business intelligence	9	0.37
+data analytics	9	0.37
+infura	9	0.37
+real estate	9	0.37
+health care	8	0.33
+quality engineer	8	0.33
+voting	8	0.33
+css	7	0.29
+cyber	7	0.29
+fraud	7	0.29
+git	7	0.29
+laravel	7	0.29
+layer-2	7	0.29
+mainnet	7	0.29
+wireframes	7	0.29
+zero knowledge	7	0.29
+embedded	6	0.25
+proof of stake	6	0.25
+risk management	6	0.25
+validator	6	0.25
+code review	5	0.20
+continuous integration	5	0.20
+financial application	5	0.20
+lightning network	5	0.20
+prediction markets	5	0.20
+social impact	5	0.20
+web applications	5	0.20
+artificial intelligence	4	0.16
+automated testing	4	0.16
+blockchain architecture	4	0.16
+blockchain platforms	4	0.16
+ci cd	4	0.16
+data science	4	0.16
+digital asset platform	4	0.16
+distributed application	4	0.16
+hardware engineer	4	0.16
+litecoin	4	0.16
+mobile apps	4	0.16
+proof of location	4	0.16
+rpc	4	0.16
+tdd	4	0.16
+cross-chain	3	0.12
+emerging technologies	3	0.12
+html	3	0.12
+jira	3	0.12
+kafka	3	0.12
+microservices	3	0.12
+senior consultant	3	0.12
+social network	3	0.12
+unit test	3	0.12
+clarity	2	0.08
+consensus algorithms	2	0.08
+crowdfunding	2	0.08
+encryption	2	0.08
+functional program	2	0.08
+identity management	2	0.08
+interoperable	2	0.08
+json	2	0.08
+off-chain	2	0.08
+scripting	2	0.08
+scrum	2	0.08
+sdk	2	0.08
+testnet	2	0.08
+webpack	2	0.08
+acceptance test	1	0.04
+application development	1	0.04
+backbone	1	0.04
+blockchain interoperability	1	0.04
+containers	1	0.04
+cryptographic protocols	1	0.04
+decentralized systems	1	0.04
+design patterns	1	0.04
+disruptive	1	0.04
+encryption signatures	1	0.04
+fabric	1	0.04
+fraud detection	1	0.04
+ganache	1	0.04
+geth	1	0.04
+hash functions	1	0.04
+intellectual curiosity	1	0.04
+interoperability	1	0.04
+ipfs	1	0.04
+jquery	1	0.04
+kanban	1	0.04
+middleware	1	0.04
+object oriented	1	0.04
+object oriented design	1	0.04
+pgp	1	0.04
+postgres	1	0.04
+proof of concepts	1	0.04
+proof of reward	1	0.04
+proof of staking	1	0.04
+proof of work	1	0.04
+sass	1	0.04
+spark	1	0.04
+spring boot	1	0.04
+terraform	1	0.04
+test automation	1	0.04
+utility token	1	0.04
+visualization	1	0.04
+web-2	1	0.04
+websocket	1	0.04

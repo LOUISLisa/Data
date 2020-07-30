@@ -1,0 +1,29 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/",
+        "https://cryptocurrencyjobs.co/cdn-cgi/l/email-protection",
+        "https://cryptocurrencyjobs.co/job-collections/",
+        "https://cryptocurrencyjobs.co/newsletter/",
+        "https://cryptocurrencyjobs.co/opensearch.xml",
+        "https://cryptocurrencyjobs.co/partners/",
+        "https://cryptocurrencyjobs.co/post-a-job/",
+        "https://cryptocurrencyjobs.co/salaries/",
+        "https://cryptocurrencyjobs.co/startups/",
+        "https://cryptocurrencyjobs.co/startups/bull-bitcoin/",
+        "https://cryptocurrencyjobs.co/terms/"
+    ],
+    "LinkUrlMatch": "Jobs at",
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/devops/",
+    "RequiredMatch": "bitcoin",
+    "DocumentType": "JobBoards",
+    "Title": "Jobs at Bull Bitcoin \u2013 Cryptocurrency Jobs",
+    "Hash": "2BE96BD05516901D911FE754B5F0D3E7",
+    "Url": "https://cryptocurrencyjobs.co/startups/bull-bitcoin/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cryptocurrencyjobs",
+    "Language": "Slovenian",
+    "TackIt": "false",
+    "Body": " Bull Bitcoin Canada's Bitcoin company - building the Bitcoin standar. Hiring at Bull Bitcoin? Post a job Open Positions Â© 2020 Cryptocurrency Jobs"
+}

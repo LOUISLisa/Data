@@ -1,0 +1,29 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/",
+        "https://cryptocurrencyjobs.co/cdn-cgi/l/email-protection",
+        "https://cryptocurrencyjobs.co/job-collections/",
+        "https://cryptocurrencyjobs.co/newsletter/",
+        "https://cryptocurrencyjobs.co/opensearch.xml",
+        "https://cryptocurrencyjobs.co/partners/",
+        "https://cryptocurrencyjobs.co/post-a-job/",
+        "https://cryptocurrencyjobs.co/salaries/",
+        "https://cryptocurrencyjobs.co/startups/",
+        "https://cryptocurrencyjobs.co/startups/chain-code-labs/",
+        "https://cryptocurrencyjobs.co/terms/"
+    ],
+    "LinkUrlMatch": "Jobs at",
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/startups/",
+    "RequiredMatch": "chaincode",
+    "DocumentType": "JobBoards",
+    "Title": "Jobs at Chaincode Labs \u2013 Cryptocurrency Jobs",
+    "Hash": "D870E4D84EB314132F06DC0E0A474105",
+    "Url": "https://cryptocurrencyjobs.co/startups/chain-code-labs/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cryptocurrencyjobs",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": " Chaincode Labs Research and development group that explores cryptocurrencies. Hiring at Chaincode Labs? Post a job Open Positions Â© 2020 Cryptocurrency Jobs"
+}

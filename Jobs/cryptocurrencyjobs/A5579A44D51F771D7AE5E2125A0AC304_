@@ -1,0 +1,27 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/",
+        "https://cryptocurrencyjobs.co/cdn-cgi/l/email-protection",
+        "https://cryptocurrencyjobs.co/job-collections/",
+        "https://cryptocurrencyjobs.co/newsletter/",
+        "https://cryptocurrencyjobs.co/opensearch.xml",
+        "https://cryptocurrencyjobs.co/partners/",
+        "https://cryptocurrencyjobs.co/post-a-job/",
+        "https://cryptocurrencyjobs.co/salaries/",
+        "https://cryptocurrencyjobs.co/startups/",
+        "https://cryptocurrencyjobs.co/terms/"
+    ],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/salaries/",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "JobBoards",
+    "Title": "Share your Salary \u2013 Cryptocurrency Jobs",
+    "Hash": "A5579A44D51F771D7AE5E2125A0AC304",
+    "Url": "https://cryptocurrencyjobs.co/salaries/share-your-salary/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cryptocurrencyjobs",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": " Share your salary Share your salary anonymously to bring transparency into the blockchain industry and help create pay equity in the workplace. Â© 2020 Cryptocurrency Jobs"
+}

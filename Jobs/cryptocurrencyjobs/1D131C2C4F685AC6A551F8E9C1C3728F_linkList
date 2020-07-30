@@ -1,0 +1,29 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/",
+        "https://cryptocurrencyjobs.co/cdn-cgi/l/email-protection",
+        "https://cryptocurrencyjobs.co/job-collections/",
+        "https://cryptocurrencyjobs.co/newsletter/",
+        "https://cryptocurrencyjobs.co/opensearch.xml",
+        "https://cryptocurrencyjobs.co/partners/",
+        "https://cryptocurrencyjobs.co/post-a-job/",
+        "https://cryptocurrencyjobs.co/salaries/",
+        "https://cryptocurrencyjobs.co/startups/",
+        "https://cryptocurrencyjobs.co/startups/a16z-crypto/",
+        "https://cryptocurrencyjobs.co/terms/"
+    ],
+    "LinkUrlMatch": "Jobs at",
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/research/",
+    "RequiredMatch": "crypto",
+    "DocumentType": "JobBoards",
+    "Title": "Jobs at a16z crypto \u2013 Cryptocurrency Jobs",
+    "Hash": "1D131C2C4F685AC6A551F8E9C1C3728F",
+    "Url": "https://cryptocurrencyjobs.co/startups/a16z-crypto/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cryptocurrencyjobs",
+    "Language": "Slovak",
+    "TackIt": "false",
+    "Body": " a16z crypto A venture fund that invests in crypto companies and protocols. Hiring at a16z crypto? Post a job Open Positions Â© 2020 Cryptocurrency Jobs"
+}

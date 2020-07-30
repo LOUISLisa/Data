@@ -1,0 +1,29 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/",
+        "https://cryptocurrencyjobs.co/cdn-cgi/l/email-protection",
+        "https://cryptocurrencyjobs.co/job-collections/",
+        "https://cryptocurrencyjobs.co/newsletter/",
+        "https://cryptocurrencyjobs.co/opensearch.xml",
+        "https://cryptocurrencyjobs.co/partners/",
+        "https://cryptocurrencyjobs.co/post-a-job/",
+        "https://cryptocurrencyjobs.co/salaries/",
+        "https://cryptocurrencyjobs.co/startups/",
+        "https://cryptocurrencyjobs.co/startups/blockchain-for-social-impact-coalition/",
+        "https://cryptocurrencyjobs.co/terms/"
+    ],
+    "LinkUrlMatch": "Jobs at",
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/startups/",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Jobs at Blockchain for Social Impact Coalition \u2013 Cryptocurrency Jobs",
+    "Hash": "EFED185E67F26C8183B441AE396CEEF2",
+    "Url": "https://cryptocurrencyjobs.co/startups/blockchain-for-social-impact-coalition/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cryptocurrencyjobs",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": " Blockchain for Social Impact Coalition Leveraging the Ethereum blockchain for social impact. Hiring at Blockchain for Social Impact Coalition? Post a job Open Positions Â© 2020 Cryptocurrency Jobs"
+}
