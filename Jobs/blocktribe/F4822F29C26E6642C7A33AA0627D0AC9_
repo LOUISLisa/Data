@@ -1,0 +1,22 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/job/11880/technical-consultant/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?state=Remote",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Technical Consultant | Blocktribe",
+    "Hash": "F4822F29C26E6642C7A33AA0627D0AC9",
+    "Url": "https://blocktribe.com/job/11880/technical-consultant/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Founded in 2015, Input Output HK is one of the world's pre-eminent blockchain research and engineering companies. Committed to the highest principles of academic rigor and evidence-based software development, the company builds high-assurance blockchain solutions for public, private sector and government clients. It is also the driving force behind the decentralised cryptocurrency and smart contract platform, Cardano. IOHK is a truly global organization with a remote team of about 200 people across more than 40 countries. IOHK is searching for a Technical Consultant to join our fantastic Professional Services team, working across various different projects. You will begin your journey with us by understanding our products in order to advise upon, build and troubleshoot solutions with the team. You will be someone who enjoys and thrives in a customer facing role in order to grow our commercial reach. We are looking for you to bring your creativity, eagerness to learn and excellent problem solving skills to the organisation. Location IOHK is a fully distributed organization and therefore this is a remote position. Due to team distribution we are ideally looking for someone in a US time zone for this role. Your mission You will work closely with our Product Managers in order to understand our products capabilities and components Responsible for maintaining the use case applicability database for the product. You will prepare and lead workshops, calls, ideation retreats, and any other customer or partner interaction that is necessary to define the requirements for an opportunity. Document project risks, technology applicability, product alignment, technical components, and (overall) making sure the necessary data is ready for the GO/NO GO decision. Be able to describe an opportunity in terms of the company's product components. Analyze customer problems, gather requirements and transform them into an actionable statement of work. Your expertise Higher degree in computer science, engineering, mathematics, logic, physics, or a related subject (Bachelor or Above) Coding experience in functional programming languages, with required on-the-job experience of three years or more. Minimum of 5 years experience gathering requirements, designing and architecting solutions. Experience in distributed systems and network would be beneficial Experience working in an Agile setup would be good (Scrum, Kanban) Pay Rate Competitive monthly fee depending on experience - come and talk to us Email me jobs like this About IOHK Founded in 2015, Input Output HK is one of the world's pre-eminent blockchain research & engineering companies. Committed to the highest principles of academic rigour and evidence-based software development, the company builds high-assurance blockchain solutions for public, private sector and governmental clients. It is also the the driving force behind the decentralised cryptocurrency and smart contract platform, Cardano. IOHK is a truly global organization with a remote team of people across more than 40 countries. "
+}

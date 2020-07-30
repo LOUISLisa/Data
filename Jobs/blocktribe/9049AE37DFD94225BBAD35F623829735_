@@ -1,0 +1,22 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/job/11879/data-engineer/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?state=Remote",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Data Engineer | Blocktribe",
+    "Hash": "9049AE37DFD94225BBAD35F623829735",
+    "Url": "https://blocktribe.com/job/11879/data-engineer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Founded in 2015, Input Output HK is one of the world's pre-eminent blockchain research and engineering companies. Committed to the highest principles of academic rigor and evidence-based software development, the company builds high-assurance blockchain solutions for public, private sector and government clients. It is also the driving force behind the decentralised cryptocurrency and smart contract platform, Cardano. IOHK is a truly global organization with a remote team of about 200 people across more than 40 countries. We are searching for an experienced Data Engineer to join our newly formed Data Analytics team here at IOHK. You will be working within our Commercial function alongside a fantastic and dedicated team. Your main responsibilities will be for the design, health, and performance of IOHK's key data pipelines. Location IOHK is a fully distributed organization and therefore this is a remote position. Due to team distribution we are ideally looking for someone within US or EU timezones. Your mission Recommend and where appropriate implement ways to improve data reliability, efficiency, and quality. Lead architecture design and implementation of next generation BI solutions for decision making and product management. Build robust and scalable data integration (ETL) pipelines using mainly AWS technologies. Build and deliver high quality data architecture to support business analysis, data scientists, customer solutions and customer reporting needs. Interface with other technology teams to extract, transform, and load data from a wide variety of data sources. Continually improve ongoing reporting and analysis processes, automating or simplifying self-service support for customers. Your expertise Bachelor's degree or higher in a quantitative/technical field (e.g. Computer Science, Statistics, Engineering). 5+ years of relevant experience in data engineering, database engineering, business intelligence or business analytics. Experience with AWS services, Big Data Technologies and delivering end-to-end projects independently. Knowledge of distributed systems as it pertains to data storage and computing Pay Rate Competitive monthly fee depending on experience - come and talk to us Email me jobs like this About IOHK Founded in 2015, Input Output HK is one of the world's pre-eminent blockchain research & engineering companies. Committed to the highest principles of academic rigour and evidence-based software development, the company builds high-assurance blockchain solutions for public, private sector and governmental clients. It is also the the driving force behind the decentralised cryptocurrency and smart contract platform, Cardano. IOHK is a truly global organization with a remote team of people across more than 40 countries. "
+}

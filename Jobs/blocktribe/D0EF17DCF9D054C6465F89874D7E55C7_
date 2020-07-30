@@ -1,0 +1,22 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/13728/software-engineer-cryptographer/",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Software Engineer - Cryptographer | Blocktribe",
+    "Hash": "D0EF17DCF9D054C6465F89874D7E55C7",
+    "Url": "https://blocktribe.com/job/13728/software-engineer-cryptographer/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Founded in 2015, Input Output HK is one of the world's pre-eminent blockchain research and engineering companies. Committed to the highest principles of academic rigor and evidence-based software development, the company builds high-assurance blockchain solutions for public, private sector and government clients. It is also the driving force behind the decentralised cryptocurrency and smart contract platform, Cardano. IOHK is a truly global organization with a remote team of about 200 people across more than 40 countries. We are searching for a talented, specialized Cryptographic Engineer to join our growing in-house cryptography team. You will work closely with the team leader, and directly with research, engineering and product management teams on our cryptographic projects. In this role you will be responsible for cryptographic implementations and their use. Location IOHK is a fully distributed organization and therefore this is a remote position. Your mission Read and review cryptographic research papers and implement them as prototypes. Improve implementations of common cryptographic primitives and/or interface or translate them to other programming languages. Transform prototypes into production-level projects. Interact and coordinate with research, engineering and product management teams. Your expertise A relevant degree such as computer science, software engineering, mathematics or a related technical discipline. A solid understanding of cryptography, its basic theories and uses. Understand and follow best engineering processes and practices. Demonstrate a working knowledge of a functional programming language (preferably Haskell), and system languages (preferably Rust or C). Ability to translate specifications (eg, cryptography research papers and RFCs) into working code. If this sounds like the type of exciting new challenge you are looking for, we'd love to hear from you. Pay Rate Competitive monthly fee depending on experience - come and talk to us Email me jobs like this About IOHK Founded in 2015, Input Output HK is one of the world's pre-eminent blockchain research & engineering companies. Committed to the highest principles of academic rigour and evidence-based software development, the company builds high-assurance blockchain solutions for public, private sector and governmental clients. It is also the the driving force behind the decentralised cryptocurrency and smart contract platform, Cardano. IOHK is a truly global organization with a remote team of people across more than 40 countries. "
+}

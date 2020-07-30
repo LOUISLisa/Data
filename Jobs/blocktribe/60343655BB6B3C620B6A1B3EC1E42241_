@@ -1,0 +1,22 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/?job_type[]=Permanent",
+    "OutLinks": [
+        "https://blocktribe.com/jobs/",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/job/11878/solution-architect/",
+        "https://blocktribe.com/blockchain-developer-career"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?state=Remote",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Solution Architect | Blocktribe",
+    "Hash": "60343655BB6B3C620B6A1B3EC1E42241",
+    "Url": "https://blocktribe.com/job/11878/solution-architect/",
+    "CrawledDate": "2020-04-30",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Founded in 2015, Input Output HK is one of the world's pre-eminent blockchain research and engineering companies. Committed to the highest principles of academic rigor and evidence-based software development, the company builds high-assurance blockchain solutions for public, private sector and government clients. It is also the driving force behind the decentralised cryptocurrency and smart contract platform, Cardano. IOHK is a truly global organization with a remote team of about 200 people across more than 40 countries. We are searching for an experienced innovative Solution Architect to develop and implement systems architecture that will meet our customer's needs. You will support Technical Consultants and Project Managers in gathering technical requirements and functional specifications from clients. You will assess the latest technologies, blockchain research and internal products in order to identify areas in need of improvement, oversee development teams. We specifically want someone who has customer facing experience, and can seamlessly gather and analyze customer requirements and transform them into an actionable architecture that will later be implemented by the Professional Services Group's development teams. . Location IOHK is a fully distributed organization and therefore this is a remote position. Due to team distribution we are ideally searching for someone within US or EU time zones. Your mission You will work within IOHK's PSG organization to help our clients successfully solve business problems by designing and implementing the latest technologies in the blockchain space. You are talented at explaining complex topics clearly and concisely, and effective at providing technical guidance. You enjoy being challenged. You have strong facilitation skills, to encourage clear articulation of the business issues and effective solution design by the relevant players. You excel at critical thinking, analysis, troubleshooting, and problem solving expertise. You have experience managing customer's expectations and interface directly with external clients. Your expertise Good knowledge of data systems, security, data structures and networking protocols. Experience leading technically software development teams. Strong written and verbal communication skills with proven ability to initiate and manage relationships with customers at all levels Intrinsically curious and passionate about researching current and emerging technologies and developing innovative solutions Business/Customer oriented with a collaborative mindset Pay Rate Competitive monthly fee depending on experience - come and talk to us Email me jobs like this About IOHK Founded in 2015, Input Output HK is one of the world's pre-eminent blockchain research & engineering companies. Committed to the highest principles of academic rigour and evidence-based software development, the company builds high-assurance blockchain solutions for public, private sector and governmental clients. It is also the the driving force behind the decentralised cryptocurrency and smart contract platform, Cardano. IOHK is a truly global organization with a remote team of people across more than 40 countries. "
+}

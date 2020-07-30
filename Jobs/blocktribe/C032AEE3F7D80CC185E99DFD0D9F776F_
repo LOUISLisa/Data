@@ -1,0 +1,22 @@
+{
+    "SeedUrl": "https://blocktribe.com/jobs/",
+    "OutLinks": [
+        "https://blocktribe.com/add-listing/?listing_type_id=Job",
+        "https://blocktribe.com/blockchain-developer-career",
+        "https://blocktribe.com/faqjobseekers",
+        "https://blocktribe.com/job/13723/software-engineer-haskell/",
+        "https://blocktribe.com/jobs/"
+    ],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://blocktribe.com/jobs/?categories%5B%5D=Developer%2FEngineer%20%7C%20Blockchain%20",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Software Engineer Haskell | Blocktribe",
+    "Hash": "C032AEE3F7D80CC185E99DFD0D9F776F",
+    "Url": "https://blocktribe.com/job/13723/software-engineer-haskell/",
+    "CrawledDate": "2020-06-22",
+    "DomainId": "blocktribe",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Founded in 2015, Input Output HK is one of the world's pre-eminent blockchain research and engineering companies. Committed to the highest principles of academic rigor and evidence-based software development, the company builds high-assurance blockchain solutions for public, private sector and government clients. It is also the driving force behind the decentralised cryptocurrency and smart contract platform, Cardano. IOHK is a truly global organization with a remote team of about 200 people across more than 40 countries. We are searching for a number of Software Engineers with experience in Haskell to join our rapidly expanding Engineering function. We are looking to fill positions for several teams, each of which has its own specialty. If you have experience in networking or distributed systems, consensus protocols or cryptography, performance analysis, or a background in a quantitative science, you can expect to put those skills to good use. You will be working on one of our most exciting projects - Cardano - and taking responsibility for writing high-quality code for our products. As a Software Engineer at IOHK you will have the exciting challenge of working on cutting-edge research and technology with a focus on the market's needs. This role will suit someone who is passionate about their work and changing people's lives, very self-motivated and proactive with outstanding problem-solving and interpersonal skills. Location IOHK is a fully distributed organization and therefore this is a remote position. Team distribution for this role means we are ideally searching for someone in European or US time zones. Your mission Write Haskell programs following our formal specifications (you would have help learning to read these). Add features, such as support for smart contracts and decentralized voting. Write QuickCheck properties and tests. Your expertise Haskell. Property-based testing experience is desirable but not essential. Nix (not necessary, but would be helpful). We are looking to fill positions for several teams, each of which has its own specialty. Relevant experience includes networking or distributed systems, consensus protocols or cryptography, performance analysis, and quantitative science. Email me jobs like this About IOHK Founded in 2015, Input Output HK is one of the world's pre-eminent blockchain research & engineering companies. Committed to the highest principles of academic rigour and evidence-based software development, the company builds high-assurance blockchain solutions for public, private sector and governmental clients. It is also the the driving force behind the decentralised cryptocurrency and smart contract platform, Cardano. IOHK is a truly global organization with a remote team of people across more than 40 countries. "
+}
