@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://enstinemuki.com/cryptocurrency-jobs-bitcoin-and-blockchain/",
+        "https://www.google.com/url?q=https%3A%2F%2Fenstinemuki.com%2Fcryptocurrency-jobs-bitcoin-and-blockchain%2F&sa=U&ved=2ahUKEwiq-MO-kZ7qAhW-Ap0JHZpHAd84FBCqhQEwA3oECA8QAQ&usg=AOvVaw3-e82sXCUlaEw5vjJVXbTU"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=bitcoin%2Bblockchain%2Bjobs&ie=UTF-8&tbm=isch&ei=ICv1Xs3aGNe5tAbtmZfYDw&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E736DF70C92388A31AFCB28FDF34F854",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fenstinemuki.com%2Fcryptocurrency-jobs-bitcoin-and-blockchain%2F&sa=U&ved=2ahUKEwiq-MO-kZ7qAhW-Ap0JHZpHAd84FBCqhQEwA3oECA8QAQ&usg=AOvVaw3-e82sXCUlaEw5vjJVXbTU",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://enstinemuki.com/cryptocurrency-jobs-bitcoin-and-blockchain/. Â If you do not want to visit that page, you can return to the previous page."
+}

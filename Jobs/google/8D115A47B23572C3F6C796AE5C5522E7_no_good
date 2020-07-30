@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asensitrust&sa=X&ved=0ahUKEwjg68W4jJ7qAhUHQ80KHeDBAqUQ4lYIEigH",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&sa=X&ved=0ahUKEwjLp53zmJ7qAhWDPM0KHYsUDG8Q_AUIBCgA",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=nws&source=lnms&tbs=qdr%3Ad&sa=X&ved=0ahUKEwjLp53zmJ7qAhWDPM0KHYsUDG8Q_AUIBSgB",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=vid&source=lnms&tbs=qdr%3Ad&sa=X&ved=0ahUKEwjLp53zmJ7qAhWDPM0KHYsUDG8Q_AUIBygD"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Ad&sa=X&ved=0ahUKEwiDkNaphZ7qAhVtJDQIHewPCogQ_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "blockchain+jobs - Google Search",
+    "Hash": "8D115A47B23572C3F6C796AE5C5522E7",
+    "Url": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asensitrust&sa=X&ved=0ahUKEwjg68W4jJ7qAhUHQ80KHeDBAqUQ4lYIEigH",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "Romanian",
+    "TackIt": "false",
+    "Body": "ALL NEWS IMAGES VIDEOS Interview with... medium.com Interview with... medium.com The Best Affiliate Program... youtube.com The Best Affiliate Program... youtube.com ê°ììì° - ë¹í¸ìì´ë:ë¸ë¡ì²´ì¸ ë´ì¤ë¯¸ëì´ bitwide.co.kr NextÂ > Sign in Settings Privacy Terms"
+}

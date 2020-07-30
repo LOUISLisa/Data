@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://101blockchains.com/career-in-blockchain/",
+        "https://www.google.com/url?q=https%3A%2F%2F101blockchains.com%2Fcareer-in-blockchain%2F&sa=U&ved=2ahUKEwi-wb7xkZ7qAhXQLc0KHYIyCeAQr4kDMAZ6BAgOEAI&usg=AOvVaw2iLF2llh_mXhTsZIiyVQ_e"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology%2Conline_chips%3Ablockchain%2Bdeveloper&sa=X&ved=0ahUKEwi9vuXih57qAhWyds0KHamHB10Q4lYIECgE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "0B5F2004ED84CF36E98C80D295247039",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2F101blockchains.com%2Fcareer-in-blockchain%2F&sa=U&ved=2ahUKEwi-wb7xkZ7qAhXQLc0KHYIyCeAQr4kDMAZ6BAgOEAI&usg=AOvVaw2iLF2llh_mXhTsZIiyVQ_e",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://101blockchains.com/career-in-blockchain/. Â If you do not want to visit that page, you can return to the previous page."
+}

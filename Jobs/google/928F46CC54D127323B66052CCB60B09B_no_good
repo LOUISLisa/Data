@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fyourstory.com%2F2018%2F04%2Fbengaluru-blockchain-jobs%2F&sa=U&ved=2ahUKEwjIkv_-jp7qAhXXUs0KHaVcAwc4FBCqhQEwDHoECAkQAQ&usg=AOvVaw1gQQLFBVyR6EjAwrXgIZwC",
+        "https://yourstory.com/2018/04/bengaluru-blockchain-jobs/"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbs=qdr%3Am&tbm=isch&ei=9yj1Xq3KLYbdtQbZraLYDw&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "928F46CC54D127323B66052CCB60B09B",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fyourstory.com%2F2018%2F04%2Fbengaluru-blockchain-jobs%2F&sa=U&ved=2ahUKEwjIkv_-jp7qAhXXUs0KHaVcAwc4FBCqhQEwDHoECAkQAQ&usg=AOvVaw1gQQLFBVyR6EjAwrXgIZwC",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://yourstory.com/2018/04/bengaluru-blockchain-jobs/. Â If you do not want to visit that page, you can return to the previous page."
+}

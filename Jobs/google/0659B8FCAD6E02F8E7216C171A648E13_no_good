@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://jooble.org/jobs-remote-blockchain",
+        "https://www.google.com/url?q=https%3A%2F%2Fjooble.org%2Fjobs-remote-blockchain&sa=U&ved=2ahUKEwjg6eubhZ7qAhV2FzQIHevNDZU4ChAWMAl6BAgDEAE&usg=AOvVaw3klYdnV5eOmXN5FROhutQz"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&ei=kSj1Xoz6GsXR-Qa8mY24BA&start=10&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "0659B8FCAD6E02F8E7216C171A648E13",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fjooble.org%2Fjobs-remote-blockchain&sa=U&ved=2ahUKEwjg6eubhZ7qAhV2FzQIHevNDZU4ChAWMAl6BAgDEAE&usg=AOvVaw3klYdnV5eOmXN5FROhutQz",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://jooble.org/jobs-remote-blockchain. Â If you do not want to visit that page, you can return to the previous page."
+}

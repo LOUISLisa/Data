@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://crypto.jobs/jobs/research-engineer-at-conflux",
+        "https://www.google.com/url?q=https%3A%2F%2Fcrypto.jobs%2Fjobs%2Fresearch-engineer-at-conflux&sa=U&ved=2ahUKEwj0itKOkZ7qAhWBHc0KHa0mBGU4FBCqhQEwB3oECA0QAQ&usg=AOvVaw01AclkCQ5bKwc8a9Bxv4fB"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bresearch%2Bjobs&ie=UTF-8&tbm=isch&ei=uSr1XqnWF427tQad0r3gAw&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "D7529E7E8CD432F0AF15970245836948",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcrypto.jobs%2Fjobs%2Fresearch-engineer-at-conflux&sa=U&ved=2ahUKEwj0itKOkZ7qAhWBHc0KHa0mBGU4FBCqhQEwB3oECA0QAQ&usg=AOvVaw01AclkCQ5bKwc8a9Bxv4fB",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://crypto.jobs/jobs/research-engineer-at-conflux. Â If you do not want to visit that page, you can return to the previous page."
+}

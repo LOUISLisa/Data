@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://powertofly.com/career/videos/",
+        "https://www.google.com/url?q=https%3A%2F%2Fpowertofly.com%2Fcareer%2Fvideos%2F&sa=U&ved=2ahUKEwjkvKbSjJ7qAhXJHM0KHXHSAwoQqoUBMAB6BAgEEAE&usg=AOvVaw30JqSgmVCIovlSunq4Epc8"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjob%2Bfair&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Aw&sa=X&ved=0ahUKEwienNCqhZ7qAhX9CTQIHYk2CaQQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "A738A8B942078ADD5B9317E75B6FC30C",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fpowertofly.com%2Fcareer%2Fvideos%2F&sa=U&ved=2ahUKEwjkvKbSjJ7qAhXJHM0KHXHSAwoQqoUBMAB6BAgEEAE&usg=AOvVaw30JqSgmVCIovlSunq4Epc8",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://powertofly.com/career/videos/. Â If you do not want to visit that page, you can return to the previous page."
+}

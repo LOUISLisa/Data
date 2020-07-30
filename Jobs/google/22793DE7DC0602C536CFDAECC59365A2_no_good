@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Amiguel%2Bleal&sa=X&ved=0ahUKEwi3jcuaiJ7qAhWWW80KHaaRACsQ4lYICygA",
+    "DocumentType": "JobBoards",
+    "Title": "Google",
+    "Hash": "22793DE7DC0602C536CFDAECC59365A2",
+    "Url": "https://www.google.com/?sa=X&output=images&ie=UTF-8&tbs=qdr%3Ad&tbm=isch&ved=0ahUKEwijobjgk57qAhXTZc0KHXdJB9QQPAgC",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": "Search Images Maps Play YouTube News Gmail Drive More Â» Web History | Settings | Sign in Â  Advanced search AdvertisingÂ ProgramsBusiness SolutionsAbout Google Â© 2020 - Privacy - Terms"
+}

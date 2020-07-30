@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/url?q=https%3A%2F%2Fblockonomi.com%2Findeed-report-demand-for-blockchain-employment%2F&sa=U&ved=2ahUKEwjck87Bkp7qAhULWs0KHd05AXY4FBCqhQEwEHoECAYQAQ&usg=AOvVaw2BA-hvIH9_dcCscsf8CRex"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=isch&ei=YSv1XqjfGNbWtQb15JSABA&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "353E07AE4531197CA858C7B41327A79E",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fblockonomi.com%2Findeed-report-demand-for-blockchain-employment%2F&sa=U&ved=2ahUKEwjck87Bkp7qAhULWs0KHd05AXY4FBCqhQEwEHoECAYQAQ&usg=AOvVaw2BA-hvIH9_dcCscsf8CRex",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://blockonomi.com/indeed-report-demand-for-blockchain-employment/. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/url?q=https%3A%2F%2Fsteemit.com%2Fcryptocurrency%2F%40sarmaku%2Fhow-to-get-a-job-in-crypto-3-ways&sa=U&ved=2ahUKEwjZ76bUj57qAhVCGM0KHV8iDDI4FBCviQMwBXoECBMQAg&usg=AOvVaw09145BRAU3RKmQSGYoinEI"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=google%2Bblockchain%2Bjobs&ie=UTF-8&tbm=isch&ei=kyn1XvznB9O7tAaAmKKYBw&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "DEE95F738E47F05F8C61F4C0D9378417",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fsteemit.com%2Fcryptocurrency%2F%40sarmaku%2Fhow-to-get-a-job-in-crypto-3-ways&sa=U&ved=2ahUKEwjZ76bUj57qAhVCGM0KHV8iDDI4FBCviQMwBXoECBMQAg&usg=AOvVaw09145BRAU3RKmQSGYoinEI",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://steemit.com/cryptocurrency/@sarmaku/how-to-get-a-job-in-crypto-3-ways. Â If you do not want to visit that page, you can return to the previous page."
+}

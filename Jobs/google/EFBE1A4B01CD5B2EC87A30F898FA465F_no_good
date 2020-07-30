@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://crypto.jobs/",
+        "https://www.google.com/url?q=https%3A%2F%2Fcrypto.jobs%2F&sa=U&ved=2ahUKEwj02LClhZ7qAhUpHjQIHduuDN8QFjAPegQIBRAB&usg=AOvVaw0DghPm1xqmRt52P9KsMchL"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&q=cryptocurrency%2Bjobs",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "EFBE1A4B01CD5B2EC87A30F898FA465F",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcrypto.jobs%2F&sa=U&ved=2ahUKEwj02LClhZ7qAhUpHjQIHduuDN8QFjAPegQIBRAB&usg=AOvVaw0DghPm1xqmRt52P9KsMchL",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://crypto.jobs/. Â If you do not want to visit that page, you can return to the previous page."
+}

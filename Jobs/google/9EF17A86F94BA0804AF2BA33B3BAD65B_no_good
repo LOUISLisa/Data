@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.icocalendar.today%2Fblockchain-jobs-board&sa=U&ved=2ahUKEwjYrajWjp7qAhVRUs0KHT33AMMQqoUBMAN6BAgSEAE&usg=AOvVaw3PgnoPS2yqgWJT4kqWUi7D",
+        "https://www.icocalendar.today/blockchain-jobs-board"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Am&sa=X&ved=0ahUKEwj8w4m2hZ7qAhWvGTQIHdcZA3YQ_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "9EF17A86F94BA0804AF2BA33B3BAD65B",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.icocalendar.today%2Fblockchain-jobs-board&sa=U&ved=2ahUKEwjYrajWjp7qAhVRUs0KHT33AMMQqoUBMAN6BAgSEAE&usg=AOvVaw3PgnoPS2yqgWJT4kqWUi7D",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.icocalendar.today/blockchain-jobs-board. Â If you do not want to visit that page, you can return to the previous page."
+}

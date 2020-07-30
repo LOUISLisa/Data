@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://industrytoday.com/how-to-get-a-job-working-in-blockchain-development/",
+        "https://www.google.com/url?q=https%3A%2F%2Findustrytoday.com%2Fhow-to-get-a-job-working-in-blockchain-development%2F&sa=U&ved=2ahUKEwjtofnChZ7qAhWGbs0KHdmWCPsQqoUBMAh6BAgLEAE&usg=AOvVaw1hDT6CQ4PgEwJxQT-Uzik3"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Am&sa=X&ved=0ahUKEwi2_qCThZ7qAhW2IzQIHWQeDtcQ_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "23DDDA1582E239A874BA8DFB5F0004BC",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Findustrytoday.com%2Fhow-to-get-a-job-working-in-blockchain-development%2F&sa=U&ved=2ahUKEwjtofnChZ7qAhWGbs0KHdmWCPsQqoUBMAh6BAgLEAE&usg=AOvVaw1hDT6CQ4PgEwJxQT-Uzik3",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://industrytoday.com/how-to-get-a-job-working-in-blockchain-development/. Â If you do not want to visit that page, you can return to the previous page."
+}

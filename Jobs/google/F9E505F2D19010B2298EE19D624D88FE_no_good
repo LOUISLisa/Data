@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://medium.com/collabogate-research-group-in-tokyo/blockchain-job-is-8802cff51f87",
+        "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2Fcollabogate-research-group-in-tokyo%2Fblockchain-job-is-8802cff51f87&sa=U&ved=2ahUKEwiag5_HjZ7qAhVJV80KHSe2BRYQqoUBMA96BAgAEAE&usg=AOvVaw2U57pw29WYtPhlht8HIvYB"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&tbas=0&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi57O-vhZ7qAhUdIDQIHVh_DMAQ_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "F9E505F2D19010B2298EE19D624D88FE",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2Fcollabogate-research-group-in-tokyo%2Fblockchain-job-is-8802cff51f87&sa=U&ved=2ahUKEwiag5_HjZ7qAhVJV80KHSe2BRYQqoUBMA96BAgAEAE&usg=AOvVaw2U57pw29WYtPhlht8HIvYB",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://medium.com/collabogate-research-group-in-tokyo/blockchain-job-is-8802cff51f87. Â If you do not want to visit that page, you can return to the previous page."
+}

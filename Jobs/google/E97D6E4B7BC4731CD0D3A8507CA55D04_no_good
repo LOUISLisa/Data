@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.pocketgamer.biz%2Fjobs%2Fadvert%2F1492%2Fproducer-the-chinese-room-brighton%2F&sa=U&ved=2ahUKEwibm5efhZ7qAhU4CTQIHbxFDTIQFjAJegQIAhAB&usg=AOvVaw2pGRKsMlqRmMrE831FcDwF",
+        "https://www.pocketgamer.biz/jobs/advert/1492/producer-the-chinese-room-brighton/"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnt&tbs=qdr%3Ah&sa=X&ved=0ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQpwUIDw",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E97D6E4B7BC4731CD0D3A8507CA55D04",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.pocketgamer.biz%2Fjobs%2Fadvert%2F1492%2Fproducer-the-chinese-room-brighton%2F&sa=U&ved=2ahUKEwibm5efhZ7qAhU4CTQIHbxFDTIQFjAJegQIAhAB&usg=AOvVaw2pGRKsMlqRmMrE831FcDwF",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.pocketgamer.biz/jobs/advert/1492/producer-the-chinese-room-brighton/. Â If you do not want to visit that page, you can return to the previous page."
+}

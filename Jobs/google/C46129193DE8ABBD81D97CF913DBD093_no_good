@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [],
+    "ContentType": "application/opensearchdescription+xml; charset=UTF-8",
+    "Parent": "https://www.google.com/maps?q=blockchain%2Bjobs&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQ_AUIDCgF",
+    "DocumentType": "JobBoards",
+    "Title": "",
+    "Hash": "C46129193DE8ABBD81D97CF913DBD093",
+    "Url": "https://www.google.com/maps/preview/opensearch.xml?hl=en",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "UNKNOWN",
+    "TackIt": "false",
+    "Body": "<\/head> Google Maps Search on Google Maps https://www.google.com/images/branding/product/ico/maps15_bnuw3a_16dp.ico"
+}

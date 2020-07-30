@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.dice.com/jobs/q-Blockchain-jobs",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.dice.com%2Fjobs%2Fq-Blockchain-jobs&sa=U&ved=2ahUKEwi2_qCThZ7qAhW2IzQIHWQeDtcQFjABegQIChAB&usg=AOvVaw2DRB83odi0phQgFfoDZeFi"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnt&tbs=qdr%3Am&sa=X&ved=0ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQpwUIEg",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "A91C5D9FB9A1A6031656CA2F679BEE32",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.dice.com%2Fjobs%2Fq-Blockchain-jobs&sa=U&ved=2ahUKEwi2_qCThZ7qAhW2IzQIHWQeDtcQFjABegQIChAB&usg=AOvVaw2DRB83odi0phQgFfoDZeFi",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.dice.com/jobs/q-Blockchain-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

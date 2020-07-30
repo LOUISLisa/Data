@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://coindoo.com/looking-for-remote-cryptocurrency-jobs-here-are-top-bitcoin-jobs/",
+        "https://www.google.com/url?q=https%3A%2F%2Fcoindoo.com%2Flooking-for-remote-cryptocurrency-jobs-here-are-top-bitcoin-jobs%2F&sa=U&ved=2ahUKEwi9vuXih57qAhWyds0KHamHB10QqoUBMA16BAgKEAE&usg=AOvVaw2rMlwiE1T0dlNNk9RUruBi"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ablockchain%2Btechnology&sa=X&ved=0ahUKEwiv89mehZ7qAhUOK80KHbYMDEQQ4lYIDCgB",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "233C12318F5E607EEA5C7252BFB1DC4E",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcoindoo.com%2Flooking-for-remote-cryptocurrency-jobs-here-are-top-bitcoin-jobs%2F&sa=U&ved=2ahUKEwi9vuXih57qAhWyds0KHamHB10QqoUBMA16BAgKEAE&usg=AOvVaw2rMlwiE1T0dlNNk9RUruBi",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://coindoo.com/looking-for-remote-cryptocurrency-jobs-here-are-top-bitcoin-jobs/. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://hk.jobsdb.com/hk/search-jobs/blockchain/1",
+        "https://www.google.com/url?q=https%3A%2F%2Fhk.jobsdb.com%2Fhk%2Fsearch-jobs%2Fblockchain%2F1&sa=U&ved=2ahUKEwiU6aywhZ7qAhWjKH0KHc0PDTk4ChAWMAV6BAgFEAE&usg=AOvVaw1lyqr3CAiUXsgYtBtl23_7"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbs=qdr%3Aw&ei=kij1XsfqLKLB0PEPwPiwuA0&start=10&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "CC9966BC08371C3E91A7BC50020EB2EC",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fhk.jobsdb.com%2Fhk%2Fsearch-jobs%2Fblockchain%2F1&sa=U&ved=2ahUKEwiU6aywhZ7qAhWjKH0KHc0PDTk4ChAWMAV6BAgFEAE&usg=AOvVaw1lyqr3CAiUXsgYtBtl23_7",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://hk.jobsdb.com/hk/search-jobs/blockchain/1. Â If you do not want to visit that page, you can return to the previous page."
+}

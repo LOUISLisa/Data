@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptojobslist.com/jobs/software-engineer-front-end-matcha-at-0x-san-francisco-remote",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fjobs%2Fsoftware-engineer-front-end-matcha-at-0x-san-francisco-remote&sa=U&ved=2ahUKEwjz7qaxhZ7qAhVLGTQIHRQkDVUQFjAQegQIARAB&usg=AOvVaw1VxqM_4h1lj4sFeG7R5HzX"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Aw&q=blockchain%2Bjob%2Bfair&sa=X&ved=2ahUKEwjH--OShZ7qAhWiIDQIHUA8DNcQ1QJ6BAgAEAY",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "A88B4A070FE0A7AE780EB8FAB4F6E3F8",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fjobs%2Fsoftware-engineer-front-end-matcha-at-0x-san-francisco-remote&sa=U&ved=2ahUKEwjz7qaxhZ7qAhVLGTQIHRQkDVUQFjAQegQIARAB&usg=AOvVaw1VxqM_4h1lj4sFeG7R5HzX",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptojobslist.com/jobs/software-engineer-front-end-matcha-at-0x-san-francisco-remote. Â If you do not want to visit that page, you can return to the previous page."
+}

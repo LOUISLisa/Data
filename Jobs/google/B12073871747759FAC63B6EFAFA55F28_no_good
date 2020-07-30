@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://bigthink.com/technology-innovation/blockchain-jobs-are-booming",
+        "https://www.google.com/url?q=https%3A%2F%2Fbigthink.com%2Ftechnology-innovation%2Fblockchain-jobs-are-booming&sa=U&ved=2ahUKEwi2pvP9iJ7qAhVTCs0KHSKOAvYQqoUBMAx6BAgJEAE&usg=AOvVaw0b0kIAbe5ej3GJWgMEZBH6"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs%2Bsalary&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjG9_OkhZ7qAhUBKH0KHZecDFcQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "B12073871747759FAC63B6EFAFA55F28",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fbigthink.com%2Ftechnology-innovation%2Fblockchain-jobs-are-booming&sa=U&ved=2ahUKEwi2pvP9iJ7qAhVTCs0KHSKOAvYQqoUBMAx6BAgJEAE&usg=AOvVaw0b0kIAbe5ej3GJWgMEZBH6",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://bigthink.com/technology-innovation/blockchain-jobs-are-booming. Â If you do not want to visit that page, you can return to the previous page."
+}

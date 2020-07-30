@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.computerworld.com/article/3452580/bitcoin-blockchain-jobs-remain-unfilled-as-interest-drops-off.html",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.computerworld.com%2Farticle%2F3452580%2Fbitcoin-blockchain-jobs-remain-unfilled-as-interest-drops-off.html&sa=U&ved=2ahUKEwiJ_7Tzkp7qAhUZCM0KHSH7DGIQr4kDMAV6BAgQEAI&usg=AOvVaw2i2Ne1QSFIndQFa8gCDEGD"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Abitcoin&sa=X&ved=0ahUKEwi8zeHth57qAhXKWM0KHQjSB6UQ4lYIEigG",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "FEA01598C6EEF470B79BFBAC676E0008",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.computerworld.com%2Farticle%2F3452580%2Fbitcoin-blockchain-jobs-remain-unfilled-as-interest-drops-off.html&sa=U&ved=2ahUKEwiJ_7Tzkp7qAhUZCM0KHSH7DGIQr4kDMAV6BAgQEAI&usg=AOvVaw2i2Ne1QSFIndQFa8gCDEGD",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.computerworld.com/article/3452580/bitcoin-blockchain-jobs-remain-unfilled-as-interest-drops-off.html. Â If you do not want to visit that page, you can return to the previous page."
+}

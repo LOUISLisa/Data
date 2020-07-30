@@ -1,0 +1,191 @@
+Total Index Files in Path: 6527
+Num Index Files Containing Key Terms: 6514
+
+privacy	5040	77.37
+bitcoin	3949	60.62
+blockchain developer	3874	59.47
+smart contract	2511	38.55
+cryptocurrency	2100	32.24
+dlt	1780	27.33
+financial	1169	17.95
+software engineer	1118	17.16
+ethereum	972	14.92
+cloud	886	13.60
+remote	879	13.49
+product manager	645	9.90
+startup	603	9.26
+peer to peer	600	9.21
+compliance	545	8.37
+blockchain research	506	7.77
+solidity	436	6.69
+decentralized	424	6.51
+wallet	402	6.17
+exchanges	382	5.86
+dapps	361	5.54
+supply chain	350	5.37
+aws	341	5.23
+hyperledger	340	5.22
+artificial intelligence	336	5.16
+web-3	329	5.05
+scala	327	5.02
+internet of things	325	4.99
+python	322	4.94
+consensus	314	4.82
+javascript	314	4.82
+java	306	4.70
+merkle tree	288	4.42
+metamask	283	4.34
+distributed application	277	4.25
+ipfs	277	4.25
+json	274	4.21
+ropsten	274	4.21
+back end	215	3.30
+html	193	2.96
+proof of talent	190	2.92
+cryptocurrencies	166	2.55
+devops	160	2.46
+blockstack	158	2.43
+emerging technologies	144	2.21
+anti money laundering	142	2.18
+trading	134	2.06
+machine learning	116	1.78
+cannabis	115	1.77
+digital asset	89	1.37
+blockchain based	88	1.35
+real estate	85	1.30
+risk management	81	1.24
+banking	78	1.20
+defi	73	1.12
+ico	70	1.07
+ripple	68	1.04
+cryptography	66	1.01
+full stack	62	0.95
+dao	59	0.91
+cosmos	57	0.88
+nodejs	56	0.86
+insurtech	55	0.84
+kyc	55	0.84
+cloud computing	52	0.80
+health care	50	0.77
+fraud	48	0.74
+off-chain	48	0.74
+crypto wallet	45	0.69
+fabric	44	0.68
+blockchain platforms	43	0.66
+algorithms	41	0.63
+android	41	0.63
+data science	38	0.58
+big data	35	0.54
+cyber	35	0.54
+mainnet	32	0.49
+marketplace	31	0.48
+golang	30	0.46
+hedge funds	30	0.46
+capital markets	26	0.40
+protocols	26	0.40
+business development	24	0.37
+e-commerce	24	0.37
+proof of trust	24	0.37
+sales manager	24	0.37
+corda	22	0.34
+cross-chain	22	0.34
+jira	22	0.34
+mobile payments	22	0.34
+stellar	22	0.34
+full time	21	0.32
+infura	20	0.31
+litecoin	20	0.31
+advertising	18	0.28
+disruptive	17	0.26
+collaboration	16	0.25
+quality engineer	16	0.25
+front end	15	0.23
+asset management	13	0.20
+consensus algorithms	13	0.20
+cryptoassets	13	0.20
+wireframes	13	0.20
+information technology	12	0.18
+loans	12	0.18
+gambling	11	0.17
+parity	11	0.17
+tokenomics	11	0.17
+encryption	10	0.15
+gaming	9	0.14
+react	9	0.14
+rsk	8	0.12
+stable coin	8	0.12
+truffle	8	0.12
+blockchain architecture	7	0.11
+custodial	7	0.11
+embedded	7	0.11
+frameworks	7	0.11
+geth	7	0.11
+pharmaceutical	7	0.11
+interoperability	6	0.09
+ruby	6	0.09
+swift	6	0.09
+testnet	6	0.09
+validator	6	0.09
+quantum computing	5	0.08
+remix	5	0.08
+social network	5	0.08
+hash functions	4	0.06
+lightning network	4	0.06
+mesh	4	0.06
+npm	4	0.06
+permissioned	4	0.06
+substrate	4	0.06
+tendermint	4	0.06
+blockchain interoperability	3	0.05
+chaincode	3	0.05
+data structures	3	0.05
+docker	3	0.05
+linux	3	0.05
+monero	3	0.05
+predictive analytics	3	0.05
+quorum	3	0.05
+rust	3	0.05
+strategic planning	3	0.05
+application development	2	0.03
+azure	2	0.03
+couchdb	2	0.03
+crowdfunding	2	0.03
+css	2	0.03
+erlang	2	0.03
+github	2	0.03
+jquery	2	0.03
+kubernetes	2	0.03
+patricia tree	2	0.03
+privacy tech	2	0.03
+private keys	2	0.03
+proof of existence	2	0.03
+proof of work	2	0.03
+rpc	2	0.03
+scripting	2	0.03
+social impact	2	0.03
+tdd	2	0.03
+tokenization	2	0.03
+trinity	2	0.03
+voting	2	0.03
+zcash	2	0.03
+agile	1	0.02
+asset tokenization	1	0.02
+blockchain services	1	0.02
+digital asset exchange	1	0.02
+edtech	1	0.02
+financial application	1	0.02
+genetic	1	0.02
+git	1	0.02
+identity management	1	0.02
+legal tech	1	0.02
+mobile apps	1	0.02
+nethermind	1	0.02
+opensource	1	0.02
+prediction markets	1	0.02
+proof of stake	1	0.02
+scrum	1	0.02
+sdk	1	0.02
+smart cities	1	0.02
+staking	1	0.02
+sto	1	0.02
+ui ux	1	0.02

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "http://techgenix.com/blockchain-career/",
+        "https://www.google.com/url?q=http%3A%2F%2Ftechgenix.com%2Fblockchain-career%2F&sa=U&ved=2ahUKEwjSvZnti57qAhXBLc0KHaM6CcIQqoUBMAJ6BAgSEAE&usg=AOvVaw0hX2lOCn5e0Y8cxJEa3uFr"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bcareers&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Aw&sa=X&ved=0ahUKEwj8lOimhZ7qAhWDMH0KHRldByYQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E6EA6614015E240D6F17D7E1CAAD8CF8",
+    "Url": "https://www.google.com/url?q=http%3A%2F%2Ftechgenix.com%2Fblockchain-career%2F&sa=U&ved=2ahUKEwjSvZnti57qAhXBLc0KHaM6CcIQqoUBMAJ6BAgSEAE&usg=AOvVaw0hX2lOCn5e0Y8cxJEa3uFr",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to http://techgenix.com/blockchain-career/. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/url?q=https%3A%2F%2Fsteemit.com%2Fcryptocurrency%2F%40awesomerocksome%2Fblockchain-jobs-are-booming&sa=U&ved=2ahUKEwjFm53LiJ7qAhWdAZ0JHUKWBEYQr4kDMA56BAgEEAI&usg=AOvVaw14wWExYx0IhpVa1yivr0M8"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=isch&source=lnms&sa=X&ved=0ahUKEwiU4cihhZ7qAhXFFTQIHYeCB24Q_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "874C9FFFCA0D0B71F3EB45A51DFEE757",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fsteemit.com%2Fcryptocurrency%2F%40awesomerocksome%2Fblockchain-jobs-are-booming&sa=U&ved=2ahUKEwjFm53LiJ7qAhWdAZ0JHUKWBEYQr4kDMA56BAgEEAI&usg=AOvVaw14wWExYx0IhpVa1yivr0M8",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://steemit.com/cryptocurrency/@awesomerocksome/blockchain-jobs-are-booming. Â If you do not want to visit that page, you can return to the previous page."
+}

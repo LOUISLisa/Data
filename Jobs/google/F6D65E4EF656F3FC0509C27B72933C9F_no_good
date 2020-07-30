@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.crypto-careers.com/jobs/35947031-senior-full-stack-engineer-at-polymath",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.crypto-careers.com%2Fjobs%2F35947031-senior-full-stack-engineer-at-polymath&sa=U&ved=2ahUKEwibm5efhZ7qAhU4CTQIHbxFDTIQFjACegQICRAB&usg=AOvVaw1VUzW3SlA6eVFL5wBsaNpO"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnt&tbs=qdr%3Ah&sa=X&ved=0ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQpwUIDw",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "F6D65E4EF656F3FC0509C27B72933C9F",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.crypto-careers.com%2Fjobs%2F35947031-senior-full-stack-engineer-at-polymath&sa=U&ved=2ahUKEwibm5efhZ7qAhU4CTQIHbxFDTIQFjACegQICRAB&usg=AOvVaw1VUzW3SlA6eVFL5wBsaNpO",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.crypto-careers.com/jobs/35947031-senior-full-stack-engineer-at-polymath. Â If you do not want to visit that page, you can return to the previous page."
+}

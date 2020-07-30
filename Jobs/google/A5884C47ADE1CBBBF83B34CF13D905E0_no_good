@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://venturebeat.com/2019/05/16/kpmg-the-top-4-skills-to-launch-a-career-in-blockchain/",
+        "https://www.google.com/url?q=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F16%2Fkpmg-the-top-4-skills-to-launch-a-career-in-blockchain%2F&sa=U&ved=2ahUKEwjtofnChZ7qAhWGbs0KHdmWCPsQr4kDMBJ6BAgCEAI&usg=AOvVaw1kwNG03v_AhibN6UlbELM-"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Am&sa=X&ved=0ahUKEwi2_qCThZ7qAhW2IzQIHWQeDtcQ_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "A5884C47ADE1CBBBF83B34CF13D905E0",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F16%2Fkpmg-the-top-4-skills-to-launch-a-career-in-blockchain%2F&sa=U&ved=2ahUKEwjtofnChZ7qAhWGbs0KHdmWCPsQr4kDMBJ6BAgCEAI&usg=AOvVaw1kwNG03v_AhibN6UlbELM-",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://venturebeat.com/2019/05/16/kpmg-the-top-4-skills-to-launch-a-career-in-blockchain/. Â If you do not want to visit that page, you can return to the previous page."
+}

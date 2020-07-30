@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptojobslist.com/solidity-jobs",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fsolidity-jobs&sa=U&ved=2ahUKEwiXs9igj57qAhWBGM0KHR5bCqYQr4kDMA96BAgDEAI&usg=AOvVaw1nQhpLt8BR8goHZ5HYO-0I"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs%2Bfor%2Bfreshers&chips=q%3Ablockchain%2Bjobs%2Bfor%2Bfreshers%2Conline_chips%3Asolidity&sa=X&ved=0ahUKEwjRhszjhZ7qAhVEK80KHeAcC_cQ4lYIESgG",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "0B75FE06B5C97F8B515243C1BB49F4C6",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fsolidity-jobs&sa=U&ved=2ahUKEwiXs9igj57qAhWBGM0KHR5bCqYQr4kDMA96BAgDEAI&usg=AOvVaw1nQhpLt8BR8goHZ5HYO-0I",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptojobslist.com/solidity-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

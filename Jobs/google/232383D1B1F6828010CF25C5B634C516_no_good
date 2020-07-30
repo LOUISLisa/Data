@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://blockboard.net/interest-in-blockchain-jobs-declines-as-cryptocurrency-prices-take-a-tumble/",
+        "https://www.google.com/url?q=https%3A%2F%2Fblockboard.net%2Finterest-in-blockchain-jobs-declines-as-cryptocurrency-prices-take-a-tumble%2F&sa=U&ved=2ahUKEwjAmIG_kZ7qAhWWVs0KHerYBZYQr4kDMBJ6BAgAEAI&usg=AOvVaw238V1plFSNLlW-ebmW2Lhj"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=bitcoin%2Bblockchain%2Bjobs&chips=q%3Abitcoin%2Bblockchain%2Bjobs%2Conline_chips%3Acrypto%2Bcurrency&sa=X&ved=0ahUKEwjN6rzKh57qAhXXHM0KHe3MBfsQ4lYIECgF",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "232383D1B1F6828010CF25C5B634C516",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fblockboard.net%2Finterest-in-blockchain-jobs-declines-as-cryptocurrency-prices-take-a-tumble%2F&sa=U&ved=2ahUKEwjAmIG_kZ7qAhWWVs0KHerYBZYQr4kDMBJ6BAgAEAI&usg=AOvVaw238V1plFSNLlW-ebmW2Lhj",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://blockboard.net/interest-in-blockchain-jobs-declines-as-cryptocurrency-prices-take-a-tumble/. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.glassdoor.com/research/rise-in-bitcoin-jobs/",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.glassdoor.com%2Fresearch%2Frise-in-bitcoin-jobs%2F&sa=U&ved=2ahUKEwi2pvP9iJ7qAhVTCs0KHSKOAvYQr4kDMA56BAgIEAI&usg=AOvVaw0JJe5_HRT7XaNg-isMIqFm"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs%2Bsalary&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjG9_OkhZ7qAhUBKH0KHZecDFcQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "05B9E8EF376344A55C347BDCD51C6F98",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.glassdoor.com%2Fresearch%2Frise-in-bitcoin-jobs%2F&sa=U&ved=2ahUKEwi2pvP9iJ7qAhVTCs0KHSKOAvYQr4kDMA56BAgIEAI&usg=AOvVaw0JJe5_HRT7XaNg-isMIqFm",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.glassdoor.com/research/rise-in-bitcoin-jobs/. Â If you do not want to visit that page, you can return to the previous page."
+}

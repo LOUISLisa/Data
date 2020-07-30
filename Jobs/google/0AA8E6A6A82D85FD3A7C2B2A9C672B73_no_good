@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://news.bitcoin.com/while-youre-under-quarantine-check-these-sites-for-remote-crypto-jobs/",
+        "https://www.google.com/url?q=https%3A%2F%2Fnews.bitcoin.com%2Fwhile-youre-under-quarantine-check-these-sites-for-remote-crypto-jobs%2F&sa=U&ved=2ahUKEwjYptirk57qAhUSac0KHcoICT0Qr4kDMAJ6BAgSEAI&usg=AOvVaw0hXKF8f-t2QGdkMwdwNgRO"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Astudy%2Bshows%2Conline_chips%3Aremote&sa=X&ved=0ahUKEwi7ko3xh57qAhVHOs0KHYhwA4QQ4lYIECgE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "0AA8E6A6A82D85FD3A7C2B2A9C672B73",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fnews.bitcoin.com%2Fwhile-youre-under-quarantine-check-these-sites-for-remote-crypto-jobs%2F&sa=U&ved=2ahUKEwjYptirk57qAhUSac0KHcoICT0Qr4kDMAJ6BAgSEAI&usg=AOvVaw0hXKF8f-t2QGdkMwdwNgRO",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://news.bitcoin.com/while-youre-under-quarantine-check-these-sites-for-remote-crypto-jobs/. Â If you do not want to visit that page, you can return to the previous page."
+}

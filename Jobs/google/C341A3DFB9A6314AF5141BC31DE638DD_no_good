@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.designnews.com/automation-motion-control/manufacturing-slump-hasnt-dented-job-openings",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.designnews.com%2Fautomation-motion-control%2Fmanufacturing-slump-hasnt-dented-job-openings&sa=U&ved=2ahUKEwjg68W4jJ7qAhUHQ80KHeDBAqUQqoUBMA96BAgGEAE&usg=AOvVaw0M-Ldag5H16l81lYA12NYO"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Ad&sa=X&ved=0ahUKEwiDkNaphZ7qAhVtJDQIHewPCogQ_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "C341A3DFB9A6314AF5141BC31DE638DD",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.designnews.com%2Fautomation-motion-control%2Fmanufacturing-slump-hasnt-dented-job-openings&sa=U&ved=2ahUKEwjg68W4jJ7qAhUHQ80KHeDBAqUQqoUBMA96BAgGEAE&usg=AOvVaw0M-Ldag5H16l81lYA12NYO",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.designnews.com/automation-motion-control/manufacturing-slump-hasnt-dented-job-openings. Â If you do not want to visit that page, you can return to the previous page."
+}

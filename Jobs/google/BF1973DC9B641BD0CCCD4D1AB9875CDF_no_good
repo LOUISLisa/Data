@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.e-janco.com/press/2019/2019-04-17-blockchain-job-descriptions.html",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.e-janco.com%2Fpress%2F2019%2F2019-04-17-blockchain-job-descriptions.html&sa=U&ved=2ahUKEwjC0qKQlJ7qAhVWUs0KHUUsCU84FBCviQMwBnoECA4QAg&usg=AOvVaw3Rh3hV7ByBxf98qMT5lv0s"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs%2Bsalary&ie=UTF-8&tbm=isch&ei=FSz1Xs24GduUtAaQ7r7IAQ&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "BF1973DC9B641BD0CCCD4D1AB9875CDF",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.e-janco.com%2Fpress%2F2019%2F2019-04-17-blockchain-job-descriptions.html&sa=U&ved=2ahUKEwjC0qKQlJ7qAhVWUs0KHUUsCU84FBCviQMwBnoECA4QAg&usg=AOvVaw3Rh3hV7ByBxf98qMT5lv0s",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.e-janco.com/press/2019/2019-04-17-blockchain-job-descriptions.html. Â If you do not want to visit that page, you can return to the previous page."
+}

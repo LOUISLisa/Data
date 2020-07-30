@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://crypto.jobs/jobs/chief-compliance-officer-at-paxful-inc",
+        "https://www.google.com/url?q=https%3A%2F%2Fcrypto.jobs%2Fjobs%2Fchief-compliance-officer-at-paxful-inc&sa=U&ved=2ahUKEwitjIWdj57qAhUTHc0KHWHeDZoQr4kDMAd6BAgOEAI&usg=AOvVaw1md5LI_X5eEhR_HkYVVvr5"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcompliance%2Bjobs&chips=q%3Ablockchain%2Bcompliance%2Bjobs%2Conline_chips%3Abitcoin&sa=X&ved=0ahUKEwj_693RhZ7qAhUHQ80KHeDBAqUQ4lYIDCgB",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "1354D1F5E809375D97CE044CF0E1887B",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcrypto.jobs%2Fjobs%2Fchief-compliance-officer-at-paxful-inc&sa=U&ved=2ahUKEwitjIWdj57qAhUTHc0KHWHeDZoQr4kDMAd6BAgOEAI&usg=AOvVaw1md5LI_X5eEhR_HkYVVvr5",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://crypto.jobs/jobs/chief-compliance-officer-at-paxful-inc. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptoweekly.co/crypto-jobs",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptoweekly.co%2Fcrypto-jobs&sa=U&ved=2ahUKEwjfx7inkZ7qAhXUZs0KHW-1CsU4FBCqhQEwE3oECAYQAQ&usg=AOvVaw2ihmko-X3Q4PYqNH6ZxN6I"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=isch&ei=yyr1Xqf2GI_RtAbx_ai4Ag&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "C91FB3F86C3AA3A0DAA60397FDA733FE",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptoweekly.co%2Fcrypto-jobs&sa=U&ved=2ahUKEwjfx7inkZ7qAhXUZs0KHW-1CsU4FBCqhQEwE3oECAYQAQ&usg=AOvVaw2ihmko-X3Q4PYqNH6ZxN6I",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptoweekly.co/crypto-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

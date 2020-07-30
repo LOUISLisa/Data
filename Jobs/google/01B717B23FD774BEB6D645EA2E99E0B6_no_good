@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://hackernoon.com/how-much-do-blockchain-jobs-pay-b03d3fe0e1ae",
+        "https://www.google.com/url?q=https%3A%2F%2Fhackernoon.com%2Fhow-much-do-blockchain-jobs-pay-b03d3fe0e1ae&sa=U&ved=2ahUKEwj_ssDaj57qAhXEVs0KHerKBBoQr4kDMAp6BAgJEAI&usg=AOvVaw24XGAQXfHAup2a6TBBF_ZC"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=google%2Bblockchain%2Bjobs&chips=q%3Agoogle%2Bblockchain%2Bjobs%2Conline_chips%3Asalaries&sa=X&ved=0ahUKEwi8_YSNhp7qAhXTHc0KHQCMCHMQ4lYIECgF",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "01B717B23FD774BEB6D645EA2E99E0B6",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fhackernoon.com%2Fhow-much-do-blockchain-jobs-pay-b03d3fe0e1ae&sa=U&ved=2ahUKEwj_ssDaj57qAhXEVs0KHerKBBoQr4kDMAp6BAgJEAI&usg=AOvVaw24XGAQXfHAup2a6TBBF_ZC",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://hackernoon.com/how-much-do-blockchain-jobs-pay-b03d3fe0e1ae. Â If you do not want to visit that page, you can return to the previous page."
+}

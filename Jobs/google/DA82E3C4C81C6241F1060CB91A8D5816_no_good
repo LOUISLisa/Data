@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cointelegraph.com/news/blockchain-jobs-are-the-highest-paying-tech-roles-in-the-uk",
+        "https://www.google.com/url?q=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fblockchain-jobs-are-the-highest-paying-tech-roles-in-the-uk&sa=U&ved=2ahUKEwiLu-OFlJ7qAhVMCc0KHY7JDSYQr4kDMAF6BAgREAI&usg=AOvVaw19sBHDswX9NUiGWOYb-cWG"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs%2Bsalary&chips=q%3Ablockchain%2Bjobs%2Bsalary%2Conline_chips%3Acointelegraph&sa=X&ved=0ahUKEwiNl6e_iJ7qAhVbCs0KHRC3DxkQ4lYIEigH",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "DA82E3C4C81C6241F1060CB91A8D5816",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fblockchain-jobs-are-the-highest-paying-tech-roles-in-the-uk&sa=U&ved=2ahUKEwiLu-OFlJ7qAhVMCc0KHY7JDSYQr4kDMAF6BAgREAI&usg=AOvVaw19sBHDswX9NUiGWOYb-cWG",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cointelegraph.com/news/blockchain-jobs-are-the-highest-paying-tech-roles-in-the-uk. Â If you do not want to visit that page, you can return to the previous page."
+}

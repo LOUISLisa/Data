@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/url?q=https%3A%2F%2Fwww.coindesk.com%2Fcrypto-job-interest-still-strong-despite-decline-says-indeed&sa=U&ved=2ahUKEwju79_XiJ7qAhUaGc0KHTtEC7EQqoUBMBF6BAgEEAE&usg=AOvVaw2vA1j1fw16c6YWQZxyPJxE"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=bitcoin%2Bblockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjf1P-ihZ7qAhUnGDQIHeDLAygQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "AE4F8F5B2AD108E49B73B3616129D97A",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.coindesk.com%2Fcrypto-job-interest-still-strong-despite-decline-says-indeed&sa=U&ved=2ahUKEwju79_XiJ7qAhUaGc0KHTtEC7EQqoUBMBF6BAgEEAE&usg=AOvVaw2vA1j1fw16c6YWQZxyPJxE",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.coindesk.com/crypto-job-interest-still-strong-despite-decline-says-indeed. Â If you do not want to visit that page, you can return to the previous page."
+}

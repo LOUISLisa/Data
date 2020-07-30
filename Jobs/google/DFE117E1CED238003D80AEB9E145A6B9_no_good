@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.crypto-careers.com/",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.crypto-careers.com%2F&sa=U&ved=2ahUKEwi6gKOdhZ7qAhW_CTQIHR96DhYQFnoECAUQAw&usg=AOvVaw1gYiXKljrZe3UfbPRpmURd"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&q=bitcoin%2Bblockchain%2Bjobs",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "DFE117E1CED238003D80AEB9E145A6B9",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.crypto-careers.com%2F&sa=U&ved=2ahUKEwi6gKOdhZ7qAhW_CTQIHR96DhYQFnoECAUQAw&usg=AOvVaw1gYiXKljrZe3UfbPRpmURd",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.crypto-careers.com/. Â If you do not want to visit that page, you can return to the previous page."
+}

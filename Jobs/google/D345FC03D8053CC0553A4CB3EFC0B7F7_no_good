@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptojobslist.com/companies/fleek",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fcompanies%2Ffleek&sa=U&ved=2ahUKEwjSvZnti57qAhXBLc0KHaM6CcIQr4kDMAd6BAgNEAI&usg=AOvVaw2b3tHkrNvoXAAzyc6UkgvS"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bcareers&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Aw&sa=X&ved=0ahUKEwj8lOimhZ7qAhWDMH0KHRldByYQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "D345FC03D8053CC0553A4CB3EFC0B7F7",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fcompanies%2Ffleek&sa=U&ved=2ahUKEwjSvZnti57qAhXBLc0KHaM6CcIQr4kDMAd6BAgNEAI&usg=AOvVaw2b3tHkrNvoXAAzyc6UkgvS",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptojobslist.com/companies/fleek. Â If you do not want to visit that page, you can return to the previous page."
+}

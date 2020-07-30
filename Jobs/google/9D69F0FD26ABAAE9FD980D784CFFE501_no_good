@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://hackernoon.com/blockchain-jobs-and-salaries-2018-report-45d3e7741c19",
+        "https://www.google.com/url?q=https%3A%2F%2Fhackernoon.com%2Fblockchain-jobs-and-salaries-2018-report-45d3e7741c19&sa=U&ved=2ahUKEwiasNq_kp7qAhXJHM0KHXHSAwoQqoUBMBJ6BAgEEAE&usg=AOvVaw1TexUjcmJGRxg306JVn9mF"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&backchip=online_chips%3Asalaries&chips=q%3Ablockchain%2Bjobs&sa=X&ved=0ahUKEwjok7zph57qAhVWa80KHXUyBUAQ3VYICigA",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "9D69F0FD26ABAAE9FD980D784CFFE501",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fhackernoon.com%2Fblockchain-jobs-and-salaries-2018-report-45d3e7741c19&sa=U&ved=2ahUKEwiasNq_kp7qAhXJHM0KHXHSAwoQqoUBMBJ6BAgEEAE&usg=AOvVaw1TexUjcmJGRxg306JVn9mF",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://hackernoon.com/blockchain-jobs-and-salaries-2018-report-45d3e7741c19. Â If you do not want to visit that page, you can return to the previous page."
+}

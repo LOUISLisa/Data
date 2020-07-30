@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://traynews.com/blockchain-jobs-near-me-free-job-alert/",
+        "https://www.google.com/url?q=https%3A%2F%2Ftraynews.com%2Fblockchain-jobs-near-me-free-job-alert%2F&sa=U&ved=2ahUKEwi_ztaMkp7qAhXZGs0KHTRPDQY4KBCviQMwB3oECAoQAg&usg=AOvVaw2wHXGsUUWLG5Hr9JkP7d62"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=isch&ei=WCv1Xo7KGN6E9PwPormfCA&start=40&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "2688D4F1B06A32AA712756EE0BA6B48B",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Ftraynews.com%2Fblockchain-jobs-near-me-free-job-alert%2F&sa=U&ved=2ahUKEwi_ztaMkp7qAhXZGs0KHTRPDQY4KBCviQMwB3oECAoQAg&usg=AOvVaw2wHXGsUUWLG5Hr9JkP7d62",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://traynews.com/blockchain-jobs-near-me-free-job-alert/. Â If you do not want to visit that page, you can return to the previous page."
+}

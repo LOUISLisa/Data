@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptojobslist.com/jobs/lead-senior-developer-at-block42-blockchain-company",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fjobs%2Flead-senior-developer-at-block42-blockchain-company&sa=U&ved=2ahUKEwjHzsOLjZ7qAhUYK80KHcXICHUQr4kDMAh6BAgJEAI&usg=AOvVaw3KPqg9dl0wf4R_BqYWWQ3f"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs%2Bfor%2Bfreshers&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Aw&sa=X&ved=0ahUKEwiXzYGthZ7qAhVLGDQIHRFKC4gQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "060187B62947B4FD9DC36134C7D70D7D",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fjobs%2Flead-senior-developer-at-block42-blockchain-company&sa=U&ved=2ahUKEwjHzsOLjZ7qAhUYK80KHcXICHUQr4kDMAh6BAgJEAI&usg=AOvVaw3KPqg9dl0wf4R_BqYWWQ3f",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptojobslist.com/jobs/lead-senior-developer-at-block42-blockchain-company. Â If you do not want to visit that page, you can return to the previous page."
+}

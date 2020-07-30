@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cointelegraph.com/news/blockchain-and-crypto-in-the-labor-market-overview-of-salaries-taxes-and-the-most-in-demand-jobs",
+        "https://www.google.com/url?q=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fblockchain-and-crypto-in-the-labor-market-overview-of-salaries-taxes-and-the-most-in-demand-jobs&sa=U&ved=2ahUKEwiUkI_Oj57qAhWSVc0KHX16D34QqoUBMBJ6BAgFEAE&usg=AOvVaw290MVDC8vA2drjxDWRA2Qz"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bcontract%2Bjobs&chips=q%3Ablockchain%2Bcontract%2Bjobs%2Conline_chips%3Aglassdoor&sa=X&ved=0ahUKEwjVw4ODhp7qAhWWUs0KHVMaA3EQ4lYIECgF",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "FECBB67C0998F714645DA22CA0DB0AF8",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fblockchain-and-crypto-in-the-labor-market-overview-of-salaries-taxes-and-the-most-in-demand-jobs&sa=U&ved=2ahUKEwiUkI_Oj57qAhWSVc0KHX16D34QqoUBMBJ6BAgFEAE&usg=AOvVaw290MVDC8vA2drjxDWRA2Qz",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cointelegraph.com/news/blockchain-and-crypto-in-the-labor-market-overview-of-salaries-taxes-and-the-most-in-demand-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

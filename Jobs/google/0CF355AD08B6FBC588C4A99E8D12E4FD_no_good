@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cointelegraph.com/news/blockchain-and-crypto-jobs-market-2018-vs-2019-by-the-numbers",
+        "https://www.google.com/url?q=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fblockchain-and-crypto-jobs-market-2018-vs-2019-by-the-numbers&sa=U&ved=2ahUKEwjDsbrbj57qAhVWaM0KHbroA7YQr4kDMAh6BAgKEAI&usg=AOvVaw09TZAj4s-qUpzq7jA5xBjS"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=google%2Bblockchain%2Bjobs&chips=q%3Agoogle%2Bblockchain%2Bjobs%2Conline_chips%3Ablockchain%2Bstartups&sa=X&ved=0ahUKEwi8_YSNhp7qAhXTHc0KHQCMCHMQ4lYIEygI",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "0CF355AD08B6FBC588C4A99E8D12E4FD",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcointelegraph.com%2Fnews%2Fblockchain-and-crypto-jobs-market-2018-vs-2019-by-the-numbers&sa=U&ved=2ahUKEwjDsbrbj57qAhVWaM0KHbroA7YQr4kDMAh6BAgKEAI&usg=AOvVaw09TZAj4s-qUpzq7jA5xBjS",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cointelegraph.com/news/blockchain-and-crypto-jobs-market-2018-vs-2019-by-the-numbers. Â If you do not want to visit that page, you can return to the previous page."
+}

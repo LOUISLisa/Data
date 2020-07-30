@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/the-blockchain-job-boom-continues",
+        "https://www.google.com/url?q=https%3A%2F%2Fspectrum.ieee.org%2Fview-from-the-valley%2Fat-work%2Ftech-careers%2Fthe-blockchain-job-boom-continues&sa=U&ved=2ahUKEwjx6sWRkJ7qAhVHV80KHbIvCNU4FBCviQMwEnoECAEQAg&usg=AOvVaw0rRUZ_SsYJiMVWtENgvWjW"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs%2Bfor%2Bfreshers&ie=UTF-8&tbm=isch&ei=Cir1XuXwCMu3tAbk8ZCYDw&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E050A4BC2528BCAEF381FC967788A0FA",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fspectrum.ieee.org%2Fview-from-the-valley%2Fat-work%2Ftech-careers%2Fthe-blockchain-job-boom-continues&sa=U&ved=2ahUKEwjx6sWRkJ7qAhVHV80KHbIvCNU4FBCviQMwEnoECAEQAg&usg=AOvVaw0rRUZ_SsYJiMVWtENgvWjW",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/the-blockchain-job-boom-continues. Â If you do not want to visit that page, you can return to the previous page."
+}

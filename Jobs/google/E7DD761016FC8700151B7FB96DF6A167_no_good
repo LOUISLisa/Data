@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptojobslist.com/blockchain-compliance-jobs",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fblockchain-compliance-jobs&sa=U&ved=2ahUKEwils9KVhZ7qAhVZPn0KHd0iAlQQFjADegQIChAB&usg=AOvVaw2hM0-qyIt-mJjJ4MnV7ULj"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&q=blockchain%2Bcompliance%2Bjobs",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E7DD761016FC8700151B7FB96DF6A167",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fblockchain-compliance-jobs&sa=U&ved=2ahUKEwils9KVhZ7qAhVZPn0KHd0iAlQQFjADegQIChAB&usg=AOvVaw2hM0-qyIt-mJjJ4MnV7ULj",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptojobslist.com/blockchain-compliance-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

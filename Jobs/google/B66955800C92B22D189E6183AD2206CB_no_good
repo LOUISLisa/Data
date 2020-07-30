@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://medium.com/better-programming/how-and-where-to-apply-to-blockchain-jobs-60e2c9e53909",
+        "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2Fbetter-programming%2Fhow-and-where-to-apply-to-blockchain-jobs-60e2c9e53909&sa=U&ved=2ahUKEwi0mcOwiJ7qAhVRB50JHUZfBAgQr4kDMAB6BAgAEAI&usg=AOvVaw0NSlpq6Z6t3VuKMBizlasg"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=google%2Bblockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi_nc6ghZ7qAhUHGDQIHYxLB9MQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "B66955800C92B22D189E6183AD2206CB",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2Fbetter-programming%2Fhow-and-where-to-apply-to-blockchain-jobs-60e2c9e53909&sa=U&ved=2ahUKEwi0mcOwiJ7qAhVRB50JHUZfBAgQr4kDMAB6BAgAEAI&usg=AOvVaw0NSlpq6Z6t3VuKMBizlasg",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://medium.com/better-programming/how-and-where-to-apply-to-blockchain-jobs-60e2c9e53909. Â If you do not want to visit that page, you can return to the previous page."
+}

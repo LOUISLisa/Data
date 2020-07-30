@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": ["https://www.google.com/url?q=https%3A%2F%2Fventurebeat.com%2F2019%2F11%2F07%2Findeed-share-of-cryptocurrency-jobs-grew-1457-in-4-years%2F&sa=U&ved=2ahUKEwiXs9igj57qAhWBGM0KHR5bCqYQr4kDMBJ6BAgCEAI&usg=AOvVaw3P385BM0X8-YPF9rJain3N"],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs%2Bfor%2Bfreshers&chips=q%3Ablockchain%2Bjobs%2Bfor%2Bfreshers%2Conline_chips%3Asolidity&sa=X&ved=0ahUKEwjRhszjhZ7qAhVEK80KHeAcC_cQ4lYIESgG",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "89B6A6DF4E2B4AA5C9E3C5D5B445EA99",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fventurebeat.com%2F2019%2F11%2F07%2Findeed-share-of-cryptocurrency-jobs-grew-1457-in-4-years%2F&sa=U&ved=2ahUKEwiXs9igj57qAhWBGM0KHR5bCqYQr4kDMBJ6BAgCEAI&usg=AOvVaw3P385BM0X8-YPF9rJain3N",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://venturebeat.com/2019/11/07/indeed-share-of-cryptocurrency-jobs-grew-1457-in-4-years/. Â If you do not want to visit that page, you can return to the previous page."
+}

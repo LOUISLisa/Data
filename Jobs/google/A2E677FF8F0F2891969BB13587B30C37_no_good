@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.forbes.com/sites/benjaminpirus/2019/11/07/bitcoin-and-blockchain-job-hunts-drop-53-over-past-year/",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbenjaminpirus%2F2019%2F11%2F07%2Fbitcoin-and-blockchain-job-hunts-drop-53-over-past-year%2F&sa=U&ved=2ahUKEwiwgNDojZ7qAhXWWM0KHUfaCJEQr4kDMAh6BAgMEAI&usg=AOvVaw1QzUFV7F3Svbm5rdPpUGzD"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=isch&source=lnms&sa=X&ved=0ahUKEwi76umwhZ7qAhX0N30KHYduCGMQ_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "A2E677FF8F0F2891969BB13587B30C37",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbenjaminpirus%2F2019%2F11%2F07%2Fbitcoin-and-blockchain-job-hunts-drop-53-over-past-year%2F&sa=U&ved=2ahUKEwiwgNDojZ7qAhXWWM0KHUfaCJEQr4kDMAh6BAgMEAI&usg=AOvVaw1QzUFV7F3Svbm5rdPpUGzD",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.forbes.com/sites/benjaminpirus/2019/11/07/bitcoin-and-blockchain-job-hunts-drop-53-over-past-year/. Â If you do not want to visit that page, you can return to the previous page."
+}

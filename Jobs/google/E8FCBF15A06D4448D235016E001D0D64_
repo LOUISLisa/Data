@@ -1,0 +1,33 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&backchip=online_chips%3Achain%2Bfusion&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Akpmg&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q3VYICygA",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&backchip=online_chips%3Akpmg&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Achain%2Bfusion&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q4VYICigB",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Akpmg%2Conline_chips%3Achain%2Bfusion%2Conline_chips%3Aadoption&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q4lYIEigF",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Akpmg%2Conline_chips%3Achain%2Bfusion%2Conline_chips%3Aalgorand%2Bblockchain&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q4lYIDSgA",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Akpmg%2Conline_chips%3Achain%2Bfusion%2Conline_chips%3Aauditing%2Bfirm&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q4lYIFSgI",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Akpmg%2Conline_chips%3Achain%2Bfusion%2Conline_chips%3Aauditor%2Bkpmg&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q4lYIDygC",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Akpmg%2Conline_chips%3Achain%2Bfusion%2Conline_chips%3Abtc&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q4lYIFigJ",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Akpmg%2Conline_chips%3Achain%2Bfusion%2Conline_chips%3Afirm%2Bkpmg&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q4lYIEygG",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Akpmg%2Conline_chips%3Achain%2Bfusion%2Conline_chips%3Akpmg%2Bllp&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q4lYIECgD",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Akpmg%2Conline_chips%3Achain%2Bfusion%2Conline_chips%3Amanagement%2Bplatform&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q4lYIDigB",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Akpmg%2Conline_chips%3Achain%2Bfusion%2Conline_chips%3Amodern%2Bconsensus&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q4lYIESgE",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Akpmg%2Conline_chips%3Achain%2Bfusion%2Conline_chips%3Ausdc&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q4lYIFCgH",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q_AUIBCgA",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=nws&source=lnms&tbs=qdr%3Am&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q_AUIBSgB",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=vid&source=lnms&tbs=qdr%3Am&sa=X&ved=0ahUKEwizhOOCnZ7qAhWMG80KHXY_A80Q_AUIBygD",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbs=qdr%3Am&tbm=isch&ei=m0H1XvPKJYy3tAb2_ozoDA&start=20&sa=N"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Akpmg&sa=X&ved=0ahUKEwjtofnChZ7qAhWGbs0KHdmWCPsQ4lYIDigD",
+    "RequiredMatch": "crypto",
+    "DocumentType": "JobBoards",
+    "Title": "blockchain+jobs - Google Search",
+    "Hash": "E8FCBF15A06D4448D235016E001D0D64",
+    "Url": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Akpmg%2Conline_chips%3Achain%2Bfusion&sa=X&ved=0ahUKEwju4pD8jp7qAhW0Ap0JHYFYCHoQ4lYIDigC",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": "ALL NEWS IMAGES VIDEOS kpmgÂ Ãchain+fusionÂ Ãalgorand blockchainmanagement platformauditor kpmgkpmg llpmodern consensusadoptionfirm kpmgusdcauditing firmbtc Auditor KPMG Launches... bitcoinexchangeguide.com KPMG Launches Suite of... btcmanager.com Big 4' Auditor KPMG... coindesk.com KPMG Introduces... newsvire.com KPMG Introduces... techtelegraph.co.uk KPMG: Chain Fusion To Help... hive.news PayPal posts crypto job... coinjournal.net KPMG LLP Launches KPMG... wfmz.com PayPal posts crypto job... coinjournal.net Paypal and Venmo May Allow... dailyalts.com Department of Homeland... bitcoinexchangeguide.com Blockchain Bites: PayPal's... nz.yahoo.com Product Origin To Be Made... inc42.com Modern Consensus. |... modernconsensus.com Cherre and DealStat... troyrecord.com KPMG Introduces... techtelegraph.co.uk PayPal's newly formed... newsbreak.com KPMG Launches Crypto Asset... zephyrnet.com Press Releases - KPMG... home.kpmg News&Features |... currency.com NextÂ > Sign in Settings Privacy Terms"
+}

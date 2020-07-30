@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "http://shibajapan.com/7-most-popular-recruiting-sites-to-find-a-job-in-japan/",
+        "https://www.google.com/url?q=http%3A%2F%2Fshibajapan.com%2F7-most-popular-recruiting-sites-to-find-a-job-in-japan%2F&sa=U&ved=2ahUKEwjMgJ2wkZ7qAhVYQ80KHe4FCxcQqoUBMAx6BAgIEAE&usg=AOvVaw3xXRJRvm1wgUdgZkG8E6PX"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Ajapan&sa=X&ved=0ahUKEwijltaxh57qAhWFcc0KHds8CNAQ4lYIDSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "17F4FB6A17BA5CC2E7A7953E0AB4A7FB",
+    "Url": "https://www.google.com/url?q=http%3A%2F%2Fshibajapan.com%2F7-most-popular-recruiting-sites-to-find-a-job-in-japan%2F&sa=U&ved=2ahUKEwjMgJ2wkZ7qAhVYQ80KHe4FCxcQqoUBMAx6BAgIEAE&usg=AOvVaw3xXRJRvm1wgUdgZkG8E6PX",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to http://shibajapan.com/7-most-popular-recruiting-sites-to-find-a-job-in-japan/. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,33 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&backchip=online_chips%3Afault&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ3VYICygA",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&backchip=online_chips%3Asmart%2Bcontracts&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Afault&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ4VYICigB",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Afault%2Conline_chips%3Ablockchain%2Btechnology&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ4lYIESgE",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Afault%2Conline_chips%3Acomputation%2Bpractice&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ4lYIDigB",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Afault%2Conline_chips%3Across%2Bborder&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ4lYIFSgI",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Afault%2Conline_chips%3Afreelance&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ4lYIEygG",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Afault%2Conline_chips%3Apayments&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ4lYIDygC",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Afault%2Conline_chips%3Asilver&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ4lYIDSgA",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Afault%2Conline_chips%3Asvm&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ4lYIEigF",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Afault%2Conline_chips%3Atrapped&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ4lYIFigJ",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Afault%2Conline_chips%3Auncertainty&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ4lYIECgD",
+        "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Afault%2Conline_chips%3Aunmanned&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ4lYIFCgH",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ_AUIBCgA",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=nws&source=lnms&tbs=qdr%3Ad&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ_AUIBSgB",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbm=vid&source=lnms&tbs=qdr%3Ad&sa=X&ved=0ahUKEwif_8_kyp7qAhXRG80KHYt5C4oQ_AUIBygD",
+        "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbs=qdr%3Ad&tbm=isch&ei=mHH1Xp_TGdG3tAaL863QCA&start=20&sa=N"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts&sa=X&ved=0ahUKEwi3jcuaiJ7qAhWWW80KHaaRACsQ4lYIDSgC",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "blockchain+jobs - Google Search",
+    "Hash": "EE71B73EE1B79BE8AC405A0467181F9E",
+    "Url": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Ad&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asmart%2Bcontracts%2Conline_chips%3Afault&sa=X&ved=0ahUKEwjy-cXok57qAhVFZc0KHSAwBsgQ4lYIECgE",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": "ALL NEWS IMAGES VIDEOS smart+contractsÂ ÃfaultÂ Ãsilvercomputation practicepaymentsuncertaintyblockchain technologysvmfreelanceunmannedcross bordertrapped State of DeFi Audits -... medium.com How Blockchain Could Unlock... cryptonews.com.au How Blockchain Could Unlock... cryptonews.com.au Sustainability | Free... mdpi.com Sustainability | Free... mdpi.com Business Uncertainty About... investingmatters.co.za Sustainability | Free... mdpi.com Sustainability | Free... mdpi.com Concurrency and... onlinelibrary.wiley.com Electronics | An Open... mdpi.com Latest market news investingmatters.co.za Great Atlantic Resources... investingmatters.co.za Electronics | An Open... mdpi.com Which Country Is the... investingmatters.co.za Electronics | An Open... mdpi.com How blockchain could unlock... blockchainmagazine.net Sustainability | Free... mdpi.com Electronics | An Open... mdpi.com Electronics | An Open... mdpi.com News la-francaise.com NextÂ > Sign in Settings Privacy Terms"
+}

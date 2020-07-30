@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://mojkripto.com/jobs-in-blockchain-and-cryptocurrency-industry/?lang=en",
+        "https://www.google.com/url?q=https%3A%2F%2Fmojkripto.com%2Fjobs-in-blockchain-and-cryptocurrency-industry%2F%3Flang%3Den&sa=U&ved=2ahUKEwiaqZzJk57qAhVBHM0KHV4FC1AQr4kDMAx6BAgHEAI&usg=AOvVaw1_K67lE8Szb1PL0HeZbPyE"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ablockchain%2Bstartups&sa=X&ved=0ahUKEwjzxb2SiJ7qAhXXQs0KHavbD8IQ4lYIESgG",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "9B21B9EB5DACA3F2F6F82CF2E0913C1A",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fmojkripto.com%2Fjobs-in-blockchain-and-cryptocurrency-industry%2F%3Flang%3Den&sa=U&ved=2ahUKEwiaqZzJk57qAhVBHM0KHV4FC1AQr4kDMAx6BAgHEAI&usg=AOvVaw1_K67lE8Szb1PL0HeZbPyE",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://mojkripto.com/jobs-in-blockchain-and-cryptocurrency-industry/?lang=en. Â If you do not want to visit that page, you can return to the previous page."
+}

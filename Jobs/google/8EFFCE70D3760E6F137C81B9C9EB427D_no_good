@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.forbes.com/sites/forbestechcouncil/2019/08/19/tech-jobs-are-evolving-are-we-keeping-up/",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fforbestechcouncil%2F2019%2F08%2F19%2Ftech-jobs-are-evolving-are-we-keeping-up%2F&sa=U&ved=2ahUKEwiFn-2Bj57qAhXGGc0KHdVxB_8QqoUBMAp6BAgKEAE&usg=AOvVaw0aCP9mSivHFq_NG_o2uADk"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Am&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Atechnological%2Badvancements&sa=X&ved=0ahUKEwjtofnChZ7qAhWGbs0KHdmWCPsQ4lYIEygI",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "8EFFCE70D3760E6F137C81B9C9EB427D",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fforbestechcouncil%2F2019%2F08%2F19%2Ftech-jobs-are-evolving-are-we-keeping-up%2F&sa=U&ved=2ahUKEwiFn-2Bj57qAhXGGc0KHdVxB_8QqoUBMAp6BAgKEAE&usg=AOvVaw0aCP9mSivHFq_NG_o2uADk",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.forbes.com/sites/forbestechcouncil/2019/08/19/tech-jobs-are-evolving-are-we-keeping-up/. Â If you do not want to visit that page, you can return to the previous page."
+}

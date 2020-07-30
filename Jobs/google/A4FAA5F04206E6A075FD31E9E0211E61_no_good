@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://web.mycompas.com/post-jobs-on-juju/",
+        "https://www.google.com/url?q=https%3A%2F%2Fweb.mycompas.com%2Fpost-jobs-on-juju%2F&sa=U&ved=2ahUKEwjy9LSskZ7qAhWNB50JHVfnD6gQr4kDMA56BAgDEAI&usg=AOvVaw350pJitUqYVICXt4X6ishC"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Ajob%2Bposting&sa=X&ved=0ahUKEwijltaxh57qAhWFcc0KHds8CNAQ4lYIECgF",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "A4FAA5F04206E6A075FD31E9E0211E61",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fweb.mycompas.com%2Fpost-jobs-on-juju%2F&sa=U&ved=2ahUKEwjy9LSskZ7qAhWNB50JHVfnD6gQr4kDMA56BAgDEAI&usg=AOvVaw350pJitUqYVICXt4X6ishC",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://web.mycompas.com/post-jobs-on-juju/. Â If you do not want to visit that page, you can return to the previous page."
+}

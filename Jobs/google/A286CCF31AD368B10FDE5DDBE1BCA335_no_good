@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://coininfo.news/infographic-highest-paid-blockchain-jobs/",
+        "https://www.google.com/url?q=https%3A%2F%2Fcoininfo.news%2Finfographic-highest-paid-blockchain-jobs%2F&sa=U&ved=2ahUKEwiArK6TiZ7qAhVEAp0JHehTC7cQqoUBMAZ6BAgREAE&usg=AOvVaw09L5uskeYYfPMxxkqfALJO"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bresearch%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg--2lhZ7qAhWDJTQIHWiICOkQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "A286CCF31AD368B10FDE5DDBE1BCA335",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcoininfo.news%2Finfographic-highest-paid-blockchain-jobs%2F&sa=U&ved=2ahUKEwiArK6TiZ7qAhVEAp0JHehTC7cQqoUBMAZ6BAgREAE&usg=AOvVaw09L5uskeYYfPMxxkqfALJO",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://coininfo.news/infographic-highest-paid-blockchain-jobs/. Â If you do not want to visit that page, you can return to the previous page."
+}

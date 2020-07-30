@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://kimi.wiki/jobsearch/english-job-sites",
+        "https://www.google.com/url?q=https%3A%2F%2Fkimi.wiki%2Fjobsearch%2Fenglish-job-sites&sa=U&ved=2ahUKEwjMgJ2wkZ7qAhVYQ80KHe4FCxcQqoUBMAp6BAgKEAE&usg=AOvVaw3xLObGt4F1p5dJETi0RxVC"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Ajapan&sa=X&ved=0ahUKEwijltaxh57qAhWFcc0KHds8CNAQ4lYIDSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "94E98CF43E5E00773B48EC3B1FCB0426",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fkimi.wiki%2Fjobsearch%2Fenglish-job-sites&sa=U&ved=2ahUKEwjMgJ2wkZ7qAhVYQ80KHe4FCxcQqoUBMAp6BAgKEAE&usg=AOvVaw3xLObGt4F1p5dJETi0RxVC",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://kimi.wiki/jobsearch/english-job-sites. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/whos-hiring-whos-firing-and-whos-paying-in-bitcoin",
+        "https://www.google.com/url?q=https%3A%2F%2Fspectrum.ieee.org%2Fview-from-the-valley%2Fat-work%2Ftech-careers%2Fwhos-hiring-whos-firing-and-whos-paying-in-bitcoin&sa=U&ved=2ahUKEwjPrP3Ykp7qAhWLKs0KHbr7B-MQqoUBMA96BAgFEAE&usg=AOvVaw3J3K0YfQ8WsejSP6l_YH9w"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ajob%2Bopenings%2Conline_chips%3Aglassdoor&sa=X&ved=0ahUKEwjRjfPqh57qAhXGU80KHfzYCn4Q4lYIEygH",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "EDFFB71279F6A29099CECE08B18B072C",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fspectrum.ieee.org%2Fview-from-the-valley%2Fat-work%2Ftech-careers%2Fwhos-hiring-whos-firing-and-whos-paying-in-bitcoin&sa=U&ved=2ahUKEwjPrP3Ykp7qAhWLKs0KHbr7B-MQqoUBMA96BAgFEAE&usg=AOvVaw3J3K0YfQ8WsejSP6l_YH9w",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/whos-hiring-whos-firing-and-whos-paying-in-bitcoin. Â If you do not want to visit that page, you can return to the previous page."
+}

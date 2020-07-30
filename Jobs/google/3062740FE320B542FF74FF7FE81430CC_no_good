@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.thebalancecareers.com%2Fwhat-is-data-entry-3542483&sa=U&ved=2ahUKEwjV2qiukZ7qAhWLAZ0JHSNAAb8QqoUBMAB6BAgAEAE&usg=AOvVaw2_ifJ-Fc3hHQLRJBCvG3i5",
+        "https://www.thebalancecareers.com/what-is-data-entry-3542483"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=IT%2Bjob%2Bsites&chips=q%3Ait%2Bjob%2Bsites%2Conline_chips%3Adata%2Bentry&sa=X&ved=0ahUKEwijltaxh57qAhWFcc0KHds8CNAQ4lYIEigH",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "3062740FE320B542FF74FF7FE81430CC",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.thebalancecareers.com%2Fwhat-is-data-entry-3542483&sa=U&ved=2ahUKEwjV2qiukZ7qAhWLAZ0JHSNAAb8QqoUBMAB6BAgAEAE&usg=AOvVaw2_ifJ-Fc3hHQLRJBCvG3i5",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.thebalancecareers.com/what-is-data-entry-3542483. Â If you do not want to visit that page, you can return to the previous page."
+}

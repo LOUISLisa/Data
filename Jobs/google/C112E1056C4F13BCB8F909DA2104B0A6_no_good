@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fcryptocurrency-jobs&sa=U&ved=2ahUKEwj02LClhZ7qAhUpHjQIHduuDN8QFjAOegQIBhAB&usg=AOvVaw21EExK8iCHk91wwEYhb1WO",
+        "https://www.linkedin.com/jobs/cryptocurrency-jobs"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&q=cryptocurrency%2Bjobs",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "C112E1056C4F13BCB8F909DA2104B0A6",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fcryptocurrency-jobs&sa=U&ved=2ahUKEwj02LClhZ7qAhUpHjQIHduuDN8QFjAOegQIBhAB&usg=AOvVaw21EExK8iCHk91wwEYhb1WO",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.linkedin.com/jobs/cryptocurrency-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

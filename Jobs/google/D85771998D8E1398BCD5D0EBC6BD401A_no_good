@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptojobslist.com/jobs/backend-engineer-at-fleek-remote",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fjobs%2Fbackend-engineer-at-fleek-remote&sa=U&ved=2ahUKEwi-jJ-ohZ7qAhVhMX0KHcylDUYQFjAGegQIBhAB&usg=AOvVaw3GyGDzt08wYNjrD62Pzg7T"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Aw&q=blockchain%2Bjobsremote&sa=X&ved=2ahUKEwjH--OShZ7qAhWiIDQIHUA8DNcQ1QJ6BAgAEAI",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "D85771998D8E1398BCD5D0EBC6BD401A",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2Fjobs%2Fbackend-engineer-at-fleek-remote&sa=U&ved=2ahUKEwi-jJ-ohZ7qAhVhMX0KHcylDUYQFjAGegQIBhAB&usg=AOvVaw3GyGDzt08wYNjrD62Pzg7T",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptojobslist.com/jobs/backend-engineer-at-fleek-remote. Â If you do not want to visit that page, you can return to the previous page."
+}

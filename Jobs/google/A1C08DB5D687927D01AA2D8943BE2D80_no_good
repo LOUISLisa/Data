@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fblockchain-contract-jobs&sa=U&ved=2ahUKEwj_r4-WhZ7qAhVAGDQIHQzWCHIQFjABegQICBAB&usg=AOvVaw2Alv8-ULrmIbA61XEdNYDF",
+        "https://www.linkedin.com/jobs/blockchain-contract-jobs"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&q=blockchain%2Bcontract%2Bjobs",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "A1C08DB5D687927D01AA2D8943BE2D80",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fblockchain-contract-jobs&sa=U&ved=2ahUKEwj_r4-WhZ7qAhVAGDQIHQzWCHIQFjABegQICBAB&usg=AOvVaw2Alv8-ULrmIbA61XEdNYDF",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.linkedin.com/jobs/blockchain-contract-jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

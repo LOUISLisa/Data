@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.cryptoknowmics.com/news/survey-interest-in-cryptocurrency-and-blockchain-jobs-drops-by-53",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.cryptoknowmics.com%2Fnews%2Fsurvey-interest-in-cryptocurrency-and-blockchain-jobs-drops-by-53&sa=U&ved=2ahUKEwigrd_qkJ7qAhWOLc0KHYRpCes4FBCviQMwAnoECBIQAg&usg=AOvVaw1fzDW_VDKfNl3W_bHzfCiI"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbs=qdr%3Ay&tbm=isch&ei=jCr1XpefF4-0tQaB9ou4AQ&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "DD5C61D596D3B3647536EF61001608BA",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.cryptoknowmics.com%2Fnews%2Fsurvey-interest-in-cryptocurrency-and-blockchain-jobs-drops-by-53&sa=U&ved=2ahUKEwigrd_qkJ7qAhWOLc0KHYRpCes4FBCviQMwAnoECBIQAg&usg=AOvVaw1fzDW_VDKfNl3W_bHzfCiI",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.cryptoknowmics.com/news/survey-interest-in-cryptocurrency-and-blockchain-jobs-drops-by-53. Â If you do not want to visit that page, you can return to the previous page."
+}

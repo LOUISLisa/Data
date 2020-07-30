@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2015%2F10%2Fworlds-best-job-the-answer-might-surprise-you%2F&sa=U&ved=2ahUKEwj0hpHBkp7qAhXTAZ0JHURSCYEQr4kDMA96BAgFEAI&usg=AOvVaw1UVr2ibr5xnIQDW8idLRLj",
+        "https://www.weforum.org/agenda/2015/10/worlds-best-job-the-answer-might-surprise-you/"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Asalaries%2Conline_chips%3Aeconomic%2Bresearch&sa=X&ved=0ahUKEwjok7zph57qAhVWa80KHXUyBUAQ4lYIFSgJ",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "B40ADC8FBA5865F37ADB4B9228ADE6A1",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2015%2F10%2Fworlds-best-job-the-answer-might-surprise-you%2F&sa=U&ved=2ahUKEwj0hpHBkp7qAhXTAZ0JHURSCYEQr4kDMA96BAgFEAI&usg=AOvVaw1UVr2ibr5xnIQDW8idLRLj",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.weforum.org/agenda/2015/10/worlds-best-job-the-answer-might-surprise-you/. Â If you do not want to visit that page, you can return to the previous page."
+}

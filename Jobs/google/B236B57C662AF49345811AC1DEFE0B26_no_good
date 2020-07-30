@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://angel.co/job-collections/hot-blockchain-startups-that-are-hiring",
+        "https://www.google.com/url?q=https%3A%2F%2Fangel.co%2Fjob-collections%2Fhot-blockchain-startups-that-are-hiring&sa=U&ved=2ahUKEwiV4P_GkJ7qAhUZHM0KHQ0wCDgQr4kDMAJ6BAgTEAI&usg=AOvVaw0R9dMu1CAHtZ0WQ6yV0T0q"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?um=1&ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Ablockchain%2Bstartups&sa=X&ved=0ahUKEwjOxJbnhp7qAhWIB50JHU-PBkYQ4lYIESgG",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "B236B57C662AF49345811AC1DEFE0B26",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fangel.co%2Fjob-collections%2Fhot-blockchain-startups-that-are-hiring&sa=U&ved=2ahUKEwiV4P_GkJ7qAhUZHM0KHQ0wCDgQr4kDMAJ6BAgTEAI&usg=AOvVaw0R9dMu1CAHtZ0WQ6yV0T0q",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://angel.co/job-collections/hot-blockchain-startups-that-are-hiring. Â If you do not want to visit that page, you can return to the previous page."
+}

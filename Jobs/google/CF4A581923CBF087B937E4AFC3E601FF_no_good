@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.flexjobs.com/jobs/telecommuting-jobs-at-kraken",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.flexjobs.com%2Fjobs%2Ftelecommuting-jobs-at-kraken&sa=U&ved=2ahUKEwi-jJ-ohZ7qAhVhMX0KHcylDUYQFjAJegQIBBAB&usg=AOvVaw2TvjYfwnIEEzayQ82-Zpiq"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbs=qdr%3Aw&q=blockchain%2Bjobsremote&sa=X&ved=2ahUKEwjH--OShZ7qAhWiIDQIHUA8DNcQ1QJ6BAgAEAI",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "CF4A581923CBF087B937E4AFC3E601FF",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.flexjobs.com%2Fjobs%2Ftelecommuting-jobs-at-kraken&sa=U&ved=2ahUKEwi-jJ-ohZ7qAhVhMX0KHcylDUYQFjAJegQIBBAB&usg=AOvVaw2TvjYfwnIEEzayQ82-Zpiq",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.flexjobs.com/jobs/telecommuting-jobs-at-kraken. Â If you do not want to visit that page, you can return to the previous page."
+}

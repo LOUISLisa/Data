@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.glassdoor.com/Jobs/Change-Healthcare-healthcare-Macomb-Jobs-EI_IE901352.0,17_KO18,28_IL.29,35_IC1134688.htm",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.glassdoor.com%2FJobs%2FChange-Healthcare-healthcare-Macomb-Jobs-EI_IE901352.0%2C17_KO18%2C28_IL.29%2C35_IC1134688.htm&sa=U&ved=2ahUKEwiN9POmkp7qAhVMK80KHe8gDZwQqoUBMA16BAgGEAE&usg=AOvVaw2s7lfC3NsDxmxX-ImVsHVy"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bjobs&chips=q%3Ablockchain%2Bjobs%2Conline_chips%3Aglassdoor%2Conline_chips%3Ahealthcare&sa=X&ved=0ahUKEwiw9_7oh57qAhVHbc0KHWCcB4MQ4lYIDygD",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "AF7FF818F673DDA3CF882AE9C36AF771",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.glassdoor.com%2FJobs%2FChange-Healthcare-healthcare-Macomb-Jobs-EI_IE901352.0%2C17_KO18%2C28_IL.29%2C35_IC1134688.htm&sa=U&ved=2ahUKEwiN9POmkp7qAhVMK80KHe8gDZwQqoUBMA16BAgGEAE&usg=AOvVaw2s7lfC3NsDxmxX-ImVsHVy",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.glassdoor.com/Jobs/Change-Healthcare-healthcare-Macomb-Jobs-EI_IE901352.0,17_KO18,28_IL.29,35_IC1134688.htm. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.coindesk.com/tag/jobs",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.coindesk.com%2Ftag%2Fjobs&sa=U&ved=2ahUKEwjg68W4jJ7qAhUHQ80KHeDBAqUQr4kDMAN6BAgREAI&usg=AOvVaw3xTnvggwGe9LG6v977VpPs"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Ad&sa=X&ved=0ahUKEwiDkNaphZ7qAhVtJDQIHewPCogQ_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "C04E750025618541A69D9D16E7DC6783",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.coindesk.com%2Ftag%2Fjobs&sa=U&ved=2ahUKEwjg68W4jJ7qAhUHQ80KHeDBAqUQr4kDMAN6BAgREAI&usg=AOvVaw3xTnvggwGe9LG6v977VpPs",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.coindesk.com/tag/jobs. Â If you do not want to visit that page, you can return to the previous page."
+}

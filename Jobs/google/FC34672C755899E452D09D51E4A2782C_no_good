@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptocurrencyjobs.co/salaries/",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptocurrencyjobs.co%2Fsalaries%2F&sa=U&ved=2ahUKEwi57O-vhZ7qAhUdIDQIHVh_DMAQ0gIwDnoECAMQBA&usg=AOvVaw28plomSI8d0PJvOuRPeezO"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs&ie=UTF-8&tbas=0&source=lnt&sa=X&ved=0ahUKEwjH--OShZ7qAhWiIDQIHUA8DNcQpwUIDg",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "FC34672C755899E452D09D51E4A2782C",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptocurrencyjobs.co%2Fsalaries%2F&sa=U&ved=2ahUKEwi57O-vhZ7qAhUdIDQIHVh_DMAQ0gIwDnoECAMQBA&usg=AOvVaw28plomSI8d0PJvOuRPeezO",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptocurrencyjobs.co/salaries/. Â If you do not want to visit that page, you can return to the previous page."
+}

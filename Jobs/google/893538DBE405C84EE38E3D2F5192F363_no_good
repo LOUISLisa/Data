@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.technojobs.co.uk%2Finfo%2Fblockchain%2Fblockchain-jobs-salaries-trends-and-roles.phtml&sa=U&ved=2ahUKEwjC0qKQlJ7qAhVWUs0KHUUsCU84FBCqhQEwBHoECA8QAQ&usg=AOvVaw0YItTrXazZ-ghM9CovfCBL",
+        "https://www.technojobs.co.uk/info/blockchain/blockchain-jobs-salaries-trends-and-roles.phtml"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs%2Bsalary&ie=UTF-8&tbm=isch&ei=FSz1Xs24GduUtAaQ7r7IAQ&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "893538DBE405C84EE38E3D2F5192F363",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.technojobs.co.uk%2Finfo%2Fblockchain%2Fblockchain-jobs-salaries-trends-and-roles.phtml&sa=U&ved=2ahUKEwjC0qKQlJ7qAhVWUs0KHUUsCU84FBCqhQEwBHoECA8QAQ&usg=AOvVaw0YItTrXazZ-ghM9CovfCBL",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.technojobs.co.uk/info/blockchain/blockchain-jobs-salaries-trends-and-roles.phtml. Â If you do not want to visit that page, you can return to the previous page."
+}

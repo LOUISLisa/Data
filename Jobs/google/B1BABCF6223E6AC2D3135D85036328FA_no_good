@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://www.forbes.com/sites/louiscolumbus/2019/04/10/the-highest-paying-entry-level-jobs-in-tech-this-year/",
+        "https://www.google.com/url?q=https%3A%2F%2Fwww.forbes.com%2Fsites%2Flouiscolumbus%2F2019%2F04%2F10%2Fthe-highest-paying-entry-level-jobs-in-tech-this-year%2F&sa=U&ved=2ahUKEwj08rz9kJ7qAhUCCM0KHa_9BHEQr4kDMAt6BAgIEAI&usg=AOvVaw2V-t5CXT4cEciDCC3UKlOL"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?ie=UTF-8&tbm=isch&q=blockchain%2Bresearch%2Bjobs&chips=q%3Ablockchain%2Bresearch%2Bjobs%2Conline_chips%3Amedian%2Bsalary&sa=X&ved=0ahUKEwjplq2Zh57qAhWNXc0KHR1pDzwQ4lYIDigD",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "B1BABCF6223E6AC2D3135D85036328FA",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fwww.forbes.com%2Fsites%2Flouiscolumbus%2F2019%2F04%2F10%2Fthe-highest-paying-entry-level-jobs-in-tech-this-year%2F&sa=U&ved=2ahUKEwj08rz9kJ7qAhUCCM0KHa_9BHEQr4kDMAt6BAgIEAI&usg=AOvVaw2V-t5CXT4cEciDCC3UKlOL",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://www.forbes.com/sites/louiscolumbus/2019/04/10/the-highest-paying-entry-level-jobs-in-tech-this-year/. Â If you do not want to visit that page, you can return to the previous page."
+}

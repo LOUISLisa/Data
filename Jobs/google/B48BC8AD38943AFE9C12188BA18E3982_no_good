@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://crypto.jobs/jobs/blockchain-developer-at-unitycoin",
+        "https://www.google.com/url?q=https%3A%2F%2Fcrypto.jobs%2Fjobs%2Fblockchain-developer-at-unitycoin&sa=U&ved=2ahUKEwir5M_-k57qAhUQac0KHbBuCPc4FBCqhQEwDHoECAkQAQ&usg=AOvVaw3uQL6Ukh78MNhX4R3Ggu26"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=google%2Bblockchain%2Bjobs&ie=UTF-8&tbm=isch&ei=9iv1XrTGGdGO9PwPxr6RQA&start=20&sa=N",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "B48BC8AD38943AFE9C12188BA18E3982",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcrypto.jobs%2Fjobs%2Fblockchain-developer-at-unitycoin&sa=U&ved=2ahUKEwir5M_-k57qAhUQac0KHbBuCPc4FBCqhQEwDHoECAkQAQ&usg=AOvVaw3uQL6Ukh78MNhX4R3Ggu26",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://crypto.jobs/jobs/blockchain-developer-at-unitycoin. Â If you do not want to visit that page, you can return to the previous page."
+}

@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "http://ritzherald.com/blockchain-careers-an-exploding-ecosystem/",
+        "https://www.google.com/url?q=http%3A%2F%2Fritzherald.com%2Fblockchain-careers-an-exploding-ecosystem%2F&sa=U&ved=2ahUKEwjSvZnti57qAhXBLc0KHaM6CcIQqoUBMAB6BAgDEAE&usg=AOvVaw3Wnis7zLw0S0YpJp7M87su"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bcareers&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Aw&sa=X&ved=0ahUKEwj8lOimhZ7qAhWDMH0KHRldByYQ_AUICSgC",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "E2D4F05633434EE76A7A1E2E6827E88E",
+    "Url": "https://www.google.com/url?q=http%3A%2F%2Fritzherald.com%2Fblockchain-careers-an-exploding-ecosystem%2F&sa=U&ved=2ahUKEwjSvZnti57qAhXBLc0KHaM6CcIQqoUBMAB6BAgDEAE&usg=AOvVaw3Wnis7zLw0S0YpJp7M87su",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to http://ritzherald.com/blockchain-careers-an-exploding-ecosystem/. Â If you do not want to visit that page, you can return to the previous page."
+}

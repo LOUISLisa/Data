@@ -1,0 +1,18 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://cryptojobslist.com/",
+        "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2F&sa=U&ved=2ahUKEwik7deWjJ7qAhWBHc0KHa0mBGUQr4kDMAJ6BAgTEAI&usg=AOvVaw0zq28uLlMK2NH35PZyEWTk"
+    ],
+    "ContentType": "text/html; charset=ISO-8859-1",
+    "Parent": "https://www.google.com/search?q=blockchain%2Bjobs%2Bremote&ie=UTF-8&source=lnms&tbm=isch&tbs=qdr%3Aw&sa=X&ved=0ahUKEwi-jJ-ohZ7qAhVhMX0KHcylDUYQ_AUICygE",
+    "DocumentType": "JobBoards",
+    "Title": "Redirect Notice",
+    "Hash": "98423FA73940FD4C24731C6E25BC5EB0",
+    "Url": "https://www.google.com/url?q=https%3A%2F%2Fcryptojobslist.com%2F&sa=U&ved=2ahUKEwik7deWjJ7qAhWBHc0KHa0mBGUQr4kDMAJ6BAgTEAI&usg=AOvVaw0zq28uLlMK2NH35PZyEWTk",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "google",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Redirect Notice Â The previous page is sending you to https://cryptojobslist.com/. Â If you do not want to visit that page, you can return to the previous page."
+}
