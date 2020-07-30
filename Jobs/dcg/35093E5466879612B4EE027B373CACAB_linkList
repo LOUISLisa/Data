@@ -1,0 +1,14 @@
+{
+    "CrawledDate": "2020-07-13",
+    "SeedUrl": "https://jobs.dcg.co/",
+    "DomainId": "dcg",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=utf-8",
+    "Language": "Lithuanian",
+    "DocumentType": "JobBoards",
+    "Title": "Digital Currency Group Job Board",
+    "Hash": "35093E5466879612B4EE027B373CACAB",
+    "TackIt": "false",
+    "Body": "",
+    "Url": "https://jobs.dcg.co/"
+}
