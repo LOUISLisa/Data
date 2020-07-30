@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.glassdoor.com/Job/blockchain-jobs-SRCH_KE0,10.htm",
+    "OutLinks": ["https://www.glassdoor.com/mz-survey/start_input.htm?c=PAGE_HEADER_NAV&showSurvey=REVIEWS"],
+    "ContentType": "text/html;charset=UTF-8",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "blockchain Jobs | Glassdoor",
+    "Hash": "8AD713D2D63F084EE18D581A874F72EF",
+    "Url": "https://www.glassdoor.com/Job/blockchain-jobs-SRCH_KE0,10.htm",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "glassdoor",
+    "Language": "Estonian",
+    "TackIt": "true",
+    "Body": " Jobs Jobs Jobs Companies Salaries InterviewsSearch All Job Types Posted Any Time 14,000-330,000 25 Miles All Cities Company Ratings All Industries All Job Functions All Seniority Labels All Companies All Company Sizes Easy Apply WFH or Remote More(0) Clear Filters "
+}
