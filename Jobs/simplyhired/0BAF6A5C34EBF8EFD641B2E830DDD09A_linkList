@@ -1,0 +1,63 @@
+{
+    "SeedUrl": "https://www.simplyhired.com/search?q=blockchain",
+    "OutLinks": [
+        "https://www.simplyhired.at/",
+        "https://www.simplyhired.be/",
+        "https://www.simplyhired.ca/",
+        "https://www.simplyhired.ch/",
+        "https://www.simplyhired.cn/",
+        "https://www.simplyhired.cn/job/IdlPEdpwJPTh9q9d4_MKhzDtarUSjYTAoFlLe4Q1YMJnvEAQXAAm7Q?q=%E5%B7%A5%E8%AF%BB%E7%94%9F",
+        "https://www.simplyhired.cn/job/MtmWP9W9OmNnvb1CoIgbqtgJS6o85CWIGpexSdCV8cGliqKe3ElZBw?q=%E5%B7%A5%E8%AF%BB%E7%94%9F",
+        "https://www.simplyhired.cn/job/REXdqN6RoWjSgiQwRBcljrLkPXyEPp2Kswj7rnHnX-npdji4F0ZAtA?q=%E5%B7%A5%E8%AF%BB%E7%94%9F",
+        "https://www.simplyhired.cn/job/XnLDJwDuL5SN6KzEjCwCQn7Ot21PXSt7dHs98gZxSrFiVQKUCRBNUw?q=%E5%B7%A5%E8%AF%BB%E7%94%9F",
+        "https://www.simplyhired.cn/job/rvgXngya7-VHUllAYlA2utjAJ4IkKwVkARFcu0BKkjpNoI9PrHLAlw?q=%E5%B7%A5%E8%AF%BB%E7%94%9F",
+        "https://www.simplyhired.cn/local-jobs",
+        "https://www.simplyhired.cn/salaries",
+        "https://www.simplyhired.cn/search?q=%E4%B8%8A%E6%B5%B7%E7%99%BE%E8%84%91%E6%B1%87%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E5%B8%82%E5%9C%BA%E7%BB%8F%E8%90%A5%E7%AE%A1%E7%90%86%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&pp",
+        "https://www.simplyhired.cn/search?q=%E5%84%AA%E6%B8%A5%E5%8F%AF%E4%BA%BA%E4%BA%8B%E9%A1%A7%E5%95%8F%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&pp",
+        "https://www.simplyhired.cn/search?q=%E5%8D%8E%E4%B8%9C%E5%BA%B7%E6%A1%A5%E5%9B%BD%E9%99%85%E5%AD%A6%E6%A0%A1%2B%E6%9F%A5%E7%9C%8B%E6%89%80%E6%9C%89%E8%81%8C%E4%BD%8D&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&fdb=1&from=serptopfilter&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&fdb=14&from=serptopfilter&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&fdb=30&from=serptopfilter&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&fdb=7&from=serptopfilter&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&fdb=lv&from=serptopfilter&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&from=serptopfilter&jt=internship&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&from=serptopfilter&jt=parttime&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&from=serptopfilter&jt=recruiter&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&from=serptopfilter&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&l=%E4%B8%8A%E6%B5%B7%E5%B8%82%2B%E9%95%BF%E5%AE%81%E5%8C%BA&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&l=%E4%B8%8A%E6%B5%B7%E5%B8%82&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&l=%E5%8D%97%E6%98%8C%E5%B8%82%2B%E7%BB%8F%E6%B5%8E%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91%E5%8C%BA&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&l=%E5%B8%B8%E5%B7%9E%E5%B8%82%2B%E6%96%B0%E5%8C%97%E5%8C%BA&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&l=%E6%B2%B3%E6%BA%90%E5%B8%82%2B%E5%92%8C%E5%B9%B3%E5%8E%BF&pp",
+        "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F&sb=dd&from=serptopfilter&pp",
+        "https://www.simplyhired.cn/search?q=%E8%81%94%E5%BC%BA%E5%9B%BD%E9%99%85%2B%E6%9F%A5%E7%9C%8B%E6%89%80%E6%9C%89%E8%81%8C%E4%BD%8D&pp",
+        "https://www.simplyhired.cn/search?q=imc%E7%B2%BE%E8%8B%B1%7C%E7%B2%BE%E9%9A%BC%7C%E7%B2%BE%E6%98%8E&pp",
+        "https://www.simplyhired.com/",
+        "https://www.simplyhired.de/",
+        "https://www.simplyhired.es/",
+        "https://www.simplyhired.fr/",
+        "https://www.simplyhired.ie/",
+        "https://www.simplyhired.jp/",
+        "https://www.simplyhired.kr/",
+        "https://www.simplyhired.mx/",
+        "https://www.simplyhired.nl/",
+        "https://www.simplyhired.pt/",
+        "https://www.simplyhired.ru/",
+        "https://www.simplyhired.se/",
+        "https://za.simplyhired.com/"
+    ],
+    "LinkUrlMatch": "search",
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://www.simplyhired.cn/",
+    "DocumentType": "JobBoards",
+    "Title": "å·¥è¯»çç¸å³èä½ | SimplyHired",
+    "Hash": "0BAF6A5C34EBF8EFD641B2E830DDD09A",
+    "Url": "https://www.simplyhired.cn/search?q=%E5%B7%A5%E8%AF%BB%E7%94%9F",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "simplyhired",
+    "Language": "Lithuanian",
+    "TackIt": "true",
+    "Body": "Skip to content æç´¢èä½ éè¿åå¸ å¨åæå¸ ç»æµææ¯å¼ååºçèä½ å¨ä¸æµ·å¸ é¿å®åºçèä½ å¨ä¸æµ·å¸çèä½ å¨æ²³æºå¸ åå¹³å¿çèä½ å¨å¸¸å·å¸ æ°ååºçèä½ æ¨èå¬å¸ åä¸åº·æ¡¥å½éå­¦æ ¡ æ¥çææèä½ èå¼ºå½é æ¥çææèä½ ä¸æµ·ç¾èæ±çµå­äº§åå¸åºç»è¥ç®¡çæéå¬å¸ åªæ¸¥å¯äººäºé¡§åæéå¬å¸ IMCç²¾è±|ç²¾é¼|ç²¾æ èªèµä¼°æµ æ¬å°èä½ ä¸­å½ United StatesCanada ArgentinaAustraliaBelgiÃ«BrasilDeutschlandEspaÃ±aFranceIndiaIrelandItaliaMÃ©xicoNederlandÃsterreichPortugalSchweizSouth AfricaSverigeUnited KingdomÐ Ð¾ÑÑÐ¸Ñíêµ­ä¸­å½æ¥æ¬ Â© 2020 SH Inc. |Â éç§Â |Â æ¡æ¬¾Â |Â Privacy Center å·¥è¯»çç¸å³èä½ èä½å³é®è¯ å°ç¹ æç´¢èä½ ææèä½ï¼5ï¼è®¾ç½®ç­é èä½ç±»å æåºæ¹å¼ æ·»å æ¥æ 5ä¸ªå·¥è¯»çèä½ Displayed here are Job Ads that match your query. SimplyHired may be compensated by these employers, helping keep SimplyHired free for jobseekers. SimplyHired ranks Job Ads based on a combination of employer bids and relevance, such as your search terms and other activity on SimplyHired. For more information, see the SimplyHired Privacy Policy. å¨é¨èä½ç±»å å®ä¹ ç æèæºæ å¼è æç¸å³æåº ææ¥ææåº ä¸é èªä¸ä¸æ¬¡è®¿é® 24å°æ¶ 7å¤© 14å¤© 30å¤© å®åæ¨çæç´¢ èä½ç±»å å¨é¨èä½ç±»å å®ä¹ ç æèæºæ å¼è æåºæ¹å¼ æç¸å³æåº ææ¥ææåº æ·»å æ¥æ ä¸é èªä¸ä¸æ¬¡è®¿é® 24å°æ¶ 7å¤© 14å¤© 30å¤© è®¾ç½®ç­é åè¯­é¨å¾·è²ç»(å·¥è¯»ç) åä¸åº·æ¡¥å½éå­¦æ ¡ æ¥çææèä½ - åæå¸ ç»æµææ¯å¼ååºÂ  1.æ¬ç§åä»¥ä¸å­¦åï¼ 2.çç»æä½åå¬è½¯ä»¶ï¼å¦ï¼ExcelãWordãPPT 3.ç¥éè±è¯­ï¼æä¸å®çææ¡ä¹¦åè½åï¼ 4.æ¥åä¼ç§åºå±æ¯ä¸çï¼ 5.æè¾å¼ºçè´£ä»»å¿ãå·æå­¦çç®¡ççåºæ¬è®¤ç¥ï¼ 6... Helpdesk å®ä¹ ç èå¼ºå½é æ¥çææèä½ - ä¸æµ·å¸ é¿å®åºÂ  åçå¹è²ååè¿å¶åº¦ã èè½ç±»å«ï¼ç½ç»ç®¡ç(Helpdesk) å³é®å­ï¼Itç½ç®¡ç½ç»è®¡ç®æºææ¯æ¯æè¿ç»´ç³»ç»ç®¡çå®ä¹ çå·¥è¯»ç å¾®ä¿¡åäº« èç³»æ¹å¼ ä¸ç­å°åï¼ä¸æµ·å¸é¿å®åºå¤©å±±è¥¿è·¯1068å·èå¼ºç§æå­ ä¼åä¸å ä¸æµ·ç¾èæ±çµå­äº§åå¸åºç»è¥ç®¡çæéå¬å¸ - ä¸æµ·å¸Â  äºå®ï¼å¯»æ±æ´å¤èµæº 6ãåå©ååååå®¶ä¸»åæä»£åæ´»å¨ä¹ç­åãæ²éåè°ãèµæºéåä¸æ´»å¨å®æ½ 7ãå·¥è¯»çé¡¹ç®å¹è®­ä¸ç®¡çãç»©æèæ ¸ 8ãå¶ä»ä¸çº§äº¤åä¹ä»»å¡ èä½èµæ ¼ï¼ å·1å¹´åä»¥ä¸ç¸å³ä¼ä¸ä¼åå·¥ä½... (æ·¡æ°´)å¾·åç¾éææä¿é·,æªæå·¥è®ç,åºèª+çé-F84 IMCç²¾è±|ç²¾é¼|ç²¾æ - å¸¸å·å¸ æ°ååºÂ  è·åç·¨èï¼ IMC615586F84 å·¥ä½å°åï¼ æ°åå¸æ·¡æ°´å å·¥ä½é¡åï¼ å¼è· ç¢æ¥­é¡å¥ï¼ å®¶ç¨é»å¨ è·åé¡å¥ï¼ éè·¯é·å® è·åå§å®¹ï¼ æªä¾ä¼æ¥­é è¢ç²¾è±å¹è¨è¨å ä¸åå¤§ä¼æ¥­æ... ç´ é£é£ååè£ä½æ¥­å¡(åç¶é©ãäºåº¦å°±æ¥­ãå·¥è®çå¯) åªæ¸¥å¯äººäºé¡§åæéå¬å¸ - æ²³æºå¸ åå¹³å¿Â  å·¥ä½å§å®¹:ç´ é£é£åä¹æå·¥åè£åç¢ååºè²¨åä¹è£ç®±ãæåç­ç¸éå·¥ä½ å·¥ä½å°é»:å«å¾·å¸åå¹³è·¯ é£çµ¡é»è©±:03-3028668 æ¾ç¤º5ç1-5 1 åå»ºèä½æéè¯·æä¾çµå­é®ç®±å°å æ¨è¾å¥ççµå­é®ä»¶å°åæ æï¼ è®¢é è¯·æ¥çæ¨ççµå­é®ä»¶å¹¶ç¹å»ç¡®è®¤æé®ï¼ä»¥æ¿æ´»æ¨è®¾ç½®çèä½æéã è¯·æ¥çæ¨ççµå­é®ä»¶å¹¶ç¹å»ç¡®è®¤æé®ï¼ä»¥æ¿æ´»æ¨è®¾ç½®çèä½æéã ä¸­å½ United StatesCanada ArgentinaAustraliaBelgiÃ«BrasilDeutschlandEspaÃ±aFranceIndiaIrelandItaliaMÃ©xicoNederlandÃsterreichPortugalSchweizSouth AfricaSverigeUnited KingdomÐ Ð¾ÑÑÐ¸Ñíêµ­ä¸­å½æ¥æ¬ Â© 2020 SH Inc.Â |Â éç§Â |Â æ¡æ¬¾Â |Â Privacy Center Ã Displayed here are Job Ads that match your query. SimplyHired may be compensated by these employers, helping keep SimplyHired free for jobseekers. SimplyHired ranks Job Ads based on a combination of employer bids and relevance, such as your search terms and other activity on SimplyHired. For more information, see the SimplyHired Privacy Policy."
+}

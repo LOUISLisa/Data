@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.simplyhired.com/search?q=blockchain",
+    "OutLinks": [],
+    "ContentType": "text/html;charset=UTF-8",
+    "Parent": "https://www.simplyhired.com/search?q=blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "SimplyHired ATS",
+    "Hash": "49A71A1C9D97EDDCC32665E59FD968C3",
+    "Url": "https://employer.simplyhired.com/account/sign-in",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "simplyhired",
+    "Language": "Lithuanian",
+    "TackIt": "true",
+    "Body": ""
+}

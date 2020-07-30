@@ -1,0 +1,15 @@
+{
+    "SeedUrl": "https://www.simplyhired.com/search?q=blockchain",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://www.simplyhired.com/search?q=blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "SimplyHired HRIS",
+    "Hash": "5906EBF774401255E87E86E3F06D5314",
+    "Url": "https://hr.simplyhired.com/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "simplyhired",
+    "Language": "Lithuanian",
+    "TackIt": "true",
+    "Body": ""
+}

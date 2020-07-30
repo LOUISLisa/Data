@@ -1,0 +1,94 @@
+{
+    "SeedUrl": "https://www.simplyhired.com/search?q=blockchain",
+    "OutLinks": [
+        "https://www.simplyhired.at/",
+        "https://www.simplyhired.be/",
+        "https://www.simplyhired.ca/",
+        "https://www.simplyhired.ch/",
+        "https://www.simplyhired.cn/",
+        "https://www.simplyhired.cn/job/8g-e4drClt3-4ZJjfiFD-4V_PSNuqvOhKv-mZZB0HXkFl09RFi4OBA?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/EDV-qhxGxULx9rOmwfH8iLynWL6Sh1EdNOTfSELBrOnzyjZ9Nfi8Fg?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/FdIeYZK4c7xDAcSiFzVHmLITAWHxgmUuK-VIlwBSLET1Y4kKgwcKyA?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/Hv_Hc5xrVARqdgF6Dflr6N7Y7P4R3eE7mUOKlwUhtOjcd1KqOrJDpA?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/RZdvEHNNQoN0-pC5iZJ5vL6EoxHlthOLHi_psl1B7TTWXBobmRlMQA?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/TxfwbNq7PnyAD9A0sEjCjdm-2WSkdzY4001OVeBCxCrrWw6oAY-_BA?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/WP_yMOln8vy0ibh3Y4DD53YGCWNJJZOGweQ2xiN1YmcTBg9U9xNFSg?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/Xl7u79Zj0Vdt-5hBaKj1hexFG6VF7BGBxkqTmFDJC5cn6fS1qSL0sQ?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/eiYFxu-HILkCEzmJHySp1ARu8gLoJ5PwPVASmsykwMpi_b47hu0_EQ?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/khB_e1MvWTlxdlUB4VqRZfM3R34k-7ugtD5_4FezBH1XMDeBAz1azg?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/kjcUUzaynKDTGh6-gGS11l01BWR0XeVoROfJLCXlEC6or2pYyOq3sQ?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/lQhobSjb_iDYb-lBZut-tMXhSs0I-Nteiphe0FK2XRfFl7mI8fKTJQ?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/oFxcacHsg6AritPKKudIbaY9a82SfdpmowdtHLYkqexqv-KU98Kwmw?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/pe5JxxhtfPbRgY39QEpdUTi9L-v2oGEm3bcaNexODdyrTCCcX4R0qg?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/rQibx59sESTbUBtdNQh5DmogVRLnA-OXL1MsJqlJugTzNa_N44B6rg?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/rpFY2Ysu5TZk6k_5aM-UBg5GrQpqJW53Tlp31OmKa40OG4bW6wPKhg?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/soG2dCmITzOVLLjMp8A80YKEDfPY_k79-O6LmlDQYCYg11q_i95PqA?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/wxVqMjHg2hWZ_8wTxR7KqYnWn3765XOfyhyJzLq5LiCHnGN_mq4tWw?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/xdouzUztKBPhQosjoW_r9fKCHAjS6I0Q7tdr_WaMmZcsblDdj0zUMw?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/job/zZT0Zn-45WPxAf4HbSa4Ub6644EttBjF_BwvgZI0iKpCQxcPcALfXg?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/local-jobs",
+        "https://www.simplyhired.cn/salaries",
+        "https://www.simplyhired.cn/search?q=%E4%B8%AD%E5%9B%BD%E5%BB%BA%E7%AD%91%E7%AC%AC%E4%BA%94%E5%B7%A5%E7%A8%8B%E5%B1%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&dupe=3QEcAgS868RwWLokzPcDEgqPiv93iCxRHgD2oUPjrJefBSAZ5HsRnWxGBt9Z3ZqOhQ-e0g&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&dupe=qvhgOB_3Ew6njxg3Xm9_sXi5rfajevZMsSWuHA-BoMI7x1OX1Ss5GY59CvEmWTlw1Yhc3A&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&dupe=tzX7ZuGxaVDOjjzdjkILJNmN7rnxYxpGplnp2067L9iIR1J3KJVZzwaFBdOZYGF0CfPsuw&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&fdb=1&from=serptopfilter&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&fdb=14&from=serptopfilter&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&fdb=30&from=serptopfilter&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&fdb=7&from=serptopfilter&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&fdb=lv&from=serptopfilter&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&from=serptopfilter&jt=apprenticeship&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&from=serptopfilter&jt=commission&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&from=serptopfilter&jt=contract&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&from=serptopfilter&jt=custom_1&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&from=serptopfilter&jt=fulltime&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&from=serptopfilter&jt=internship&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&from=serptopfilter&jt=new_grad&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&from=serptopfilter&jt=parttime&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&from=serptopfilter&jt=recruiter&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&from=serptopfilter&jt=subcontract&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&from=serptopfilter&jt=temporary&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&from=serptopfilter&jt=volunteer&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&from=serptopfilter&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&l=%E4%B8%8A%E6%B5%B7%E5%B8%82&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&l=%E5%90%B4%E6%B1%9F%E5%B8%82&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&l=%E5%A4%A7%E8%BF%9E%E5%B8%82%2B%E6%97%85%E9%A1%BA%E5%8F%A3%E5%8C%BA&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&l=%E6%B5%99%E6%B1%9F%E7%9C%81&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&l=%E6%B7%B1%E5%9C%B3%E5%B8%82&pp",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&pn=2&from=pagination&pp=ABQAAAAAAAAAAAAAAAGGUyxyAQEBCynWfiz6EwcHZZDJffj9plIpMavQ06cJ_8Q5inIvbJ0qG4qsQcIPRKPhfempyIc",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&pn=3&from=pagination&pp=ABQAAAAAAAAAAAAAAAGGUyxyAQEBCynWfiz6EwcHZZDJffj9plIpMavQ06cJ_8Q5inIvbJ0qG4qsQcIPRKPhfempyIc",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&pn=4&from=pagination&pp=ABQAAAAAAAAAAAAAAAGGUyxyAQEBCynWfiz6EwcHZZDJffj9plIpMavQ06cJ_8Q5inIvbJ0qG4qsQcIPRKPhfempyIc",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&pn=5&from=pagination&pp=ABQAAAAAAAAAAAAAAAGGUyxyAQEBCynWfiz6EwcHZZDJffj9plIpMavQ06cJ_8Q5inIvbJ0qG4qsQcIPRKPhfempyIc",
+        "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C&sb=dd&from=serptopfilter&pp",
+        "https://www.simplyhired.cn/search?q=%E6%8E%8C%E9%97%A81%E5%AF%B91%2B%E6%9F%A5%E7%9C%8B%E6%89%80%E6%9C%89%E8%81%8C%E4%BD%8D&pp",
+        "https://www.simplyhired.cn/search?q=%E6%96%B0%E4%BD%99%E5%B8%82%E5%8D%93%E7%81%B5%E6%95%99%E8%82%B2%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&pp",
+        "https://www.simplyhired.cn/search?q=%E6%96%B0%E9%80%9A%E6%95%99%E8%82%B2%E9%9B%86%E5%9B%A2&pp",
+        "https://www.simplyhired.cn/search?q=%E8%BF%85%E9%94%80%E5%95%86%E8%B4%B8%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&pp",
+        "https://www.simplyhired.com/",
+        "https://www.simplyhired.de/",
+        "https://www.simplyhired.es/",
+        "https://www.simplyhired.fr/",
+        "https://www.simplyhired.ie/",
+        "https://www.simplyhired.jp/",
+        "https://www.simplyhired.kr/",
+        "https://www.simplyhired.mx/",
+        "https://www.simplyhired.nl/",
+        "https://www.simplyhired.pt/",
+        "https://www.simplyhired.ru/",
+        "https://www.simplyhired.se/",
+        "https://za.simplyhired.com/"
+    ],
+    "LinkUrlMatch": "search",
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://www.simplyhired.cn/",
+    "DocumentType": "JobBoards",
+    "Title": "å¼èç¸å³èä½ | SimplyHired",
+    "Hash": "74275E7141B50E53013D75D67FE931D0",
+    "Url": "https://www.simplyhired.cn/search?q=%E5%85%BC%E8%81%8C",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "simplyhired",
+    "Language": "Lithuanian",
+    "TackIt": "true",
+    "Body": "Skip to content æç´¢èä½ éè¿åå¸ å¨æ·±å³å¸çèä½ å¨ä¸æµ·å¸çèä½ å¨å´æ±å¸çèä½ å¨æµæ±ççèä½ å¨å¤§è¿å¸ æé¡ºå£åºçèä½ æ¨èå¬å¸ è¿éåè´¸æéå¬å¸ æ°éæè²éå¢ æé¨1å¯¹1 æ¥çææèä½ ä¸­å½å»ºç­ç¬¬äºå·¥ç¨å±æéå¬å¸ æ°ä½å¸åçµæè²å¨è¯¢æéå¬å¸ èªèµä¼°æµ æ¬å°èä½ ä¸­å½ United StatesCanada ArgentinaAustraliaBelgiÃ«BrasilDeutschlandEspaÃ±aFranceIndiaIrelandItaliaMÃ©xicoNederlandÃsterreichPortugalSchweizSouth AfricaSverigeUnited KingdomÐ Ð¾ÑÑÐ¸Ñíêµ­ä¸­å½æ¥æ¬ Â© 2020 SH Inc. |Â éç§Â |Â æ¡æ¬¾Â |Â Privacy Center å¼èç¸å³èä½ èä½å³é®è¯ å°ç¹ æç´¢èä½ ææèä½ï¼13,278ï¼è®¾ç½®ç­é èä½ç±»å æåºæ¹å¼ æ·»å æ¥æ 13,278ä¸ªå¼èèä½ Displayed here are Job Ads that match your query. SimplyHired may be compensated by these employers, helping keep SimplyHired free for jobseekers. SimplyHired ranks Job Ads based on a combination of employer bids and relevance, such as your search terms and other activity on SimplyHired. For more information, see the SimplyHired Privacy Policy. å¨é¨èä½ç±»å å¼è å¨è å®ä¹ ç ä¸´æ¶å·¥ å¤å åºå±ç ä½£éå¶ æèæºæ å¿æ¿è å­¦å¾ ååå·¥ å¶ä» æç¸å³æåº ææ¥ææåº ä¸é èªä¸ä¸æ¬¡è®¿é® 24å°æ¶ 7å¤© 14å¤© 30å¤© å®åæ¨çæç´¢ èä½ç±»å å¨é¨èä½ç±»å å¼è å¨è å®ä¹ ç ä¸´æ¶å·¥ å¤å åºå±ç ä½£éå¶ æèæºæ å¿æ¿è å­¦å¾ ååå·¥ å¶ä» æåºæ¹å¼ æç¸å³æåº ææ¥ææåº æ·»å æ¥æ ä¸é èªä¸ä¸æ¬¡è®¿é® 24å°æ¶ 7å¤© 14å¤© 30å¤© è®¾ç½®ç­é å¨çº¿è±è¯­æå¸ Online Part-Time English Teacher æ·±å³å¸åæµ·ç¾èç§ææéå¬å¸ - æ·±å³å¸Â  temperament. (5) çµèæä½çç». Excellent computer skills. èè½ç±»å«ï¼å¼è å³é®å­ï¼å¨çº¿æè²æäººè±è¯­*** ä¸ç­å°åï¼Home-based å¼èåå·¥-è¥¿é¤å¨å¸/å­¦å¾ æ å°è¯å(ä¸æµ·)åä¸æéå¬å¸ - ä¸­å½Â  4.æè¥¿å¼é¤é¥®ç¸å³å­¦ä¹ ç»å å·¥ä½æ¶é´ï¼ ãå­¦çå¼èã 1.æ¯å¨è³å°ä¸å¤©ï¼æ¯å¤©è³å°4å°æ¶ 2.æ¯å¨ç´¯è®¡å·¥ä½æ¶é´ä¸ä½äº24å°æ¶ ãç¤¾ä¼å¼èã 1.æ¯å¤©4å°æ¶ï¼æ¯å¨ä¸è¶è¿24å°æ¶ èªèµç¦å©ï¼ 1... æèå¼èç¼è¾ åäº¬å£ææ¶ä»£æè²ç§ææéå¬å¸ - ä¸­å½Â  ä¸ãå¼èè¦æ± ç ç©¶çãä¿ç çãå·²ç¡®è®¤èä¸ç çæ¬ç§çï¼å¯ä¸åç­ï¼ï¼å¤§äºå¤§ä¸å®ä¹ ï¼å¿é¡»åç­ï¼ã äºãä»é¬æ¹å¼ åç­å¼èå¯ä»»ææ¶é´ï¼ç´¯è®¡æ»¡26å¤©è®¡ä¸ºä¸ä¸ªå·¥ä½æï¼ï¼ä¸åç­å¼èæç§ä»»å¡ä»é¬ã åºéºå¼èåå·¥(å¨å½èå´) æ å°è¯å(ä¸æµ·)åä¸æéå¬å¸ - ä¸­å½Â  1.å¨æ¥å¶å¨æ ¡å­¦çæç¤¾ä¼å¼èï¼ç¤¾ä¼å¼èåªéåäº¬çåºäºãåäº¬è¥¿åå¤§æ¦... è¯¦æè¯¢é®åºéºã 2. ä¸ºå¼èåå·¥è´­ä¹°ä¿é©ã 3. æä¾åå·¥åä¹°æå¡ã å¶ ä»ï¼ æåééï¼ 1.å¼èåå·¥-æ­£å¼åå·¥-é¨é¨æå½... å¼èåå·¥-å¤§å  æ å°è¯å(ä¸æµ·)åä¸æéå¬å¸ - ä¸­å½Â  è¯å¥½çæ²éè¡¨è¾¾è½ååæå¡æè¯ å·¥ä½æ¶é´ï¼ ãå­¦çå¼èã 1.æ¯å¨è³å°ä¸å¤©ï¼æ¯å¤©è³å°4å°æ¶ 2.æ¯å¨ç´¯è®¡å·¥ä½æ¶é´ä¸ä½äº24å°æ¶ ãç¤¾ä¼å¼èã 1.æ¯å¤©4å°æ¶ï¼æ¯å¨ä¸è¶è¿24å°æ¶ èªèµç¦å©ï¼ 1... æèå¼èè®²å¸ åäº¬å£ææ¶ä»£æè²ç§ææéå¬å¸ - ä¸­å½Â  ä¸ãè®²å¸è¦æ± å¤§å­¦è®²å¸ãå¨æ ¡åå£«ãä¼ç§ç¡å£«ï¼ææè¯¾ç»éªèä¼åã äºãæè¯¾åå®¹ è®²æç»å¸ææãèç èè¯è¯¾ç¨ï¼å¯ä»¥æ¯ç½è¯¾ï¼å¿é¡»æ¥å¬å¸ï¼ãå½å±ï¼ä¸ç¨æ¥å¬å¸ï¼ã ä¸ãä»é¬æ¹å¼ æç§è¯¾ç¨æ¶é¿ä»é¬ã Customer Service Admin (Intern/Part-time) è±æ ç®¡çä½ç³»è®¤è¯æéå¬å¸ - æ·±å³å¸ ç¦ç°åºÂ  background is preferred. è®¤è¯æ£æµè¡ä¸èæ¯ä¼å èè½ç±»å«ï¼å®ä¹ çå¼è å³é®å­ï¼å®ä¹ çå¹è®­çå®¢æ·æå¡åå¤æ¯æ ä¸ç­å°åï¼æ·±å³å¸æ·±åå¤§é6008å·ç¹åºæ¥ä¸å¤§å¦29æ¥¼ABåº å¼èæç»å¹³é¢è®¾è®¡å¸ ä¸æµ·äºå æåä¼ æ­æéå¬å¸(æ²ªæ±ç½) - ä¸æµ·å¸Â  1. å½¢è±¡åä½ä»¥åå¨è¾¹äº§åå¼åãåºæ¯è®¾è®¡ãæç»ç­ï¼ 2. ç¸å³å¨è¾¹äº§åçåæè®¾è®¡ã ä»»èè¦æ±: 1.æå®çç¾æ¯ååºãå·å¤è¾å¥½ççµèæç»è½å,ç¾æ¯ç¸å³ä¸ä¸çä¼åï¼ 2.è½å¤è¾å¿«éåºå¹¶ä¸ææ¡åå®ãå¡éç­... å¼è·çµè¯é®å·è®¿é®åpart time å¹¿å·èè±ç§æä¿¡æ¯å¨è¯¢æéå¬å¸ - å¹¿å·å¸ èæ¹¾åºÂ  ä¸ æ ç²¤ è¯­ï¼å¿ æï¼ãæ±èèæç®åå°æå¸åï¼åéçæ±èèæä»¬å°è´çµé¢çº¦é¢è¯ã èè½ç±»å«ï¼å¼èä¸­ä¸/èæ ¡ç å³é®å­ï¼çµè¯é®å·è°ç å¸åºè°æ¥è®¿é® å¾®ä¿¡åäº« èç³»æ¹å¼ ä¸ç­å°åï¼å¹¿å·èæ¹¾åºä¿¡ä¹è·¯... å¼èæä¸è¯­ç¿»è¯Part-time Latin Translator æ­å·ä¸çç¿»è¯æéå¬å¸ - å¹¿å·å¸Â  æå¨å°åºï¼ æ­å· æå±è¡ä¸ï¼ ä¸ä¸æå¡ èä½ç±»å«ï¼ ç¿»è¯ &gt; å¶ä»è¯­ç§ç¿»è¯ å·¥ä½æ§è´¨ å¼è åå¸æ¶é´ 2020å¹´07æ03æ¥ æèäººæ° è¥å¹² æèªï¼äººæ°å¸ï¼ é¢è®® å¤è¯­è¦æ± å·¥ä½å°ç¹ å¹¿å· å·¥ä½ç»éª... 6å¤© å¿«ä¹ä¸»äºº,ååè¿è¥(å¼è) è¿ªå£«å°¼(Disney) - ä¸æµ·å¸Â  ç«å³ç³è¯· ç¨åç³è¯· èä½ID 697068BR å·¥ä½å°ç¹-å½å®¶/å°åº ä¸æµ·, ä¸æµ·, ä¸­å½(å¤§éï¼ å·¥ä½åå¸å¬å¸ ä¸æµ·è¿ªå£«å°¼åº¦ååº åå¸æ¥æ 2019/08/13 èä½ä»ç» å¨ä¸æµ·è¿ªå£«å°¼åº¦ååºï¼ç³çæ»¡... IELTSãTOEFLå¼èæå¸ æ°éæè²éå¢ - æ­¦æ±å¸Â  èä½æè¿°ï¼ 1ãéææç¦ç±»è¯¾ç¨çå¬åãåä½ãéè¯»ãå£è¯­ç±»è¯¾ç¨çæå­¦åæç ï¼ 2ãæ°æ¦å¿µç­å¶ä»åºç¡è±è¯­è¯¾ç¨çæå­¦ã ä»»èèµæ ¼ï¼ 1ãè®¤åæ°éä¼ä¸æåï¼è¯å®å®ä¿¡ï¼æäºä¸å¿åè´£ä»»æï¼ 2ãè±è¯­ä¸ä¸å«çº§... å¼èè¡èçè¯­ç¿»è¯ æ·±å³å®ä½ç¿»è¯æéå¬å¸ - ä¸­å½Â  æå¨å°åºï¼ æ·±å³ æå±è¡ä¸ï¼ æå¡ä¸ èä½ç±»å«ï¼ ç¿»è¯ &gt; å¶ä»è¯­ç§ç¿»è¯ å·¥ä½æ§è´¨ å¼è åå¸æ¶é´ 2020å¹´06æ28æ¥ æèäººæ° 10 æèªï¼äººæ°å¸ï¼ é¢è®® å¤è¯­è¦æ± å·¥ä½å°ç¹ ä¸é å·¥ä½ç»éªè¦... 13å¤© åé«ä¸­çç§èå¸(æ·±å³åªå±±part-time job) æ·±å³å¸å¿æºå¿çå¨è¯¢æéå¬å¸ - æ·±å³å¸Â  éç»å¬äº¤ M368è·¯ / M564è·¯ å°ç¢§å²­è¡éåç«ä¸è½¦æ­¥è¡120ç±³å³å° èè½ç±»å«ï¼ä¸­å­¦æå¸å¼èæå¸ å³é®å­ï¼æå¸èå¸çç§é«ä¸­æ°å­¦åä¸­ç©ççç§èå¸ ä¸ç­å°åï¼ç¢§å²­è¡éæ±¤åç¤¾åºæ±¤åäºè·¯2å·å¿æºæè² åé«ä¸­æç§èå¸(æ·±å³åªå±±part-time job) æ·±å³å¸å¿æºå¿çå¨è¯¢æéå¬å¸ - æ·±å³å¸Â  éç»å¬äº¤ M368è·¯ / M564è·¯ å°ç¢§å²­è¡éåç«ä¸è½¦æ­¥è¡120ç±³å³å° èè½ç±»å«ï¼ä¸­å­¦æå¸å¼èæå¸ å³é®å­ï¼æç»¼èå¸èå¸æå¸é«ä¸­èå¸åä¸­èå¸æç§èå¸ ä¸ç­å°åï¼ç¢§å²­è¡éæ±¤åç¤¾åºæ±¤åäºè·¯2å·å¿æºæè² å¼èè¡æ¿åå° æ°éæè²éå¢ - å¤©æ´¥å¸Â  èä½æè¿°ï¼ 1ãæ ¹æ®æ»æºæ¥å¬æµç¨æ¥å¬æ¥çµå¹¶è½¬æ¥è³ä¸ªé¨é¨ï¼åå¥½æ¥çµçç»è®¡å·¥ä½ï¼ 2ãè´è´£å¬å¸æ¥è®¿å®¢æ·çæ¥å¾ï¼åå©åå¥½æ¥å¸¸è¡æ¿å·¥ä½ï¼ 3ãå¯¹é¦å¨è¯¢è¿è¡OAå½å¥ååéï¼å¬å¸å¨è¯¢ãå®¢æ·æ¥è®¿èµæçå½å¥ãæ´ç... å¼è(åå¤§éè¿ çæ¥å­é£è¡) è¯·ä¿®æ¹ - åäº¬å¸ æµ·æ·åºÂ  1000-2000 | åäº¬ æµ·æ·åº | å¼è | å¤§ä¸ | ç»éªå¨è¯» ç»©æ... 4ãå¨éå®è¿ç¨ä¸­æç§å¸åºé¨ç®¡çå¶åº¦åç¸å³æµç¨è§èæ§è¡ï¼ 5ãæ¬å¼èå¯è´¯ç©¿äºçæ´»ä¸­åï¼å¬å¸å·²å¼éå¾®ä¿¡ååå¹¶æè´è´£çåå¤äººåï¼ä»»ä½æ¶é´ç... å¼èè±è¯­èå¸ æ°éæè²éå¢ - éåºå¸Â + å¶ä»8ä¸ªå°ç¹ èä½æè¿°ï¼ 1ãæ ¹æ®è¯¾ç¨å¤§çº²å®æä¸­å¿åé¡¹è¯¾ç¨çæè¯¾ï¼ 2ãæ¥åå¹¶åå å­¦æ ¡ç»ç»çåé¡¹å¸èµå¹è®­åæç æ´»å¨ï¼ 3ãæ§è¡å­¦æ ¡çåé¡¹æå­¦è¦æ±åè§ç« å¶åº¦ï¼ 4ãè¾¾æå­¦æ ¡è¦æ±çåé¡¹æå­¦ææ åå²ä½å·¥ä½ç®æ ã ä»»è... å¾·è¯­å¼èèå¸ æ°éæè²éå¢ - å¤©æ´¥å¸Â + å¶ä»2ä¸ªå°ç¹ èä½æè¿°ï¼ 1.æ ¹æ®è¯¾ç¨å¤§çº²è¦æ±å®æåè¯­ç§ä¸å¯¹ä¸/å°ç­æè¯¾ï¼ 2.åå å­¦æ ¡ç»ç»çåé¡¹å¸èµå¹è®­åæç æ´»å¨ï¼ 3.æ§è¡å­¦æ ¡çåé¡¹æå­¦è¦æ±åè§ç« å¶åº¦ï¼ 4.è¾¾æå­¦æ ¡è¦æ±çåé¡¹æå­¦ææ åå²ä½å·¥ä½ç®æ ... æ¥è¯­å¼èèå¸ æ°éæè²éå¢ - å¤©æ´¥å¸Â + å¶ä»2ä¸ªå°ç¹ èä½æè¿°ï¼ 1.æ ¹æ®è¯¾ç¨å¤§çº²è¦æ±å®æåè¯­ç§ä¸å¯¹ä¸/å°ç­æè¯¾ï¼ 2.åå å­¦æ ¡ç»ç»çåé¡¹å¸èµå¹è®­åæç æ´»å¨ï¼ 3.æ§è¡å­¦æ ¡çåé¡¹æå­¦è¦æ±åè§ç« å¶åº¦ï¼ 4.è¾¾æå­¦æ ¡è¦æ±çåé¡¹æå­¦ææ åå²ä½å·¥ä½ç®æ ... æ¾ç¤º13,278ç1-20 1 2 3 4 5 åå»ºèä½æéè¯·æä¾çµå­é®ç®±å°å æ¨è¾å¥ççµå­é®ä»¶å°åæ æï¼ è®¢é è¯·æ¥çæ¨ççµå­é®ä»¶å¹¶ç¹å»ç¡®è®¤æé®ï¼ä»¥æ¿æ´»æ¨è®¾ç½®çèä½æéã è¯·æ¥çæ¨ççµå­é®ä»¶å¹¶ç¹å»ç¡®è®¤æé®ï¼ä»¥æ¿æ´»æ¨è®¾ç½®çèä½æéã ä¸­å½ United StatesCanada ArgentinaAustraliaBelgiÃ«BrasilDeutschlandEspaÃ±aFranceIndiaIrelandItaliaMÃ©xicoNederlandÃsterreichPortugalSchweizSouth AfricaSverigeUnited KingdomÐ Ð¾ÑÑÐ¸Ñíêµ­ä¸­å½æ¥æ¬ Â© 2020 SH Inc.Â |Â éç§Â |Â æ¡æ¬¾Â |Â Privacy Center Ã Displayed here are Job Ads that match your query. SimplyHired may be compensated by these employers, helping keep SimplyHired free for jobseekers. SimplyHired ranks Job Ads based on a combination of employer bids and relevance, such as your search terms and other activity on SimplyHired. For more information, see the SimplyHired Privacy Policy."
+}
