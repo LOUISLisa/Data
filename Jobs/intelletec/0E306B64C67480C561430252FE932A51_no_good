@@ -1,0 +1,22 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://www.intelletec.com/job-search?disciplines=Blockchain",
+    "DomainId": "intelletec",
+    "OutLinks": [
+        "https://www.intelletec.com/job-search",
+        "https://www.intelletec.com/job-search?disciplines=software-engineering",
+        "https://www.intelletec.com/jobs",
+        "https://www.intelletec.com/jobs/senior-engineer-12",
+        "https://www.intelletec.com/jobs/senior-engineer-13",
+        "https://www.intelletec.com/jobs/senior-engineer-6",
+        "https://www.intelletec.com/jobs/senior-engineer-9"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.intelletec.com/jobs/senior-engineer-13",
+    "DocumentType": "JobBoards",
+    "Title": "Senior Engineer with ref. AAJRR4593 - Intelletec",
+    "Hash": "0E306B64C67480C561430252FE932A51",
+    "TackIt": "true",
+    "Body": ": AAJRR4593 Startdate: ASAP Consultant: Jason Rumney Our fast-growing tech company in San Francisco who are solving the big problems around food waste and the fresh food supply chain--focusing first in grocery. They are using a cutting-edge AI combined with thoughtful design to enhance decision-making and optimize store workflows. The results are powerful: in live deployments in grocery stores, we have demonstrated the potential to double profits and reduce food waste by 50%. Â  They\u2019re growing fast and are in partnership with 4 large regional grocers representing 500+ stores and >$10B in revenue. Our backers include Innovation Endeavors (former Google CEO Eric Schmidt\u2019s firm) and Baseline Ventures (first money in Stitchfix, SoFi, Heroku, Instagram). Due to rapid growth, our client is seeking Engineers. What will you be doing? Building infrastructure that enables deploying machine learning models over billions of historical data points collected from tens of thousands of retail stores across the US. Developing data pipelines powered by Apache Spark and other modern big data processing systems. Developing a data backend comprised of transactional, analytic, and NoSQL databases. Maintain a data lake that supports fast and reliable analytics over terabytes of data. Designing backend infrastructure powering a mobile front-end that will be used daily by tens of thousands of store operators. Helping maintain tools for monitoring the performance of machine learning models at scale and ensuring the integrity of incoming data feeds. What skills and experience do you need? Bachelors, Masters, or PhD in Computer Science or equivalent. 4+ years of work experience. Outstanding programming skills. Demonstrated ability to design large software systems. Deep knowledge of databases and/or distributed systems. Experience with modern big data frameworks, especially in the context of building massive data lakes and data pipelines. Experience in scaling computation to thousands of machines, ideally in the context of machine learning. Experience working with Microsoft Azure, Amazon Web Services, and other cloud providers.A good understanding of machine learning and/or devops expertise is a plus. Â  Apply Go back Apply Now Save job Remove from shortlist Share this Job Consultant Jason Rumney View More Jobs Senior Engineer Palo Alto Circa $200,000 Permanent Senior Engineer San Francisco Circa $180,000 Senior Engineer New York 160000 Permanent Latest Blogs UX trends set for 2020 Rachel Whalley November 27, 2019 tech industry How to effectively manage remote employees Rachel Whalley November 13, 2019 Workplace, Productivity Porto Oporto! Rachel Whalley November 06, 2019 Intelletec, Workplace Quick Links: Find a job Intelletec Vacancies Services Sectors Refer a Friend Privacy Policy Cookies Locations: London Los Angeles Tel Aviv New York CITY Pavillion, 27 Bush Lane, London, EC4R 0AA +44 (0) 203 946 7520 Â info@intelletec.com WeWork, 925 North La Brea Ave, Los Angeles, CA 90038, USA +1 (213) 443 6588 info@intelletec.com WeWork, 1 Shankar St, Arieh Shenkar St 1, Herzliya, 4672501, Israel\u200b +1 (213) 443 6588 info@intelletec.com We Work 368 9th Ave, New York, NY 1000, USA info@intelletec.com +1 (213) 443 6588 Copyright Â© 2019 Intelletec All rights reserved. Website byVolcanic",
+    "Url": "https://www.intelletec.com/jobs/senior-engineer-9"
+}

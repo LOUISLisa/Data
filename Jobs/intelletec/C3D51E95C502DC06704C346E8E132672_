@@ -1,0 +1,25 @@
+{
+    "SeedUrl": "https://www.intelletec.com/job-search?disciplines=Blockchain",
+    "OutLinks": [
+        "https://www.intelletec.com/job-search",
+        "https://www.intelletec.com/job-search?disciplines=Blockchain",
+        "https://www.intelletec.com/job-search?disciplines=software-engineering",
+        "https://www.intelletec.com/job-search?job_types=permanent-61",
+        "https://www.intelletec.com/jobs",
+        "https://www.intelletec.com/jobs/backend-engineer-1",
+        "https://www.intelletec.com/jobs/backend-engineer-5",
+        "https://www.intelletec.com/jobs/backend-engineer-6",
+        "https://www.intelletec.com/jobs/backend-engineer-7"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.intelletec.com/job-search/page/2?disciplines=Blockchain",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Backend Engineer with ref. - Intelletec",
+    "Hash": "C3D51E95C502DC06704C346E8E132672",
+    "Url": "https://www.intelletec.com/jobs/backend-engineer-6",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "intelletec",
+    "TackIt": "true",
+    "Body": "Job search Candidates Register Login Refer a Friend Clients Services Working with Intelletec Request our terms Sectors Software Engineering Technology Sales Mobile (iOS & Android) Data Science Product UX/UI Design Cyber Security Blockchain & Fintech Marketing Operations & Finance About Us Work with Us Meet the Team Intelletec Vacancies Blogs Testimonials Contact Us Login or Register Upload your cv Job search Candidates Register Login Refer a Friend Clients Services Working with Intelletec Request our terms Sectors Software Engineering Technology Sales Mobile (iOS & Android) Data Science Product UX/UI Design Cyber Security Blockchain & Fintech Marketing Operations & Finance About Us Work with Us Meet the Team Intelletec Vacancies Blogs Testimonials Contact Us Register Login Backend Engineer Location San Francisco Sector: Software Engineering, Blockchain & Fintech Job type: Permanent Salary: Starting $150,000+ Contact: Jennifer Beltran Contact email: Jennifer@intelletec.com Consultant: Jennifer Beltran Our partner is the next generation financial services company building the best banking experience to help teens and young adults achieve financial independence and knowledge at an earlier age. Â Their mission is to create a bank that gives you the tools to become smarter with your money and reward you along your financial journey.Â  Tech Stack: Java, Koltin, PostgresSQL, Kubernetes, gRPC, Protocol Buffers, jOOQ, Dagger, Swagger This role could be a fit if you have: Strong Computer Science fundamentals Proficiency in Kotlin or JavaÂ  Working knowledge of API design and microservices SQL knowledge (we use PostgreSQL) Familiarity with Agile, CI/CD, DevOps What you'll do: You will be working on anything from working on core product features to developing infrastructure to interfacing with external partners. You will be deeply involved in the technical details of building highly available and reliable services, while also working with product teams to enable Step to rapidly build new capabilities for our customers. Work in a small, tight knit cross-functional team Be part of a high energy, fun, world class engineering team Contribute to the design, implementation and running of a high-volume, low-latency, distributed transaction processing systems Own features throughout their life cycle, from inception to production Prioritize maintainable code and test all the things Compensation: Negotiable, plus bonuses, equity, and potential sign on too (DOE) Apply Go back Apply Now Save job Remove from shortlist Share this Job Consultant Jennifer Beltran View More Jobs Backend Engineer United States Starting $150 - 200k + equity Permanent Backend Engineer San Francisco Permanent Backend Engineer San Francisco Permanent Latest Blogs UX trends set for 2020 Rachel Whalley November 27, 2019 tech industry How to effectively manage remote employees Rachel Whalley November 13, 2019 Workplace, Productivity Porto Oporto! Rachel Whalley November 06, 2019 Intelletec, Workplace Quick Links: Find a job Intelletec Vacancies Services Sectors Refer a Friend Privacy Policy Cookies Locations: London Los Angeles Tel Aviv New York CITY Pavillion, 27 Bush Lane, London, EC4R 0AA +44 (0) 203 946 7520 Â info@intelletec.com WeWork, 925 North La Brea Ave, Los Angeles, CA 90038, USA +1 (213) 443 6588 info@intelletec.com WeWork, 1 Shankar St, Arieh Shenkar St 1, Herzliya, 4672501, Israel\u200b +1 (213) 443 6588 info@intelletec.com We Work 368 9th Ave, New York, NY 1000, USA info@intelletec.com +1 (213) 443 6588 Copyright Â© 2019 Intelletec All rights reserved. Website byVolcanic"
+}

@@ -1,0 +1,22 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://www.intelletec.com/job-search?disciplines=Blockchain",
+    "DomainId": "intelletec",
+    "OutLinks": [
+        "https://www.intelletec.com/job-search",
+        "https://www.intelletec.com/job-search?disciplines=software-engineering",
+        "https://www.intelletec.com/jobs",
+        "https://www.intelletec.com/jobs/senior-software-engineer-31",
+        "https://www.intelletec.com/jobs/senior-software-engineer-frontend",
+        "https://www.intelletec.com/jobs/senior-software-engineer-frontend-1",
+        "https://www.intelletec.com/jobs/senior-software-engineer-nodejs-slash-graphql"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.intelletec.com/jobs/senior-software-engineer-30",
+    "DocumentType": "JobBoards",
+    "Title": "Senior Software Engineer (NodeJS/GraphQL) with ref. AAJR 03938484 - Intelletec",
+    "Hash": "42F043B6A0748D808B93FC674846613D",
+    "TackIt": "true",
+    "Body": ": AAJR 03938484 Startdate: ASAP Consultant: Jason Rumney Our Series A client is looking for a founding senior backend engineer. They are building a modern and aspirational banking experience by bringing rewards and benefits to the everyday debit card and have recently secured over $10million in investment. The role You will help to build a mobile banking app that you would actually use. They\u2019re challenging the status quo and building a premium debit card to align incentives with members.Â  You will work alongside a lean and highly-talented team. One of their co-founders designed the interface of the first iPhone and launched and scaled to millions of dollars in transactional volume with a team of 2.5 engineersÂ  You will have impact across the entire company from new product features, internal tools, or jamming on a marketing idea \u2014 no shortage of things to work on. They\u2019re funded and supported by top investors \u2014 backed by the same investors behind companies like Airbnb, Stripe, Notion, and many others. What will you do: You will work to ensure integrations with key vendors are stable and reliable \u2014 our card issuer, card printer, identity verification vendors, Plaid, etc. You will build the backend logic that powers new features. Potential examples: instant bank transfers, custom rewards \u2014 features that will enable Point to attract and retain more members. You will build scalable infrastructure that can handle very large amounts of data with low latency. Skills: Have been working as a backend engineer for 3+ years with at least 2 of them using Node.js, AWS, PostgreSQL, and GraphQL. Usually language experience doesn't really matter to us but we're moving quickly and would like for you to have experience with our current stack. Worked at a really small start-up that went from 0 â 1 and understand how to scale backend systems. Have spent time working in a senior engineer role but are still excited about being a core contributor to the codebase. Actually care about building a consumer product that has thoughtful and intuitive design across the stack \u2014 from mobile app UI to the database architecture. Perks: Competitive salary and stock options based on experience 401k Full health benefits (medical, dental, and vision insurance). Apply Go back Apply Now Save job Remove from shortlist Share this Job Consultant Jason Rumney View More Jobs Senior Software Engineer (Frontend) Senior Software Engineer (Frontend) Senior Software Engineer Toronto Circa $200,000 (CAD) Latest Blogs UX trends set for 2020 Rachel Whalley November 27, 2019 tech industry How to effectively manage remote employees Rachel Whalley November 13, 2019 Workplace, Productivity Porto Oporto! Rachel Whalley November 06, 2019 Intelletec, Workplace Quick Links: Find a job Intelletec Vacancies Services Sectors Refer a Friend Privacy Policy Cookies Locations: London Los Angeles Tel Aviv New York CITY Pavillion, 27 Bush Lane, London, EC4R 0AA +44 (0) 203 946 7520 Â info@intelletec.com WeWork, 925 North La Brea Ave, Los Angeles, CA 90038, USA +1 (213) 443 6588 info@intelletec.com WeWork, 1 Shankar St, Arieh Shenkar St 1, Herzliya, 4672501, Israel\u200b +1 (213) 443 6588 info@intelletec.com We Work 368 9th Ave, New York, NY 1000, USA info@intelletec.com +1 (213) 443 6588 Copyright Â© 2019 Intelletec All rights reserved. Website byVolcanic",
+    "Url": "https://www.intelletec.com/jobs/senior-software-engineer-nodejs-slash-graphql"
+}

@@ -1,0 +1,24 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://www.intelletec.com/job-search?disciplines=Blockchain",
+    "DomainId": "intelletec",
+    "OutLinks": [
+        "https://www.intelletec.com/job-search",
+        "https://www.intelletec.com/job-search?disciplines=data-scientist",
+        "https://www.intelletec.com/job-search?disciplines=software-engineering",
+        "https://www.intelletec.com/job-search?job_types=permanent-61",
+        "https://www.intelletec.com/jobs",
+        "https://www.intelletec.com/jobs/data-engineering-lead",
+        "https://www.intelletec.com/jobs/head-of-nlp-engineering",
+        "https://www.intelletec.com/jobs/lead-data-engineering",
+        "https://www.intelletec.com/jobs/nlp-engineering-lead"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.intelletec.com/job-search?disciplines=Blockchain%7Cdata-scientist",
+    "DocumentType": "JobBoards",
+    "Title": "NLP Engineering Lead with ref. DSR9394 - Intelletec",
+    "Hash": "E17E10ACCD2A73A9D35C38115FDB388B",
+    "TackIt": "true",
+    "Body": ": DSR9394 Consultant: Rebaz Has Our client is an early-stage startup with an ambitious vision: reinvent human-computer interaction through connecting people more naturally with services and products. They have an incredible team, with investment led by Laurene Powell Jobs and Goodwater Capital. They\u2019re co-creating magic and preparing to launch our private beta \u2014 come join the fun! In this role, you\u2019ll be sitting at the intersection of UX, NLP and engineering, designing improvements to our natural language engine, the core technology behind the intelligence of our product. You\u2019ll get to lead and mentor the NLP team, solving difficult problems like semantic understanding, entity recognition, dialogue state tracking, knowledge base induction, personalization and active learning. On this path to product launch, you\u2019ll have a hand in shaping a highly personal and intent-driven user experience Skills: - 5+ years of experience in prototyping, evaluating, and deploying production AI systems (preferably NLP) - 5+ years of experience with a general-purpose programming language (Python/Golang/C/C++/Java etc.) - 2+ years of experience mentoring and growing high-performing machine learning teams - Familiarity with tools for prototyping and deploying deep learning models (Tensorflow, PyTorch, TFX, etc.) - Fluency in state-of-the-art deep learning and NLP methods (RNNs, transformers, pre-training, fine-tuning, transfer learning, entity recognition & typing, attention, ontologies etc.) - Experience in cloud/HPC computing with AWS (EC2, S3, SageMaker), GCP, or Azure for training and inference Nice to have: MS/PhD in CS with a focus in NLP, or related publications Expertise in developing voice assistants, dialogue systems or similar conversational AI products Previous experience in a startup environment and an appetite for building consumer products Experience communicating with non-NLP stakeholders (e.g. backend engineers, designers, or product managers) Intuition for navigating tradeoffs between rule-based and model-based NLP methods to maximize impact Benefits: Competitive salaries & equity package Medical, Dental, Vision Benefits package. Flexible Schedule with paid holidays+vacation days. Catered lunch every Monday and a fully stocked kitchen. Apply Go back Apply Now Save job Remove from shortlist Share this Job Consultant Rebaz Has View More Jobs NLP Engineering Lead San Francisco Circa $320,000 Lead Data Engineering United States Circa $170k + Bonuses Data Engineering Lead San Mateo County Circa $200,000 Permanent Latest Blogs UX trends set for 2020 Rachel Whalley November 27, 2019 tech industry How to effectively manage remote employees Rachel Whalley November 13, 2019 Workplace, Productivity Porto Oporto! Rachel Whalley November 06, 2019 Intelletec, Workplace Quick Links: Find a job Intelletec Vacancies Services Sectors Refer a Friend Privacy Policy Cookies Locations: London Los Angeles Tel Aviv New York CITY Pavillion, 27 Bush Lane, London, EC4R 0AA +44 (0) 203 946 7520 Â info@intelletec.com WeWork, 925 North La Brea Ave, Los Angeles, CA 90038, USA +1 (213) 443 6588 info@intelletec.com WeWork, 1 Shankar St, Arieh Shenkar St 1, Herzliya, 4672501, Israel\u200b +1 (213) 443 6588 info@intelletec.com We Work 368 9th Ave, New York, NY 1000, USA info@intelletec.com +1 (213) 443 6588 Copyright Â© 2019 Intelletec All rights reserved. Website byVolcanic",
+    "Url": "https://www.intelletec.com/jobs/head-of-nlp-engineering"
+}

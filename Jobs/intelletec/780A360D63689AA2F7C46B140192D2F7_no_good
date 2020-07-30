@@ -1,0 +1,24 @@
+{
+    "CrawledDate": "2020-07-28",
+    "SeedUrl": "https://www.intelletec.com/job-search?disciplines=Blockchain",
+    "DomainId": "intelletec",
+    "OutLinks": [
+        "https://www.intelletec.com/job-search",
+        "https://www.intelletec.com/job-search?disciplines=mobile-ios-and-android",
+        "https://www.intelletec.com/job-search?disciplines=software-engineering",
+        "https://www.intelletec.com/job-search?job_types=permanent-61",
+        "https://www.intelletec.com/jobs",
+        "https://www.intelletec.com/jobs/android-engineer-virtual-reality",
+        "https://www.intelletec.com/jobs/lead-android-engineer-1",
+        "https://www.intelletec.com/jobs/lead-android-engineer-2",
+        "https://www.intelletec.com/jobs/senior-android-engineer-sdk-1"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.intelletec.com/job-search?disciplines=Blockchain%7Cmobile-ios-and-android",
+    "DocumentType": "JobBoards",
+    "Title": "Lead Android Engineer with ref. AEHD1 - Intelletec",
+    "Hash": "780A360D63689AA2F7C46B140192D2F7",
+    "TackIt": "true",
+    "Body": ": AEHD1 We have partnered with a company who run a mobile app which allows you to book local services through friends and locals (think Airbnb but for services powered by friends and locals)!Â Â  Their mission is to enable users to earn a working living by listing their skills and services and leveraging their friends networks to spread the word to maximise their earnings.Â  The company raised significant capital from backers that include prominent media CEOs and global venture funds.Â Â  Role:Â Â  You will play a leading role in the mobile engineering practice, implementing new features, improving performance, and building beautiful user interfaces. Responsibilities: Write peer reviewed, well tested, modular code using unit and functional test coverage Run continuous improvement projects within the team and mentor other engineers Collaborate with backend engineers on developing to define efficient and scalable data contracts Build prototypes at tech scoping stage of projects Utilize tools in the software development process such as Git, Gerrit, BitBucket, Jira, Confluence, and Android Studio Work on a code base that leverages continuous integration and beta distributions Work with and own the architecture for the Mobile platform Develop tooling for automating client releases and test infrastructure Lead the Android engineers to partner on similar architecture concepts. Skills: You have at least 4 years of professional experience Proficiency in any of the following language (Java and Kotlin) You have released app(s) on the PlayStore Good knowledge with web service architecture, protocols, security and data formats (Ex. REST, OAuth, JSON, etc.) and implementation patterns on Android platform. Experience with Android SDK Experience working with remote data via REST and JSON Experience with third-party libraries and APIs Solid understanding of the full mobile development life cycle. Apply Go back Apply Now Save job Remove from shortlist Share this Job View More Jobs Lead Android Engineer San Francisco 200,000 Permanent Senior Android Engineer (SDK) San Francisco Android Engineer (Virtual Reality) San Francisco Latest Blogs UX trends set for 2020 Rachel Whalley November 27, 2019 tech industry How to effectively manage remote employees Rachel Whalley November 13, 2019 Workplace, Productivity Porto Oporto! Rachel Whalley November 06, 2019 Intelletec, Workplace Quick Links: Find a job Intelletec Vacancies Services Sectors Refer a Friend Privacy Policy Cookies Locations: London Los Angeles Tel Aviv New York CITY Pavillion, 27 Bush Lane, London, EC4R 0AA +44 (0) 203 946 7520 Â info@intelletec.com WeWork, 925 North La Brea Ave, Los Angeles, CA 90038, USA +1 (213) 443 6588 info@intelletec.com WeWork, 1 Shankar St, Arieh Shenkar St 1, Herzliya, 4672501, Israel\u200b +1 (213) 443 6588 info@intelletec.com We Work 368 9th Ave, New York, NY 1000, USA info@intelletec.com +1 (213) 443 6588 Copyright Â© 2019 Intelletec All rights reserved. Website byVolcanic",
+    "Url": "https://www.intelletec.com/jobs/lead-android-engineer-2"
+}

@@ -1,0 +1,24 @@
+{
+    "SeedUrl": "https://www.intelletec.com/job-search?disciplines=Blockchain",
+    "OutLinks": [
+        "https://www.intelletec.com/job-search",
+        "https://www.intelletec.com/job-search?disciplines=Blockchain",
+        "https://www.intelletec.com/job-search?disciplines=design",
+        "https://www.intelletec.com/job-search?job_types=permanent-61",
+        "https://www.intelletec.com/jobs",
+        "https://www.intelletec.com/jobs/senior-engineer-blockchain-and-golang",
+        "https://www.intelletec.com/jobs/senior-ui-engineer-blockchain-startup",
+        "https://www.intelletec.com/jobs/senior-ui-software-engineer-fintech-startup-bay-area"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.intelletec.com/job-search/page/5?disciplines=Blockchain",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Senior UI Engineer - Blockchain Startup with ref. am-35 - Intelletec",
+    "Hash": "EDE6213D3A226711542518B48FE1FB95",
+    "Url": "https://www.intelletec.com/jobs/senior-ui-engineer-blockchain-startup",
+    "CrawledDate": "2020-07-28",
+    "DomainId": "intelletec",
+    "TackIt": "true",
+    "Body": ": am-35 Consultant: Aria Mahsoul Job description Our client is currently looking for a software engineer with a focus on client-side UI.Â  Â  You will be responsible for implementing initial prototypes and proofs of concept, and taking these all the way to production code interfacing with millions of users.Â  Â  As the first engineer with a specific UI focus, there will be a large degree of autonomy and heavy impact on the product roadmap. Â  Job description:Â  Â  Shipping prototype, and later slick production version, of their web store, including interaction with blockchain and Hub Shipping prototype UI for trusted node inflation voting and reception Shipping prototype UI for identity verification, reputation viewing and feedback submission Writing javascript wallet library and integration with metamask Â  Â  Skills:Â  Â  â Demonstrated experience building and maintaining high performance web applications targeting both desktop and mobile using HTML5, CSS3, and client-side JavaScript, including performance profiling and optimization. Â  â Prioritizes tests. Tests code as a matter of practice, and automates tests as part of getting the job done. Doesn\u2019t consider code complete until there are automated tests demonstrating that it works. Â  â Strong understanding of security and privacy. Pays attention to the security of code, taking care to avoid opportunities for unintentional functionality or information leakage. Is aware of the privacy implications of systems and strives to preserve privacy wherever possible. Â  â Outstanding communication skills. Can explain exactly what their code does to a back-end engineer and to an executive/sales so that they feel educated and elevated, and enjoys doing so. Can also understand what is being said by both groups. Â  Â  For more information, please contact aria@intelletec.com Â  Apply Go back Apply Now Save job Remove from shortlist Share this Job Consultant Aria Mahsoul View More Jobs Senior UI Software Engineer - FinTech Startup - Bay Area San Francisco Permanent Senior Engineer - Blockchain & Golang New York Packages up to $250,000 Permanent Lead Machine Learning Engineer - Blockchain New York Circa $250,000 package (depending on experience) Permanent Latest Blogs UX trends set for 2020 Rachel Whalley November 27, 2019 tech industry How to effectively manage remote employees Rachel Whalley November 13, 2019 Workplace, Productivity Porto Oporto! Rachel Whalley November 06, 2019 Intelletec, Workplace Quick Links: Find a job Intelletec Vacancies Services Sectors Refer a Friend Privacy Policy Cookies Locations: London Los Angeles Tel Aviv New York CITY Pavillion, 27 Bush Lane, London, EC4R 0AA +44 (0) 203 946 7520 Â info@intelletec.com WeWork, 925 North La Brea Ave, Los Angeles, CA 90038, USA +1 (213) 443 6588 info@intelletec.com WeWork, 1 Shankar St, Arieh Shenkar St 1, Herzliya, 4672501, Israel\u200b +1 (213) 443 6588 info@intelletec.com We Work 368 9th Ave, New York, NY 1000, USA info@intelletec.com +1 (213) 443 6588 Copyright Â© 2019 Intelletec All rights reserved. Website byVolcanic"
+}
