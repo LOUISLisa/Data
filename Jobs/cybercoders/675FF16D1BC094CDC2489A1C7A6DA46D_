@@ -1,0 +1,27 @@
+{
+    "SeedUrl": "https://www.cybercoders.com/search/?searchterms=blockchain",
+    "OutLinks": [
+        "https://www.cybercoders.com/combres.axd/css-job-search/1810856540/",
+        "https://www.cybercoders.com/combres.axd/js-job-search/-659392493/",
+        "https://www.cybercoders.com/jobs/",
+        "https://www.cybercoders.com/jobs/jubjub-elliptic-curve-skills/",
+        "https://www.cybercoders.com/jobs/jubjub-elliptic-curve-skills/?filtertype=contract",
+        "https://www.cybercoders.com/jobs/jubjub-elliptic-curve-skills/?filtertype=permanent",
+        "https://www.cybercoders.com/jobs/jubjub-elliptic-curve-skills/?sorttype=date",
+        "https://www.cybercoders.com/jobs/jubjub-elliptic-curve-skills/?sorttype=salary",
+        "https://www.cybercoders.com/jobs/jubjub-elliptic-curve-skills/?telecommute=true",
+        "https://www.cybercoders.com/lead-cryptography-engineer-job-471355"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://www.cybercoders.com/lead-cryptography-engineer-job-471355",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Jubjub Elliptic Curve jobs | CyberCoders",
+    "Hash": "675FF16D1BC094CDC2489A1C7A6DA46D",
+    "Url": "https://www.cybercoders.com/jobs/jubjub-elliptic-curve-skills/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cybercoders",
+    "Language": "English",
+    "TackIt": "true",
+    "Body": " Lead Cryptography Engineer (Secure Blockchain Company) San Francisco, CA Full-time $150k - $250k Posted 04/22/2020 If you are a Lead Cryptography Engineer with professional Blockchain experience, please read on! Situated in the heart of Civic Center in San Francisco, CA, we are a well-funded Blockchain company loo... Jubjub elliptic curve Blockchain Cryptocurrency Libsnark Solidity Â  "
+}
