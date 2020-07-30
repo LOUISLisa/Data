@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://crypto.jobs/",
+    "OutLinks": [
+        "https://crypto.jobs/",
+        "https://cryptojobslist.com/"
+    ],
+    "ContentType": "text/html",
+    "Parent": "https://crypto.jobs/partners",
+    "RequiredMatch": "crypto",
+    "DocumentType": "JobBoards",
+    "Title": "A place to talk and learn about cryptocurrency.",
+    "Hash": "9A1A988629F2FDFAEA1778A0147ED925",
+    "Url": "https://cryptoaquarium.com/?ref=crypto.jobs",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cryptoaquarium",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "ð³ Crypto Aquarium A place to talk and learn about cryptocurrency. Join our Telegram Group Sign up to Coinbase, the world's most popular way to buy and sell Bitcoin, Ethereum, and Litecoin. Sign Up for Whale Reports ð Submit Members Pepe Dapp Honeyminer Whale Reports Coindex Cellaflora Niffler Crypto Analyst Whalebot Crypto Hackers Coincall Crypto Jobs Crypto Post Bitfalls Cryptominded Delta Madness Money Crypto Jobs List Such Wow TV CryptoCribs Crypto Buzz ICO Alert Programming Blockchain Breaking Down Bitcoin Crypto Panic Inwemo coin.fyi Caesium Capital Coins Calendar ICO Whitelists Brobot Twitter Reddit Medium",
+    "Spidered": "FROM: crypto -- TO -- cryptoaquarium"
+}

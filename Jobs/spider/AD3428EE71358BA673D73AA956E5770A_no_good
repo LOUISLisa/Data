@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/marketing/bitso-social-media-content-intern/",
+    "DocumentType": "JobBoards",
+    "Title": "Bitso",
+    "Hash": "AD3428EE71358BA673D73AA956E5770A",
+    "Url": "https://bitso.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "bitso",
+    "Language": "Estonian",
+    "TackIt": "false",
+    "Body": "You need to enable JavaScript to run this app.",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- bitso"
+}

@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": ["https://aave.com/careers"],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/aave-qa-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "Aave \u2013 Open Source DeFi Protocol",
+    "Hash": "83DE679B6C85BFA1812674146EBDB3FB",
+    "Url": "https://aave.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "aave",
+    "Language": "Romanian",
+    "TackIt": "false",
+    "Body": "You need to enable JavaScript to run this app. About Aave Protocol Developers Security Menu aTokens Bug Bounty Flash Loans Rate Switching Whitepaper Ecosystem Careers Branding Language Choose your language English Spanish French Italian Chinese About Aave Protocol Developers Security aTokens Bug Bounty Flash Loans Rate Switching Whitepaper Ecosystem Careers Branding Terms of Use ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- aave"
+}

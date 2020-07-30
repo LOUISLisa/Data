@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/coindcx-backend-developer/",
+    "DocumentType": "JobBoards",
+    "Title": "CoinDCX | India\u2019s Biggest Cryptocurrency Exchange with Highest Liquidity",
+    "Hash": "37E865C11622243EB98DDB50F4535FA1",
+    "Url": "https://coindcx.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "coindcx",
+    "Language": "Estonian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- coindcx"
+}

@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fuphold.bamboohr.com%2Fjobs%2Fview.php%3Fid%3D87&source=BambooHR&title=Product%20Manager&summary",
+        "https://uphold.bamboohr.com/jobs",
+        "https://uphold.bamboohr.com/jobs/view.php?id=87&source=cryptocurrencyjobs"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/other/uphold-product-manager/",
+    "DocumentType": "JobBoards",
+    "Title": "BambooHR",
+    "Hash": "CDCA9928987E4BF73E3E9CF829A7959A",
+    "Url": "https://uphold.bamboohr.com/jobs/view.php?id=87&source=cryptocurrencyjobs",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "bamboohr",
+    "Language": "Estonian",
+    "TackIt": "false",
+    "Body": "Uphold Thank you for your interest. Unfortunately, we are not hiring at this time. Please check back as we will most certainly be looking for great people to join our team in the future. See Current Openings This site is protected by reCAPTCHA and the Google ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- bamboohr"
+}

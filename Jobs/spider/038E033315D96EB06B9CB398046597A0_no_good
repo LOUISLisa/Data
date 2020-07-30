@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/bull-bitcoin-devops-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "Bull Bitcoin | Canada's Bitcoin company",
+    "Hash": "038E033315D96EB06B9CB398046597A0",
+    "Url": "https://bullbitcoin.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "bullbitcoin",
+    "Language": "Hungarian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- bullbitcoin"
+}

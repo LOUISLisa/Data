@@ -1,0 +1,25 @@
+{
+    "Body": "This app works best with JavaScript enabled. Networks BandCeloCentrifugeCosmosKavaPolkadotTerraSolana About Blog Careers Anthem Assets Staked with Chorus One: $0.00 Assets Staked with Chorus One: $0.00 Platforms Engineer Remote (Berlin +/- 6 hours) Full-time Position Platforms Engineer Location Remote (Berlin +/- 6 hours) Contract Full-time Beginning Immediately Salary Range $70k - 110k/year Job Description Chorus One runs validators on cutting edge Proof of Stake networks such as Cosmos, Solana, Celo, Polkadot and Oasis. We also provide user analytics and a wallet for users at: https://anthem.chorus.one We are seeking a Platforms Engineer to maintain and scale our staking infrastructure; our network secures millions of dollars of cryptocurrency assets, and security and reliability are key to everything we do. This position is a unique opportunity to work with an experienced team on cutting-edge blockchain networks and financial services around cryptocurrency. Job Profile Able to work independently. Prior work experience in a medium sized company or as a Platforms / DevOps lead in a startup. Prior experience with a range of diverse DevOps tools. We use Kubernetes, Ansible and Packer. Good knowledge of security as it relates to cloud-based infrastructure. Able to develop tooling, and monitoring solutions where none exist, and able to debug unreliable software - many of the projects we run are of alpha quality. Good knowledge of Golang and/or Rust would be a significant advantage. Bachelors or advanced degree in Computer Science or related subject is a plus, but not strictly needed. Your Responsibilities Maintain, scale and monitor existing infrastructure, including cloud machines, bare metal servers and a Kubernetes cluster, to allow Chorus One to provide secure and reliable industry-leading Proof-of-Stake validation services. Reason about and improve the security properties of infrastructure. Secure key management, server hardening and intrusion detection are important themes. Institute monitoring and alerting systems for infrastructure. Enable other team members to attend to and troubleshoot problems as they arise. Develop software related to blockchain data extraction or interchain communication, on an as-needed basis. Our Offer Competitive salary ($70k - 110k) + equity. As much leave as the team members need to take. Full-time position. Remote work. Work on cool tech at intersection of Cryptocurrency, Infosec & DevOps. Quarterly company retreats (last 3 in Kenya, Serbia, and South Korea). Build privacy and user rights conscious decentralised products. Interested in working at Chorus One? Send us your application at [email????????????protected] Send to [email????????????protected] Networks Band Celo Centrifuge Cosmos Network Kava Polkadot Solana Terra Company About Blog Careers Join our community Check out our content Stay up to date with our newsletter ???????????? 2019 Chorus One", 
+    "CompanyName": "Institute", 
+    "ContentType": "text/html; charset=UTF-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "chorus", 
+    "Hash": "049C7B106142AFEEEBDA2901A7E8A307", 
+    "KeyTerms": "kubernetes, wallet, financial, golang, privacy, cosmos, proof of stake, decentralized, remote, full time, javascript, ansible, staking, cryptocurrency, cloud, rust, devops, startup, cryptoassets", 
+    "Language": "English", 
+    "Location": "Remote", 
+    "OutLinks": [
+        "https://www.chorus.one/careers"
+    ], 
+    "Parent": "https://cryptocurrencyjobs.co/engineering/chorus-one-platforms-engineer/", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "proof of stake", 
+    "Salary": "$70k - 110k", 
+    "SeedUrl": "https://cryptocurrencyjobs.co/", 
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- chorus", 
+    "Startup": "True", 
+    "TackIt": "false", 
+    "Title": "Chorus One - Infrastructure to help you earn rewards on your cryptoassets.", 
+    "Url": "https://www.chorus.one/careers/platforms-engineer/?ref=cryptocurrencyjobs.co"
+}

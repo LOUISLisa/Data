@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/other/j-p-morgan-product-manager/",
+    "DocumentType": "JobBoards",
+    "Title": "",
+    "Hash": "742739FF0630B667D8D6F0322DAF23C7",
+    "Url": "https://jpmc.fa.oraclecloud.com/maintenance.html?utm_medium=cryptocurrencyjobs",
+    "CrawledDate": "2020-06-19",
+    "DomainId": "oraclecloud",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": "Orchestration Maintenance In Progress",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- oraclecloud"
+}

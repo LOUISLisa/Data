@@ -1,0 +1,23 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://www.gsr.io/careers/",
+        "https://www.gsr.io/careers/quantitative-trader/",
+        "https://www.gsr.io/careers/quantitative-trader/?ref=cryptocurrencyjobs.co",
+        "https://www.gsr.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gsr.io%2Fcareers%2Fquantitative-trader%2F",
+        "https://www.gsr.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gsr.io%2Fcareers%2Fquantitative-trader%2F&format=xml"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/other/gsr-quantitative-trader/",
+    "RequiredMatch": "cryptocurrency",
+    "DocumentType": "JobBoards",
+    "Title": "Quantitative Trader \u2013 GSR Markets",
+    "Hash": "67E6B8B8D5AA9A2D1ED1D85701F5352E",
+    "Url": "https://www.gsr.io/careers/quantitative-trader/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "gsr",
+    "Language": "Estonian",
+    "TackIt": "false",
+    "Body": "ç®ä½ä¸­æ íêµ­ì´ Our Team Services Trading Portfolio Solutions Media Insights Careers Contact us GSR Trading ç®ä½ä¸­æ íêµ­ì´ Our Team Services Trading Portfolio Solutions Media Insights Careers Contact us Quantitative Trader Singapore GSR is looking for a Quantitative Trader to join our global trading team on a full-time basis. GSR is a leading programmatic trading company in the exciting and fast-evolving world of cryptocurrency trading. You will help to shape and build the cutting-edge strategies and tools used for real-time programmatic trading including market making, risk management, and proprietary trading strategies. You will ideally be based in Singapore, where we are building our presence. You will report to our Head of Trading based in Europe. As part of the team, your responsibilities will be: Develop the algorithms and analytical models used for market making and proprietary trading of cryptocurrencies Work with the technology team in developing code, testing, and writing technical documentation for the models Work closely with other members of the trading team in developing new trading strategies and monitoring trading activities to ensure efficacy of models Continually improve trading processes and provide day-to-day support for client portfolios Support the firm\u2019s trading and operations across all client accounts Your profile: At least 5 years\u2019 experience in a front-office quant trader / researcher at a bank or proprietary trading firm Experience in developing algorithmic trading tools a must, and experience in trading options is desirable Experience in managing and mining financial market data Experience with Python and familiarity with unit-tests, version control, and pull-releases Demonstrable excellence in working on a codebase Experience in microstructure, optimisation (including machine learning), and market making strategies on an automated basis Excellent and proven communicator within a team Strong academic background within a quantitative subject (e.g. Financial Engineering, Applied Mathematics) with an excellent understanding of mathematical finance Experience with crypto exchange API\u2019s desirable Self-starter with ability to work autonomously About us: GSR is a fast-growing programmatic trading company in the exciting world of cryptocurrencies. Founded in 2013, we are one of the first established players in a nascent space, and have developed a leading market position serving key exchanges and clients globally. GSR is an international company with offices in the UK, Switzerland, Spain, and Singapore. Send your CV along with a brief description of your interest to recruiting@gsr.io Sign up to our Insights Notice: JavaScript is required for this content. office GSR Trading Pioneering Financial Services for Digital Asset Markets Singapore Hong Kong London Zug Chicago gsr@gsr.io Our Team Trading Portfolio Solutions Media Insights Careers Contact ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- gsr"
+}

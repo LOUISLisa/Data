@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fweb3.bamboohr.com%2Fjobs%2Fview.php%3Fid%3D75&source=BambooHR&title=Spec%20Engineer%20%28Intern%29&summary",
+        "https://web3.bamboohr.com/jobs",
+        "https://web3.bamboohr.com/jobs/view.php?id=75&source=cryptocurrencyjobs"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/web3-foundation-spec-engineer-entry-level/",
+    "DocumentType": "JobBoards",
+    "Title": "BambooHR",
+    "Hash": "028649B986850F9F9B3459E8038451DF",
+    "Url": "https://web3.bamboohr.com/jobs/view.php?id=75&source=cryptocurrencyjobs",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "bamboohr",
+    "Language": "Estonian",
+    "TackIt": "false",
+    "Body": "Web 3.0 Technologies Foundation Thank you for your interest. Unfortunately, we are not hiring at this time. Please check back as we will most certainly be looking for great people to join our team in the future. See Current Openings This site is protected by reCAPTCHA and the Google ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- bamboohr"
+}

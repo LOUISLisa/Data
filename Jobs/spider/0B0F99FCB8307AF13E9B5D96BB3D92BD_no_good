@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/operations/altonomy-operations-intern/",
+    "DocumentType": "JobBoards",
+    "Title": "Altonomy | Home",
+    "Hash": "0B0F99FCB8307AF13E9B5D96BB3D92BD",
+    "Url": "https://www.altonomy.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "altonomy",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- altonomy"
+}

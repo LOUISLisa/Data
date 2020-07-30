@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/operations/omisego-assistant-to-the-ceo/",
+    "DocumentType": "JobBoards",
+    "Title": "Assistant to the CEO at Omise",
+    "Hash": "1032EA5484A6E4E432A6438E53FA09A3",
+    "Url": "https://omise.breezy.hr/p/91877b511bb8-assistant-to-the-ceo?source=cryptocurrencyjobs",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "breezy",
+    "Language": "Hungarian",
+    "TackIt": "false",
+    "Body": "%HEADER_COMPANY_WEBSITE% %HEADER_EMPLOYEES% Position Closed Sorry, this position is no longer accepting candidates. %FOOTER_POWERED_BY%breezy",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- breezy"
+}

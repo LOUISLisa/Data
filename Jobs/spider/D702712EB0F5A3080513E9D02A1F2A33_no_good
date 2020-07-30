@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/intrepid-ventures-blockchain-protocol-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "Blockchain Venture Studio",
+    "Hash": "D702712EB0F5A3080513E9D02A1F2A33",
+    "Url": "https://intrepid.ventures/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "intrepid",
+    "Language": "French",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- intrepid"
+}

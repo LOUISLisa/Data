@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/operations/localcoin-recruitment-hr-specialist/",
+    "DocumentType": "JobBoards",
+    "Title": "Recruitment & HR Specialist at Localcoin",
+    "Hash": "D4CE89DFF3F70A987F084BEB3C8F51F4",
+    "Url": "https://localcoin.breezy.hr/p/3a7f4e67e277-recruitment-hr-specialist?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "breezy",
+    "Language": "Romanian",
+    "TackIt": "false",
+    "Body": "%HEADER_COMPANY_WEBSITE% %HEADER_EMPLOYEES% Position Closed Sorry, this position is no longer accepting candidates. %FOOTER_POWERED_BY%breezy",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- breezy"
+}

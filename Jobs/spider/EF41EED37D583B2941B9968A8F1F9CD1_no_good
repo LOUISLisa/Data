@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://www.google.com/url?q=https%3A%2F%2Fwww.builtinboston.com%2Fjobs%2Fboston%2Ffinance%2Fblockchain&sa=U&ved=2ahUKEwjDqpOqhZ7qAhUYIDQIHSwcA1QQFjAKegQICBAB&usg=AOvVaw2I5UaX6ccZ0IsUB4PhJyM0",
+    "DocumentType": "JobBoards",
+    "Title": "",
+    "Hash": "EF41EED37D583B2941B9968A8F1F9CD1",
+    "Url": "https://www.builtinboston.com/jobs/boston/finance/blockchain",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "builtinboston",
+    "Language": "Norwegian",
+    "TackIt": "false",
+    "Body": "We're sorry but our site doesn't work properly without JavaScript enabled. Please enable it to continue. Loading...",
+    "Spidered": "FROM: google -- TO -- builtinboston"
+}

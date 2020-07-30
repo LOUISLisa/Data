@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [],
+    "ContentType": "image/jpeg",
+    "Parent": "https://www.google.com/shopping/product/10567894726686333627?q=blockchain%2Bjobs&ie=UTF-8&liteui=1&prds=epd%3A16417259979571474546%2Coid%3A16417259979571474546&sa=X&ved=0ahUKEwjD6cHLhp7qAhUDOH0KHfXUCV0QrhIIKSgA",
+    "DocumentType": "JobBoards",
+    "Title": "",
+    "Hash": "F4F628BF34084DB5788B2C0FBC452EB8",
+    "Url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn%3AANd9GcTvyROQtUDONEBbBqHw_vGwePrKH6msSyc9UV0ppDDniUMlAPcX-NGJoBG_cE3vGTfHSw7d1jM&usqp=CAY",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "gstatic",
+    "Language": "UNKNOWN",
+    "TackIt": "false",
+    "Body": "<\/head>",
+    "Spidered": "FROM: google -- TO -- gstatic"
+}

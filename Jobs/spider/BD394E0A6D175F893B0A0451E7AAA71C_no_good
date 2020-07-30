@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/design/trm-product-designer/",
+    "DocumentType": "JobBoards",
+    "Title": "TRM",
+    "Hash": "BD394E0A6D175F893B0A0451E7AAA71C",
+    "Url": "https://trmlabs.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "trmlabs",
+    "Language": "UNKNOWN",
+    "TackIt": "false",
+    "Body": "You need to enable JavaScript to run this app.",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- trmlabs"
+}

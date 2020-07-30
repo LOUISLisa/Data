@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/sales/bitstamp-business-development-associate/",
+    "DocumentType": "JobBoards",
+    "Title": "",
+    "Hash": "4680B146E58D0BD30D99ED1F3EC87011",
+    "Url": "https://www.bitstamp.net/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "bitstamp",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- bitstamp"
+}

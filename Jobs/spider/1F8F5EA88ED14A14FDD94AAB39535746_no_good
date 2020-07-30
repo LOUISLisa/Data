@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://recruiting.paylocity.com/recruiting/jobs/List/3288/Steemit-Inc",
+        "https://steemit.com/?ref=cryptocurrencyjobs.co"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/steemit-devops-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "Steemit",
+    "Hash": "1F8F5EA88ED14A14FDD94AAB39535746",
+    "Url": "https://steemit.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "steemit",
+    "Language": "Norwegian",
+    "TackIt": "false",
+    "Body": "Ã Sign in Sign upÂ  Welcome FAQ Night Mode Stolen Accounts RecoveryÂ  Change Account PasswordÂ  Vote for WitnessesÂ  Steem ProposalsÂ  Third-party exchanges: PoloniexÂ  AdvertiseÂ  Jobs at SteemitÂ  Developer PortalÂ  Steem BluepaperÂ  SMT WhitepaperÂ  Steem WhitepaperÂ  ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- steemit"
+}

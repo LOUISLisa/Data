@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/marketing/airtm-engagement-specialist/",
+    "DocumentType": "JobBoards",
+    "Title": "Airtm.com | Rates and account in dollars",
+    "Hash": "C4582E207F945818E842D94D50D4C74B",
+    "Url": "https://www.airtm.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "airtm",
+    "Language": "French",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- airtm"
+}

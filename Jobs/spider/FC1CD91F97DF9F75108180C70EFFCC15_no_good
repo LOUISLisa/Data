@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://m.youtube.com/watch?ref=cryptocurrencyjobs.co&feature=youtu.be&v=oi1mis3DGZE",
+        "https://www.youtube.com/opensearch?locale=en_US"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/marketing/the-sandbox-director-of-marketing-head-of-go-to-market-and-growth/",
+    "DocumentType": "JobBoards",
+    "Title": "YouTube",
+    "Hash": "FC1CD91F97DF9F75108180C70EFFCC15",
+    "Url": "https://www.youtube.com/watch?v=oi1mis3DGZE&feature=youtu.be&ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "youtube",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": "About Press Copyright Contact us Creators Advertise Developers Terms ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- youtube"
+}

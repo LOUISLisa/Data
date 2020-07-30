@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": ["https://coinme.com/careers/"],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/design/coinme-product-designer-ui-ux/",
+    "DocumentType": "JobBoards",
+    "Title": "Careers at Coinme | Buy and store crypto with Coinme",
+    "Hash": "640C63AE97FCD108FC17D4A5039E77BB",
+    "Url": "https://coinme.com/careers/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-06-22",
+    "DomainId": "coinme",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- coinme"
+}

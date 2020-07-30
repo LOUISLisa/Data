@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": ["https://poloniex.careers/"],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/operations/poloniex-head-of-compliance/",
+    "DocumentType": "JobBoards",
+    "Title": "Poloniex Careers | Crypto Asset Exchange",
+    "Hash": "4D5655D681FD90E2CBE9023411700BCE",
+    "Url": "https://poloniex.careers/?url=job&gh_jid=4087077003%3Fgh_src%3Dcryptocurrencyjobs",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "poloniex",
+    "Language": "Polish",
+    "TackIt": "false",
+    "Body": "poloniex Careers Home Poloniex Home | Careers Home",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- poloniex"
+}

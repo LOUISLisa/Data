@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://crypto.jobs/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://crypto.jobs/partners",
+    "DocumentType": "JobBoards",
+    "Title": "Bitcompare | Compare crypto savings accounts, loans, debit cards & more",
+    "Hash": "70622091238E6D721E586A2228C45915",
+    "Url": "https://bitcompare.net/?ref=crypto.jobs",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "bitcompare",
+    "Language": "Romanian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: crypto -- TO -- bitcompare"
+}

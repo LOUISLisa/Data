@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": ["https://www.mastercard.us/en-us.html?ref=cryptocurrencyjobs.co"],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/other/mastercard-vp-product-management-blockchain-crypto/",
+    "DocumentType": "JobBoards",
+    "Title": "Homepage",
+    "Hash": "439E1405E86849FA1B48AE78DE20DC12",
+    "Url": "https://www.mastercard.us/en-us.html?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-06-22",
+    "DomainId": "mastercard",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": "Skip to Content Manage Cookies",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- mastercard"
+}

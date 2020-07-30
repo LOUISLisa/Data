@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://www.google.com/url?q=https%3A%2F%2Fwww.builtinboston.com%2Fjobs%2Fboston%2Fdev-engineering%2Fphp%2Fsenior%2Fblockchain&sa=U&ved=2ahUKEwibm5efhZ7qAhU4CTQIHbxFDTIQFjAAegQIARAB&usg=AOvVaw3dq_Z5GALQfxZujNAutsuy",
+    "DocumentType": "JobBoards",
+    "Title": "",
+    "Hash": "7ECE41C7ADAC5E3622EA4A9CD32F4A4C",
+    "Url": "https://www.builtinboston.com/jobs/boston/dev-engineering/php/senior/blockchain",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "builtinboston",
+    "Language": "Norwegian",
+    "TackIt": "false",
+    "Body": "We're sorry but our site doesn't work properly without JavaScript enabled. Please enable it to continue. Loading...",
+    "Spidered": "FROM: google -- TO -- builtinboston"
+}

@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/0x-data-scientist/",
+    "DocumentType": "JobBoards",
+    "Title": "0x: Powering the decentralized exchange of tokens on Ethereum",
+    "Hash": "CB43B7AC923473EB5B11331E4F7447E8",
+    "Url": "https://0x.org/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "0x",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- 0x"
+}

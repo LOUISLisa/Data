@@ -1,0 +1,19 @@
+{
+    "Body": "Home Technology Research Team Join Us Contact Instant, cheap and private payments zkChannels (formerly BOLT) eliminates lag time and high transaction fees \u2014 while offering strong privacy protections \u2014 so you can use Zcash, Bitcoin, Tezos\u00c2\u00a0and other digital currencies for everyday payments and purchases. sign up for updates Your transactions are instant and private \u2014 regardless of currency. Blockchain transactions are slow, and the fees are high. zkChannels allows users to transact instantly, off-chain, and adds a privacy layer to protect user information. read our intro TECHNOLOGY zkChannels: Blind Off-chain Lightweight Transactions Payment channels allow two parties to hold funds in escrow and transfer value between themselves cheaply until either party is ready to cash out. Payments within these types of channels are off-chain and unlimited, and users remain anonymous. zkChannels privacy protections rely on zero-knowledge proofs and multi-party computation techniques, based on the research of leading scientists and cryptographers. OUR\u00c2\u00a0investors See our @Angel Investors here Use Zcash, Bitcoin, and Tezos\u00c2\u00a0for everyday payments and purchases. Like what you've read? Sign up for updates and be the first to know more... Contact Us \u00c2\u00a9 Bolt Labs, Inc. All rights reserved. \u00c3\u0097", 
+    "ContentType": "text/html; charset=UTF-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "boltlabs", 
+    "Hash": "9E689E1C4ACD676840FD377343C0850B", 
+    "Language": "English", 
+    "OutLinks": [
+        "https://boltlabs.tech/?ref=cryptocurrencyjobs.co"
+    ], 
+    "Parent": "https://cryptocurrencyjobs.co/engineering/bolt-labs-software-engineer/", 
+    "RequiredMatch": "blockchain", 
+    "SeedUrl": "https://cryptocurrencyjobs.co/", 
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- boltlabs", 
+    "TackIt": "false", 
+    "Title": "Bolt Labs \u2014 Instant, cheap and private payments", 
+    "Url": "https://boltlabs.tech/?ref=cryptocurrencyjobs.co"
+}

@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/finhaven-intermediate-to-senior-software-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "Finhaven Technology Inc.",
+    "Hash": "85140E35CC486EA3A247D8E363A803E6",
+    "Url": "https://www.finhaven.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "finhaven",
+    "Language": "UNKNOWN",
+    "TackIt": "false",
+    "Body": "You need to enable JavaScript to run this app.",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- finhaven"
+}

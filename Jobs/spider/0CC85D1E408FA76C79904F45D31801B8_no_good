@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://coinmetrics.io/?ref=cryptocurrencyjobs.co",
+        "https://coinmetrics.io/careers",
+        "https://coinmetrics.io/careers/"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/other/coin-metrics-financial-market-data-scientist-analyst/",
+    "DocumentType": "JobBoards",
+    "Title": "Home - Coin Metrics",
+    "Hash": "0CC85D1E408FA76C79904F45D31801B8",
+    "Url": "https://coinmetrics.io/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "coinmetrics",
+    "Language": "Estonian",
+    "TackIt": "false",
+    "Body": "Coin Metrics Products Network Data CM Network Data Pro CM NDP Visualization Tool CM NDP Excel Add-in Market Data CM Market Data Feed CM Pro Visualization Tool CM Reference Rates Indexes CM Bletchley Indexes CM Index Calculation Service Third-Party Data CM Twitter Sentiment Feed Community Data Overview Network Data Charts Correlation Charts Reference Rates Chart Transaction Stats Charts Data File Downloads Publications Company News State of the Network Issues Research Support Status Page Support Desk API Docs Knowledge Base Contact Sales Company About Careers Terms of Use ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- coinmetrics"
+}

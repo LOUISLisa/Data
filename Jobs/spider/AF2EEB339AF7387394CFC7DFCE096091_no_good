@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/bitbridge-blockchain-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "BitBridge",
+    "Hash": "AF2EEB339AF7387394CFC7DFCE096091",
+    "Url": "http://bitbridge.hk/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "bitbridge",
+    "Language": "Estonian",
+    "TackIt": "false",
+    "Body": "Work at BitBridge",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- bitbridge"
+}

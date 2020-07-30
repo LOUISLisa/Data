@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://binance.freshteam.com/jobs",
+        "https://www.freshworks.com/hrms/demo-request/?utm_source=CareerSite&utm_medium=Referral&utm_campaign=CareerSite_Referral"
+    ],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/marketing/binance-social-media-manager/",
+    "DocumentType": "JobBoards",
+    "Title": "Binance.US Current Job Openings",
+    "Hash": "95C1E40E6875CDD96D8D16E9C64AC66B",
+    "Url": "https://binance.freshteam.com/jobs/-u1-gREF61P6/social-media-manager?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "freshteam",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Binance.US Current Job Openings We are currently not accepting applications for this job. You can apply for other jobs via our Career Portal Freshteam, Applicant Tracking System powered by Freshworks Inc.",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- freshteam"
+}

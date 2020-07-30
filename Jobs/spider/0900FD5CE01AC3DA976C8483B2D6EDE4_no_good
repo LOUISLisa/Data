@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/other/exagon-quantitative-analyst/",
+    "DocumentType": "JobBoards",
+    "Title": "Exagon Crypto Fund",
+    "Hash": "0900FD5CE01AC3DA976C8483B2D6EDE4",
+    "Url": "https://exagonfund.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "exagonfund",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- exagonfund"
+}

@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fbitso.bamboohr.com%2Fjobs%2Fview.php%3Fid%3D78&source=BambooHR&title=QA%20ENGINEER&summary",
+        "https://bitso.bamboohr.com/jobs",
+        "https://bitso.bamboohr.com/jobs/view.php?id=78&source=cryptocurrencyjobs"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/bitso-qa-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "BambooHR",
+    "Hash": "7256DC046BE9E9799307E4D1D0BF9814",
+    "Url": "https://bitso.bamboohr.com/jobs/view.php?id=78&source=cryptocurrencyjobs",
+    "CrawledDate": "2020-06-22",
+    "DomainId": "bamboohr",
+    "Language": "Estonian",
+    "TackIt": "false",
+    "Body": "Bitso Thank you for your interest. Unfortunately, we are not hiring at this time. Please check back as we will most certainly be looking for great people to join our team in the future. See Current Openings This site is protected by reCAPTCHA and the Google ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- bamboohr"
+}

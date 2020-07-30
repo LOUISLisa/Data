@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/gem-front-end-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "Gem",
+    "Hash": "063FE42E0B631D1C72AF9D16181FB4B9",
+    "Url": "https://gem.co/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "gem",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- gem"
+}

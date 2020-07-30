@@ -1,0 +1,22 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://www.blocktest.net/careers/",
+        "https://www.blocktest.net/careers/careers-blockchain-engineer/",
+        "https://www.blocktest.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.blocktest.net%2Fcareers%2Fcareers-blockchain-engineer%2F",
+        "https://www.blocktest.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.blocktest.net%2Fcareers%2Fcareers-blockchain-engineer%2F&format=xml"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/blocktest-blockchain-engineer/",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Careers \u2013 Blockchain Engineer | BlockTEST",
+    "Hash": "3A21CF5AFA8EA90EAF8819F64232CCDB",
+    "Url": "https://www.blocktest.net/careers/careers-blockchain-engineer/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "blocktest",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Home Solutions Vaccine Traceability Proof-of-Service Financing Technology About Blog Community Contact Greenhouse (BETA) Select Page Blockchain Engineer Location: Cambridge, MA Â  BlockTest and You: At BlockTest, we believe in finding objective, trustworthy data of the blockchain ecosystem in this rapidly expanding and chaotic field. Among us, there are the most collaborative, accomplished, and intelligent engineers, designers, data-analysts, investment bankers, researches, and leaders shaping the blockchain ecosystem. We hope you share the following characteristics that we have at BlockTest: Passionate about working with blockchain technology Eager to learn more and contribute to this cutting-edge space and technology Believe in the importance of objective, professional, data-driven, fact-based Due Diligence in this booming blockchain ecosystem Can-Do, hardworking, flexible, and optimistic attitude Â  Job Overview: Software component implementation supporting the cloud-based blockchain evaluation platform Building APIs to integrate different blockchains into the platform Data analysis and visualization to support the blockchain evaluation procedures Prototyping and proof-of-concept experiments to prove and rule out design decisions Software testing at all levels (unit, module, component, system) Researching new technologies and better implementations Peer reviewing coworkers\u2019 code Â  Desired Experience: 3+ year with Java or Python Development Experience with Blockchain technology, including blockchain protocol and DApp development a plus Strong working knowledge of Linux/Ubuntu platforms 1+ year with Restful API and Micro-service architecture Familiar with Cloud computing, including but not limited to AWS Experience with building scalable servers or distributed systems (Plus) Very responsible, self-disciplined, self-managed, self-motivated, and able to work with little or no supervision University degree in Computer Science, Software Engineering, or related degree (Master\u2019s degree is a plus) Extensive experience with working on multiple projects at a time in a fast paced, results oriented environment Â  We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Â  Please send your resume and cover letter to recruiting@blocktest.net. Let us know which job you are applying for, and tell us what about BlockTest interests you. Browse Pages Home About Careers Terms of Service ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- blocktest"
+}

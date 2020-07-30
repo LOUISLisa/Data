@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/marketing/parsiq-content-writer/",
+    "DocumentType": "JobBoards",
+    "Title": "PARSIQ",
+    "Hash": "E38EE2C1540AD49FA2B20E1FCB5AA4ED",
+    "Url": "https://www.parsiq.io/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-05",
+    "DomainId": "parsiq",
+    "Language": "UNKNOWN",
+    "TackIt": "false",
+    "Body": "You need to enable JavaScript to run this app.",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- parsiq"
+}

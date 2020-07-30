@@ -1,0 +1,17 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": ["https://www.argent.xyz/careers"],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/argent-solidity-engineer/",
+    "RequiredMatch": "ethereum",
+    "DocumentType": "JobBoards",
+    "Title": "Argent \u2013 The best Ethereum wallet for DeFi",
+    "Hash": "72F6FE53AC834BBF2BD86CF1A28D03E2",
+    "Url": "https://www.argent.xyz/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "argent",
+    "Language": "Romanian",
+    "TackIt": "false",
+    "Body": "Security Blog Support Get Argent now Own It 4.9 / 5 About Argent FAQ Press Community Coverage Company Join our team Terms and Conditions ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- argent"
+}

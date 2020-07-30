@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/messari-software-engineer-front-end/",
+    "DocumentType": "JobBoards",
+    "Title": "Messari - Bitcoin & crypto price, news, charts, and research",
+    "Hash": "CEF6011C53FB2AB03F662A5B6E41556A",
+    "Url": "https://messari.io/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "messari",
+    "Language": "Hungarian",
+    "TackIt": "false",
+    "Body": "You need to enable JavaScript to run this app.",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- messari"
+}

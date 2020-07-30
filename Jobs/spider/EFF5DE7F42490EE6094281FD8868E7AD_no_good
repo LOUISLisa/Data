@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [],
+    "ContentType": "image/jpeg",
+    "Parent": "https://news.google.com/search?q=blockchain%2Bjobs&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjSzcCYhZ7qAhVDHzQIHXpGAGsQ_AUICQ&hl=en-US&gl=US&ceid=US%3Aen",
+    "DocumentType": "JobBoards",
+    "Title": "",
+    "Hash": "EFF5DE7F42490EE6094281FD8868E7AD",
+    "Url": "https://lh3.googleusercontent.com/proxy/Ojqqidksi81eGSn_30a_r5aqXOcpG5b8Fb_ycIxIU-Lwj2D0W3vhugOmQ6Mq3Iy1GjoBVz-WRO1jfbNcPutRPgK4H9iD0nbH6uk40o_Nj67so_UamTIwb9YgIr5RUhA=-p-h100-w100",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "googleusercontent",
+    "Language": "UNKNOWN",
+    "TackIt": "false",
+    "Body": "<\/head>",
+    "Spidered": "FROM: google -- TO -- googleusercontent"
+}

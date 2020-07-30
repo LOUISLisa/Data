@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://iohk.io/?ref=cryptocurrencyjobs.co",
+        "https://iohk.io/en/careers/"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/operations/input-output-project-manager/",
+    "DocumentType": "JobBoards",
+    "Title": "Input Output - IOHK",
+    "Hash": "AC418FD3EFB658717019AB16157DA289",
+    "Url": "https://iohk.io/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "iohk",
+    "Language": "French",
+    "TackIt": "false",
+    "Body": "Home About Research Education Projects Blog Careers",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- iohk"
+}

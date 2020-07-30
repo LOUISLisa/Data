@@ -1,0 +1,32 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [
+        "https://usatodaynetworkcareers.com/",
+        "https://usatodaynetworkcareers.com/?p=796",
+        "https://usatodaynetworkcareers.com/benefits/",
+        "https://usatodaynetworkcareers.com/content-journalism/",
+        "https://usatodaynetworkcareers.com/inclusion/",
+        "https://usatodaynetworkcareers.com/internships/",
+        "https://usatodaynetworkcareers.com/product-technology/",
+        "https://usatodaynetworkcareers.com/sales-marketing/",
+        "https://usatodaynetworkcareers.com/search-jobs/",
+        "https://usatodaynetworkcareers.com/wp-content/plugins/real-accessability/support.php",
+        "https://usatodaynetworkcareers.com/wp-json/",
+        "https://usatodaynetworkcareers.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fusatodaynetworkcareers.com%2Fsearch-jobs%2F",
+        "https://usatodaynetworkcareers.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fusatodaynetworkcareers.com%2Fsearch-jobs%2F&format=xml",
+        "https://usatodaynetworkcareers.com/xmlrpc.php",
+        "https://www.instagram.com/usatncareers/"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://www.google.com/url?q=https%3A%2F%2Fusatodaynetworkcareers.com%2Fsearch-jobs%2F&sa=U&ved=2ahUKEwjWqI-1hZ7qAhVTMn0KHfXSDKQQFjAOegQIAhAB&usg=AOvVaw0HMu5BzLfHoWQ8I9oSoJCW",
+    "DocumentType": "JobBoards",
+    "Title": "Search Jobs - USA TODAY NETWORK Careers",
+    "Hash": "3C633D60E25971435950745392D5A7C5",
+    "Url": "https://usatodaynetworkcareers.com/search-jobs/",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "usatodaynetworkcareers",
+    "Language": "Estonian",
+    "TackIt": "false",
+    "Body": "USA TODAY NETWORK Careers Navigation Gannett | USA TODAY NETWORK Home Teams Sales & Marketing Content & Journalism Product & Technology Inclusion Benefits Internships Apply Now Gannett | USA TODAY NETWORK Home Teams Sales & Marketing Content & Journalism Product & Technology Inclusion Benefits Internships Apply Now Find Your Place with Us Not ready to apply? STAY CONNECTED join our talent community Â© Gannett | USA TODAY NETWORK, Inc. . All Rights Reserved terms of service | privacy notice / your california rights | forward-looking statements Increase Font Decrease Font Black & White Inverse Colors Highlight Links Regular Font Reset Page Reader Real Accessability",
+    "Spidered": "FROM: google -- TO -- usatodaynetworkcareers"
+}

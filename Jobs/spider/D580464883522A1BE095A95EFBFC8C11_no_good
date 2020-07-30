@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/design/sorare-product-designer/",
+    "DocumentType": "JobBoards",
+    "Title": "Sorare",
+    "Hash": "D580464883522A1BE095A95EFBFC8C11",
+    "Url": "https://sorare.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "sorare",
+    "Language": "Hungarian",
+    "TackIt": "false",
+    "Body": "You need to enable JavaScript to run this app.",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- sorare"
+}

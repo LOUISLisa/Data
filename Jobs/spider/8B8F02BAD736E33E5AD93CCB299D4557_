@@ -1,0 +1,23 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://diginex.bamboohr.com/js/jobs2.php",
+        "https://www.diginex.com/job-openings/",
+        "https://www.diginex.com/job-openings/?gh_jid=4529419002%3Fgh_src%3Dcryptocurrencyjobs",
+        "https://www.diginex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.diginex.com%2Fjob-openings%2F",
+        "https://www.diginex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.diginex.com%2Fjob-openings%2F&format=xml"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/other/diginex-head-of-investor-relations/",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Careers \u2013 Diginex",
+    "Hash": "8B8F02BAD736E33E5AD93CCB299D4557",
+    "Url": "https://www.diginex.com/job-openings/?gh_jid=4529419002%3Fgh_src%3Dcryptocurrencyjobs",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "diginex",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": "Offerings Insights Team News Careers Contact Offerings Insights Team News Careers Contact Offerings Insights Team News Careers Contact Careers Driven to Create Change Where others see uncertainty and complexity, we see opportunity. With enterprising minds, nimble hands, and a willingness to experiment, the teams at Diginex are always eager to learn, teach, and together build a better future. Powered by Get in touch with us \u203a Diginex is a digital financial services and blockchain solutions company. We partner with institutional investors, corporations, and governments to make digital assets more accessible, business processes more efficient, and societies more secure. Offerings Insights Team News Careers Contact Diginex Limited Â© 2020. All rights reserved. ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- diginex"
+}

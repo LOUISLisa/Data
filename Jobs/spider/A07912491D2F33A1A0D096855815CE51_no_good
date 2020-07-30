@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/3box-full-stack-backend-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "Shared backend for Web3 | 3Box",
+    "Hash": "A07912491D2F33A1A0D096855815CE51",
+    "Url": "https://3box.io/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "3box",
+    "Language": "Estonian",
+    "TackIt": "false",
+    "Body": "You need to enable JavaScript to run this app.",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- 3box"
+}

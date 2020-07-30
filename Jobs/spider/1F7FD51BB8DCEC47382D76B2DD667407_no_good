@@ -1,0 +1,21 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://cryptix.ag/career",
+        "https://cryptix.ag/career/",
+        "https://cryptix.ag/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcryptix.ag%2Fcareer%2F",
+        "https://cryptix.ag/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcryptix.ag%2Fcareer%2F&format=xml"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/cryptix-mobile-app-developer/",
+    "DocumentType": "JobBoards",
+    "Title": "Cryptix - Career",
+    "Hash": "1F7FD51BB8DCEC47382D76B2DD667407",
+    "Url": "https://cryptix.ag/career/",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "cryptix",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Home About Legal Services IT Services Career We\u2019re hiring Home About Legal Services IT Services Career We\u2019re hiring We're hiring Press & Media Contact Legal & Terms of Use ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- cryptix"
+}

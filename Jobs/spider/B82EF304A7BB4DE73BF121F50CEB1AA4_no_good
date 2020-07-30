@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://www.google.com/url?q=https%3A%2F%2Fwww.builtinboston.com%2Fjobs%2Fboston%2Fnewton%2Fblockchain&sa=U&ved=2ahUKEwj1opGghZ7qAhUyMX0KHcqfDT4QFjAOegQIAhAB&usg=AOvVaw2xjJvEZ2Q9VHpBUybWxzRA",
+    "DocumentType": "JobBoards",
+    "Title": "",
+    "Hash": "B82EF304A7BB4DE73BF121F50CEB1AA4",
+    "Url": "https://www.builtinboston.com/jobs/boston/newton/blockchain",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "builtinboston",
+    "Language": "Norwegian",
+    "TackIt": "false",
+    "Body": "We're sorry but our site doesn't work properly without JavaScript enabled. Please enable it to continue. Loading...",
+    "Spidered": "FROM: google -- TO -- builtinboston"
+}

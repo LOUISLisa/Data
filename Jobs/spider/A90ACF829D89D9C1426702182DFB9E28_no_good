@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": ["https://careers.fortmatic.com/"],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/other/fortmatic-product-manager/",
+    "DocumentType": "JobBoards",
+    "Title": "Product Manager at Fortmatic",
+    "Hash": "A90ACF829D89D9C1426702182DFB9E28",
+    "Url": "https://careers.fortmatic.com/p/8b5e570d39c0-product-manager?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "fortmatic",
+    "Language": "Romanian",
+    "TackIt": "false",
+    "Body": "Product Manager at Fortmatic Fortmatic Position Closed Sorry, this position is no longer accepting candidates.",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- fortmatic"
+}

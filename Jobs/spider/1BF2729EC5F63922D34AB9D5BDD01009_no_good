@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/sales/colu-sales-representative/",
+    "DocumentType": "JobBoards",
+    "Title": "Comeet - Collaborative Recruiting",
+    "Hash": "1BF2729EC5F63922D34AB9D5BDD01009",
+    "Url": "https://www.comeet.com/jobs/colu/A4.008",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "comeet",
+    "Language": "French",
+    "TackIt": "false",
+    "Body": "ï»¿ Comeet - Collaborative Recruiting {{company.name}} - Careers Come Work With Us An error occured. Please try again {{company.name}} About {{company.name}} Thanks for your interest in {{company.name}}. We're sorry, but there are currently no open positions. Contact us on our website. We don't have any open positions at this time. Please visit again soon. Current Openings {{positions.sortingKey || 'General'}} {{ position.name || '(Unnamed Position)'}} {{position.location.displayName || position.location.name }} {{position.department }} {{ position.experienceLevel }} {{ position.employmentType }} Details Terms of ServiceÂ Â Â·Â Â Privacy Policy",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- comeet"
+}

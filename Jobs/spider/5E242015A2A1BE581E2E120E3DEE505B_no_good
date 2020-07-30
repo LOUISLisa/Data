@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/other/j-p-morgan-product-manager/",
+    "DocumentType": "JobBoards",
+    "Title": "JPMC Candidate Experience page",
+    "Hash": "5E242015A2A1BE581E2E120E3DEE505B",
+    "Url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/200024912/?utm_medium=cryptocurrencyjobs",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "oraclecloud",
+    "Language": "Estonian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- oraclecloud"
+}

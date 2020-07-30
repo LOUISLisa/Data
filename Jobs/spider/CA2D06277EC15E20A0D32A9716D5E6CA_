@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://storj.io/careers",
+        "https://storj.io/open-source"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/marketing/storj-social-media-communications-associate/",
+    "RequiredMatch": "decentralized",
+    "DocumentType": "JobBoards",
+    "Title": "Decentralized Cloud Storage \u2014 Storj",
+    "Hash": "CA2D06277EC15E20A0D32A9716D5E6CA",
+    "Url": "https://storj.io/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "storj",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Toggle navigation Node Operator Docs Community Blog Support Become a Host Decentralized Cloud Storage is Here Join thousands of Node Operators and developers experiencing the faster, safer, more affordable object storage alternative - all made possible by a massive, global network of nodes on the Storj Network Host a Node We pay Node Operators for their unused storage and bandwidth, making decentralized storage possible for Tardigrade.io customers. Put your extra space to use and start earning today. Become a Host Store Data Upgrade your storage layer to the world\u2019s first S3-compatible decentralized cloud storage solution. Tardigrade is 100% secure, more affordable, and more reliable. Join Tardigrade Put Your Extra Disk Space to Work Node Operators get paid for their extra disk space, sort of like ride-sharing for the cloud. Get Paid We pay you for your unused disk space to power the Storj Network and securely store encrypted data from Tardigrade cloud storage users. Be the Cloud Node Operators host data from users all over the world, enabling a truly private, totally secure, and completely decentralized cloud solution. Use Existing Hardware Operating a Node doesn\u2019t require extra hardware or power-hungry CPUs. All you need is a solid internet connection and enough hard drive space. Estimate Your Node's Payout Upgrade Your Storage Layer Get faster, safer, more affordable cloud object storage with no central point of failure. Tardigrade takes advantage of the Storj network\u2019s speed and security, bringing decentralization to the masses 100% Secure A Fraction of the Cost More Durable Easier to Use Visit Tardigrade.io Helping Developers Weave the Fabric of Tomorrow\u2019s Internet Encrypt & Upload Files Files are encrypted client-side before being uploaded to our network, ensuring data is stored securely... and we don\u2019t stop there. Split Files & Distribute Encrypted files are split into smaller fragments and distributed to optimal Nodes across our secure, global network. Store & Retrieve File Pieces We pay Hosts to run Storage Nodes where file fragments are privately stored, making data breaches a thing of the past. Got an Open Source App? Open Source Partners get paid every time their users store data on Tardigrade. Become a Tardigrade Partner Token Transparent We\u2019re one of the longest-standing decentralized projects, and recognized as leaders in the field of token governance. Learn More Legal ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- storj"
+}

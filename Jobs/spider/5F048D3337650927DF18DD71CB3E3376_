@@ -1,0 +1,25 @@
+{
+    "Body": "Developers Individuals Partners Log In Talk to Us Developers Individuals Partners Talk to Us Log In Access the evolution of finance World-class tools for blockchain developers, financial services and protocols. Developer Docs Become A Partner tools Developer First An embeddable widget and white-label API to access regulated finance. get users FIAT on Ramps Directly onboard users from their bank accounts and payment cards. scale Access Liquidity Fair rates, aggregated from leading exchanges and OTC desks. regulation Compliance Years of compliance experience and automation. Don't start from scratch. exchange FX and Crypto Making markets since 2013, Wyre provides best-in-class pricing & execution. speed Focus on Buidl We\u2019ve done the boring stuff, so you can focus on making something awesome. wyre widget Onboard users with an easy-to-embed web module With the Wyre SDK, applications get a compliant, regulated and easy to use fiat onramp. Take customer fiat deposits directly onto your platform from all geographies where Wyre operates \u2014 all this in under 10 lines of code. Developer Docs wyre api Customise with our API With the Wyre API, partners have full control over all aspects of users flows and UX. You will be able to provide on/off ramps, payment processing, liquidity and compliance natively on your application. Become A Partner const WyreClient = require(\"@wyre/api\").WyreClient; let wyre = new WyreClient({ format: \"json_numberstring\", apiKey: \"YOUR-API-KEY\", secretKey: \"YOUR-SECRET-KEY\" }); wyre.get(\"/v2/account\").then( account => { console.log(\"I am Wyre account \", account.id); }, err => { console.log(\"Problems, cap'n: \", err); } ); Focus. On. Buidling. We're serious about helping the crypto community and have been active since 2013. Focusing on compliance, licensing and legal fees shouldn\u2019t be what creators are doing. They should be creating. Traders are able to exchange fiat currency (USD, GBP, EUR, AUD) for cryptocurrency (ETH)\u200a\u2014\u200aall within their self-custodied wallet using the AirSwap trading interface. Learn More Ready to #buidl? Contact our team to become a partner and go to market in 6 hours, not 6 months. Become A Partner We're hiring! ???????????????????????? Discover Wyre About Us Blog OTC Trading Partners Legal Security Licenses ", 
+    "CompanyName": "Developer", 
+    "ContentType": "text/html", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "sendwyre", 
+    "Hash": "5F048D3337650927DF18DD71CB3E3376", 
+    "KeyTerms": "trading, cryptocurrency, ethereum, wallet, financial, compliance, blockchain developer, exchanges, json, sdk, protocols", 
+    "Language": "English", 
+    "Location": "Not Found", 
+    "OutLinks": [
+        "https://angel.co/company/sendwyre/jobs", 
+        "https://www.sendwyre.com/careers"
+    ], 
+    "Parent": "https://cryptocurrencyjobs.co/customer-support/wyre-customer-support-representative/", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://cryptocurrencyjobs.co/", 
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- sendwyre", 
+    "TackIt": "false", 
+    "Title": "Wyre: The API for compliance and payments", 
+    "Url": "https://www.sendwyre.com/?ref=cryptocurrencyjobs.co"
+}

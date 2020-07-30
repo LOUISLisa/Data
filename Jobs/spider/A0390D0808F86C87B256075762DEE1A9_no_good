@@ -1,0 +1,25 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://bitcoin-suisse.jobbase.io/",
+        "https://bitcoin-suisse.jobbase.io/change_language?language=de&csrf_token=SexxtGFf8RGEZY0HALR6Otx-hsIF4Tuv40e8y0Mtsk0",
+        "https://bitcoin-suisse.jobbase.io/change_language?language=en&csrf_token=SexxtGFf8RGEZY0HALR6Otx-hsIF4Tuv40e8y0Mtsk0",
+        "https://bitcoin-suisse.jobbase.io/img/webapp/site.webmanifest?v=PYeMxJkqza",
+        "https://bitcoin-suisse.jobbase.io/imprint",
+        "https://bitcoin-suisse.jobbase.io/job/9hvb69yb?ref=cryptocurrencyjobs.co",
+        "https://bitcoin-suisse.jobbase.io/job/show/b2ejg0wanztyafgvvckn1fd45yffcus/full?lang=en&mode=candidate",
+        "https://bitcoin-suisse.jobbase.io/policy"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/bitcoin-suisse-developer/",
+    "DocumentType": "JobBoards",
+    "Title": "Developers (Copenhagen)",
+    "Hash": "A0390D0808F86C87B256075762DEE1A9",
+    "Url": "https://bitcoin-suisse.jobbase.io/job/9hvb69yb?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "jobbase",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Â Job list Â Language Â English Â German Â Sign up Â Login ImprintÂ |Â ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- jobbase"
+}

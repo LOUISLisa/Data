@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://mysinglesource.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmysinglesource.io%2Fcareers%2F",
+        "https://mysinglesource.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmysinglesource.io%2Fcareers%2F&format=xml"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/singlesource-full-stack-developer/",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Careers - My Single Source",
+    "Hash": "E3311E1DC923A85C68F5C1196B306C19",
+    "Url": "https://mysinglesource.io/careers/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-05",
+    "DomainId": "mysinglesource",
+    "Language": "Norwegian",
+    "TackIt": "false",
+    "Body": "Home eKYC About SingleSource Blog Menu Home eKYC About SingleSource Blog Careers Looking to get a step in the door in a fast paced, future focused tech start-up? Join us in making the world a better place using blockchain technology. Accordion #1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Accordion #2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Signup for our email list Email Subscribe Â© 2020 COPYRIGHT. ALL RIGHTS RESERVED. Facebook Twitter Telegram",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- mysinglesource"
+}

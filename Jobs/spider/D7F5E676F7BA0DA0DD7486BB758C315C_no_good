@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://www.google.com/url?q=https%3A%2F%2Fwww.builtinnyc.com%2Fjobs%2Fnew-york-city%2Fdata-analytics%2Fdata-engineering%2Fblockchain&sa=U&ved=2ahUKEwiU6aywhZ7qAhWjKH0KHc0PDTk4ChAWMAZ6BAgCEAE&usg=AOvVaw3hbLHgfrWzwx9G11kItpw5",
+    "DocumentType": "JobBoards",
+    "Title": "",
+    "Hash": "D7F5E676F7BA0DA0DD7486BB758C315C",
+    "Url": "https://www.builtinnyc.com/jobs/new-york-city/data-analytics/data-engineering/blockchain",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "builtinnyc",
+    "Language": "Norwegian",
+    "TackIt": "false",
+    "Body": "We're sorry but our site doesn't work properly without JavaScript enabled. Please enable it to continue. Loading...",
+    "Spidered": "FROM: google -- TO -- builtinnyc"
+}

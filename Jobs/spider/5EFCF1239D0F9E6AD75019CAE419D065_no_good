@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/design/pei-product-design-lead/",
+    "DocumentType": "JobBoards",
+    "Title": "Pei \u2013 Automatic cashback in Bitcoin or cash.",
+    "Hash": "5EFCF1239D0F9E6AD75019CAE419D065",
+    "Url": "https://getpei.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "getpei",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "You need to enable JavaScript to run this app.",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- getpei"
+}

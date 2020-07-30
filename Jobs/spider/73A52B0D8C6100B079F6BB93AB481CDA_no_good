@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://www.colendi.com/?ref=cryptocurrencyjobs.co",
+        "https://www.colendi.com/careers"
+    ],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/colendi-smart-contract-developer-senior-junior/",
+    "DocumentType": "JobBoards",
+    "Title": "Colendi",
+    "Hash": "73A52B0D8C6100B079F6BB93AB481CDA",
+    "Url": "https://www.colendi.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "colendi",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": "info@colendi.com Â© 2019 Colendi",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- colendi"
+}

@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://angel.co/checkbook-io/jobs",
+        "https://checkbook.io/?ref=cryptocurrencyjobs.co"
+    ],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/checkbook-lead-front-end-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "Send and Receive Digital Checks with ACH | Checkbook.io",
+    "Hash": "3DE637B40B95F92D56127DF1AE2378F1",
+    "Url": "https://checkbook.io/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "checkbook",
+    "Language": "French",
+    "TackIt": "false",
+    "Body": "Company Developer ProductsPricingSign upLoginContact Sales Say Goodbye to Paper Checks Simplest way to send and receive ACH. Business Name 1500 Fashion Island Blvd San Mateo, CA, 94085 Bank of Checkbook DATE:Â Â Â Jul 09, 2020 pay to the order of $ MEMO authorized signature Try Our Demo Get Started Why companies choose Checkbook Leading companies trust Checkbook to disburse payments at scale â¯ \"With Digital Checks we have instant delivery and overnight fulfillment resulting in huge cost and time savings.\" Dave Brydun Vice President, Consumer Lending at BCU ACH Payments RESTful API. No NACHA files. No Returns processing Real-time webhook notifications. Automatic reconciliation Instant Payments Push to Card OCT transactions with RESTful API VISA Direct and MasterCard Send enables 2B+ Debit Cards globally Check21 Payments Complete online clearing and settlement, no need for printing Checks Finality of settlement. Different chargeback rules than ACH or VISA/MC Invoices Send Invoices with \"Payment\" button embedded in them Recurring or one-time Invoicing enabled Marketplaces Create your own Marketplace for Payors and Receivers Completely white-labeled. Your own namespace Multi-party Payments Checks made to multiple payees, with a single API call Either party can endorse to the other with a single click Multiple ways to send Digital Checks Checkbook's RESTful API is the simple way to track payments, send check batches, onboard customers and more all from your own site or platform. CSV ExportAPIAccounting Integrations CSV Upload Need to send multiple checks? Simply upload a CSV file and hit send API Reference Starting at just $1.00 per digital check or invoice Volume discounts available â Real-time Check Tracking No Hidden Fees Billed Monthly Scalable Pricing No percentages. No hidden fees. Checkbook offers everything needed to disburse payments at scale. Get in touch with our sales team for details on volume discounts, integration assistance, and our dedicated support. Find Out More Ready to get started? Contact us or create an account Create Account Contact Sales Terms and conditions may apply. Currently available only within the US COMPANY About Us How it Works Pricing FAQ Compliance Security Careers RESOURCES Blog Press Case Studies Logos Privacy Terms of Service DEVELOPER Documentation Send Payments Receive Payments Add a Bank Account Create a Marketplace Connect with OAuth Sandbox Testing PRODUCTS Digital Checks Invoice Marketplace SOLUTIONS Banks Insurance Contractors Notaries Property Management Non-Profits CONTACT support@checkbook.io (650) 761-0008 San Mateo, CA CONNECT Facebook Linkedin Twitter",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- checkbook"
+}

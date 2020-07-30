@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/commonwealth-labs-full-stack-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "Commonwealth",
+    "Hash": "60A165AD0C1521E2D728284634D2446D",
+    "Url": "https://commonwealth.im/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "commonwealth",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- commonwealth"
+}

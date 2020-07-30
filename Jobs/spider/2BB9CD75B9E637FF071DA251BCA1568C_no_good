@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/customer-support/bitpanda-customer-support/",
+    "DocumentType": "JobBoards",
+    "Title": "",
+    "Hash": "2BB9CD75B9E637FF071DA251BCA1568C",
+    "Url": "https://www.bitpanda.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "bitpanda",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- bitpanda"
+}

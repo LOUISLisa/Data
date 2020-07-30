@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/maple-front-end-developer/",
+    "DocumentType": "JobBoards",
+    "Title": "Maple: DeFI Lending and Borrowing",
+    "Hash": "823ECA34A99F7C6FEDCA8686BDC7D15F",
+    "Url": "https://www.maple.loans/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "maple",
+    "Language": "Hungarian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- maple"
+}

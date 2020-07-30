@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": ["https://careers.fortmatic.com/"],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/fortmatic-software-engineer-security/",
+    "DocumentType": "JobBoards",
+    "Title": "Software Engineer (Security) at Fortmatic",
+    "Hash": "3C66F170D2B5369237555BC3D6C6FB55",
+    "Url": "https://careers.fortmatic.com/p/f39fdead4aa3-software-engineer-security?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-05",
+    "DomainId": "fortmatic",
+    "Language": "Romanian",
+    "TackIt": "false",
+    "Body": "Software Engineer (Security) at Fortmatic Fortmatic Position Closed Sorry, this position is no longer accepting candidates.",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- fortmatic"
+}

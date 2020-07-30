@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://libra.org/en-US/careers/",
+        "https://libra.org/en-US/job-board/"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/libra-association-technical-lead-site-reliability-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "Job Board",
+    "Hash": "A49D60ACEFB35F60876E012609900B26",
+    "Url": "https://libra.org/en-US/job-board/?gh_jid=4656466002%3Fgh_src%3Dcryptocurrencyjobs",
+    "CrawledDate": "2020-07-05",
+    "DomainId": "libra",
+    "Language": "French",
+    "TackIt": "false",
+    "Body": "Vision Association Developers Learn Media White Paper White Paper Vision Association Developers Learn Media White Paper Careers Â© 2020 Libra Association Powered by WordPress.com VIP Cookies Data Policy Terms of Use To help us provide relevant content, analyze our traffic, and provide a variety of features, we use cookies. By clicking on or navigating the site, you agree to allow us to collect information on and off the Libra Website through cookies. Learn more, including about available controls: Cookies Policy.",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- libra"
+}

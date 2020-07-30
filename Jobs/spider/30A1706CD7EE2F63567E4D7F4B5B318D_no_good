@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/coinfalcon-ruby-on-rails-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "CoinFalcon \u2013 Buy and Sell Bitcoin, Ethereum | Cryptocurrency Exchange",
+    "Hash": "30A1706CD7EE2F63567E4D7F4B5B318D",
+    "Url": "https://coinfalcon.com/en/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "coinfalcon",
+    "Language": "Romanian",
+    "TackIt": "false",
+    "Body": "You need to enable JavaScript to run this app.",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- coinfalcon"
+}

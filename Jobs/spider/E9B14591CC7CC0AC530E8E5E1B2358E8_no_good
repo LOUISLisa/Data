@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/foam-software-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "FOAM",
+    "Hash": "E9B14591CC7CC0AC530E8E5E1B2358E8",
+    "Url": "https://foam.space/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "foam",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": "ConcourseQ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- foam"
+}

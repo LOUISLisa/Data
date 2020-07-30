@@ -1,0 +1,20 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fb3i.bamboohr.com%2Fjobs%2Fview.php%3Fid%3D61&source=BambooHR&title=Business%20Analyst&summary",
+        "https://b3i.bamboohr.com/jobs",
+        "https://b3i.bamboohr.com/jobs/view.php?id=61&source=cryptocurrencyjobs"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/operations/b3i-business-analyst/",
+    "DocumentType": "JobBoards",
+    "Title": "BambooHR",
+    "Hash": "918A0DC167C354FB1422A369AA0E217C",
+    "Url": "https://b3i.bamboohr.com/jobs/view.php?id=61&source=cryptocurrencyjobs",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "bamboohr",
+    "Language": "Estonian",
+    "TackIt": "false",
+    "Body": "B3i Thank you for your interest. Unfortunately, we are not hiring at this time. Please check back as we will most certainly be looking for great people to join our team in the future. See Current Openings This site is protected by reCAPTCHA and the Google ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- bamboohr"
+}

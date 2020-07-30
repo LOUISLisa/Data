@@ -1,0 +1,26 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "https://z.cash/?ref=cryptocurrencyjobs.co",
+        "https://z.cash/es/?ref=cryptocurrencyjobs.co",
+        "https://z.cash/fr/?ref=cryptocurrencyjobs.co",
+        "https://z.cash/ja/?ref=cryptocurrencyjobs.co",
+        "https://z.cash/ko_KR/?ref=cryptocurrencyjobs.co",
+        "https://z.cash/pt/?ref=cryptocurrencyjobs.co",
+        "https://z.cash/ru/?ref=cryptocurrencyjobs.co",
+        "https://z.cash/zh/?ref=cryptocurrencyjobs.co"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/zcash-it-operations-engineer/",
+    "RequiredMatch": "zcash",
+    "DocumentType": "JobBoards",
+    "Title": "Privacy-protecting digital currency | Zcash",
+    "Hash": "13BB8C6A5580799AFB2D6650B6DD50BF",
+    "Url": "https://z.cash/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "z",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": "Home Get Started The Basics Exchanges Wallets Spend Zcash Zcash for Investors Technology How It Works Network Information Support News Buzz Electric Coin Co. Blog Zcash Foundation Blog Search Language English Ð ÑÑÑÐºÐ¸Ð¹ FranÃ§ais ä¸­æ PortuguÃªs íêµ­ì´ æ¥æ¬èª EspaÃ±ol Search Get a wallet Find an exchange Zcash is a privacy-protecting, digital currency built on strong science. Get started The future of money is digital, decentralized and private. Privacy within your control Shielded Zcash transactions are completely private. Like Bitcoin, Zcash transaction data is posted to a public blockchain; but unlike Bitcoin, Zcash ensures your personal and transaction data remain completely confidential. Zero-knowledge proofs allow transactions to be verified without revealing the sender, receiver or transaction amount. Selective disclosure features within Zcash allow a user to share some transaction details, for purposes of compliance or audit. Zcash also allows for transparent transactions, to accommodate for wallets and exchanges that don\u2019t support private transactions. How it works Built on rigorous science Zcash was developed and launched by top cryptographers in 2016. The underlying protocol is based on the research of scientists from MIT, Technion, Johns Hopkins, Tel Aviv University and UC Berkeley. Learn about zk-SNARKs Resources Download Zcash FAQ Documentation Zcash Media Kit Copyright Policy Compliance Trademark Policy Zcash Community Electric Coin Co. Zcash Foundation Zcash Community Forums Community Chat Â© 2020 ELECTRIC COIN COMPANY ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- z"
+}

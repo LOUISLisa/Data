@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/other/j-p-morgan-technical-blockchain-product-manager-vp/",
+    "DocumentType": "JobBoards",
+    "Title": "JPMC Candidate Experience page",
+    "Hash": "5A9DE70B41B519994378E167264BE7B5",
+    "Url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "oraclecloud",
+    "Language": "Estonian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- oraclecloud"
+}

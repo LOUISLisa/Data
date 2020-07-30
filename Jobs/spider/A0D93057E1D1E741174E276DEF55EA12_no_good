@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/prysmatic-labs-software-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "Prysmatic Labs",
+    "Hash": "A0D93057E1D1E741174E276DEF55EA12",
+    "Url": "https://prysmaticlabs.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "prysmaticlabs",
+    "Language": "Norwegian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- prysmaticlabs"
+}

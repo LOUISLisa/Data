@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/nash-backend-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "",
+    "Hash": "FC8614B36C48DBA23DDDF145C168EB2F",
+    "Url": "https://nash.io/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "nash",
+    "Language": "French",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- nash"
+}

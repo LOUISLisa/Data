@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://www.google.com/url?q=https%3A%2F%2Fwww.naukri.com%2Fblockchain-jobs&sa=U&ved=2ahUKEwjXn5WVhZ7qAhVDJjQIHXTiBTcQFjAAegQICBAB&usg=AOvVaw1zirhvNlDbUdsIO-C4fKcf",
+    "DocumentType": "JobBoards",
+    "Title": "",
+    "Hash": "5A6C2883A746AC0A2972366277A6B3B6",
+    "Url": "https://www.naukri.com/blockchain-jobs",
+    "CrawledDate": "2020-06-25",
+    "DomainId": "naukri",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: google -- TO -- naukri"
+}

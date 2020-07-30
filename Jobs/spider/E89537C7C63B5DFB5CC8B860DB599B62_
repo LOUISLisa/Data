@@ -1,0 +1,17 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": ["https://www.interlay.io/careers"],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/operations/interlay-vp-operations/",
+    "RequiredMatch": "decentralized",
+    "DocumentType": "JobBoards",
+    "Title": "Interlay \u2013 Home",
+    "Hash": "E89537C7C63B5DFB5CC8B860DB599B62",
+    "Url": "https://www.interlay.io/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "interlay",
+    "Language": "English",
+    "TackIt": "false",
+    "Body": "Toggle navigation Home Team Products Blog Press Careers Contact Decentralized Finance Made Interoperable. Use any asset on any blockchain platform. Fast. Secure. Trustless. \"Trustless cross-blockchain communication is impossible...\" We have proven this is as hard as some of the fundamental problems in computer science. \"... but we can prevent centralization, censorship, and financial damage to users.\" We are building XCLAIM, the first framework for financially trustless blockchain interoperability. Technical paper Light paper Become a PolkaBTC Validator, Vault, or Staked Relayer Buy & Sell non-custodial BTC options using DAI. Â© Interlay. All Rights Reserved | ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- interlay"
+}

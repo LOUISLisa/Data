@@ -1,0 +1,25 @@
+{
+    "Body": "Chainlink Features Solutions DeFi Network Overview Network Providers Blog Careers Events Docs Request a Chainlink Your smart contracts connected to real world data, events and payments. The Chainlink network provides reliable tamper-proof inputs and outputs for complex smart contracts on any blockchain. Chainlink Reference Data Connect to Any External API Easily connect smart contracts to the data sources and APIs they need to function. Send Payments Anywhere Send Payments from your contract to bank accounts and payment networks. Justin Moses CTO We really did our due diligence and looked around and we said well Chainlink is definitely the most established, and every time we dealt with them the level of expertise was incredible so I feel like we are in good hands. Daniel Wang CEO Working with Chainlink for v3\u2019s oracle requirements made perfect sense. More than anything, we appreciate the fact that they are equally unwilling as us to compromise on security guarantees - that\u2019s what stands out. Ed Felten Co-Founder, Princeton Professor, Fmr. White House Deputy CTO Chainlink stood out given its strong technical team advised by leading academic researchers, great track record of substantially solving the oracle problem and robust set of secure nodes/validators. Stani Kulechov CEO I think part of composability is that you don\u2019t have to build everything by yourself. Chainlink\u2019s oracle is very good, and it\u2019s part of this whole composability idea, it\u2019s vital. Brandon Iles CTO The oracle system is core to the Ampleforth protocol. Integrating and working with a trusted partner like Chainlink to ensure reliable data feeds will further decentralize the oracle system key to Ampleforth\u2019s future. Allen Day Science Advocate Ethereum Dapps (i.e. smart contract applications) request data from Chainlink, which in turn retrieves data from a web service built with Google App Engine and BigQuery. Avivah Litan VP Distinguished Analyst In sum Google\u2019s partnership with Chainlink enables Ethereum app builders using Google software to integrate data from and to sources outside the blockchain. Changpeng Zhao CEO Through the help of Binance data and Chainlink\u2019s network, we can help accelerate the growth of DeFi. John Wolpert Vice Chair We need experts laying down the standards for common-sense integration with enterprise systems of record. Chainlink has the experience of keeping different databases, run by different companies, in a state of consistency. Peter Czaban CTO Chainlink is building open standards and solutions for oracles and we are excited to align our roadmaps to make it easy to leverage oracles on the Polkadot network. Fran Strajnar Co-Founder and Chairman We\u2019re convinced of the importance of middleware solutions and it has been great to watch the Chainlink project evolve from initial concept to a fully executed and widely needed tool that infinitely expands the usefulness of smart contract blockchain platforms. Smart Contracts Require End-to-End Reliability Smart Contracts provide the ability to execute tamper-proof digital agreements, which are considered highly secure and highly reliable. In order to maintain a contract's overall reliability, the inputs and outputs that the contract relies on also need to be secure. Chainlinks provide a reliable connection to external data that is provably secure end-to-end. Learn More About Chainlink Stay updated on the latest news about what it takes to build complex externally aware smart contracts. Stay up to date We can be mailed at: Strathvale House, 90 North Church Street, George Town, KY1-1102, Grand Cayman, Cayman Islands Chainlink???????????? ???????????? 2020 SmartContract Chainlink Ltd SEZC Terms of Use ", 
+    "CompanyName": "Google", 
+    "ContentType": "text/html; charset=UTF-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "chain", 
+    "Hash": "A9D25F2948D1D69A171096039B24ED4B", 
+    "KeyTerms": "ethereum, blockchain platforms, smart contract, dapps, defi, middleware", 
+    "Language": "English", 
+    "Location": "Ampleforth", 
+    "OutLinks": [
+        "https://careers.smartcontract.com/", 
+        "https://chain.link/?ref=cryptocurrencyjobs.co"
+    ], 
+    "Parent": "https://cryptocurrencyjobs.co/engineering/chainlink-senior-software-engineer/", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "ethereum", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://cryptocurrencyjobs.co/", 
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- chain", 
+    "TackIt": "false", 
+    "Title": "Chainlink", 
+    "Url": "https://chain.link/?ref=cryptocurrencyjobs.co"
+}

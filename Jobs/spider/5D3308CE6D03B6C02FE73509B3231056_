@@ -1,0 +1,17 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": ["https://jobs.panteracapital.com/"],
+    "ContentType": "text/html;charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/other/pantera-capital-investment-associate/",
+    "RequiredMatch": "blockchain",
+    "DocumentType": "JobBoards",
+    "Title": "Pantera Capital - Blockchain Investment Fund",
+    "Hash": "5D3308CE6D03B6C02FE73509B3231056",
+    "Url": "https://www.panteracapital.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "panteracapital",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": "Welcome About Team Portfolio Content Conference Call Recordings Pantera Blockchain Letters Jobs Contact Subscribe Invest Welcome About Team Portfolio Content Conference Call Recordings Pantera Blockchain Letters Jobs Contact Subscribe Invest Pantera CapitalÂ is an investment firm focused exclusively on ventures, tokens,Â and projects related to blockchain tech, digital currency, and crypto assets. AVIATOR LONDON",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- panteracapital"
+}

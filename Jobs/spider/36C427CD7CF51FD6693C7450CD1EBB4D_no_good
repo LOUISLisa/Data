@@ -1,0 +1,19 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [
+        "http://theoan.humi.ca/job-board/product/1691",
+        "https://theoan.humi.ca/job-board"
+    ],
+    "ContentType": "text/html; charset=UTF-8",
+    "Parent": "https://cryptocurrencyjobs.co/design/aion-product-designer/",
+    "DocumentType": "JobBoards",
+    "Title": "",
+    "Hash": "36C427CD7CF51FD6693C7450CD1EBB4D",
+    "Url": "https://theoan.humi.ca/job-board/product/1691?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "humi",
+    "Language": "Lithuanian",
+    "TackIt": "false",
+    "Body": "The OAN Careers Job 1691 not found",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- humi"
+}

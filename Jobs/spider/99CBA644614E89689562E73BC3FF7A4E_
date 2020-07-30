@@ -1,0 +1,25 @@
+{
+    "Body": "About Careers Research About Careers Research Secure and successful blockchains start with Gauntlet The Blockchain Simulation Platform Learn more ???????????? Gauntlet is a simulation platform for building financial models of blockchain protocols and applications. This ensures they are resilient to attacks by bad actors and that honest participants are rewarded fairly. Learn more Trusted by Products Simulation Notebook Work directly with our experts to set up and run a series of simulations to identify ways to make your system more secure and encourage participation by good actors. Use our interactive analysis platform to test your protocol or smart contract and gain intuition on how design choices affect behavior. Continuous Incentive Testing We integrate the incentive models as tests in your build system, automatically detect changes that affect protocol mechanisms, and update parameters using live data from your mainnet. CASE STUDY Compound Finance The lending protocol Compound used Gauntlet to determine that they could safely scale the total borrowed value on their protocol by as much as 10x with a less-than-1% chance of going default Read More CASE STUDY Celo Celo used stress tests from Gauntlet to optimize parameters for their price oracle and ensure their stability mechanism would work under multiple adverse market conditions Read More CASE STUDY NuCypher Gauntlet worked with NuCypher to analyze and optimize their staking logic and protocol parametrization, focusing on their novel distribution mechanism, the \u2018worklock\u2019 Read More Recent News Gauntlet announces partnership with Stellar, Celo, and Compound Gauntlet has announced that it is partnering with Stellar, Celo, and Compound to help the teams behind the protocols \"design, launch, and scale new financial systems.\" Gauntlet provides stress-testing ... Read More on The Block Facebook\u2019s Libra Cryptocurrency - A Technical Breakdown For Business Leaders The company [Gauntlet] helps audit the libra blockchain code and ensures that the owners of Libra Investment Tokens (LIT) understand what they\u2019re voting for. Read More on Forbes Contact us Fill out the form below or feel free to email us at info@gauntlet.network Email Address * Name Message Get updates on new research and new product releases Copyright ???????????? 2020 Gauntlet Networks Inc", 
+    "CompanyName": "About", 
+    "ContentType": "text/html; charset=utf-8", 
+    "CrawledDate": "2020-07-12", 
+    "DocumentType": "JobBoards", 
+    "DomainId": "gauntlet", 
+    "Hash": "99CBA644614E89689562E73BC3FF7A4E", 
+    "KeyTerms": "staking, cryptocurrency, stellar, smart contract, financial, voting, protocols, mainnet", 
+    "Language": "English", 
+    "Location": "Gauntlet", 
+    "OutLinks": [
+        "https://gauntlet.network/?ref=cryptocurrencyjobs.co", 
+        "https://gauntlet.network/careers"
+    ], 
+    "Parent": "https://cryptocurrencyjobs.co/engineering/gauntlet-full-stack-engineer/", 
+    "PostedDate": "Not Found", 
+    "RequiredMatch": "blockchain", 
+    "Salary": "Not Found", 
+    "SeedUrl": "https://cryptocurrencyjobs.co/", 
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- gauntlet", 
+    "TackIt": "false", 
+    "Title": "Gauntlet", 
+    "Url": "https://gauntlet.network/?ref=cryptocurrencyjobs.co"
+}

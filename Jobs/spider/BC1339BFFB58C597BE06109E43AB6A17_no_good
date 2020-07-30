@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/customer-support/coincircle-customer-support-happiness/",
+    "DocumentType": "JobBoards",
+    "Title": "Coincircle",
+    "Hash": "BC1339BFFB58C597BE06109E43AB6A17",
+    "Url": "https://coincircle.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "coincircle",
+    "Language": "Italian",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- coincircle"
+}

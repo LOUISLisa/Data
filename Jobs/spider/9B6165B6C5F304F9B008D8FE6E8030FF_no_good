@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": ["https://makerdao.com/en/careers"],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/makerdao-devops-engineer/",
+    "DocumentType": "JobBoards",
+    "Title": "Maker - Careers",
+    "Hash": "9B6165B6C5F304F9B008D8FE6E8030FF",
+    "Url": "https://makerdao.com/en/careers/listing/?gh_jid=4676719002%3Fgh_src%3Dcryptocurrencyjobs",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "makerdao",
+    "Language": "French",
+    "TackIt": "false",
+    "Body": "Products Oasis Trade, Borrow, or Save with Dai Migrate Upgrade your DAI, MKR, and CDPs Ecosystem Explore apps using Dai Governance Vote on changes to the protocol Developers Documentation Dai.js Developer Guides Learn Whitepaper FAQs Foundation Team Careers Contact Community Blog Chat Forum Events Products Oasis Migrate Ecosystem Governance Developers Documentation Dai.js Developer Guides Learn Whitepaper FAQs Foundation Team Careers Contact Community Blog Chat Forum Events Back to Careers Loading... By using our site you agree to our Cookie Policy. Resources Whitepaper FAQs ",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- makerdao"
+}

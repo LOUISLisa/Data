@@ -1,0 +1,16 @@
+{
+    "SeedUrl": "https://cryptocurrencyjobs.co/",
+    "OutLinks": [],
+    "ContentType": "text/html; charset=utf-8",
+    "Parent": "https://cryptocurrencyjobs.co/engineering/makerdao-python-developer/",
+    "DocumentType": "JobBoards",
+    "Title": "Maker",
+    "Hash": "F40910A7649629CF8B62B29E94205344",
+    "Url": "https://makerdao.com/?ref=cryptocurrencyjobs.co",
+    "CrawledDate": "2020-07-12",
+    "DomainId": "makerdao",
+    "Language": "French",
+    "TackIt": "false",
+    "Body": "",
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- makerdao"
+}
