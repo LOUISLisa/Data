@@ -1,0 +1,96 @@
+Total Index Files in Path: 29
+Num Index Files Containing Key Terms: 29
+
+full time	25	86.21
+financial	12	41.38
+cryptocurrency	9	31.03
+artificial intelligence	8	27.59
+software engineer	8	27.59
+analytical	7	24.14
+remote	7	24.14
+agile	6	20.69
+algorithms	6	20.69
+banking	6	20.69
+collaboration	6	20.69
+compliance	6	20.69
+decentralized	6	20.69
+digital asset	6	20.69
+internet of things	6	20.69
+smart contract	6	20.69
+startup	6	20.69
+asset management	5	17.24
+blockchain research	5	17.24
+business development	5	17.24
+cloud	5	17.24
+java	5	17.24
+matlab	5	17.24
+aws	4	13.79
+big data	4	13.79
+bitcoin	4	13.79
+cryptocurrencies	4	13.79
+cryptography	4	13.79
+data structures	4	13.79
+distributed systems	4	13.79
+frameworks	4	13.79
+linux	4	13.79
+blockchain based	3	10.34
+cloud computing	3	10.34
+cloud services	3	10.34
+containers	3	10.34
+defi	3	10.34
+dlt	3	10.34
+emerging technologies	3	10.34
+enterprise software	3	10.34
+ethereum	3	10.34
+fabric	3	10.34
+hedge funds	3	10.34
+html	3	10.34
+hyperledger	3	10.34
+insurtech	3	10.34
+javascript	3	10.34
+stellar	3	10.34
+custodial	2	6.90
+disruptive	2	6.90
+docker	2	6.90
+functional program	2	6.90
+investment funds	2	6.90
+kubernetes	2	6.90
+quantum computing	2	6.90
+react	2	6.90
+rust	2	6.90
+typescript	2	6.90
+wallet	2	6.90
+anti money laundering	1	3.45
+augmented reality	1	3.45
+azure	1	3.45
+back end	1	3.45
+code review	1	3.45
+cyber	1	3.45
+design patterns	1	3.45
+devops	1	3.45
+distributed application	1	3.45
+etl	1	3.45
+exchanges	1	3.45
+front end	1	3.45
+functional test	1	3.45
+git	1	3.45
+github	1	3.45
+golang	1	3.45
+graphql	1	3.45
+health care	1	3.45
+jira	1	3.45
+kyc	1	3.45
+machine learning	1	3.45
+microservices	1	3.45
+mongodb	1	3.45
+nodejs	1	3.45
+nosql	1	3.45
+object oriented	1	3.45
+pharmaceutical	1	3.45
+proof of concept	1	3.45
+python	1	3.45
+ruby	1	3.45
+sdk	1	3.45
+sql	1	3.45
+unit and functional test	1	3.45
+visualization	1	3.45
