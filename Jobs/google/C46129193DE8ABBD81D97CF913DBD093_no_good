@@ -11,5 +11,9 @@
     "DomainId": "google",
     "Language": "UNKNOWN",
     "TackIt": "false",
-    "Body": "<\/head> Google Maps Search on Google Maps https://www.google.com/images/branding/product/ico/maps15_bnuw3a_16dp.ico"
+    "Body": "</head> Google Maps Search on Google Maps https://www.google.com/images/branding/product/ico/maps15_bnuw3a_16dp.ico",
+    "Location": "Not Found",
+    "CompanyName": "Google",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

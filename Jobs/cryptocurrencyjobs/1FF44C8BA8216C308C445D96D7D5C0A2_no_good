@@ -11,5 +11,9 @@
     "DomainId": "cryptocurrencyjobs",
     "Language": "UNKNOWN",
     "TackIt": "false",
-    "Body": "<\/head> Cryptocurrency Jobs Search Cryptocurrency Jobs"
+    "Body": "</head> Cryptocurrency Jobs Search Cryptocurrency Jobs",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

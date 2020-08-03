@@ -11,5 +11,9 @@
     "DomainId": "google",
     "Language": "Hungarian",
     "TackIt": "false",
-    "Body": ""
+    "Body": "",
+    "Location": "Not Found",
+    "CompanyName": "Google",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
-    "OutLinks": ["https://careers.google.com/jobs/dist/img/meta/safari-pinned-tab.svg%22%20color%3D%22%235bbad5"],
+    "OutLinks": [
+        "https://careers.google.com/jobs/dist/img/meta/safari-pinned-tab.svg%22%20color%3D%22%235bbad5"
+    ],
     "ContentType": "text/html; charset=utf-8",
     "Parent": "https://www.google.com/search?ie=UTF-8&q=google%2Bblockchain%2Bjobs&sa=X&ved=2ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQ1QJ6BAgAEAQ",
     "DocumentType": "JobBoards",
@@ -11,5 +13,9 @@
     "DomainId": "google",
     "Language": "Romanian",
     "TackIt": "false",
-    "Body": ""
+    "Body": "",
+    "Location": "Not Found",
+    "CompanyName": "Google",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

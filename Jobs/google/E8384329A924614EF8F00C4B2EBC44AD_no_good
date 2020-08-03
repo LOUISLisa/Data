@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://www.google.com/search?q=blockchain+jobs",
-    "OutLinks": ["https://www.google.com/maps/preview/opensearch.xml?hl=en"],
+    "OutLinks": [
+        "https://www.google.com/maps/preview/opensearch.xml?hl=en"
+    ],
     "ContentType": "text/html; charset=UTF-8",
     "Parent": "https://www.google.com/search?ie=UTF-8&q=blockchain%2Bcontract%2Bjobs&sa=X&ved=2ahUKEwjMhpWShZ7qAhXFaN4KHbxMA0cQ1QJ6BAgAEAg",
     "DocumentType": "JobBoards",
@@ -11,5 +13,9 @@
     "DomainId": "google",
     "Language": "Hungarian",
     "TackIt": "false",
-    "Body": "When you have eliminated the JavaScript, whatever remains must be an empty page. Enable JavaScript to see Google Maps."
+    "Body": "When you have eliminated the JavaScript, whatever remains must be an empty page. Enable JavaScript to see Google Maps.",
+    "Location": "Not Found",
+    "CompanyName": "Google",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

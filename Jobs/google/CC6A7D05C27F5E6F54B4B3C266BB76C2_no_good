@@ -11,5 +11,9 @@
     "DomainId": "google",
     "Language": "UNKNOWN",
     "TackIt": "false",
-    "Body": "<\/head>"
+    "Body": "</head>",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }
