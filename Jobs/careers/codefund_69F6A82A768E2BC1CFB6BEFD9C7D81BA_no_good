@@ -10,5 +10,9 @@
     "Hash": "69F6A82A768E2BC1CFB6BEFD9C7D81BA",
     "TackIt": "true",
     "Body": "Page Not Found Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. Go Home",
-    "Url": "https://codefund.app/jobs"
+    "Url": "https://codefund.app/jobs",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

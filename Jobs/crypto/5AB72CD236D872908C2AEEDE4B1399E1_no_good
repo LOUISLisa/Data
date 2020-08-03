@@ -69,5 +69,9 @@
     "DomainId": "crypto",
     "Language": "English",
     "TackIt": "false",
-    "Body": " Find out more on company website below: "
+    "Body": " Find out more on company website below: ",
+    "Location": "Not Found",
+    "CompanyName": "Blockfolio",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

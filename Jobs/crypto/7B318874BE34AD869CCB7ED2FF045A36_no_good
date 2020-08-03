@@ -69,5 +69,9 @@
     "DomainId": "crypto",
     "Language": "English",
     "TackIt": "false",
-    "Body": " We are looking for a linux system administrator to manage our server infrastructure. Responsibilities - Create and manage KVM virtual machines (libvirt) - Setup & Tune new ubuntu/centos servers for performance and high availability - Develop test automation frameworks in collaboration with rest of the team - Create tools to help teams make the most out of the available infrastructure Additional Notes: - Experience with Linux servers in virtualized environments - Familiarity with the fundamentals of Linux scripting languages - Experience installing, configuring, and maintaining services such as Bind, Apache, MySQL, nginx, etc. - Familiarity with load balancing, firewalls, etc. - Proficient with network tools such as iptables, Linux IPVS, HAProxy, etc. - Experience with virtualization technologies, such as KVM - Ability to build and monitor services on production servers Skills apache, nginx, git, linux, shell Compensation Negotiable "
+    "Body": " We are looking for a linux system administrator to manage our server infrastructure. Responsibilities - Create and manage KVM virtual machines (libvirt) - Setup & Tune new ubuntu/centos servers for performance and high availability - Develop test automation frameworks in collaboration with rest of the team - Create tools to help teams make the most out of the available infrastructure Additional Notes: - Experience with Linux servers in virtualized environments - Familiarity with the fundamentals of Linux scripting languages - Experience installing, configuring, and maintaining services such as Bind, Apache, MySQL, nginx, etc. - Familiarity with load balancing, firewalls, etc. - Proficient with network tools such as iptables, Linux IPVS, HAProxy, etc. - Experience with virtualization technologies, such as KVM - Ability to build and monitor services on production servers Skills apache, nginx, git, linux, shell Compensation Negotiable ",
+    "Location": "Not Found",
+    "CompanyName": "Grovsta",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

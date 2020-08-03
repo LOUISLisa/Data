@@ -13,5 +13,9 @@
     "Hash": "5563A4346879ADDD40E0E95ECD005BD3",
     "TackIt": "true",
     "Body": "Employee Sign-in Enter your @omise.co address below and we\u2019ll send you an email with a magic link to sign-in with. @omise.co Send me a sign-in email %FOOTER_POWERED_BY%breezy",
-    "Url": "https://omise.breezy.hr/team/signin"
+    "Url": "https://omise.breezy.hr/team/signin",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

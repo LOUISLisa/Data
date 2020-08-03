@@ -20,5 +20,9 @@
     "DomainId": "greenhouse",
     "Language": "UNKNOWN",
     "TackIt": "true",
-    "Body": "Developer Resources Harvest API Programmatically access your jobs, candidates, interviews, and other data from Greenhouse. Job Board API Build careers pages with a unique look and feel, construct department-level pages and more! Web Hooks Be notified when particular events happen on Greenhouse. Onboarding API Programmatically access your employee information from Greenhouse Onboarding. Ingestion API Enables sourcing partners to submit prospects and candidates to Greenhouse. Assessment API Enables assessment platforms to seamlessly integrate with Greenhouse. Engineering Blog We're Hiring! View on GitHub"
+    "Body": "Developer Resources Harvest API Programmatically access your jobs, candidates, interviews, and other data from Greenhouse. Job Board API Build careers pages with a unique look and feel, construct department-level pages and more! Web Hooks Be notified when particular events happen on Greenhouse. Onboarding API Programmatically access your employee information from Greenhouse Onboarding. Ingestion API Enables sourcing partners to submit prospects and candidates to Greenhouse. Assessment API Enables assessment platforms to seamlessly integrate with Greenhouse. Engineering Blog We're Hiring! View on GitHub",
+    "Location": "Not Found",
+    "CompanyName": "Greenhouse",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

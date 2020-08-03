@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://www.dice.com/jobs/q-blockchain-jobs",
-    "OutLinks": ["https://www.dice.com/jobs/detail/Solution-Architect-%28Corporate-role%29-Sparksoft-Columbia-MD-21044/10197954/COR1002"],
+    "OutLinks": [
+        "https://www.dice.com/jobs/detail/Solution-Architect-%28Corporate-role%29-Sparksoft-Columbia-MD-21044/10197954/COR1002"
+    ],
     "ContentType": "text/html;charset=UTF-8",
     "Parent": "https://www.dice.com/jobs/q-blockchain-jobs",
     "DocumentType": "JobBoards",
@@ -11,5 +13,9 @@
     "DomainId": "dice",
     "Language": "English",
     "TackIt": "true",
-    "Body": " Solution Architect (Corporate role) Sparksoft, Columbia, MD 15 hours ago Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Reported Report a poor listing "
+    "Body": " Solution Architect (Corporate role) Sparksoft, Columbia, MD 15 hours ago Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Reported Report a poor listing ",
+    "Location": "Columbia, Maryland, United States",
+    "CompanyName": "- Sparksoft - Columbia, MD | Dice.com",
+    "Salary": "Not Found",
+    "PostedDate": "15 hours ago"
 }

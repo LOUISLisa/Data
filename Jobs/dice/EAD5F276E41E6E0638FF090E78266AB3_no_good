@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://www.dice.com/jobs/q-blockchain-jobs",
-    "OutLinks": ["https://www.dice.com/jobs/detail/VMware-Admin-Qstride-Palo-Alto-CA-94301/10503860/6575636"],
+    "OutLinks": [
+        "https://www.dice.com/jobs/detail/VMware-Admin-Qstride-Palo-Alto-CA-94301/10503860/6575636"
+    ],
     "ContentType": "text/html;charset=UTF-8",
     "Parent": "https://www.dice.com/jobs/q-blockchain-jobs",
     "DocumentType": "JobBoards",
@@ -11,5 +13,9 @@
     "DomainId": "dice",
     "Language": "English",
     "TackIt": "true",
-    "Body": " VMware Admin Qstride, Palo Alto, CA 1 week ago Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Reported Report a poor listing "
+    "Body": " VMware Admin Qstride, Palo Alto, CA 1 week ago Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Reported Report a poor listing ",
+    "Location": "Palo Alto, California, United States",
+    "CompanyName": "Qstride - Palo Alto, CA | Dice.com",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

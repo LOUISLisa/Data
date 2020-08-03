@@ -17,5 +17,9 @@
     "Hash": "6F768D5AF8385B37EDBEEAC2AD99D7EF",
     "TackIt": "true",
     "Body": "Demo login Email * Password * Request Access",
-    "Url": "https://dapp.spl.yt/"
+    "Url": "https://dapp.spl.yt/",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

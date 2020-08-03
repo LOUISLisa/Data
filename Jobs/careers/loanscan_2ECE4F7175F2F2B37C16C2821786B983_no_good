@@ -2,12 +2,18 @@
     "CrawledDate": "2020-07-28",
     "SeedUrl": "https://loanscan.io/",
     "DomainId": "loanscan",
-    "OutLinks": ["https://loanscan.io/opensearch.xml"],
+    "OutLinks": [
+        "https://loanscan.io/opensearch.xml"
+    ],
     "ContentType": "text/html",
     "DocumentType": "Careers",
     "Title": "LoanScan: Compare High Interest Accounts",
     "Hash": "2ECE4F7175F2F2B37C16C2821786B983",
     "TackIt": "true",
     "Body": "You need to enable JavaScript to run this app.",
-    "Url": "https://loanscan.io/"
+    "Url": "https://loanscan.io/",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

@@ -2,7 +2,9 @@
     "CrawledDate": "2020-07-28",
     "SeedUrl": "https://support.substack.com/hc/en-us?s=support%2Bjobsonchain%40substack.com",
     "DomainId": "substack",
-    "OutLinks": ["https://support.substack.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.substack.com%2Fhc%2Fen-us%2Fsignin%3Freturn_to%3Dhttps%253A%252F%252Fsupport.substack.com%252Fhc%252Fen-us%252Fsignin%253Freturn_to%253Dhttps%25253A%25252F%25252Fsupport.substack.com%25252Fhc%25252Fen-us%25253Fs%25253Dsupport%2525252Bjobsonchain%25252540substack.com%2526locale%253Den-us%26locale%3Den-us&locale=en-us"],
+    "OutLinks": [
+        "https://support.substack.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.substack.com%2Fhc%2Fen-us%2Fsignin%3Freturn_to%3Dhttps%253A%252F%252Fsupport.substack.com%252Fhc%252Fen-us%252Fsignin%253Freturn_to%253Dhttps%25253A%25252F%25252Fsupport.substack.com%25252Fhc%25252Fen-us%25253Fs%25253Dsupport%2525252Bjobsonchain%25252540substack.com%2526locale%253Den-us%26locale%3Den-us&locale=en-us"
+    ],
     "ContentType": "text/html; charset=utf-8",
     "Parent": "https://support.substack.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.substack.com%2Fhc%2Fen-us%3Fs%3Dsupport%252Bjobsonchain%2540substack.com&locale=en-us",
     "DocumentType": "Careers",
@@ -10,5 +12,9 @@
     "Hash": "1849735B1852F915FEB61BD17FE13CD4",
     "TackIt": "true",
     "Body": "Sign in Writers If you're writing on Substack, get help with all your publishing, payments, and people questions here. Readers If you're reading on Substack, get help with your account, payments, and subscriptions here. General Questions about Substack for the generally curious. Looking for advice on how to make the most of Substack? Check out our writer resources. Is Substack down or are you having a service issue? Check out our status page. Can't find what you're looking for? Contact support@substack.com. Substack, Inc",
-    "Url": "https://support.substack.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.substack.com%2Fhc%2Fen-us%2Fsignin%3Freturn_to%3Dhttps%253A%252F%252Fsupport.substack.com%252Fhc%252Fen-us%253Fs%253Dsupport%25252Bjobsonchain%252540substack.com%26locale%3Den-us&locale=en-us"
+    "Url": "https://support.substack.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.substack.com%2Fhc%2Fen-us%2Fsignin%3Freturn_to%3Dhttps%253A%252F%252Fsupport.substack.com%252Fhc%252Fen-us%253Fs%253Dsupport%25252Bjobsonchain%252540substack.com%26locale%3Den-us&locale=en-us",
+    "Location": "Substack",
+    "CompanyName": "Inc",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

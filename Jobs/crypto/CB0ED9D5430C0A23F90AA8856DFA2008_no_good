@@ -68,5 +68,9 @@
     "DomainId": "crypto",
     "Language": "English",
     "TackIt": "false",
-    "Body": " See the project www.toastycoin.com (source at https://github.com/coinop-logan/coinop-logan.github.io). I have upgraded the Burnable Payment contract to support an additional Open state, where the worker is set and is waiting for a payer to commit. I need an experienced web3 fronted developer to 1. Add support for this additional \"worker-opened\" state, and 2. Overhaul the visual and UX design to a more intuitive interface (I'll provide mockups for the new design). Clean, well-documented code is a must, so please include examples with source of web3 frontend development you've worked on before. If I'm satisfied with the work, there will be more projects directly after this one. Skills Solidity, Javascript, web3 Compensation $100/hr Applications for this job are currently closed. "
+    "Body": " See the project www.toastycoin.com (source at https://github.com/coinop-logan/coinop-logan.github.io). I have upgraded the Burnable Payment contract to support an additional Open state, where the worker is set and is waiting for a payer to commit. I need an experienced web3 fronted developer to 1. Add support for this additional \"worker-opened\" state, and 2. Overhaul the visual and UX design to a more intuitive interface (I'll provide mockups for the new design). Clean, well-documented code is a must, so please include examples with source of web3 frontend development you've worked on before. If I'm satisfied with the work, there will be more projects directly after this one. Skills Solidity, Javascript, web3 Compensation $100/hr Applications for this job are currently closed. ",
+    "Location": "Not Found",
+    "CompanyName": "Coinop Logan",
+    "Salary": "3 Compensation $100/",
+    "PostedDate": "Not Found"
 }

@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://www.dice.com/jobs/q-blockchain-jobs",
-    "OutLinks": ["https://www.dice.com/jobs/detail/Senior-Software-Engineer%2C-Filecoin-PriceSenz---/91095322/6556744"],
+    "OutLinks": [
+        "https://www.dice.com/jobs/detail/Senior-Software-Engineer%2C-Filecoin-PriceSenz---/91095322/6556744"
+    ],
     "ContentType": "text/html;charset=UTF-8",
     "Parent": "https://www.dice.com/jobs/q-blockchain-jobs",
     "DocumentType": "JobBoards",
@@ -11,5 +13,9 @@
     "DomainId": "dice",
     "Language": "English",
     "TackIt": "true",
-    "Body": " Senior Software Engineer, Filecoin PriceSenz, Remote 3 weeks ago Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Reported Report a poor listing "
+    "Body": " Senior Software Engineer, Filecoin PriceSenz, Remote 3 weeks ago Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Reported Report a poor listing ",
+    "Location": "Remote",
+    "CompanyName": "PriceSenz - | Dice.com",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

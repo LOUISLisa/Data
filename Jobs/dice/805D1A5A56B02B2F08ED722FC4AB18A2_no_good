@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://www.dice.com/jobs/q-cryptocurrency-jobs",
-    "OutLinks": ["https://www.dice.com/jobs/detail/Senior-PHP-Developer-Jobot-Venice-FL-34284/91113390/126773512"],
+    "OutLinks": [
+        "https://www.dice.com/jobs/detail/Senior-PHP-Developer-Jobot-Venice-FL-34284/91113390/126773512"
+    ],
     "ContentType": "text/html;charset=UTF-8",
     "Parent": "https://www.dice.com/jobs/q-cryptocurrency-jobs",
     "DocumentType": "JobBoards",
@@ -11,5 +13,9 @@
     "DomainId": "dice",
     "Language": "English",
     "TackIt": "true",
-    "Body": " Senior PHP Developer Jobot, Venice, FL 22 hours ago Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Reported Report a poor listing "
+    "Body": " Senior PHP Developer Jobot, Venice, FL 22 hours ago Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Reported Report a poor listing ",
+    "Location": "Venice, Florida, United States",
+    "CompanyName": "Jobot - Venice, FL | Dice.com",
+    "Salary": "Not Found",
+    "PostedDate": "22 hours ago"
 }

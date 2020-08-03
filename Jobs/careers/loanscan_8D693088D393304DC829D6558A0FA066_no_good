@@ -10,5 +10,9 @@
     "Hash": "8D693088D393304DC829D6558A0FA066",
     "TackIt": "true",
     "Body": "Loanscan Use Loanscan to search the loans. loan dharma makerdao compound cdp contact@loanscan.io",
-    "Url": "https://loanscan.io/opensearch.xml"
+    "Url": "https://loanscan.io/opensearch.xml",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

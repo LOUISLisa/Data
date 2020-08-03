@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://www.dice.com/jobs/q-blockchain-jobs",
-    "OutLinks": ["https://www.dice.com/jobs/detail/Network-Operations-Engineer-%26%2345-REMOTE-Applied-Resource-Group---/10447354A/6592372"],
+    "OutLinks": [
+        "https://www.dice.com/jobs/detail/Network-Operations-Engineer-%26%2345-REMOTE-Applied-Resource-Group---/10447354A/6592372"
+    ],
     "ContentType": "text/html;charset=UTF-8",
     "Parent": "https://www.dice.com/jobs/q-blockchain-jobs",
     "DocumentType": "JobBoards",
@@ -11,5 +13,9 @@
     "DomainId": "dice",
     "Language": "English",
     "TackIt": "true",
-    "Body": " Network Operations Engineer - REMOTE Applied Resource Group, Remote 6 days ago Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Reported Report a poor listing "
+    "Body": " Network Operations Engineer - REMOTE Applied Resource Group, Remote 6 days ago Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Apply Now Create Alert Save Toggle Dropdown Email Create Alert Save Toggle Dropdown Email Reported Report a poor listing ",
+    "Location": "Remote",
+    "CompanyName": "REMOTE - Applied Resource Group - | Dice.com",
+    "Salary": "Not Found",
+    "PostedDate": "6 days ago"
 }

@@ -2,7 +2,9 @@
     "CrawledDate": "2020-07-28",
     "SeedUrl": "https://www.smartrecruiters.com/Square/743999697689349",
     "DomainId": "smartrecruiters",
-    "OutLinks": ["https://my.smartrecruiters.com/public/manifest"],
+    "OutLinks": [
+        "https://my.smartrecruiters.com/public/manifest"
+    ],
     "ContentType": "text/html; charset=utf-8",
     "Parent": "https://www.smartrecruiters.com/?utm_source=referral&utm_medium=jobadpage&utm_campaign=jobad&utm_content=none&km_partner=none&km_adgroup=none&utm_term=none&km_matchtype=none",
     "DocumentType": "Careers",
@@ -10,5 +12,9 @@
     "Hash": "36D0AAB76C31A51EE5AFBDA3E07D5F14",
     "TackIt": "true",
     "Body": "Please enable JavaScript to be able to use all the features of SmartRecruitersCandidate Portal",
-    "Url": "https://my.smartrecruiters.com/public/sign-in?lang=en&utm_source=website_top_nav"
+    "Url": "https://my.smartrecruiters.com/public/sign-in?lang=en&utm_source=website_top_nav",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

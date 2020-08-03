@@ -14,5 +14,9 @@
     "Hash": "E43DB5C84B487629091FCB8B47374C63",
     "TackIt": "true",
     "Body": "Please enter valid e-mail! Your password must be at least 6 characters long Password cannot contain whitespace Keep me logged in Forgot your password? Applied to a job via SmartRecruiters?Log in here Want a new company account?Sign Up",
-    "Url": "https://www.smartrecruiters.com/account/sign-in"
+    "Url": "https://www.smartrecruiters.com/account/sign-in",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }
