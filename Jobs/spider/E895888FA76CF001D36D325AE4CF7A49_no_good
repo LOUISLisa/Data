@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://cryptocurrencyjobs.co/",
-    "OutLinks": ["https://poloniex.careers/"],
+    "OutLinks": [
+        "https://poloniex.careers/"
+    ],
     "ContentType": "text/html",
     "Parent": "https://cryptocurrencyjobs.co/engineering/poloniex-devops-engineer/",
     "DocumentType": "JobBoards",
@@ -12,5 +14,9 @@
     "Language": "Polish",
     "TackIt": "false",
     "Body": "poloniex Careers Home Poloniex Home | Careers Home",
-    "Spidered": "FROM: cryptocurrencyjobs -- TO -- poloniex"
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- poloniex",
+    "Location": "Not Found",
+    "CompanyName": "Crypto Asset Exchange",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

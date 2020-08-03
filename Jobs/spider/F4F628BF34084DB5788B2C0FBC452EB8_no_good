@@ -11,6 +11,10 @@
     "DomainId": "gstatic",
     "Language": "UNKNOWN",
     "TackIt": "false",
-    "Body": "<\/head>",
-    "Spidered": "FROM: google -- TO -- gstatic"
+    "Body": "</head>",
+    "Spidered": "FROM: google -- TO -- gstatic",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

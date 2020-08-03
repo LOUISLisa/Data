@@ -12,5 +12,9 @@
     "Language": "UNKNOWN",
     "TackIt": "false",
     "Body": "You need to enable JavaScript to run this app.",
-    "Spidered": "FROM: cryptocurrencyjobs -- TO -- glassnode"
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- glassnode",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

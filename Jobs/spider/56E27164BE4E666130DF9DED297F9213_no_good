@@ -12,5 +12,9 @@
     "Language": "Norwegian",
     "TackIt": "false",
     "Body": "We're sorry but our site doesn't work properly without JavaScript enabled. Please enable it to continue. Loading...",
-    "Spidered": "FROM: google -- TO -- builtinboston"
+    "Spidered": "FROM: google -- TO -- builtinboston",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

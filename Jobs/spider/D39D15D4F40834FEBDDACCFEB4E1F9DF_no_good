@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://cryptocurrencyjobs.co/",
-    "OutLinks": ["https://www.deversifi.com/open_positions/site.webmanifest"],
+    "OutLinks": [
+        "https://www.deversifi.com/open_positions/site.webmanifest"
+    ],
     "ContentType": "text/html",
     "Parent": "https://cryptocurrencyjobs.co/engineering/deversifi-senior-back-end-developer/",
     "DocumentType": "JobBoards",
@@ -12,5 +14,9 @@
     "Language": "Lithuanian",
     "TackIt": "false",
     "Body": "You need to enable JavaScript to run this app.",
-    "Spidered": "FROM: cryptocurrencyjobs -- TO -- deversifi"
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- deversifi",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

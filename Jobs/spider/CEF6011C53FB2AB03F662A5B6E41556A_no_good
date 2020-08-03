@@ -12,5 +12,9 @@
     "Language": "Hungarian",
     "TackIt": "false",
     "Body": "You need to enable JavaScript to run this app.",
-    "Spidered": "FROM: cryptocurrencyjobs -- TO -- messari"
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- messari",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

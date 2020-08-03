@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://cryptocurrencyjobs.co/",
-    "OutLinks": ["https://www.founders.as/jobs"],
+    "OutLinks": [
+        "https://www.founders.as/jobs"
+    ],
     "ContentType": "text/html",
     "Parent": "https://cryptocurrencyjobs.co/engineering/founders-hacker-in-residence-blockchain-ethereum/",
     "DocumentType": "JobBoards",
@@ -12,5 +14,9 @@
     "Language": "Romanian",
     "TackIt": "false",
     "Body": "CompaniesBlogAboutNewsletterJoin us We are a startup studio. We partner with incredible entrepreneurs to build the next big thing from scratch. Kontist The first banking app exclusively for freelancers. Son of a Tailor The world\u2019s first online t-shirt tailor. LifeX Your landing pad in a new city. Pleo A simple spending solution for your company. Meet our companies> Stay in the loop with quarterly[ish] newsletters sharing milestones from across the family Contact ",
-    "Spidered": "FROM: cryptocurrencyjobs -- TO -- founders"
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- founders",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

@@ -12,5 +12,9 @@
     "Language": "Romanian",
     "TackIt": "false",
     "Body": "%HEADER_COMPANY_WEBSITE% Position Closed Sorry, this position is no longer accepting candidates. %FOOTER_POWERED_BY%breezy",
-    "Spidered": "FROM: cryptocurrencyjobs -- TO -- breezy"
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- breezy",
+    "Location": "Not Found",
+    "CompanyName": "goTenna",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://cryptocurrencyjobs.co/",
-    "OutLinks": ["https://withfoundation.com/careers"],
+    "OutLinks": [
+        "https://withfoundation.com/careers"
+    ],
     "ContentType": "text/html; charset=UTF-8",
     "Parent": "https://cryptocurrencyjobs.co/engineering/foundation-senior-software-engineer/",
     "DocumentType": "JobBoards",
@@ -12,5 +14,9 @@
     "Language": "Norwegian",
     "TackIt": "false",
     "Body": "CreatorsBuyersCareersBlogHelp Log In This is culture\u2019s stock exchange. The power of the stock market belongs to big business. Foundation claims that power and reinvents it for independent artists, designers, and brands. Latest Drop Signe Pierce Buy, sell, and trade limited-edition goods. Live on Foundation Signe Pierce @signe Signe Pierce is a multimedia artist whose work straddles performance, photography, video, theory, social media, light design and installation. Art Neue Goods @neuegoods High quality goods for designers, creatives, and anyone with their eye on the internet. Fashion Dropping Soon Coming soon Design Dan Barkle Dan Barkle Coming soonArt Addie Wagenknecht Addie Wagenknecht Coming soonMusic Poolside FM Poolside FM Coming soonMusic Salt Cathedral Salt Cathedral Creators Foundation is for experimental creators. The artists, designers, and brands who want to build the future of culture on the internet. Learn More Buyers Foundation is for culture fiends. People who curate everything. People who always know first.Learn More Thank you for subscribing! We\u2019ll keep you updated. Sign up for upcoming drops. Terms of Service",
-    "Spidered": "FROM: cryptocurrencyjobs -- TO -- withfoundation"
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- withfoundation",
+    "Location": "Buy, RU",
+    "CompanyName": "Art",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

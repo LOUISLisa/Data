@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://cryptocurrencyjobs.co/",
-    "OutLinks": ["https://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a7883d0684a9984016852da2c5d20e5&specialization&source=cryptocurrencyjobs&lang=en"],
+    "OutLinks": [
+        "https://newton.newtonsoftware.com/career/CareerHome.action?clientId=8a7883d0684a9984016852da2c5d20e5&specialization&source=cryptocurrencyjobs&lang=en"
+    ],
     "ContentType": "text/html;charset=UTF-8",
     "Parent": "https://cryptocurrencyjobs.co/engineering/algorand-intern-cryptography/",
     "DocumentType": "JobBoards",
@@ -12,5 +14,9 @@
     "Language": "Estonian",
     "TackIt": "false",
     "Body": "Sorry, this job is no longer active. You can view our main careers page by clicking here poweredbypaycor",
-    "Spidered": "FROM: cryptocurrencyjobs -- TO -- newtonsoftware"
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- newtonsoftware",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

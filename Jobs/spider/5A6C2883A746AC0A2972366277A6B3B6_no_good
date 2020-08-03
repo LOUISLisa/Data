@@ -12,5 +12,9 @@
     "Language": "Lithuanian",
     "TackIt": "false",
     "Body": "",
-    "Spidered": "FROM: google -- TO -- naukri"
+    "Spidered": "FROM: google -- TO -- naukri",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

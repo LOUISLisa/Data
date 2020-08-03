@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://cryptocurrencyjobs.co/",
-    "OutLinks": ["https://www.weeve.network/?ref=cryptocurrencyjobs.co"],
+    "OutLinks": [
+        "https://www.weeve.network/?ref=cryptocurrencyjobs.co"
+    ],
     "ContentType": "text/html",
     "Parent": "https://cryptocurrencyjobs.co/other/weeve-blockchain-cryptoeconmics-research-intern/",
     "DocumentType": "JobBoards",
@@ -12,5 +14,9 @@
     "Language": "English",
     "TackIt": "false",
     "Body": "Hello there, this website uses cookies. To find out more about the cookies we use, see our ",
-    "Spidered": "FROM: cryptocurrencyjobs -- TO -- weeve"
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- weeve",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

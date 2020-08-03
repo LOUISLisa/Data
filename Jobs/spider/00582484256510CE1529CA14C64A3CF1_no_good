@@ -26,5 +26,9 @@
     "Language": "English",
     "TackIt": "false",
     "Body": "Home Videos ",
-    "Spidered": "FROM: cryptocurrencyjobs -- TO -- jobsoid"
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- jobsoid",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

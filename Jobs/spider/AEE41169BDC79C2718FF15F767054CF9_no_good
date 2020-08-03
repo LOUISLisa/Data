@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://cryptocurrencyjobs.co/",
-    "OutLinks": ["https://fortmatic.com/?ref=cryptocurrencyjobs.co"],
+    "OutLinks": [
+        "https://fortmatic.com/?ref=cryptocurrencyjobs.co"
+    ],
     "ContentType": "text/html",
     "Parent": "https://cryptocurrencyjobs.co/engineering/fortmatic-blockchain-engineer/",
     "DocumentType": "JobBoards",
@@ -12,5 +14,9 @@
     "Language": "Lithuanian",
     "TackIt": "false",
     "Body": "",
-    "Spidered": "FROM: cryptocurrencyjobs -- TO -- fortmatic"
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- fortmatic",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

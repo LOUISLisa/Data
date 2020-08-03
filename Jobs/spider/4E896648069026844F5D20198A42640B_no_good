@@ -1,6 +1,8 @@
 {
     "SeedUrl": "https://cryptocurrencyjobs.co/",
-    "OutLinks": ["https://jobs.lever.co/ledger/026161ce-2777-41c9-9cad-9462e28e9307/apply"],
+    "OutLinks": [
+        "https://jobs.lever.co/ledger/026161ce-2777-41c9-9cad-9462e28e9307/apply"
+    ],
     "ContentType": "text/html; charset=utf-8",
     "Parent": "https://cryptocurrencyjobs.co/marketing/ledger-customer-sales-resellers-internship/",
     "DocumentType": "JobBoards",
@@ -12,5 +14,9 @@
     "Language": "English",
     "TackIt": "false",
     "Body": "Customer Sales / Resellers Internship Paris, France / Marketing \u2013 E-Commerce / Internship Apply for this job As part of its strong growth, Ledger, a technology leader in digital assets and crypto-security solutions is looking for its Channel Marketing Intern for at least 6 months. Within the Consumer Sales Team, you will be in charge of analyzing and executing the revenue driven strategy of Ledger for 2 channels: Amazon & Resellers. Missions Amazon Analyze and optimize PPC campaigns performance on Amazon seller account in 8+ marketplaces (Americas, Europe, Asia) Assist in executing strategies to lead our enhanced brand content, A+ content and brand storefront rollouts Maximize Ledger\u2019s visibility using Amazon specific tools and bring recommendations for improving the product catalog Follow market news and key actors to be able to react to their campaign strategies and increase our digital presence Monitor and maintain inventory levels of all products Coordinate Amazon review program to improve products rating Collaborate with Logistic, Product, Marketing and Customer Support teams Resellers Work closely with the Channel Marketing Specialist to animate Ledger\u2019s resellers community Create email templates and set up promotional campaigns Perform analysis on partners\u2019 sales and make recommendations to help them develop sales Review resellers' business performance and share data Requirements Enrolled in a Business School / Engineering School / University Strong analytical skills with capacity to present data in a compelling manner Excellent organizational and ability to multitask Excellent written and verbal communication skills Willingness to develop skills in Marketing and Sales Fluent in English and advanced level in French Willingness to learn in a strong innovative market Apply for this job Jobs powered by",
-    "Spidered": "FROM: cryptocurrencyjobs -- TO -- lever"
+    "Spidered": "FROM: cryptocurrencyjobs -- TO -- lever",
+    "Location": "Paris, United States",
+    "CompanyName": "Amazon",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

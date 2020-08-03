@@ -11,6 +11,10 @@
     "DomainId": "googleusercontent",
     "Language": "UNKNOWN",
     "TackIt": "false",
-    "Body": "<\/head>",
-    "Spidered": "FROM: google -- TO -- googleusercontent"
+    "Body": "</head>",
+    "Spidered": "FROM: google -- TO -- googleusercontent",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }
