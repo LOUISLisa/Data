@@ -11,5 +11,9 @@
     "DomainId": "simplyhired",
     "Language": "UNKNOWN",
     "TackIt": "true",
-    "Body": "<\/head>"
+    "Body": "</head>",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }

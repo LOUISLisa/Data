@@ -11,5 +11,9 @@
     "DomainId": "simplyhired",
     "Language": "Lithuanian",
     "TackIt": "true",
-    "Body": ""
+    "Body": "",
+    "Location": "Not Found",
+    "CompanyName": "Not Found",
+    "Salary": "Not Found",
+    "PostedDate": "Not Found"
 }
