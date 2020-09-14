@@ -11,6 +11,8 @@ Sept 13:
 
   -- The format of the final answer should be 
      YYYY-MM-DD  --> 4 digit Year, 2 digit Month, 2 digit Day
+     So, dates that are concrete but not in this format should be converted:
+     13 Mar 2020 --> 2020-03-13
                  
 
 FileName                          , PostedDate
